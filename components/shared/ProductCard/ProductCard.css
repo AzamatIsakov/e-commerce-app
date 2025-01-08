@@ -1,0 +1,93 @@
+.list-item__thumbnail {
+  flex-shrink: 0;
+  /* width: 200px; */
+  height: 320px;
+}
+
+.list-item__thumbnail__container {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.list-item__thumbnail__brazzers {
+  position: relative;
+  bottom: auto;
+  height: 320px;
+}
+
+.brazzers {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: flex;
+}
+
+.brazzers__page {
+  position: static;
+  display: flex;
+  align-items: flex-end;
+  flex: 1;
+  height: 100%;
+}
+
+.brazzers:not(:hover) .brazzers__page:first-child .brazzers__image-wrapper,
+.brazzers__page:hover .brazzers__image-wrapper {
+  z-index: -4;
+  opacity: 1;
+}
+
+.brazzers__page .brazzers__image-wrapper {
+  opacity: 0;
+}
+
+.brazzers__image-wrapper {
+  z-index: -2;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+}
+
+.brazzers__image,
+.brazzers__image-wrapper {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: auto;
+  border: 0;
+}
+
+.brazzers:not(:hover) .brazzers__button {
+  opacity: 0;
+}
+
+.brazzers__button {
+  position: relative;
+  z-index: 4;
+  bottom: 0;
+  flex: 1;
+  min-height: 7px; /* другая ширина? */
+  opacity: 1;
+  transition: opacity 0.3s;
+}
+
+.brazzers__button:after {
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  bottom: 2px;
+  left: 1px;
+  height: 3px;
+  content: '';
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.7);
+  transition: background-color 0.3s;
+}
+
+.brazzers__page:hover .brazzers__button:after {
+  background-color: red; /* TODO: brand color */
+  border-radius: 2px;
+}

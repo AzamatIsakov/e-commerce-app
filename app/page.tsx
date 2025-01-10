@@ -1,9 +1,11 @@
 import { ProductCard } from '@/shared';
 
-import data from '@/data/huseholdAappliances/5/transformedData.json';
+import axios from 'axios';
 
-export default function Home() {
-  const products = data.items;
+export default async function Home() {
+  const response = await axios.get(`${process.env.MAIN_URL}/api/products`);
+
+  const products = response.data.products.items;
 
   return (
     <div className='container'>

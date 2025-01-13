@@ -1,61 +1,18 @@
-import { ProductCard } from '@/shared';
+const Home = async () => {
+  // TODO: Здесь писать код для "подтягивания" товаров | "подтягивание" должно быть через "сервисы" (классовые или функциональные)
 
-import axios from 'axios';
+  // TODO: Путь для запроса: /api/products или фулл путь
 
-export default async function Home() {
-  const response = await axios.get(`${process.env.MAIN_URL}/api/products`);
-
-  const products = response.data.products.items;
+  // TODO: Обязательно должна быть типизация (DTO)
 
   return (
     <div className='container'>
-      <h1 className='text-center text-4xl font-semibold my-5'>Shad-cn</h1>
-      <div className='grid grid-cols-5 gap-5'>
-        {products.map((product) => (
-          <ProductCard
-            key={product.title}
-            photos={product.photos}
-            price={product.price}
-            title={product.title}
-          />
-        ))}
-      </div>
+      <h1 className='text-center text-4xl font-semibold my-5'>
+        Бытовая техника
+      </h1>
+      {/* // TODO: Здесь должен быть вызов компонента товаров */}
     </div>
   );
-}
+};
 
-{
-  /* <div className="list-item__thumbnail">
-  <div className="list-item__thumbnail__container">
-    <div className="list-item__thumbnail__brazzers">
-      <div className="brazzers">
-        <div className="brazzers__page">
-          <div className="brazzers__image-wrapper">
-            <div>
-              <img className="brazzers__image" src="//placehold.it/320x240?text=sample+text">
-            </div>
-          </div>
-          <div className=" brazzers__button"></div>
-        </div>
-        <div className="brazzers__page ">
-          <div className="brazzers__image-wrapper ">
-            <div>
-              <img className="brazzers__image " src="//via.placeholder.com/320x240/ff00ff/f0f0f0">
-            </div>
-          </div>
-          <div className="brazzers__button"></div>
-        </div>
-
-        <div className="brazzers__page ">
-          <div className="brazzers__image-wrapper ">
-            <div>
-              <img className="brazzers__image " src="//via.placeholder.com/320x240/000000/f0f0f0">
-            </div>
-          </div>
-          <div className="brazzers__button"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div> */
-}
+export default Home;

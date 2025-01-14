@@ -1,27 +1,18 @@
-import { ProductCard } from '@/shared';
+import { Products } from '@/shared'
 
-import axios from 'axios';
+import axios from 'axios'
 
 export default async function Home() {
-  const response = await axios.get(`${process.env.MAIN_URL}/api/products`);
+  const response = await axios.get(`${process.env.MAIN_URL}/api/products`)
 
-  const products = response.data.products.items;
+  const products = response.data.products.items
 
   return (
-    <div className='container'>
-      <h1 className='text-center text-4xl font-semibold my-5'>Shad-cn</h1>
-      <div className='grid grid-cols-5 gap-5'>
-        {products.map((product) => (
-          <ProductCard
-            key={product.title}
-            photos={product.photos}
-            price={product.price}
-            title={product.title}
-          />
-        ))}
-      </div>
+    <div className="container">
+      <h1 className="text-center text-4xl font-semibold my-5">Shad-cn</h1>
+      <Products />
     </div>
-  );
+  )
 }
 
 {

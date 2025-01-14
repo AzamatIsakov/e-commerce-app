@@ -1,11 +1,12 @@
 import { Products } from '@/shared'
 
-import axios from 'axios'
+// import axios from 'axios'
 
-export default async function Home() {
-  const response = await axios.get(`${process.env.MAIN_URL}/api/products`)
+const Home = async () => {
+  // const response = await axios.get(`${process.env.MAIN_URL}/api/products`)
 
-  const products = response.data.products.items
+  // const products = response.data.products.items
+  console.log('Main page')
 
   return (
     <div className="container">
@@ -50,3 +51,5 @@ export default async function Home() {
   </div>
 </div> */
 }
+
+export default Home

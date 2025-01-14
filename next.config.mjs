@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: ['images.uzum.uz'],
-  },
-};
+    domains: ['images.uzum.uz']
+  }
+}
 
-export default nextConfig;
+export default nextConfig

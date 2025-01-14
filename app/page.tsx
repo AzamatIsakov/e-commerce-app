@@ -1,4 +1,6 @@
+import { ProductsSkeleton } from '@/components/shared/Skeleton'
 import { Products } from '@/shared'
+import { Suspense } from 'react'
 
 // import axios from 'axios'
 
@@ -10,8 +12,10 @@ const Home = async () => {
 
   return (
     <div className="container">
-      <h1 className="text-center text-4xl font-semibold my-5">Shad-cn</h1>
-      <Products />
+      <h1 className="my-5 text-center text-4xl font-semibold">Shad-cn</h1>
+      <Suspense fallback={<ProductsSkeleton />}>
+        <Products />
+      </Suspense>
     </div>
   )
 }

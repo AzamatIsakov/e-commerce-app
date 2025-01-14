@@ -9,5 +9,5 @@ export async function GET() {
   if (!products || products.length === 0)
     return NextResponse.json({ error: 'Products not found' }, { status: 404 })
 
-  return NextResponse.json({ products })
+  return NextResponse.json({ items: products.items })
 }

@@ -1,7 +1,7 @@
 .list-item__thumbnail {
   flex-shrink: 0;
   /* width: 200px; */
-  height: 320px;
+  /* height: 320px; */
 }
 
 .list-item__thumbnail__container {
@@ -23,6 +23,7 @@
   bottom: 0;
   left: 0;
   display: flex;
+  border-radius: 8px;
 }
 
 .brazzers__page {
@@ -69,9 +70,18 @@
   z-index: 4;
   bottom: 0;
   flex: 1;
-  min-height: 7px; /* другая ширина? */
+  min-height: 8px; /* другая ширина? */
   opacity: 1;
+  flex-shrink: 0;
   transition: opacity 0.3s;
+}
+
+.brazzers__page:first-child .brazzers__button {
+  margin-left: 5px;
+}
+
+.brazzers__page:last-child .brazzers__button {
+  margin-right: 5px;
 }
 
 .brazzers__button:after {

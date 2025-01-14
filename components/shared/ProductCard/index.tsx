@@ -7,6 +7,11 @@ import {
 } from '@/components/ui/card'
 import Image from 'next/image'
 import { ProductCardProps } from './index.interface'
+import {
+  HoverCard,
+  HoverCardContent,
+  HoverCardTrigger
+} from '@/components/ui/hover-card'
 
 export const ProductCard = ({ photos, title, price }: ProductCardProps) => (
   <Card>
@@ -15,19 +20,23 @@ export const ProductCard = ({ photos, title, price }: ProductCardProps) => (
         <div className="list-item__thumbnail__container">
           <div className="list-item__thumbnail__brazzers">
             <div className="brazzers">
-              {photos.map((photo) => (
+              {photos.map((photo, index) => (
                 <div key={photo.id} className="brazzers__page">
                   <div className="brazzers__image-wrapper">
                     <div className="relative h-80">
                       <Image
+                        priority={index < 10}
+                        loading={index < 10 ? 'eager' : 'lazy'}
+                        placeholder="blur"
+                        blurDataURL="/placeholder-image.webp"
                         src={photo.link}
                         fill
                         alt={title}
-                        className="brazzers__image object-contain"
+                        className="brazzers__image overflow-hidden rounded-lg object-contain"
                       />
                     </div>
                   </div>
-                  <div className=" brazzers__button"></div>
+                  <div className="brazzers__button"></div>
                 </div>
               ))}
             </div>
@@ -36,7 +45,14 @@ export const ProductCard = ({ photos, title, price }: ProductCardProps) => (
       </div>
     </CardHeader>
     <CardContent>
-      <CardTitle>{title}</CardTitle>
+      <HoverCard>
+        <HoverCardTrigger>
+          <CardTitle className="mt-0 overflow-hidden text-ellipsis whitespace-nowrap rounded-md border p-2">
+            {title}
+          </CardTitle>
+        </HoverCardTrigger>
+        <HoverCardContent className="font-medium">{title}</HoverCardContent>
+      </HoverCard>
     </CardContent>
     <CardFooter>{price.min} сум</CardFooter>
   </Card>

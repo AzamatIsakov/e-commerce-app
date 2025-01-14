@@ -8,7 +8,7 @@ export interface IPhoto {
   link: string
 }
 
-export interface ProductDTO {
+export interface IProduct {
   id: number
   title: string
   price: IPrice
@@ -16,4 +16,8 @@ export interface ProductDTO {
   rating: number
   photos: IPhoto[]
   discountInfo: string // '-56%'
+}
+
+export interface ProductDTO {
+  items: IProduct[]
 }

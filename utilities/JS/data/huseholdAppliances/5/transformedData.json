@@ -31,7 +31,10 @@
           "link": "https://images.uzum.uz/cr5c5olbnta1ogm741vg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": null
+      "discount": null,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 319641,
@@ -72,7 +75,10 @@
           "link": "https://images.uzum.uz/cfqd42fg49devoa8pum0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-61%"
+      "discount": -61,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1947536,
@@ -105,7 +111,10 @@
           "link": "https://images.uzum.uz/cqoj2fkqvsse8leune3g/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-72%"
+      "discount": -72,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2098131,
@@ -146,7 +155,10 @@
           "link": "https://images.uzum.uz/crjvaos3t0q1s5n3qbfg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-47%"
+      "discount": -47,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2442779,
@@ -187,7 +199,10 @@
           "link": "https://images.uzum.uz/ctjfm6ei4n368aacsqc0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-52%"
+      "discount": -52,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2325031,
@@ -204,7 +219,10 @@
           "link": "https://images.uzum.uz/ct1j9u3vgbkpg1no42q0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-70%"
+      "discount": -70,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2405205,
@@ -241,7 +259,10 @@
           "link": "https://images.uzum.uz/ct8nilfiub3d1eokgn7g/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-37%"
+      "discount": -37,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 844770,
@@ -282,7 +303,10 @@
           "link": "https://images.uzum.uz/cmf3lfjifoubkc6nib5g/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-50%"
+      "discount": -50,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2264818,
@@ -323,7 +347,10 @@
           "link": "https://images.uzum.uz/ctjoc9tht56qpot80gqg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-50%"
+      "discount": -50,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2201757,
@@ -364,7 +391,10 @@
           "link": "https://images.uzum.uz/csb6qldpq3ghb2qk7ikg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-35%"
+      "discount": -35,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1409628,
@@ -405,7 +435,10 @@
           "link": "https://images.uzum.uz/cn4v6rbifoubkc6rjdvg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-73%"
+      "discount": -73,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2016917,
@@ -434,7 +467,10 @@
           "link": "https://images.uzum.uz/cr29ld7iraat934q6uqg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-57%"
+      "discount": -57,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1743007,
@@ -467,7 +503,10 @@
           "link": "https://images.uzum.uz/cpgpd5rmdtjnp738j460/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-40%"
+      "discount": -40,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1182250,
@@ -488,7 +527,10 @@
           "link": "https://images.uzum.uz/cofmn9smlbffilat29mg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-21%"
+      "discount": -21,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1426810,
@@ -529,7 +571,10 @@
           "link": "https://images.uzum.uz/cp5j82nj2e4ghqns4q90/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-69%"
+      "discount": -69,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2469717,
@@ -554,7 +599,10 @@
           "link": "https://images.uzum.uz/ctj7idui4n368aacoedg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-92%"
+      "discount": -92,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1378905,
@@ -595,7 +643,10 @@
           "link": "https://images.uzum.uz/csfjk0j4nkdhfdv72fn0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-62%"
+      "discount": -62,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1918538,
@@ -636,7 +687,10 @@
           "link": "https://images.uzum.uz/crvane4sslojjk5r36ig/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-61%"
+      "discount": -61,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2066238,
@@ -677,7 +731,10 @@
           "link": "https://images.uzum.uz/crpatichug2lhico8vm0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-68%"
+      "discount": -68,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1959182,
@@ -714,7 +771,10 @@
           "link": "https://images.uzum.uz/cqn3044sslomdvnjcm2g/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-69%"
+      "discount": -69,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2219420,
@@ -735,7 +795,10 @@
           "link": "https://images.uzum.uz/csb4g2r4nkdhfdv5rh1g/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-37%"
+      "discount": -37,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2488509,
@@ -776,7 +839,10 @@
           "link": "https://images.uzum.uz/ctm5804opsf31vcs5n70/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-5%"
+      "discount": -5,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2197120,
@@ -809,7 +875,10 @@
           "link": "https://images.uzum.uz/csbm5134nkdhfdv5vvu0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-80%"
+      "discount": -80,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2175839,
@@ -842,7 +911,10 @@
           "link": "https://images.uzum.uz/cs33vcssslojjk5s04ug/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-40%"
+      "discount": -40,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2238044,
@@ -883,7 +955,10 @@
           "link": "https://images.uzum.uz/cse8ncbvgbkl7nolr5qg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": null
+      "discount": null,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2342880,
@@ -916,7 +991,10 @@
           "link": "https://images.uzum.uz/ct2lkntpq3ggq63fcteg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-50%"
+      "discount": -50,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2145068,
@@ -957,7 +1035,10 @@
           "link": "https://images.uzum.uz/cs1objri153t30uol4s0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-38%"
+      "discount": -38,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1897468,
@@ -994,7 +1075,10 @@
           "link": "https://images.uzum.uz/cqa3g44qvss6ad8i4lhg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-80%"
+      "discount": -80,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2448680,
@@ -1027,7 +1111,10 @@
           "link": "https://images.uzum.uz/ctetur45j42dmkoitb90/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-58%"
+      "discount": -58,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2339958,
@@ -1068,7 +1155,10 @@
           "link": "https://images.uzum.uz/csvl1n3vgbkpg1nnjbc0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-76%"
+      "discount": -76,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2197121,
@@ -1097,7 +1187,10 @@
           "link": "https://images.uzum.uz/cs71ftf3oo8lt8rrhk30/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-84%"
+      "discount": -84,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1873907,
@@ -1138,7 +1231,10 @@
           "link": "https://images.uzum.uz/ctcpoeviub3d1eolnr70/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-60%"
+      "discount": -60,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2484927,
@@ -1167,7 +1263,10 @@
           "link": "https://images.uzum.uz/ctlqehtht56qpot8j7cg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-47%"
+      "discount": -47,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1785806,
@@ -1196,7 +1295,10 @@
           "link": "https://images.uzum.uz/cplbqtb6eisq2rkbvk2g/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-43%"
+      "discount": -43,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1641437,
@@ -1237,7 +1339,10 @@
           "link": "https://images.uzum.uz/crcns960t1lqb8aq8ipg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-84%"
+      "discount": -84,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1988417,
@@ -1266,7 +1371,10 @@
           "link": "https://images.uzum.uz/cqsro9niraatfg8bclqg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-34%"
+      "discount": -34,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2308887,
@@ -1291,7 +1399,10 @@
           "link": "https://images.uzum.uz/csq5ghjvgbkpg1nm01b0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-32%"
+      "discount": -32,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1864215,
@@ -1332,7 +1443,10 @@
           "link": "https://images.uzum.uz/cq3acrb6eisq2rkelq40/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-29%"
+      "discount": -29,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1580765,
@@ -1357,7 +1471,10 @@
           "link": "https://images.uzum.uz/co66j8tlqsilsr3m6aeg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-56%"
+      "discount": -56,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2382662,
@@ -1378,7 +1495,10 @@
           "link": "https://images.uzum.uz/ctasg4mi4n3ehka2vqi0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-48%"
+      "discount": -48,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1943131,
@@ -1419,7 +1539,10 @@
           "link": "https://images.uzum.uz/cqs7u9ffrr8a72r82st0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-77%"
+      "discount": -77,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2340364,
@@ -1444,7 +1567,10 @@
           "link": "https://images.uzum.uz/csv4015pq3ggq63eeq70/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-70%"
+      "discount": -70,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2297810,
@@ -1485,7 +1611,10 @@
           "link": "https://images.uzum.uz/cso5uotpq3ggq63ce950/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-59%"
+      "discount": -59,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2148875,
@@ -1510,7 +1639,10 @@
           "link": "https://images.uzum.uz/crtt4eksslojjk5qn320/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-53%"
+      "discount": -53,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2386899,
@@ -1551,7 +1683,10 @@
           "link": "https://images.uzum.uz/ct61lmc5j42b32f4k8c0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-18%"
+      "discount": -18,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 1976679,
@@ -1580,7 +1715,10 @@
           "link": "https://images.uzum.uz/cqqehvvfrr8a72r7n0e0/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-71%"
+      "discount": -71,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2352624,
@@ -1605,7 +1743,10 @@
           "link": "https://images.uzum.uz/ct684mdpq3gujfcgeasg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-89%"
+      "discount": -89,
+      "tags": [],
+      "stock": 0,
+      "features": []
     },
     {
       "id": 2355154,
@@ -1646,7 +1787,10 @@
           "link": "https://images.uzum.uz/ct2vlmc5j42b32f3mksg/t_product_540_high.jpg"
         }
       ],
-      "discountInfo": "-54%"
+      "discount": -54,
+      "tags": [],
+      "stock": 0,
+      "features": []
     }
   ]
 }

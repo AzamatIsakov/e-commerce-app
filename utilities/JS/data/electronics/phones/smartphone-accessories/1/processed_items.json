@@ -28,11 +28,7 @@
         }
       ],
       "discount": -85,
-      "categories": [
-        "electronics",
-        "phones",
-        "smartphone-accessories"
-      ],
+      "categories": ["electronics", "phones", "smartphone-accessories"],
       "description": "Это зарядное устройство с кабелем поддерживает мощность до 120 Вт, обеспечивая сверхбыструю зарядку для устройств с разъёмом Type-C. Совместимо с большинством смартфонов на Android. Высококачественный кабель и защита от перегрева гарантируют безопасность и долговечность.",
       "tags": [],
       "stock": 0,
@@ -67,11 +63,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "smartphone-accessories"
-      ],
+      "categories": ["electronics", "phones", "smartphone-accessories"],
       "description": "SIM-карта Uztelecom предлагает качественную связь и доступ к высокоскоростному мобильному интернету. Отличный выбор для работы, учебы и путешествий. Вы сможете оставаться на связи в любом уголке страны благодаря широкой зоне покрытия.",
       "tags": [],
       "stock": 0,
@@ -110,11 +102,7 @@
         }
       ],
       "discount": -76,
-      "categories": [
-        "electronics",
-        "phones",
-        "smartphone-accessories"
-      ],
+      "categories": ["electronics", "phones", "smartphone-accessories"],
       "description": "Эта универсальная липучка-держатель идеально подходит для фиксации вашего смартфона на любой гладкой поверхности. Надёжные присоски обеспечивают устойчивость, а компактный размер делает её удобной для переноски. Подходит для использования дома, в офисе или в автомобиле.",
       "tags": [],
       "stock": 0,
@@ -145,11 +133,7 @@
         }
       ],
       "discount": -77,
-      "categories": [
-        "electronics",
-        "phones",
-        "smartphone-accessories"
-      ],
+      "categories": ["electronics", "phones", "smartphone-accessories"],
       "description": "Зарядное устройство Mi мощностью 67 Вт обеспечивает быструю и безопасную зарядку ваших устройств. Компактный дизайн, совместимость с различными гаджетами и встроенная защита от перегрева делают его незаменимым аксессуаром для современного пользователя.",
       "tags": [],
       "stock": 0,
@@ -192,11 +176,7 @@
         }
       ],
       "discount": -92,
-      "categories": [
-        "electronics",
-        "phones",
-        "smartphone-accessories"
-      ],
+      "categories": ["electronics", "phones", "smartphone-accessories"],
       "description": "Сверхмощное зарядное устройство Mi с поддержкой 120 Вт и кабелем Type-C обеспечивает быструю зарядку ваших устройств. Сила тока 5A гарантирует эффективность и минимальное время ожидания. Идеально подходит для смартфонов Xiaomi и других гаджетов с Type-C разъемом.",
       "tags": [],
       "stock": 0,

@@ -43,6 +43,44 @@ const generateFeatures = async (title, description) => {
   }
 }
 
+const generateVariation = async (title, description, price, features) => {
+  try {
+    const prompt = `Сгенерируй массив из 3-10 объектов, каждый из которых представляет собой вариацию товара "${title}". Каждая вариация должна иметь уникальный идентификатор, случайную цену около ${price}, случайное количество на складе и набор опций, представленных массивом объектов. Структура объекта должна быть следующей:
+    {
+      "id": "uuid",
+      "price": 12345,
+      "stock": 500,
+      "options": [
+        {
+          "name": "Название опции (на русском)",
+          "value": "Значение опции (на английском)"
+        },
+        ...
+      ]
+    }
+    Пример товара: ${description}.
+    Общие характеристики товара для тебя как тоже входные данные: ${JSON.stringify(features)}
+    Дай мне готовый результат в виде JSON без лишних сообщений.
+    `
+
+    const result = await model.generateContent(prompt)
+    const response = await result.response
+    const text = await response.text() // Добавляем await, чтобы получить результат
+
+    const startSliced = text.slice(8)
+    const endSliced = startSliced.slice(0, startSliced.length - 4)
+
+    const total = JSON.parse(endSliced)
+
+    return total
+  } catch (e) {
+    console.log()
+    console.log('Ошибка:', e)
+    console.log()
+    return []
+  }
+}
+
 // Функция для паузы
 const delay = (ms) => {
   return new Promise((resolve) => setTimeout(resolve, ms))
@@ -100,36 +138,86 @@ const updateJSONWithFeatures = async (readFilePath, writeFilePath) => {
   }
 }
 
+const updateJSONWithVariations = async (readFilePath, writeFilePath) => {
+  try {
+    // Читаем файл
+    const data = await fs.readFile(readFilePath, 'utf-8') // Используем fs/promises
+    const { items } = JSON.parse(data)
+
+    // Обрабатываем каждый элемент
+    for (const item of items) {
+      console.log(`Генерация характеристик для ${item.title}`)
+
+      // Генерация описания
+      item.variations = await generateVariation(
+        item.title,
+        item.description,
+        item.price.min,
+        item.features
+      )
+
+      // Пауза перед следующим запросом (например, 1 секунда)
+      await delay(2000)
+    }
+
+    // Записываем результат
+    await fs.writeFile(writeFilePath, JSON.stringify({ items }, null, 2))
+    console.log('JSON-файл успешно обновлен!')
+  } catch (error) {
+    console.error('Ошибка:', error)
+  }
+}
+
 // await updateJSONWithDescriptions(
 //   './data/electronics/phones/smartphone-accessories/3/transformedData.json',
 //   './data/electronics/phones/smartphone-accessories/3/newTransformedData.json'
 // )
 
-await updateJSONWithFeatures(
-  './data/electronics/phones/smartphone-accessories/2/newTransformedData.json',
-  './data/electronics/phones/smartphone-accessories/2/transformedData.json'
+// await updateJSONWithFeatures(
+//   './data/electronics/phones/smartphone-accessories/2/newTransformedData.json',
+//   './data/electronics/phones/smartphone-accessories/2/transformedData.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+await updateJSONWithVariations(
+  './data/electronics/phones/smartphone-accessories/2/transformedData.json',
+  './data/electronics/phones/smartphone-accessories/2/data.json'
 )
 
+console.log(`
+`)
 console.log('Пауза <||>')
 await delay(10000)
+console.log(`
+`)
 
-await updateJSONWithFeatures(
-  './data/electronics/phones/smartphone-accessories/3/newTransformedData.json',
-  './data/electronics/phones/smartphone-accessories/3/transformedData.json'
+await updateJSONWithVariations(
+  './data/electronics/phones/smartphone-accessories/3/transformedData.json',
+  './data/electronics/phones/smartphone-accessories/3/data.json'
 )
 
+console.log(`
+`)
 console.log('Пауза <||>')
 await delay(10000)
+console.log(`
+`)
 
-await updateJSONWithFeatures(
-  './data/electronics/phones/smartphone-accessories/4/newTransformedData.json',
-  './data/electronics/phones/smartphone-accessories/4/transformedData.json'
+await updateJSONWithVariations(
+  './data/electronics/phones/smartphone-accessories/4/transformedData.json',
+  './data/electronics/phones/smartphone-accessories/4/data.json'
 )
 
+console.log(`
+`)
 console.log('Пауза <||>')
 await delay(10000)
+console.log(`
+`)
 
-await updateJSONWithFeatures(
-  './data/electronics/phones/smartphone-accessories/5/newTransformedData.json',
-  './data/electronics/phones/smartphone-accessories/5/transformedData.json'
+await updateJSONWithVariations(
+  './data/electronics/phones/smartphone-accessories/5/transformedData.json',
+  './data/electronics/phones/smartphone-accessories/5/data.json'
 )

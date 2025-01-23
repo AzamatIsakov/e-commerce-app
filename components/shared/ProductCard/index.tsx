@@ -20,13 +20,12 @@ export const ProductCard = ({ photos, title, price }: ProductCardProps) => (
         <div className="list-item__thumbnail__container">
           <div className="list-item__thumbnail__brazzers">
             <div className="brazzers">
-              {photos.map((photo, index) => (
+              {photos.map((photo) => (
                 <div key={photo.id} className="brazzers__page">
                   <div className="brazzers__image-wrapper">
                     <div className="relative h-80">
                       <Image
-                        priority={index < 10}
-                        loading={index < 10 ? 'eager' : 'lazy'}
+                        loading="lazy"
                         placeholder="blur"
                         blurDataURL="/placeholder-image.webp"
                         src={photo.link}

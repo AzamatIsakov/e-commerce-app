@@ -13,7 +13,10 @@ export const Products = () => {
     isError,
     error,
     isSuccess
-  } = useQuery({ queryKey: ['products'], queryFn: getAllProducts })
+  } = useQuery({
+    queryKey: ['products'],
+    queryFn: getAllProducts
+  })
 
   if (isLoading) return <ProductsSkeleton />
 

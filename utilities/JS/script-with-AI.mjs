@@ -101,7 +101,7 @@ const updateJSONWithDescriptions = async (readFilePath, writeFilePath) => {
         item.description = await generateDescription(item.title)
 
         // Пауза перед следующим запросом (например, 1 секунда)
-        await delay(1200)
+        await delay(1500)
       }
     }
 
@@ -169,55 +169,58 @@ const updateJSONWithVariations = async (readFilePath, writeFilePath) => {
 }
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/phones/smartphone-accessories/3/transformedData.json',
-//   './data/electronics/phones/smartphone-accessories/3/newTransformedData.json'
-// )
-
-// await updateJSONWithFeatures(
-//   './data/electronics/phones/smartphone-accessories/2/newTransformedData.json',
-//   './data/electronics/phones/smartphone-accessories/2/transformedData.json'
+//   './data/electronics/phones/smartphones/1/transformedData.json',
+//   './data/electronics/phones/smartphones/1/transformedWithDescriptionData.json'
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
-await updateJSONWithVariations(
-  './data/electronics/phones/smartphone-accessories/2/transformedData.json',
-  './data/electronics/phones/smartphone-accessories/2/data.json'
+await updateJSONWithFeatures(
+  './data/electronics/phones/smartphones/1/transformedWithDescriptionData.json',
+  './data/electronics/phones/smartphones/1/transformedData.json'
 )
 
-console.log(`
-`)
 console.log('Пауза <||>')
 await delay(10000)
-console.log(`
-`)
 
-await updateJSONWithVariations(
-  './data/electronics/phones/smartphone-accessories/3/transformedData.json',
-  './data/electronics/phones/smartphone-accessories/3/data.json'
+await updateJSONWithFeatures(
+  './data/electronics/phones/smartphones/2/transformedWithDescriptionData.json',
+  './data/electronics/phones/smartphones/2/transformedData.json'
 )
 
-console.log(`
-`)
 console.log('Пауза <||>')
 await delay(10000)
-console.log(`
-`)
 
-await updateJSONWithVariations(
-  './data/electronics/phones/smartphone-accessories/4/transformedData.json',
-  './data/electronics/phones/smartphone-accessories/4/data.json'
+await updateJSONWithFeatures(
+  './data/electronics/phones/smartphones/3/transformedWithDescriptionData.json',
+  './data/electronics/phones/smartphones/3/transformedData.json'
 )
 
-console.log(`
-`)
 console.log('Пауза <||>')
 await delay(10000)
-console.log(`
-`)
 
-await updateJSONWithVariations(
-  './data/electronics/phones/smartphone-accessories/5/transformedData.json',
-  './data/electronics/phones/smartphone-accessories/5/data.json'
+await updateJSONWithFeatures(
+  './data/electronics/phones/smartphones/4/transformedWithDescriptionData.json',
+  './data/electronics/phones/smartphones/4/transformedData.json'
 )
+
+console.log('Пауза <||>')
+await delay(10000)
+
+await updateJSONWithFeatures(
+  './data/electronics/phones/smartphones/5/transformedWithDescriptionData.json',
+  './data/electronics/phones/smartphones/5/transformedData.json'
+)
+
+// await updateJSONWithVariations(
+//   './data/electronics/phones/smartphone-accessories/2/transformedData.json',
+//   './data/electronics/phones/smartphone-accessories/2/data.json'
+// )
+
+// console.log(`
+// `)
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log(`
+// `)

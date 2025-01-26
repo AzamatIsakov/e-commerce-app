@@ -12,7 +12,10 @@ const config: Config = {
   theme: {
     extend: {
       container: {
-        center: true
+        center: true,
+        screens: {
+          xl: '1440px'
+        }
       },
       colors: {
         background: 'var(--background)',

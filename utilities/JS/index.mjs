@@ -5,19 +5,16 @@ import {
   transformToMyProductData
 } from './utilities.mjs'
 
-// const data = getDataFromJSON(
-//   './data/electronics/phones/smartphone-accessories/5/default.json'
-// )
-// const items = getItems(data)
+const data = getDataFromJSON(
+  './data/electronics/phones/smartphones/5/default.json'
+)
+const items = getItems(data)
 
-// const newData = items.map(transformToMyProductData)
+const newData = items.map(transformToMyProductData)
 
-// createJSONFile(
-//   './data/electronics/phones/smartphone-accessories/5/transformedData.json',
-//   {
-//     items: newData
-//   }
-// )
+createJSONFile('./data/electronics/phones/smartphones/5/transformedData.json', {
+  items: newData
+})
 
 //!| electronics
 //*| phones
@@ -25,7 +22,3 @@ import {
 // |_smartphones
 // |_feature-phones
 // |_landline-phones
-
-const data = getDataFromJSON(
-  './data/electronics/phones/smartphone-accessories/1/transformedData.json'
-)

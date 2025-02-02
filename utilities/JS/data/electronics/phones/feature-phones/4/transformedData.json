@@ -24,11 +24,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -55,11 +51,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -86,11 +78,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -113,11 +101,7 @@
         }
       ],
       "discount": -85,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -152,11 +136,7 @@
         }
       ],
       "discount": -79,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -187,11 +167,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -226,11 +202,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -273,11 +245,7 @@
         }
       ],
       "discount": -67,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -300,11 +268,7 @@
         }
       ],
       "discount": -85,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -335,11 +299,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -370,11 +330,7 @@
         }
       ],
       "discount": -54,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -397,11 +353,7 @@
         }
       ],
       "discount": -76,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -432,11 +384,7 @@
         }
       ],
       "discount": -85,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -467,11 +415,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -502,11 +446,7 @@
         }
       ],
       "discount": -85,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -537,11 +477,7 @@
         }
       ],
       "discount": -6,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -564,11 +500,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -591,11 +523,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -630,11 +558,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -673,11 +597,7 @@
         }
       ],
       "discount": -40,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -708,11 +628,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -743,11 +659,7 @@
         }
       ],
       "discount": -70,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -786,11 +698,7 @@
         }
       ],
       "discount": -90,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -813,11 +721,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -848,11 +752,7 @@
         }
       ],
       "discount": -85,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -883,11 +783,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -922,11 +818,7 @@
         }
       ],
       "discount": -91,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -949,11 +841,7 @@
         }
       ],
       "discount": -31,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -988,11 +876,7 @@
         }
       ],
       "discount": -67,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1015,11 +899,7 @@
         }
       ],
       "discount": -62,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1054,11 +934,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1093,11 +969,7 @@
         }
       ],
       "discount": -65,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1128,11 +1000,7 @@
         }
       ],
       "discount": -61,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1163,11 +1031,7 @@
         }
       ],
       "discount": -48,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1198,11 +1062,7 @@
         }
       ],
       "discount": -15,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1233,11 +1093,7 @@
         }
       ],
       "discount": -16,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1264,11 +1120,7 @@
         }
       ],
       "discount": -40,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1295,11 +1147,7 @@
         }
       ],
       "discount": -83,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1338,11 +1186,7 @@
         }
       ],
       "discount": -90,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1385,11 +1229,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1420,11 +1260,7 @@
         }
       ],
       "discount": -50,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1455,11 +1291,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1502,11 +1334,7 @@
         }
       ],
       "discount": -15,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1537,11 +1365,7 @@
         }
       ],
       "discount": -57,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1576,11 +1400,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1607,11 +1427,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1642,11 +1458,7 @@
         }
       ],
       "discount": -80,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1681,11 +1493,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "phones",
-        "feature-phones"
-      ],
+      "categories": ["electronics", "phones", "feature-phones"],
       "description": "",
       "tags": [],
       "stock": 0,

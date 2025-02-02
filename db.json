@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1336550",
+      "title": "Смартфон Xiaomi Redmi Note 13 Pro+ 5G, 12/512ГБ, камера 200 Мп, Wi-Fi 6, Bluetooth 5.3",
+      "price": 4639000
+    },
+    {
+      "id": "2327265",
+      "title": "Смартфон Samsung Galaxy A16 8/256 ГБ, 6/128 ГБ, 2 SIM 50 Мп, SUPER AMOLED",
+      "price": 1969000
+    },
+    {
+      "id": "2493428",
+      "title": "Смартфон Redmi Note 14 Pro, 12GB+512GB, AMOLED 120Hz дисплей, + Xiaomi smart band 9 active",
+      "price": 3849000
+    },
+    {
+      "id": "2065079",
+      "title": "Смартфон Xiaomi Redmi 14C 8/256ГБ, камера 50 Мп + Al, быстрая зарядка 18 Вт + Yandex Plus",
+      "price": 1399000
+    },
+    {
+      "id": "91f7",
+      "price": 1000000,
+      "title": "IPhone"
+    },
+    {
+      "id": "8e3a",
+      "price": 5300000,
+      "title": "IPhone 13 Pro Max"
+    },
+    {
+      "id": "2c4a",
+      "price": 3500000,
+      "title": "Xiaomi Redmi Note 11 Pro Plus 5G"
+    },
+    {
+      "id": "e309",
+      "price": 3100000,
+      "title": "Xiaomi Mi 13 Lite"
+    },
+    {
+      "id": "738d",
+      "price": 900000,
+      "title": "Xiaomi Redmi Note 8"
+    }
+  ]
+}

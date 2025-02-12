@@ -44,6 +44,26 @@
       "id": "738d",
       "price": 900000,
       "title": "Xiaomi Redmi Note 8"
+    },
+    {
+      "id": "39fe",
+      "price": 4000000,
+      "title": "IPhone 12 pro max"
+    },
+    {
+      "id": "513c",
+      "price": 12000000,
+      "title": "IPhone 14 Pro Max"
+    },
+    {
+      "id": "9f68",
+      "price": 14000000,
+      "title": "Xiaomi Mi 14 Pro"
+    },
+    {
+      "id": "f460",
+      "price": 3500000,
+      "title": "Xiaomi Redmi Note 14 Pro 5G Plus"
     }
   ]
 }

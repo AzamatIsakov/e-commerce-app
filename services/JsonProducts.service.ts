@@ -6,7 +6,7 @@ export const getJsonProducts = async (): Promise<GetProductResDTO> => {
   try {
     const response = await fetch('http://localhost:4000/products', {
       next: {
-        revalidate: 500
+        revalidate: 300
       }
     })
     const data = await response.json()

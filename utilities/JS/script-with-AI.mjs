@@ -241,23 +241,23 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // !================================================================================
 
 // await updateJSONWithFeatures(
-//   './data/electronics/phones/landline-phones/1/transformedWithDescriptionData.json',
-//   './data/electronics/phones/landline-phones/1/dataWithFeatures.json'
+//   './data/electronics/phones/feature-phones/1/transformedWithDescriptionData.json',
+//   './data/electronics/phones/feature-phones/1/dataWithFeatures.json'
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   './data/electronics/phones/landline-phones/2/transformedWithDescriptionData.json',
-//   './data/electronics/phones/landline-phones/2/dataWithFeatures.json'
+//   './data/electronics/phones/feature-phones/2/transformedWithDescriptionData.json',
+//   './data/electronics/phones/feature-phones/2/dataWithFeatures.json'
 // )
 
 // !================================================================================
 
 // await updateJSONWithVariations(
-//   './data/electronics/phones/landline-phones/1/dataWithFeatures.json',
-//   './data/electronics/phones/landline-phones/1/data.json'
+//   './data/electronics/phones/feature-phones/1/dataWithFeatures.json',
+//   './data/electronics/phones/feature-phones/1/data.json'
 // )
 
 // console.log()
@@ -266,53 +266,53 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // console.log()
 
 // await updateJSONWithVariations(
-//   './data/electronics/phones/landline-phones/2/dataWithFeatures.json',
-//   './data/electronics/phones/landline-phones/2/data.json'
+//   './data/electronics/phones/feature-phones/2/dataWithFeatures.json',
+//   './data/electronics/phones/feature-phones/2/data.json'
 // )
 
 // !================================================================================
 
-// await updateJSONWithTags(
-//   './data/electronics/phones/landline-phones/1/data.json',
-//   './data/electronics/phones/landline-phones/1/products.json'
-// )
+await updateJSONWithTags(
+  './data/electronics/phones/feature-phones/1/data.json',
+  './data/electronics/phones/feature-phones/1/products.json'
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   './data/electronics/phones/landline-phones/2/data.json',
-//   './data/electronics/phones/landline-phones/2/products.json'
-// )
+await updateJSONWithTags(
+  './data/electronics/phones/feature-phones/2/data.json',
+  './data/electronics/phones/feature-phones/2/products.json'
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   './data/electronics/phones/smartphone-accessories/3/data.json',
-//   './data/electronics/phones/smartphone-accessories/3/products.json'
-// )
+await updateJSONWithTags(
+  './data/electronics/phones/feature-phones/3/data.json',
+  './data/electronics/phones/feature-phones/3/products.json'
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   './data/electronics/phones/smartphone-accessories/4/data.json',
-//   './data/electronics/phones/smartphone-accessories/4/products.json'
-// )
+await updateJSONWithTags(
+  './data/electronics/phones/feature-phones/4/data.json',
+  './data/electronics/phones/feature-phones/4/products.json'
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   './data/electronics/phones/smartphone-accessories/5/data.json',
-//   './data/electronics/phones/smartphone-accessories/5/products.json'
-// )
+await updateJSONWithTags(
+  './data/electronics/phones/feature-phones/5/data.json',
+  './data/electronics/phones/feature-phones/5/products.json'
+)

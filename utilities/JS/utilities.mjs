@@ -60,3 +60,23 @@ export const transformToMyPhotoData = (photoObj) => {
 export const getItems = (data) => {
   return data.data.makeSearch.items
 }
+
+export const extractAndParseJSON = (text) => {
+  // Ищем содержимое между ```json и ```
+  const match = text.match(/```json\s*([\s\S]*?)\s*```/)
+
+  if (match) {
+    const jsonString = match[1].trim() // Убираем лишние пробелы
+    try {
+      const result = JSON.parse(jsonString)
+
+      return result // Возвращаем распарсенный объект
+    } catch (error) {
+      console.error('Ошибка разбора JSON:', error.message)
+      return null
+    }
+  } else {
+    console.error('JSON не найден в тексте!')
+    return null
+  }
+}

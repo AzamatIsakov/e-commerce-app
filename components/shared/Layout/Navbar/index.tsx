@@ -19,6 +19,14 @@ const links = [
   {
     title: 'Корзина',
     path: '/cart'
+  },
+  {
+    title: 'Добавить продукт',
+    path: '/product/create'
+  },
+  {
+    title: 'Посмотреть продукты',
+    path: '/product/all'
   }
 ]
 

@@ -25,7 +25,7 @@ export const Products = () => {
 
   if (isSuccess)
     return (
-      <div className="grid grid-cols-5 gap-5">
+      <div className="grid grid-cols-2 gap-5 xl:grid-cols-5">
         {products.items.map((product) => (
           <ProductCard
             key={product.title}

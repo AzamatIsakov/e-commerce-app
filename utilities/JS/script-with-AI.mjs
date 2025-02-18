@@ -197,25 +197,25 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
     // Читаем файл
     const data = await fs.readFile(readFilePath, 'utf-8') // Используем fs/promises
     const { items } = JSON.parse(data)
-
+    const item = items[0]
     // Обрабатываем каждый элемент
-    for (const item of items) {
-      console.log(`Генерация тегов для ${item.title}`)
+    // for (const item of items.slice(2)) {
+    console.log(`Генерация тегов для ${item.title}`)
 
-      // Генерация описания
-      const generatedTags = await generateTags(
-        item.title,
-        item.description,
-        JSON.stringify(item.features),
-        JSON.stringify(item.variations),
-        JSON.stringify(item.categories)
-      )
+    // Генерация описания
+    const generatedTags = await generateTags(
+      item.title,
+      item.description,
+      JSON.stringify(item.features),
+      JSON.stringify(item.variations),
+      JSON.stringify(item.categories)
+    )
 
-      item.tags = generatedTags.tags
+    item.tags = generatedTags.tags
 
-      // Пауза перед следующим запросом (например, 4 секунд)
-      await delay(4000)
-    }
+    // Пауза перед следующим запросом (например, 4 секунд)
+    await delay(4000)
+    // }
 
     // Записываем результат
     await fs.writeFile(writeFilePath, JSON.stringify({ items }, null, 2))
@@ -308,50 +308,50 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 
 // !================================================================================
 
-await updateJSONWithVariations(
-  './data/electronics/smart-wearables/smart-watches/1/dataWithFeatures.json',
-  './data/electronics/smart-wearables/smart-watches/1/data.json'
-)
+// await updateJSONWithVariations(
+//   './data/electronics/smart-wearables/smart-watches/1/dataWithFeatures.json',
+//   './data/electronics/smart-wearables/smart-watches/1/data.json'
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithVariations(
-  './data/electronics/smart-wearables/smart-watches/2/dataWithFeatures.json',
-  './data/electronics/smart-wearables/smart-watches/2/data.json'
-)
+// await updateJSONWithVariations(
+//   './data/electronics/smart-wearables/smart-watches/2/dataWithFeatures.json',
+//   './data/electronics/smart-wearables/smart-watches/2/data.json'
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithVariations(
-  './data/electronics/smart-wearables/smart-watches/3/dataWithFeatures.json',
-  './data/electronics/smart-wearables/smart-watches/3/data.json'
-)
+// await updateJSONWithVariations(
+//   './data/electronics/smart-wearables/smart-watches/3/dataWithFeatures.json',
+//   './data/electronics/smart-wearables/smart-watches/3/data.json'
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithVariations(
-  './data/electronics/smart-wearables/smart-watches/4/dataWithFeatures.json',
-  './data/electronics/smart-wearables/smart-watches/4/data.json'
-)
+// await updateJSONWithVariations(
+//   './data/electronics/smart-wearables/smart-watches/4/dataWithFeatures.json',
+//   './data/electronics/smart-wearables/smart-watches/4/data.json'
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithVariations(
-  './data/electronics/smart-wearables/smart-watches/5/dataWithFeatures.json',
-  './data/electronics/smart-wearables/smart-watches/5/data.json'
-)
+// await updateJSONWithVariations(
+//   './data/electronics/smart-wearables/smart-watches/5/dataWithFeatures.json',
+//   './data/electronics/smart-wearables/smart-watches/5/data.json'
+// )
 
 // !================================================================================
 
@@ -385,10 +385,10 @@ await updateJSONWithVariations(
 // await delay(10000)
 // console.log()
 
-// await updateJSONWithTags(
-//   './data/electronics/smart-wearables/smart-watches/4/data.json',
-//   './data/electronics/smart-wearables/smart-watches/4/products.json'
-// )
+await updateJSONWithTags(
+  './data/electronics/smart-wearables/smart-watches/4/data.json',
+  './data/electronics/smart-wearables/smart-watches/4/products.json'
+)
 
 // console.log()
 // console.log('Пауза <||>')

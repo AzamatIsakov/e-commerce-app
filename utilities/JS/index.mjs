@@ -6,21 +6,26 @@ import {
 } from './utilities.mjs'
 
 const tranform = (page) => {
-  const data = getDataFromJSON(`./data/electronics/phones/${page}/default.json`)
+  const data = getDataFromJSON(
+    `./data/electronics/smart-wearables/${page}/default.json`
+  )
   const items = getItems(data)
 
   const newData = items.map(transformToMyProductData)
 
-  createJSONFile(`./data/electronics/phones/${page}/transformedData.json`, {
-    items: newData
-  })
+  createJSONFile(
+    `./data/electronics/smart-wearables/${page}/transformedData.json`,
+    {
+      items: newData
+    }
+  )
 }
 
-tranform('feature-phones/1')
-tranform('feature-phones/2')
-tranform('feature-phones/3')
-tranform('feature-phones/4')
-tranform('feature-phones/5')
+tranform('smart-watches/1')
+tranform('smart-watches/2')
+tranform('smart-watches/3')
+tranform('smart-watches/4')
+tranform('smart-watches/5')
 
 //!| electronics
 //*| phones

@@ -231,33 +231,133 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // !================================================================================
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/phones/feature-phones/4/transformedData.json',
-//   './data/electronics/phones/feature-phones/4/transformedWithDescriptionData.json'
+//   './data/electronics/smart-wearables/smart-watches/1/transformedData.json',
+//   './data/electronics/smart-wearables/smart-watches/1/dataWithDescription.json'
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
+// await updateJSONWithDescriptions(
+//   './data/electronics/smart-wearables/smart-watches/2/transformedData.json',
+//   './data/electronics/smart-wearables/smart-watches/2/dataWithDescription.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithDescriptions(
+//   './data/electronics/smart-wearables/smart-watches/3/transformedData.json',
+//   './data/electronics/smart-wearables/smart-watches/3/dataWithDescription.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithDescriptions(
+//   './data/electronics/smart-wearables/smart-watches/4/transformedData.json',
+//   './data/electronics/smart-wearables/smart-watches/4/dataWithDescription.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithDescriptions(
+//   './data/electronics/smart-wearables/smart-watches/5/transformedData.json',
+//   './data/electronics/smart-wearables/smart-watches/5/dataWithDescription.json'
+// )
+
 // !================================================================================
 
 // await updateJSONWithFeatures(
-//   './data/electronics/phones/feature-phones/1/transformedWithDescriptionData.json',
-//   './data/electronics/phones/feature-phones/1/dataWithFeatures.json'
+//   './data/electronics/smart-wearables/smart-watches/1/dataWithDescription.json',
+//   './data/electronics/smart-wearables/smart-watches/1/dataWithFeatures.json'
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   './data/electronics/phones/feature-phones/2/transformedWithDescriptionData.json',
-//   './data/electronics/phones/feature-phones/2/dataWithFeatures.json'
+//   './data/electronics/smart-wearables/smart-watches/2/dataWithDescription.json',
+//   './data/electronics/smart-wearables/smart-watches/2/dataWithFeatures.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   './data/electronics/smart-wearables/smart-watches/3/dataWithDescription.json',
+//   './data/electronics/smart-wearables/smart-watches/3/dataWithFeatures.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   './data/electronics/smart-wearables/smart-watches/4/dataWithDescription.json',
+//   './data/electronics/smart-wearables/smart-watches/4/dataWithFeatures.json'
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   './data/electronics/smart-wearables/smart-watches/5/dataWithDescription.json',
+//   './data/electronics/smart-wearables/smart-watches/5/dataWithFeatures.json'
 // )
 
 // !================================================================================
 
-// await updateJSONWithVariations(
-//   './data/electronics/phones/feature-phones/1/dataWithFeatures.json',
-//   './data/electronics/phones/feature-phones/1/data.json'
+await updateJSONWithVariations(
+  './data/electronics/smart-wearables/smart-watches/1/dataWithFeatures.json',
+  './data/electronics/smart-wearables/smart-watches/1/data.json'
+)
+
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
+
+await updateJSONWithVariations(
+  './data/electronics/smart-wearables/smart-watches/2/dataWithFeatures.json',
+  './data/electronics/smart-wearables/smart-watches/2/data.json'
+)
+
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
+
+await updateJSONWithVariations(
+  './data/electronics/smart-wearables/smart-watches/3/dataWithFeatures.json',
+  './data/electronics/smart-wearables/smart-watches/3/data.json'
+)
+
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
+
+await updateJSONWithVariations(
+  './data/electronics/smart-wearables/smart-watches/4/dataWithFeatures.json',
+  './data/electronics/smart-wearables/smart-watches/4/data.json'
+)
+
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
+
+await updateJSONWithVariations(
+  './data/electronics/smart-wearables/smart-watches/5/dataWithFeatures.json',
+  './data/electronics/smart-wearables/smart-watches/5/data.json'
+)
+
+// !================================================================================
+
+// await updateJSONWithTags(
+//   './data/electronics/smart-wearables/smart-watches/1/data.json',
+//   './data/electronics/smart-wearables/smart-watches/1/products.json'
 // )
 
 // console.log()
@@ -265,54 +365,37 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // await delay(10000)
 // console.log()
 
-// await updateJSONWithVariations(
-//   './data/electronics/phones/feature-phones/2/dataWithFeatures.json',
-//   './data/electronics/phones/feature-phones/2/data.json'
+// await updateJSONWithTags(
+//   './data/electronics/smart-wearables/smart-watches/2/data.json',
+//   './data/electronics/smart-wearables/smart-watches/2/products.json'
 // )
 
-// !================================================================================
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  './data/electronics/phones/feature-phones/1/data.json',
-  './data/electronics/phones/feature-phones/1/products.json'
-)
+// await updateJSONWithTags(
+//   './data/electronics/smart-wearables/smart-watches/3/data.json',
+//   './data/electronics/smart-wearables/smart-watches/3/products.json'
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  './data/electronics/phones/feature-phones/2/data.json',
-  './data/electronics/phones/feature-phones/2/products.json'
-)
+// await updateJSONWithTags(
+//   './data/electronics/smart-wearables/smart-watches/4/data.json',
+//   './data/electronics/smart-wearables/smart-watches/4/products.json'
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  './data/electronics/phones/feature-phones/3/data.json',
-  './data/electronics/phones/feature-phones/3/products.json'
-)
-
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
-
-await updateJSONWithTags(
-  './data/electronics/phones/feature-phones/4/data.json',
-  './data/electronics/phones/feature-phones/4/products.json'
-)
-
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
-
-await updateJSONWithTags(
-  './data/electronics/phones/feature-phones/5/data.json',
-  './data/electronics/phones/feature-phones/5/products.json'
-)
+// await updateJSONWithTags(
+//   './data/electronics/smart-wearables/smart-watches/5/data.json',
+//   './data/electronics/smart-wearables/smart-watches/5/products.json'
+// )

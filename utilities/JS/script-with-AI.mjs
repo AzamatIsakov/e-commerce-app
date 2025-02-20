@@ -197,25 +197,25 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
     // Читаем файл
     const data = await fs.readFile(readFilePath, 'utf-8') // Используем fs/promises
     const { items } = JSON.parse(data)
-    const item = items[0]
+
     // Обрабатываем каждый элемент
-    // for (const item of items.slice(2)) {
-    console.log(`Генерация тегов для ${item.title}`)
+    for (const item of items) {
+      console.log(`Генерация тегов для ${item.title}`)
 
-    // Генерация описания
-    const generatedTags = await generateTags(
-      item.title,
-      item.description,
-      JSON.stringify(item.features),
-      JSON.stringify(item.variations),
-      JSON.stringify(item.categories)
-    )
+      // Генерация описания
+      const generatedTags = await generateTags(
+        item.title,
+        item.description,
+        JSON.stringify(item.features),
+        JSON.stringify(item.variations),
+        JSON.stringify(item.categories)
+      )
 
-    item.tags = generatedTags.tags
+      item.tags = generatedTags.tags
 
-    // Пауза перед следующим запросом (например, 4 секунд)
-    await delay(4000)
-    // }
+      // Пауза перед следующим запросом (например, 4 секунд)
+      await delay(4000)
+    }
 
     // Записываем результат
     await fs.writeFile(writeFilePath, JSON.stringify({ items }, null, 2))

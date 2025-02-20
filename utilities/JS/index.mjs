@@ -21,11 +21,11 @@ const tranform = (page) => {
   )
 }
 
-tranform('smart-watches/1')
-tranform('smart-watches/2')
-tranform('smart-watches/3')
-tranform('smart-watches/4')
-tranform('smart-watches/5')
+tranform('watch-straps/1')
+tranform('watch-straps/2')
+tranform('watch-straps/3')
+tranform('watch-straps/4')
+tranform('watch-straps/5')
 
 //!| electronics
 //*| phones

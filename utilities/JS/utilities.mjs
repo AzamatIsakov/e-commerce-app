@@ -64,14 +64,17 @@ export const getItems = (data) => {
 export const extractAndParseJSON = (text) => {
   // Ищем содержимое между ```json и ```
   const match = text.match(/```json\s*([\s\S]*?)\s*```/)
-
+  let temp = ''
   if (match) {
     const jsonString = match[1].trim() // Убираем лишние пробелы
     try {
+      temp = text
       const result = JSON.parse(jsonString)
 
       return result // Возвращаем распарсенный объект
     } catch (error) {
+      console.log(temp)
+
       console.error('Ошибка разбора JSON:', error.message)
       return null
     }

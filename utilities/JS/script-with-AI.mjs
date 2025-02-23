@@ -19,13 +19,23 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY)
 const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' })
 
 const generateDescription = async (title) => {
-  const prompt = getDescriptionPrompt(title)
+  try {
+    const prompt = getDescriptionPrompt(title)
 
-  const result = await model.generateContent(prompt)
-  const response = await result.response
-  const text = await response.text() // Добавляем await, чтобы получить результат
+    const result = await model.generateContent(prompt)
+    const response = await result.response
+    const text = await response.text() // Добавляем await, чтобы получить результат
 
-  return text
+    return text
+  } catch (e) {
+    console.log()
+    console.log('Ошибка:', e)
+    console.log()
+    console.log('Передышка')
+    await delay(10000)
+
+    return ''
+  }
 }
 
 const generateFeatures = async (title, description) => {
@@ -145,13 +155,15 @@ const updateJSONWithFeatures = async (readFilePath, writeFilePath) => {
 
     // Обрабатываем каждый элемент
     for (const item of items) {
-      console.log(`Генерация характеристик для ${item.title}`)
+      if (!item?.features?.length) {
+        console.log(`Генерация характеристик для ${item.title}`)
 
-      // Генерация описания
-      item.features = await generateFeatures(item.title, item.description)
+        // Генерация описания
+        item.features = await generateFeatures(item.title, item.description)
 
-      // Пауза перед следующим запросом (например, 2 секунды)
-      await delay(2000)
+        // Пауза перед следующим запросом (например, 2 секунды)
+        await delay(2000)
+      }
     }
 
     // Записываем результат
@@ -170,7 +182,10 @@ const updateJSONWithVariations = async (readFilePath, writeFilePath) => {
 
     // Обрабатываем каждый элемент
     for (const item of items) {
-      if (!item.variations.length) {
+      console.log(item.variations.length)
+
+      item.categories = ['electronics', 'smart-wearables', 'watch-straps']
+      if (!item?.variations?.length) {
         console.log(`Генерация вариаций для ${item.title}`)
         // Генерация описания
         item.variations = await generateVariation(
@@ -229,129 +244,136 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 //! как проверка "A16" на моделях "Samsung Galaxy A16"
 
 // !================================================================================
+const categoryLevel_1 = 'electronics'
+const categoryLevel_2 = 'smart-wearables'
+const categoryLevel_3 = 'watch-straps'
+
+const generatePath = (page, fileName) => {
+  return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
+}
+// ?================================================================================
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/smart-wearables/smart-watches/1/transformedData.json',
-//   './data/electronics/smart-wearables/smart-watches/1/dataWithDescription.json'
+//   generatePath(1, 'transformedData.json'),
+//   generatePath(1, 'dataWithDescription.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/smart-wearables/smart-watches/2/transformedData.json',
-//   './data/electronics/smart-wearables/smart-watches/2/dataWithDescription.json'
+//   generatePath(2, 'transformedData.json'),
+//   generatePath(2, 'dataWithDescription.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/smart-wearables/smart-watches/3/transformedData.json',
-//   './data/electronics/smart-wearables/smart-watches/3/dataWithDescription.json'
+//   generatePath(3, 'transformedData.json'),
+//   generatePath(3, 'dataWithDescription.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/smart-wearables/smart-watches/4/transformedData.json',
-//   './data/electronics/smart-wearables/smart-watches/4/dataWithDescription.json'
+//   generatePath(4, 'transformedData.json'),
+//   generatePath(4, 'dataWithDescription.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   './data/electronics/smart-wearables/smart-watches/5/transformedData.json',
-//   './data/electronics/smart-wearables/smart-watches/5/dataWithDescription.json'
+//   generatePath(5, 'transformedData.json'),
+//   generatePath(5, 'dataWithDescription.json')
 // )
 
 // !================================================================================
 
 // await updateJSONWithFeatures(
-//   './data/electronics/smart-wearables/smart-watches/1/dataWithDescription.json',
-//   './data/electronics/smart-wearables/smart-watches/1/dataWithFeatures.json'
+//   generatePath(1, 'dataWithDescription.json'),
+//   generatePath(1, 'dataWithFeatures.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   './data/electronics/smart-wearables/smart-watches/2/dataWithDescription.json',
-//   './data/electronics/smart-wearables/smart-watches/2/dataWithFeatures.json'
+//   generatePath(2, 'dataWithDescription.json'),
+//   generatePath(2, 'dataWithFeatures.json')
+// )
+// updateJSONWithVariations
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   generatePath(3, 'dataWithDescription.json'),
+//   generatePath(3, 'dataWithFeatures.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   './data/electronics/smart-wearables/smart-watches/3/dataWithDescription.json',
-//   './data/electronics/smart-wearables/smart-watches/3/dataWithFeatures.json'
+//   generatePath(4, 'dataWithDescription.json'),
+//   generatePath(4, 'dataWithFeatures.json')
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   './data/electronics/smart-wearables/smart-watches/4/dataWithDescription.json',
-//   './data/electronics/smart-wearables/smart-watches/4/dataWithFeatures.json'
+//   generatePath(5, 'dataWithDescription.json'),
+//   generatePath(5, 'dataWithFeatures.json')
 // )
-
-// console.log('Пауза <||>')
-// await delay(10000)
-
-// await updateJSONWithFeatures(
-//   './data/electronics/smart-wearables/smart-watches/5/dataWithDescription.json',
-//   './data/electronics/smart-wearables/smart-watches/5/dataWithFeatures.json'
-// )
-
 // !================================================================================
 
-// await updateJSONWithVariations(
-//   './data/electronics/smart-wearables/smart-watches/1/dataWithFeatures.json',
-//   './data/electronics/smart-wearables/smart-watches/1/data.json'
-// )
+await updateJSONWithVariations(
+  generatePath(1, 'data.json'),
+  generatePath(1, 'data.json')
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   './data/electronics/smart-wearables/smart-watches/2/dataWithFeatures.json',
-//   './data/electronics/smart-wearables/smart-watches/2/data.json'
-// )
+await updateJSONWithVariations(
+  generatePath(2, 'data.json'),
+  generatePath(2, 'data.json')
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   './data/electronics/smart-wearables/smart-watches/3/dataWithFeatures.json',
-//   './data/electronics/smart-wearables/smart-watches/3/data.json'
-// )
+await updateJSONWithVariations(
+  generatePath(3, 'data.json'),
+  generatePath(3, 'data.json')
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   './data/electronics/smart-wearables/smart-watches/4/dataWithFeatures.json',
-//   './data/electronics/smart-wearables/smart-watches/4/data.json'
-// )
+await updateJSONWithVariations(
+  generatePath(4, 'data.json'),
+  generatePath(4, 'data.json')
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   './data/electronics/smart-wearables/smart-watches/5/dataWithFeatures.json',
-//   './data/electronics/smart-wearables/smart-watches/5/data.json'
-// )
+await updateJSONWithVariations(
+  generatePath(5, 'data.json'),
+  generatePath(5, 'data.json')
+)
 
 // !================================================================================
 
@@ -385,10 +407,10 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // await delay(10000)
 // console.log()
 
-await updateJSONWithTags(
-  './data/electronics/smart-wearables/smart-watches/4/data.json',
-  './data/electronics/smart-wearables/smart-watches/4/products.json'
-)
+// await updateJSONWithTags(
+//   './data/electronics/smart-wearables/smart-watches/4/data.json',
+//   './data/electronics/smart-wearables/smart-watches/4/products.json'
+// )
 
 // console.log()
 // console.log('Пауза <||>')

@@ -247,7 +247,7 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'smart-wearables'
-const categoryLevel_3 = 'fitness-trackers'
+const categoryLevel_3 = 'smart-gadgets'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`

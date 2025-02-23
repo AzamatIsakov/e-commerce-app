@@ -130,4 +130,6 @@ description: ${description}
 features: ${features}
 
 variations: ${variations}
+
+Не пиши никаких комментов
 `

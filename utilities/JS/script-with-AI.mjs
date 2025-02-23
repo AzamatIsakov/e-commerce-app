@@ -128,7 +128,7 @@ const updateJSONWithDescriptions = async (readFilePath, writeFilePath) => {
 
     // Обрабатываем каждый элемент
     for (const item of items) {
-      if (!item.description) {
+      if (!item.description?.length) {
         console.log(`Генерация описания для ${item.title}`)
 
         // Генерация описания
@@ -184,7 +184,6 @@ const updateJSONWithVariations = async (readFilePath, writeFilePath) => {
     for (const item of items) {
       console.log(item.variations.length)
 
-      item.categories = ['electronics', 'smart-wearables', 'watch-straps']
       if (!item?.variations?.length) {
         console.log(`Генерация вариаций для ${item.title}`)
         // Генерация описания
@@ -215,21 +214,23 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 
     // Обрабатываем каждый элемент
     for (const item of items) {
-      console.log(`Генерация тегов для ${item.title}`)
+      if (!item.tags?.length) {
+        console.log(`Генерация тегов для ${item.title}`)
 
-      // Генерация описания
-      const generatedTags = await generateTags(
-        item.title,
-        item.description,
-        JSON.stringify(item.features),
-        JSON.stringify(item.variations),
-        JSON.stringify(item.categories)
-      )
+        // Генерация описания
+        const generatedTags = await generateTags(
+          item.title,
+          item.description,
+          JSON.stringify(item.features),
+          JSON.stringify(item.variations),
+          JSON.stringify(item.categories)
+        )
 
-      item.tags = generatedTags.tags
+        item.tags = generatedTags.tags
 
-      // Пауза перед следующим запросом (например, 4 секунд)
-      await delay(4000)
+        // Пауза перед следующим запросом (например, 4 секунд)
+        await delay(4000)
+      }
     }
 
     // Записываем результат
@@ -246,140 +247,152 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'smart-wearables'
-const categoryLevel_3 = 'watch-straps'
+const categoryLevel_3 = 'fitness-trackers'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
 }
 // ?================================================================================
 
+// const fileToRead = 'transformedData.json'
+// const fileToWrite = 'dataWithDescription.json'
+
 // await updateJSONWithDescriptions(
-//   generatePath(1, 'transformedData.json'),
-//   generatePath(1, 'dataWithDescription.json')
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   generatePath(2, 'transformedData.json'),
-//   generatePath(2, 'dataWithDescription.json')
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   generatePath(3, 'transformedData.json'),
-//   generatePath(3, 'dataWithDescription.json')
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   generatePath(4, 'transformedData.json'),
-//   generatePath(4, 'dataWithDescription.json')
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithDescriptions(
-//   generatePath(5, 'transformedData.json'),
-//   generatePath(5, 'dataWithDescription.json')
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
 // )
 
 // !================================================================================
 
+// const fileToRead = 'dataWithDescription.json'
+// const fileToWrite = 'dataWithFeatures.json'
+
 // await updateJSONWithFeatures(
-//   generatePath(1, 'dataWithDescription.json'),
-//   generatePath(1, 'dataWithFeatures.json')
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   generatePath(2, 'dataWithDescription.json'),
-//   generatePath(2, 'dataWithFeatures.json')
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
 // )
 // updateJSONWithVariations
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   generatePath(3, 'dataWithDescription.json'),
-//   generatePath(3, 'dataWithFeatures.json')
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   generatePath(4, 'dataWithDescription.json'),
-//   generatePath(4, 'dataWithFeatures.json')
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
 // )
 
 // console.log('Пауза <||>')
 // await delay(10000)
 
 // await updateJSONWithFeatures(
-//   generatePath(5, 'dataWithDescription.json'),
-//   generatePath(5, 'dataWithFeatures.json')
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
 // )
 // !================================================================================
 
-await updateJSONWithVariations(
-  generatePath(1, 'data.json'),
-  generatePath(1, 'data.json')
-)
+// const fileToRead = 'dataWithFeatures.json'
+// const fileToWrite = 'data.json'
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// await updateJSONWithVariations(
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
+// )
 
-await updateJSONWithVariations(
-  generatePath(2, 'data.json'),
-  generatePath(2, 'data.json')
-)
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// await updateJSONWithVariations(
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
+// )
 
-await updateJSONWithVariations(
-  generatePath(3, 'data.json'),
-  generatePath(3, 'data.json')
-)
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// await updateJSONWithVariations(
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
+// )
 
-await updateJSONWithVariations(
-  generatePath(4, 'data.json'),
-  generatePath(4, 'data.json')
-)
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// await updateJSONWithVariations(
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
+// )
 
-await updateJSONWithVariations(
-  generatePath(5, 'data.json'),
-  generatePath(5, 'data.json')
-)
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
+
+// await updateJSONWithVariations(
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
+// )
 
 // !================================================================================
 
+// const fileToRead = 'data.json'
+// const fileToWrite = 'products.json'
+
 // await updateJSONWithTags(
-//   './data/electronics/smart-wearables/smart-watches/1/data.json',
-//   './data/electronics/smart-wearables/smart-watches/1/products.json'
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
 // )
 
 // console.log()
@@ -388,8 +401,8 @@ await updateJSONWithVariations(
 // console.log()
 
 // await updateJSONWithTags(
-//   './data/electronics/smart-wearables/smart-watches/2/data.json',
-//   './data/electronics/smart-wearables/smart-watches/2/products.json'
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
 // )
 
 // console.log()
@@ -398,8 +411,8 @@ await updateJSONWithVariations(
 // console.log()
 
 // await updateJSONWithTags(
-//   './data/electronics/smart-wearables/smart-watches/3/data.json',
-//   './data/electronics/smart-wearables/smart-watches/3/products.json'
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
 // )
 
 // console.log()
@@ -408,8 +421,8 @@ await updateJSONWithVariations(
 // console.log()
 
 // await updateJSONWithTags(
-//   './data/electronics/smart-wearables/smart-watches/4/data.json',
-//   './data/electronics/smart-wearables/smart-watches/4/products.json'
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
 // )
 
 // console.log()
@@ -418,6 +431,6 @@ await updateJSONWithVariations(
 // console.log()
 
 // await updateJSONWithTags(
-//   './data/electronics/smart-wearables/smart-watches/5/data.json',
-//   './data/electronics/smart-wearables/smart-watches/5/products.json'
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
 // )

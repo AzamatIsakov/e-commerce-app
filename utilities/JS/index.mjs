@@ -6,26 +6,33 @@ import {
 } from './utilities.mjs'
 
 const tranform = (page) => {
+  const categoryLevel_2 = 'laptops-tablets-ereaders'
+
   const data = getDataFromJSON(
-    `./data/electronics/smart-wearables/${page}/default.json`
+    `./data/electronics/${categoryLevel_2}/${page}/default.json`
   )
   const items = getItems(data)
 
   const newData = items.map(transformToMyProductData)
 
   createJSONFile(
-    `./data/electronics/smart-wearables/${page}/transformedData.json`,
+    `./data/electronics/${categoryLevel_2}/${page}/transformedData.json`,
     {
       items: newData
     }
   )
 }
+// Надо генерировать
+// cables-and-chargers
+// screen-protectors-and-cases
 
-tranform('watch-straps/1')
-tranform('watch-straps/2')
-tranform('watch-straps/3')
-tranform('watch-straps/4')
-tranform('watch-straps/5')
+// laptops-tablets-ereaders/laptops
+
+// tranform('laptops/1')
+// tranform('laptops/2')
+// tranform('laptops/3')
+// tranform('laptops/4')
+// tranform('laptops/5')
 
 //!| electronics
 //*| phones

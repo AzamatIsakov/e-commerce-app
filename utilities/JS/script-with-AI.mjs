@@ -246,16 +246,16 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 
 // !================================================================================
 const categoryLevel_1 = 'electronics'
-const categoryLevel_2 = 'smart-wearables'
-const categoryLevel_3 = 'screen-protectors-and-cases'
+const categoryLevel_2 = 'laptops-tablets-ereaders'
+const categoryLevel_3 = 'laptops'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
 }
 // ?================================================================================
 
-// const fileToRead = 'transformedData.json'
-// const fileToWrite = 'dataWithDescription.json'
+const fileToRead = 'transformedData.json'
+const fileToWrite = 'dataWithDescription.json'
 
 // await updateJSONWithDescriptions(
 //   generatePath(1, fileToRead),
@@ -265,34 +265,34 @@ const generatePath = (page, fileName) => {
 // console.log('Пауза <||>')
 // await delay(10000)
 
-// await updateJSONWithDescriptions(
-//   generatePath(2, fileToRead),
-//   generatePath(2, fileToWrite)
-// )
+await updateJSONWithDescriptions(
+  generatePath(2, fileToRead),
+  generatePath(2, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithDescriptions(
-//   generatePath(3, fileToRead),
-//   generatePath(3, fileToWrite)
-// )
+await updateJSONWithDescriptions(
+  generatePath(3, fileToRead),
+  generatePath(3, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithDescriptions(
-//   generatePath(4, fileToRead),
-//   generatePath(4, fileToWrite)
-// )
+await updateJSONWithDescriptions(
+  generatePath(4, fileToRead),
+  generatePath(4, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithDescriptions(
-//   generatePath(5, fileToRead),
-//   generatePath(5, fileToWrite)
-// )
+await updateJSONWithDescriptions(
+  generatePath(5, fileToRead),
+  generatePath(5, fileToWrite)
+)
 
 // !================================================================================
 

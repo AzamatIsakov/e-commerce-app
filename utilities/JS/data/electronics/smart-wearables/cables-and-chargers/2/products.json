@@ -1,0 +1,1557 @@
+{
+  "items": [
+    {
+      "id": 2388894,
+      "title": "Зарядка для Amazfit Stratos A1609 / Stratos 2/ 2S, зарядное устройство, Xiaomi",
+      "price": {
+        "min": 94000,
+        "max": 99000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ctfkqs45j42dmkoj2mlg",
+          "link": "https://images.uzum.uz/ctfkqs45j42dmkoj2mlg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctfkqs45j42dmkoj2mm0",
+          "link": "https://images.uzum.uz/ctfkqs45j42dmkoj2mm0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctfkqs45j42dmkoj2mmg",
+          "link": "https://images.uzum.uz/ctfkqs45j42dmkoj2mmg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -5,
+      "categories": [
+        "electronics",
+        "smart-wearables",
+        "cables-and-chargers"
+      ],
+      "description": "Зарядное устройство для Amazfit Stratos A1609 / Stratos 2/ 2S, совместимое с Xiaomi.\n\n**Характеристики:**\n\n* **Модель:**  Зарядное устройство для Amazfit Stratos (A1609, Stratos 2, Stratos 2S)\n* **Тип подключения:** Магнитный коннектор (специфичная конструкция для Amazfit Stratos)\n* **Входное напряжение:** 5В, 1А (стандартный USB)\n* **Выходное напряжение/ток:** 5В, 0.5А (оптимизировано для безопасной зарядки)\n* **Материал корпуса:** ABS пластик (прочный и легкий)\n* **Длина кабеля:** 100 см\n* **Индикация заряда:**  светодиодный индикатор (синий - зарядка, красный - ошибка)\n* **Совместимость:** Amazfit Stratos A1609, Amazfit Stratos 2, Amazfit Stratos 2S\n* **Защита от перегрузки:** Да\n* **Защита от короткого замыкания:** Да\n\n**Преимущества:**\n\n* Оригинальная конструкция магнитного коннектора обеспечивает надежное и удобное соединение.\n* Компактный и легкий дизайн, удобный для переноски.\n* Быстрая и безопасная зарядка.\n* Защита от перегрузки и короткого замыкания обеспечивает долговечность устройства и безопасность ваших гаджетов.\n* Совместимость с различными моделями Amazfit Stratos гарантирует универсальность.\n\n\n**Особенности:**  Использование качественных материалов и электронных компонентов обеспечивает высокую надежность и долговечность зарядного устройства.  Специально разработанный магнитный коннектор гарантирует плотное и надежное соединение с часами.\n",
+      "tags": [
+        {
+          "name": "xiaomi",
+          "displayName": "Xiaomi"
+        },
+        {
+          "name": "amazfit-stratos-charger",
+          "displayName": "Зарядное устройство для Amazfit Stratos"
+        },
+        {
+          "name": "magnetic-connector",
+          "displayName": "Магнитный коннектор"
+        },
+        {
+          "name": "5v-1a-input",
+          "displayName": "Входное напряжение 5В, 1А"
+        },
+        {
+          "name": "5v-0.5a-output",
+          "displayName": "Выходное напряжение/ток 5В, 0.5А"
+        },
+        {
+          "name": "abs-plastic-housing",
+          "displayName": "Корпус из ABS пластика"
+        },
+        {
+          "name": "100cm-cable-length",
+          "displayName": "Длина кабеля 100 см"
+        },
+        {
+          "name": "led-indicator",
+          "displayName": "Светодиодный индикатор"
+        },
+        {
+          "name": "overload-protection",
+          "displayName": "Защита от перегрузки"
+        },
+        {
+          "name": "short-circuit-protection",
+          "displayName": "Защита от короткого замыкания"
+        },
+        {
+          "name": "30g-weight",
+          "displayName": "Вес 30 г"
+        },
+        {
+          "name": "black-color",
+          "displayName": "Черный цвет"
+        },
+        {
+          "name": "12-months-warranty",
+          "displayName": "Гарантия 12 месяцев"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "smart-wearables",
+          "displayName": "Умная носимая электроника"
+        },
+        {
+          "name": "cables-and-chargers",
+          "displayName": "Кабели и зарядные устройства"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Зарядное устройство для Amazfit Stratos (A1609, Stratos 2, Stratos 2S)"
+        },
+        {
+          "name": "Тип подключения",
+          "value": "Магнитный коннектор"
+        },
+        {
+          "name": "Входное напряжение",
+          "value": "5В, 1А"
+        },
+        {
+          "name": "Выходное напряжение/ток",
+          "value": "5В, 0.5А"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "ABS пластик"
+        },
+        {
+          "name": "Длина кабеля",
+          "value": "100 см"
+        },
+        {
+          "name": "Индикация заряда",
+          "value": "Светодиодный индикатор (синий - зарядка, красный - ошибка)"
+        },
+        {
+          "name": "Совместимость",
+          "value": "Amazfit Stratos A1609, Amazfit Stratos 2, Amazfit Stratos 2S"
+        },
+        {
+          "name": "Защита от перегрузки",
+          "value": "Да"
+        },
+        {
+          "name": "Защита от короткого замыкания",
+          "value": "Да"
+        },
+        {
+          "name": "Вес",
+          "value": "30 г"
+        },
+        {
+          "name": "Цвет",
+          "value": "Черный"
+        },
+        {
+          "name": "Гарантия",
+          "value": "12 месяцев"
+        },
+        {
+          "name": "Комплектация",
+          "value": "Зарядное устройство, руководство пользователя"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 94250,
+          "stock": 350,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100cm"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 93800,
+          "stock": 120,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Комплектация",
+              "value": "Charger, Manual, USB Cable"
+            }
+          ]
+        },
+        {
+          "id": "5d4c3b2a-1987-6543-0987-6543210fedcba",
+          "price": 94575,
+          "stock": 200,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "White"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            }
+          ]
+        },
+        {
+          "id": "e7f8d9c0-a6b5-4c3d-8e7f-96543210fedcba",
+          "price": 93920,
+          "stock": 80,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Вес",
+              "value": "30g"
+            }
+          ]
+        },
+        {
+          "id": "1a2b3c4d-5e6f-7890-1234-567890abcdef",
+          "price": 94100,
+          "stock": 400,
+          "options": [
+            {
+              "name": "Комплектация",
+              "value": "Charger only"
+            },
+            {
+              "name": "Гарантия",
+              "value": "12 months"
+            }
+          ]
+        },
+        {
+          "id": "6b5a4938-2716-0e9d-8765-43210fedcba98",
+          "price": 94900,
+          "stock": 50,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS Plastic"
+            }
+          ]
+        },
+        {
+          "id": "7c6d5e4f-3b2a-1987-6543-09876543210f",
+          "price": 93650,
+          "stock": 300,
+          "options": [
+            {
+              "name": "Тип подключения",
+              "value": "Magnetic Connector"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V, 1A"
+            }
+          ]
+        },
+        {
+          "id": "8d7e6f50-4a39-2876-5432-10fedcba9876",
+          "price": 94380,
+          "stock": 150,
+          "options": [
+            {
+              "name": "Выходное напряжение/ток",
+              "value": "5V, 0.5A"
+            },
+            {
+              "name": "Защита от перегрузки",
+              "value": "Yes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2593518,
+      "title": "Смарт-часы с магнитной беспроводной зарядкой, быстрым зарядом и USB-подключением",
+      "price": {
+        "min": 25000,
+        "max": 99000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cu98qv45j42bjc4a23t0",
+          "link": "https://images.uzum.uz/cu98qv45j42bjc4a23t0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu98qv6i4n324lr5t7j0",
+          "link": "https://images.uzum.uz/cu98qv6i4n324lr5t7j0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu98qv6i4n324lr5t7ig",
+          "link": "https://images.uzum.uz/cu98qv6i4n324lr5t7ig/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu98qv5ht56ksubf6li0",
+          "link": "https://images.uzum.uz/cu98qv5ht56ksubf6li0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -75,
+      "categories": [
+        "electronics",
+        "smart-wearables",
+        "cables-and-chargers"
+      ],
+      "description": "## Смарт-часы с магнитной беспроводной зарядкой, быстрым зарядом и USB-подключением\n\n**Технические характеристики:**\n\n* **Экран:** 1.47\" AMOLED, 480x480 пикселей, 330 ppi,  защитное стекло Gorilla Glass 3.\n* **Процессор:**  Apollo4 Plus, 2-ядерный, 1.0 ГГц.\n* **Оперативная память:** 1 ГБ\n* **Встроенная память:** 16 ГБ\n* **Аккумулятор:** 300 мАч литий-полимерный.  Время работы в режиме ожидания до 7 дней, активного использования до 2 дней.\n* **Зарядка:**  Магнитная беспроводная зарядка (до 50% за 30 минут), USB-подключение (для полной зарядки за 1,5 часа).\n* **Связь:** Bluetooth 5.2, Wi-Fi 2.4 ГГц (802.11 b/g/n).\n* **Датчики:** Акселерометр, гироскоп, датчик сердечного ритма, датчик SpO2, датчик освещенности.\n* **Водонепроницаемость:** IP68 (защита от пыли и погружения в воду на глубину до 1.5 метров на 30 минут).\n* **Корпус:** Алюминиевый сплав, вес 45 г.  Ремешок из силикона.\n* **Операционная система:**  RTOS (реального времени).\n* **Функции:**  Измерение частоты сердечного ритма, мониторинг сна, измерение уровня кислорода в крови (SpO2), подсчет шагов, уведомления о звонках и сообщениях, управление музыкой, GPS-трекинг (через подключение к смартфону).\n\n**Преимущества:**\n\n* **Быстрая зарядка:**  Магнитная беспроводная зарядка обеспечивает удобство и скорость зарядки.\n* **Два способа зарядки:** Возможность зарядки как беспроводным способом, так и через USB-кабель для большей гибкости.\n* **Высокое качество экрана:**  Яркий и четкий AMOLED-дисплей обеспечивает отличную читаемость информации.\n* **Множество функций:**  Широкий набор датчиков и функций для отслеживания активности и здоровья.\n* **Прочный и водонепроницаемый корпус:**  Надежная конструкция, защищающая часы от повреждений и воды.\n\n\n**Особенности:**\n\n* Удобная магнитная беспроводная зарядка.\n* Сочетание беспроводной и USB-зарядки.\n* Высокая плотность пикселей AMOLED-дисплея.\n*  Компактный и легкий дизайн.\n\nЭтот технический ответ предоставляет исчерпывающую информацию о продукте.  Можно добавить информацию о совместимости со смартфонами (Android и iOS) и о доступных цветах корпуса и ремешков, если требуется более полное описание.\n",
+      "tags": [
+        {
+          "name": "smart-watch",
+          "displayName": "Умные часы"
+        },
+        {
+          "name": "1-47-amoled-display",
+          "displayName": "Экран 1.47\" AMOLED"
+        },
+        {
+          "name": "480x480-pixels",
+          "displayName": "Разрешение 480x480 пикселей"
+        },
+        {
+          "name": "330-ppi",
+          "displayName": "Плотность пикселей 330 ppi"
+        },
+        {
+          "name": "gorilla-glass-3",
+          "displayName": "Защитное стекло Gorilla Glass 3"
+        },
+        {
+          "name": "apollo4-plus-processor",
+          "displayName": "Процессор Apollo4 Plus"
+        },
+        {
+          "name": "1gb-ram",
+          "displayName": "1 ГБ ОЗУ"
+        },
+        {
+          "name": "16gb-rom",
+          "displayName": "16 ГБ ПЗУ"
+        },
+        {
+          "name": "300mah-battery",
+          "displayName": "Аккумулятор 300 мАч"
+        },
+        {
+          "name": "up-to-7-days-standby-time",
+          "displayName": "До 7 дней в режиме ожидания"
+        },
+        {
+          "name": "up-to-2-days-active-use",
+          "displayName": "До 2 дней активного использования"
+        },
+        {
+          "name": "magnetic-wireless-charging",
+          "displayName": "Магнитная беспроводная зарядка"
+        },
+        {
+          "name": "50-percent-charge-in-30-minutes",
+          "displayName": "50% заряда за 30 минут"
+        },
+        {
+          "name": "usb-charging",
+          "displayName": "USB-зарядка"
+        },
+        {
+          "name": "1-5-hours-full-charge",
+          "displayName": "Полная зарядка за 1,5 часа"
+        },
+        {
+          "name": "bluetooth-5-2",
+          "displayName": "Bluetooth 5.2"
+        },
+        {
+          "name": "wifi-2-4ghz",
+          "displayName": "Wi-Fi 2.4 ГГц"
+        },
+        {
+          "name": "accelerometer",
+          "displayName": "Акселерометр"
+        },
+        {
+          "name": "gyroscope",
+          "displayName": "Гироскоп"
+        },
+        {
+          "name": "heart-rate-sensor",
+          "displayName": "Датчик сердечного ритма"
+        },
+        {
+          "name": "spo2-sensor",
+          "displayName": "Датчик SpO2"
+        },
+        {
+          "name": "ambient-light-sensor",
+          "displayName": "Датчик освещенности"
+        },
+        {
+          "name": "ip68-water-resistance",
+          "displayName": "Водонепроницаемость IP68"
+        },
+        {
+          "name": "aluminum-alloy-case",
+          "displayName": "Корпус из алюминиевого сплава"
+        },
+        {
+          "name": "45g-weight",
+          "displayName": "Вес 45 г"
+        },
+        {
+          "name": "silicone-strap",
+          "displayName": "Ремешок из силикона"
+        },
+        {
+          "name": "rtos",
+          "displayName": "Операционная система RTOS"
+        },
+        {
+          "name": "spacegray",
+          "displayName": "Цвет корпуса: Space Gray"
+        },
+        {
+          "name": "silver",
+          "displayName": "Цвет корпуса: Silver"
+        },
+        {
+          "name": "gold",
+          "displayName": "Цвет корпуса: Gold"
+        },
+        {
+          "name": "black-strap",
+          "displayName": "Цвет ремешка: Black"
+        },
+        {
+          "name": "white-strap",
+          "displayName": "Цвет ремешка: White"
+        },
+        {
+          "name": "rosegold-strap",
+          "displayName": "Цвет ремешка: Rose Gold"
+        },
+        {
+          "name": "blue-strap",
+          "displayName": "Цвет ремешка: Blue"
+        },
+        {
+          "name": "green-strap",
+          "displayName": "Цвет ремешка: Green"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "smart-wearables",
+          "displayName": "Носимая электроника"
+        },
+        {
+          "name": "cables-and-chargers",
+          "displayName": "Кабели и зарядные устройства"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Экран",
+          "value": "1.47\" AMOLED, 480x480 пикселей, 330 ppi, Gorilla Glass 3"
+        },
+        {
+          "name": "Процессор",
+          "value": "Apollo4 Plus, 2-ядерный, 1.0 ГГц"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "1 ГБ"
+        },
+        {
+          "name": "Встроенная память",
+          "value": "16 ГБ"
+        },
+        {
+          "name": "Ёмкость батареи",
+          "value": "300 мАч"
+        },
+        {
+          "name": "Время работы от батареи (ожидание)",
+          "value": "До 7 дней"
+        },
+        {
+          "name": "Время работы от батареи (активное использование)",
+          "value": "До 2 дней"
+        },
+        {
+          "name": "Беспроводная зарядка",
+          "value": "Магнитная, до 50% за 30 минут"
+        },
+        {
+          "name": "USB-зарядка",
+          "value": "Полная зарядка за 1,5 часа"
+        },
+        {
+          "name": "Связь",
+          "value": "Bluetooth 5.2, Wi-Fi 2.4 ГГц (802.11 b/g/n)"
+        },
+        {
+          "name": "Датчики",
+          "value": "Акселерометр, гироскоп, датчик сердечного ритма, датчик SpO2, датчик освещенности"
+        },
+        {
+          "name": "Водонепроницаемость",
+          "value": "IP68"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Алюминиевый сплав"
+        },
+        {
+          "name": "Вес",
+          "value": "45 г"
+        },
+        {
+          "name": "Материал ремешка",
+          "value": "Силикон"
+        },
+        {
+          "name": "Операционная система",
+          "value": "RTOS"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 24850,
+          "stock": 350,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "SpaceGray"
+            },
+            {
+              "name": "Цвет ремешка",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 25200,
+          "stock": 120,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Цвет ремешка",
+              "value": "White"
+            }
+          ]
+        },
+        {
+          "id": "11223344-5566-7788-9900-aabbccddeeff",
+          "price": 24990,
+          "stock": 700,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Gold"
+            },
+            {
+              "name": "Цвет ремешка",
+              "value": "RoseGold"
+            }
+          ]
+        },
+        {
+          "id": "55555555-5555-5555-5555-555555555555",
+          "price": 25500,
+          "stock": 200,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "SpaceGray"
+            },
+            {
+              "name": "Цвет ремешка",
+              "value": "Blue"
+            }
+          ]
+        },
+        {
+          "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+          "price": 24600,
+          "stock": 400,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Цвет ремешка",
+              "value": "Green"
+            }
+          ]
+        },
+        {
+          "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+          "price": 25100,
+          "stock": 150,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "RoseGold"
+            },
+            {
+              "name": "Цвет ремешка",
+              "value": "Black"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1656490,
+      "title": "Кабель питания для ноутбука 3pin C5",
+      "price": {
+        "min": 50000,
+        "max": 50000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "coma4jmqlk6no2nue66g",
+          "link": "https://images.uzum.uz/coma4jmqlk6no2nue66g/t_product_540_high.jpg"
+        },
+        {
+          "id": "coma4jmqlk6no2nue650",
+          "link": "https://images.uzum.uz/coma4jmqlk6no2nue650/t_product_540_high.jpg"
+        },
+        {
+          "id": "coma4jn0sttt9lm5a290",
+          "link": "https://images.uzum.uz/coma4jn0sttt9lm5a290/t_product_540_high.jpg"
+        },
+        {
+          "id": "coma4ji1vi9ikicr6irg",
+          "link": "https://images.uzum.uz/coma4ji1vi9ikicr6irg/t_product_540_high.jpg"
+        },
+        {
+          "id": "coma4ji1vi9ikicr6ir0",
+          "link": "https://images.uzum.uz/coma4ji1vi9ikicr6ir0/t_product_540_high.jpg"
+        },
+        {
+          "id": "coma4jn0sttt9lm5a29g",
+          "link": "https://images.uzum.uz/coma4jn0sttt9lm5a29g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "smart-wearables",
+        "cables-and-chargers"
+      ],
+      "description": "## Кабель питания для ноутбука 3pin C5\n\n**Технические характеристики:**\n\n* **Разъём:** 3-pin C5 (гнездо на блоке питания)  —  гнездо для ноутбука (тип уточняется по запросу покупателя)\n* **Длина:** 1.8 метра (стандартная длина, доступны другие варианты по запросу)\n* **Материал провода:**  Медь OFC (бескислородная медь),  в двойной силиконовой изоляции, обеспечивающей гибкость и долговечность.\n* **Номинальный ток:** 3.5A\n* **Номинальное напряжение:** 19V (уточняется по запросу покупателя)\n* **Диаметр провода:** 1.5 мм²\n* **Рабочая температура:** от -20°C до +70°C\n* **Соответствие стандартам:**  RoHS\n* **Защита от перегибов:**  Усиленный коннектор\n\n\n**Преимущества:**\n\n* Высокая проводимость благодаря применению медного OFC провода.\n* Надежная изоляция, обеспечивающая защиту от короткого замыкания и повреждений.\n* Долговечность и устойчивость к износу за счет качественных материалов и усиленного коннектора.\n* Широкий диапазон рабочих температур.\n* Соответствие стандартам безопасности RoHS.\n\n\n**Особенности:**\n\n* Специально разработан для ноутбуков с 3-pin C5 разъемом на блоке питания.\n* Компактный и легкий.\n* Простота подключения.\n\n\n**Примечание:**  Укажите требуемый тип разъема для ноутбука при заказе,  а также номинальное напряжение вашего блока питания для обеспечения корректной работы.\n",
+      "tags": [
+        {
+          "name": "power-cable",
+          "displayName": "Кабель питания"
+        },
+        {
+          "name": "3pin-c5",
+          "displayName": "3-pin C5"
+        },
+        {
+          "name": "180cm-length",
+          "displayName": "Длина 1.8 м"
+        },
+        {
+          "name": "ofc-copper-wire",
+          "displayName": "Провод из бескислородной меди OFC"
+        },
+        {
+          "name": "double-silicone-isolation",
+          "displayName": "Двойная силиконовая изоляция"
+        },
+        {
+          "name": "3.5a-current",
+          "displayName": "Номинальный ток 3.5 А"
+        },
+        {
+          "name": "1.5mm2-diameter",
+          "displayName": "Диаметр провода 1.5 мм²"
+        },
+        {
+          "name": "-20-70c-temperature",
+          "displayName": "Рабочая температура от -20°C до +70°C"
+        },
+        {
+          "name": "rohs-compliant",
+          "displayName": "Соответствует стандартам RoHS"
+        },
+        {
+          "name": "reinforced-connector",
+          "displayName": "Усиленный коннектор"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "cables-and-chargers",
+          "displayName": "Кабели и зарядные устройства"
+        },
+        {
+          "name": "smart-wearables",
+          "displayName": "Умная носимая электроника"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Разъем на блоке питания",
+          "value": "3-pin C5"
+        },
+        {
+          "name": "Разъем на ноутбуке",
+          "value": "Уточняется по запросу"
+        },
+        {
+          "name": "Длина кабеля",
+          "value": "1.8 метра"
+        },
+        {
+          "name": "Материал провода",
+          "value": "Медь OFC (бескислородная)"
+        },
+        {
+          "name": "Изоляция провода",
+          "value": "Двойная силиконовая"
+        },
+        {
+          "name": "Номинальный ток",
+          "value": "3.5A"
+        },
+        {
+          "name": "Номинальное напряжение",
+          "value": "Уточняется по запросу"
+        },
+        {
+          "name": "Диаметр провода",
+          "value": "1.5 мм²"
+        },
+        {
+          "name": "Рабочая температура",
+          "value": "-20°C до +70°C"
+        },
+        {
+          "name": "Соответствие стандартам",
+          "value": "RoHS"
+        },
+        {
+          "name": "Защита от перегибов",
+          "value": "Усиленный коннектор"
+        },
+        {
+          "name": "Вес",
+          "value": "Уточняется по запросу"
+        },
+        {
+          "name": "Цвет",
+          "value": "Черный (стандартный)"
+        },
+        {
+          "name": "Гарантия",
+          "value": "12 месяцев"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 48765,
+          "stock": 320,
+          "options": [
+            {
+              "name": "Разъем на ноутбуке",
+              "value": "Type-C"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "1.8m"
+            },
+            {
+              "name": "Номинальное напряжение",
+              "value": "19V"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 51234,
+          "stock": 150,
+          "options": [
+            {
+              "name": "Разъем на ноутбуке",
+              "value": "DC Jack 7.4x5.0mm"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "2.5m"
+            },
+            {
+              "name": "Номинальное напряжение",
+              "value": "19.5V"
+            }
+          ]
+        },
+        {
+          "id": "5d4c3b2a-1987-6543-2109-87654321fedcba",
+          "price": 49876,
+          "stock": 800,
+          "options": [
+            {
+              "name": "Разъем на ноутбуке",
+              "value": "DC Jack 5.5x2.5mm"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "1.8m"
+            },
+            {
+              "name": "Номинальное напряжение",
+              "value": "20V"
+            }
+          ]
+        },
+        {
+          "id": "e7f8d9c0-a6b5-4321-0987-6543210fedcba",
+          "price": 52100,
+          "stock": 270,
+          "options": [
+            {
+              "name": "Разъем на ноутбуке",
+              "value": "Type-C"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "1.2m"
+            },
+            {
+              "name": "Номинальное напряжение",
+              "value": "19V"
+            }
+          ]
+        },
+        {
+          "id": "b8a9b0c1-d2e3-f456-7890-1234567890abc",
+          "price": 45678,
+          "stock": 400,
+          "options": [
+            {
+              "name": "Разъем на ноутбуке",
+              "value": "DC Jack 4.8x1.7mm"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "1.8m"
+            },
+            {
+              "name": "Номинальное напряжение",
+              "value": "12V"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2217603,
+      "title": "Зарядное устройство для Amazfit GTR 3 Pro/4 Pro GTS 3/4, T-rex 2, USB Charger Xiaomi",
+      "price": {
+        "min": 75000,
+        "max": 79000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "csaue734nkdhfdv5obkg",
+          "link": "https://images.uzum.uz/csaue734nkdhfdv5obkg/t_product_540_high.jpg"
+        },
+        {
+          "id": "csaue8jvgbkl7noks3f0",
+          "link": "https://images.uzum.uz/csaue8jvgbkl7noks3f0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -5,
+      "categories": [
+        "electronics",
+        "smart-wearables",
+        "cables-and-chargers"
+      ],
+      "description": "Зарядное устройство для Amazfit GTR 3 Pro/4 Pro, GTS 3/4, T-rex 2, совместимое с USB-портами Xiaomi.  Устройство обеспечивает стабильную зарядку указанных моделей смарт-часов посредством магнитного контакта. Корпус изготовлен из высокопрочного ABS-пластика.  Встроенная система защиты от перенапряжения, короткого замыкания и перегрева гарантирует безопасность зарядки и продлевает срок службы аккумулятора часов.  \n\n**Характеристики:**\n\n* **Модель:**  USB Charger Xiaomi для Amazfit\n* **Совместимость:** Amazfit GTR 3 Pro, Amazfit GTR 4 Pro, Amazfit GTS 3, Amazfit GTS 4, Amazfit T-rex 2\n* **Тип подключения:** Магнитный контакт\n* **Входное напряжение:** 5V 1A (USB)\n* **Выходное напряжение:** 5V 0.5A\n* **Материал корпуса:** ABS пластик\n* **Защита:** От перенапряжения, короткого замыкания, перегрева\n* **Длина кабеля:** 100 см (примерное значение)\n* **Цвет:** Черный (примерное значение)\n\n\n**Преимущества:**\n\n* Быстрая и безопасная зарядка.\n* Прочный и надежный корпус.\n* Совместимость с различными моделями Amazfit.\n* Компактный размер, удобный для переноски.\n* Защита от повреждений батареи часов.\n\n\n**Особенности:**\n\n* Магнитный разъем для удобного и надежного подключения.\n* Совместимость с USB-портами Xiaomi и другими стандартизированными USB-портами.\n",
+      "tags": [
+        {
+          "name": "xiaomi",
+          "displayName": "Xiaomi"
+        },
+        {
+          "name": "usb-charger-amazfit",
+          "displayName": "USB Charger Xiaomi для Amazfit"
+        },
+        {
+          "name": "magnetic-connector",
+          "displayName": "Магнитный контакт"
+        },
+        {
+          "name": "5v-1a-input",
+          "displayName": "Входное напряжение 5В 1А"
+        },
+        {
+          "name": "5v-0.5a-output",
+          "displayName": "Выходное напряжение 5В 0.5А"
+        },
+        {
+          "name": "abs-plastic",
+          "displayName": "ABS пластик"
+        },
+        {
+          "name": "overvoltage-short-circuit-overheat-protection",
+          "displayName": "Защита от перенапряжения, короткого замыкания, перегрева"
+        },
+        {
+          "name": "100cm-cable-length",
+          "displayName": "Длина кабеля 100 см"
+        },
+        {
+          "name": "black-white",
+          "displayName": "Черный, Белый"
+        },
+        {
+          "name": "amazfit-gtr-3-pro",
+          "displayName": "Amazfit GTR 3 Pro"
+        },
+        {
+          "name": "amazfit-gtr-4-pro",
+          "displayName": "Amazfit GTR 4 Pro"
+        },
+        {
+          "name": "amazfit-gts-3",
+          "displayName": "Amazfit GTS 3"
+        },
+        {
+          "name": "amazfit-gts-4",
+          "displayName": "Amazfit GTS 4"
+        },
+        {
+          "name": "amazfit-t-rex-2",
+          "displayName": "Amazfit T-rex 2"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "smart-wearables",
+          "displayName": "Умная носимая электроника"
+        },
+        {
+          "name": "cables-and-chargers",
+          "displayName": "Кабели и зарядные устройства"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "USB Charger Xiaomi для Amazfit"
+        },
+        {
+          "name": "Совместимость",
+          "value": "Amazfit GTR 3 Pro, Amazfit GTR 4 Pro, Amazfit GTS 3, Amazfit GTS 4, Amazfit T-rex 2"
+        },
+        {
+          "name": "Тип подключения",
+          "value": "Магнитный контакт"
+        },
+        {
+          "name": "Входное напряжение",
+          "value": "5V 1A (USB)"
+        },
+        {
+          "name": "Выходное напряжение",
+          "value": "5V 0.5A"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "ABS пластик"
+        },
+        {
+          "name": "Защита от",
+          "value": "Перенапряжения, короткого замыкания, перегрева"
+        },
+        {
+          "name": "Длина кабеля",
+          "value": "100 см"
+        },
+        {
+          "name": "Цвет",
+          "value": "Черный"
+        },
+        {
+          "name": "Вес",
+          "value": "20 г"
+        },
+        {
+          "name": "Размер",
+          "value": "60 x 40 x 20 мм"
+        },
+        {
+          "name": "Гарантия",
+          "value": "12 месяцев"
+        },
+        {
+          "name": "Комплектация",
+          "value": "Зарядное устройство, инструкция"
+        },
+        {
+          "name": "Страна производитель",
+          "value": "Китай"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 74850,
+          "stock": 250,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "USB Charger Xiaomi для Amazfit"
+            },
+            {
+              "name": "Совместимость",
+              "value": "Amazfit GTR 3 Pro, Amazfit GTR 4 Pro, Amazfit GTS 3, Amazfit GTS 4, Amazfit T-rex 2"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "Магнитный контакт"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V 1A (USB)"
+            },
+            {
+              "name": "Выходное напряжение",
+              "value": "5V 0.5A"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS пластик"
+            },
+            {
+              "name": "Защита от",
+              "value": "Перенапряжения, короткого замыкания, перегрева"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100 см"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            },
+            {
+              "name": "Вес",
+              "value": "20 г"
+            },
+            {
+              "name": "Размер",
+              "value": "60 x 40 x 20 мм"
+            },
+            {
+              "name": "Гарантия",
+              "value": "12 месяцев"
+            },
+            {
+              "name": "Комплектация",
+              "value": "Зарядное устройство, инструкция"
+            },
+            {
+              "name": "Страна производитель",
+              "value": "Китай"
+            }
+          ]
+        },
+        {
+          "id": "f7e6d5c4-b3a2-1098-7654-3210fedcba98",
+          "price": 75200,
+          "stock": 100,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "USB Charger Xiaomi для Amazfit"
+            },
+            {
+              "name": "Совместимость",
+              "value": "Amazfit GTR 3 Pro, Amazfit GTR 4 Pro, Amazfit GTS 3, Amazfit GTS 4, Amazfit T-rex 2"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "Магнитный контакт"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V 1A (USB)"
+            },
+            {
+              "name": "Выходное напряжение",
+              "value": "5V 0.5A"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS пластик"
+            },
+            {
+              "name": "Защита от",
+              "value": "Перенапряжения, короткого замыкания, перегрева"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100 см"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            },
+            {
+              "name": "Вес",
+              "value": "20 г"
+            },
+            {
+              "name": "Размер",
+              "value": "60 x 40 x 20 мм"
+            },
+            {
+              "name": "Гарантия",
+              "value": "12 месяцев"
+            },
+            {
+              "name": "Комплектация",
+              "value": "Зарядное устройство, инструкция"
+            },
+            {
+              "name": "Страна производитель",
+              "value": "Китай"
+            },
+            {
+              "name": "Дополнительная опция",
+              "value": "Быстрая зарядка"
+            }
+          ]
+        },
+        {
+          "id": "d4c5b6a7-8901-2345-6789-0abcdef12345",
+          "price": 74500,
+          "stock": 300,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "USB Charger Xiaomi для Amazfit"
+            },
+            {
+              "name": "Совместимость",
+              "value": "Amazfit GTR 3 Pro, Amazfit GTR 4 Pro, Amazfit GTS 3, Amazfit GTS 4, Amazfit T-rex 2"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "Магнитный контакт"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V 1A (USB)"
+            },
+            {
+              "name": "Выходное напряжение",
+              "value": "5V 0.5A"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS пластик"
+            },
+            {
+              "name": "Защита от",
+              "value": "Перенапряжения, короткого замыкания, перегрева"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100 см"
+            },
+            {
+              "name": "Цвет",
+              "value": "Белый"
+            },
+            {
+              "name": "Вес",
+              "value": "20 г"
+            },
+            {
+              "name": "Размер",
+              "value": "60 x 40 x 20 мм"
+            },
+            {
+              "name": "Гарантия",
+              "value": "12 месяцев"
+            },
+            {
+              "name": "Комплектация",
+              "value": "Зарядное устройство, инструкция"
+            },
+            {
+              "name": "Страна производитель",
+              "value": "Китай"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1073080,
+      "title": "Зарядное устройство для Amazfit GTR 3 Pro/4 Pro GTS 3/4, T-rex 2, USB Charger Xiaomi",
+      "price": {
+        "min": 84000,
+        "max": 89000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "crran2ji153t30un5gtg",
+          "link": "https://images.uzum.uz/crran2ji153t30un5gtg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckap2mkvutv73otr6h1g",
+          "link": "https://images.uzum.uz/ckap2mkvutv73otr6h1g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckap2mkjvf2kdov65vj0",
+          "link": "https://images.uzum.uz/ckap2mkjvf2kdov65vj0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckap2mkvutv73otr6h20",
+          "link": "https://images.uzum.uz/ckap2mkvutv73otr6h20/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckap2mjk9fq1var6sssg",
+          "link": "https://images.uzum.uz/ckap2mjk9fq1var6sssg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -6,
+      "categories": [
+        "electronics",
+        "smart-wearables",
+        "cables-and-chargers"
+      ],
+      "description": "Зарядное устройство для Amazfit GTR 3 Pro/4 Pro, GTS 3/4, T-rex 2, совместимое с USB-портами (Xiaomi и др.).  Обеспечивает стабильную зарядку часов посредством магнитного соединения.\n\n**Характеристики:**\n\n* **Модель:** USB Charger Xiaomi (совместимая с Amazfit)\n* **Совместимость:** Amazfit GTR 3 Pro, GTR 4 Pro, GTS 3, GTS 4, T-rex 2\n* **Тип подключения:** Магнитное\n* **Входное напряжение:** 5V DC, 1A (стандартный USB)\n* **Выходное напряжение:** 5V DC, 0.5A\n* **Материал корпуса:** ABS пластик\n* **Длина кабеля:** 100 см\n* **Защита от перегрузки по току:** Да\n* **Защита от короткого замыкания:** Да\n* **Цвет:** Черный\n\n\n**Преимущества:**\n\n* Стабильная и безопасная зарядка благодаря защитным функциям от перегрузки и короткого замыкания.\n* Удобное магнитное крепление, обеспечивающее надежный контакт и простоту использования.\n* Совместимость с широким спектром USB-портов, включая зарядные устройства Xiaomi.\n* Компактный размер и легкий вес для удобства транспортировки и хранения.\n* Достаточная длина кабеля для комфортного использования.\n\n\n**Особенности:**\n\n* Специально разработано для указанных моделей смарт-часов Amazfit.\n* Использование качественных материалов для обеспечения долговечности.\n* Эффективное и быстрое время зарядки.\n",
+      "tags": [
+        {
+          "name": "xiaomi",
+          "displayName": "Xiaomi"
+        },
+        {
+          "name": "usb-charger",
+          "displayName": "USB-зарядка"
+        },
+        {
+          "name": "magnetic-connector",
+          "displayName": "Магнитное подключение"
+        },
+        {
+          "name": "5v-1a-input",
+          "displayName": "Входное напряжение 5V 1A"
+        },
+        {
+          "name": "5v-0.5a-output",
+          "displayName": "Выходное напряжение 5V 0.5A"
+        },
+        {
+          "name": "abs-plastic",
+          "displayName": "ABS пластик"
+        },
+        {
+          "name": "100cm-cable-length",
+          "displayName": "Длина кабеля 100 см"
+        },
+        {
+          "name": "overcurrent-protection",
+          "displayName": "Защита от перегрузки по току"
+        },
+        {
+          "name": "short-circuit-protection",
+          "displayName": "Защита от короткого замыкания"
+        },
+        {
+          "name": "black",
+          "displayName": "Черный"
+        },
+        {
+          "name": "white",
+          "displayName": "Белый"
+        },
+        {
+          "name": "amazfit-gtr-3-pro",
+          "displayName": "Amazfit GTR 3 Pro"
+        },
+        {
+          "name": "amazfit-gtr-4-pro",
+          "displayName": "Amazfit GTR 4 Pro"
+        },
+        {
+          "name": "amazfit-gts-3",
+          "displayName": "Amazfit GTS 3"
+        },
+        {
+          "name": "amazfit-gts-4",
+          "displayName": "Amazfit GTS 4"
+        },
+        {
+          "name": "amazfit-t-rex-2",
+          "displayName": "Amazfit T-rex 2"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "smart-wearables",
+          "displayName": "Умные носимые устройства"
+        },
+        {
+          "name": "cables-and-chargers",
+          "displayName": "Кабели и зарядные устройства"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "USB Charger Xiaomi (совместимая с Amazfit)"
+        },
+        {
+          "name": "Совместимость",
+          "value": "Amazfit GTR 3 Pro, GTR 4 Pro, GTS 3, GTS 4, T-rex 2"
+        },
+        {
+          "name": "Тип подключения",
+          "value": "Магнитное"
+        },
+        {
+          "name": "Входное напряжение",
+          "value": "5V DC, 1A"
+        },
+        {
+          "name": "Выходное напряжение",
+          "value": "5V DC, 0.5A"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "ABS пластик"
+        },
+        {
+          "name": "Длина кабеля",
+          "value": "100 см"
+        },
+        {
+          "name": "Защита от перегрузки по току",
+          "value": "Да"
+        },
+        {
+          "name": "Защита от короткого замыкания",
+          "value": "Да"
+        },
+        {
+          "name": "Цвет",
+          "value": "Черный"
+        },
+        {
+          "name": "Вес",
+          "value": "20 г"
+        },
+        {
+          "name": "Габариты",
+          "value": "6 x 4 x 2 см"
+        },
+        {
+          "name": "Время зарядки",
+          "value": "Примерно 2 часа (зависит от уровня заряда батареи часов)"
+        },
+        {
+          "name": "Гарантия",
+          "value": "6 месяцев"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 83850,
+          "stock": 721,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "USB Charger Xiaomi (совместимая с Amazfit)"
+            },
+            {
+              "name": "Совместимость",
+              "value": "Amazfit GTR 3 Pro, GTR 4 Pro, GTS 3, GTS 4, T-rex 2"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "Магнитное"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V DC, 1A"
+            },
+            {
+              "name": "Выходное напряжение",
+              "value": "5V DC, 0.5A"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS пластик"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100 см"
+            },
+            {
+              "name": "Защита от перегрузки по току",
+              "value": "Да"
+            },
+            {
+              "name": "Защита от короткого замыкания",
+              "value": "Да"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            }
+          ]
+        },
+        {
+          "id": "f7e6d5c4-b3a2-1098-7654-3210fedcba98",
+          "price": 84210,
+          "stock": 250,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "USB Charger Xiaomi (совместимая с Amazfit)"
+            },
+            {
+              "name": "Совместимость",
+              "value": "Amazfit GTR 3 Pro, GTR 4 Pro, GTS 3, GTS 4, T-rex 2"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "Магнитное"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V DC, 1A"
+            },
+            {
+              "name": "Выходное напряжение",
+              "value": "5V DC, 0.5A"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS пластик"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100 см"
+            },
+            {
+              "name": "Защита от перегрузки по току",
+              "value": "Да"
+            },
+            {
+              "name": "Защита от короткого замыкания",
+              "value": "Да"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            },
+            {
+              "name": "Дополнительная опция",
+              "value": "Быстрая зарядка"
+            }
+          ]
+        },
+        {
+          "id": "24680135-79bdae6f-c8d9-5a4b-1e02-9786543210fc",
+          "price": 83980,
+          "stock": 912,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "USB Charger Xiaomi (совместимая с Amazfit)"
+            },
+            {
+              "name": "Совместимость",
+              "value": "Amazfit GTR 3 Pro, GTR 4 Pro, GTS 3, GTS 4, T-rex 2"
+            },
+            {
+              "name": "Тип подключения",
+              "value": "Магнитное"
+            },
+            {
+              "name": "Входное напряжение",
+              "value": "5V DC, 1A"
+            },
+            {
+              "name": "Выходное напряжение",
+              "value": "5V DC, 0.5A"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "ABS пластик"
+            },
+            {
+              "name": "Длина кабеля",
+              "value": "100 см"
+            },
+            {
+              "name": "Защита от перегрузки по току",
+              "value": "Да"
+            },
+            {
+              "name": "Защита от короткого замыкания",
+              "value": "Да"
+            },
+            {
+              "name": "Цвет",
+              "value": "Белый"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

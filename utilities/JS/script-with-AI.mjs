@@ -247,7 +247,7 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'smart-wearables'
-const categoryLevel_3 = 'smart-gadgets'
+const categoryLevel_3 = 'screen-protectors-and-cases'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
@@ -311,7 +311,7 @@ const generatePath = (page, fileName) => {
 //   generatePath(2, fileToRead),
 //   generatePath(2, fileToWrite)
 // )
-// updateJSONWithVariations
+
 // console.log('Пауза <||>')
 // await delay(10000)
 

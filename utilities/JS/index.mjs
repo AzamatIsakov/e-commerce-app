@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-// tranform('laptops/1')
-// tranform('laptops/2')
-// tranform('laptops/3')
-// tranform('laptops/4')
-// tranform('laptops/5')
+// tranform('tablets-ereaders/1')
+// tranform('tablets-ereaders/2')
+// tranform('tablets-ereaders/3')
+// tranform('tablets-ereaders/4')
+// tranform('tablets-ereaders/5')
 
 //!| electronics
 //*| phones

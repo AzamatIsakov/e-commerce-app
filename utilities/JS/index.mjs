@@ -6,7 +6,7 @@ import {
 } from './utilities.mjs'
 
 const tranform = (page) => {
-  const categoryLevel_2 = 'laptops-tablets-ereaders'
+  const categoryLevel_2 = 'computer-hardware'
 
   const data = getDataFromJSON(
     `./data/electronics/${categoryLevel_2}/${page}/default.json`
@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-// tranform('tablets-ereaders/1')
-// tranform('tablets-ereaders/2')
-// tranform('tablets-ereaders/3')
-// tranform('tablets-ereaders/4')
-// tranform('tablets-ereaders/5')
+// tranform('computer-peripherals/1')
+// tranform('computer-peripherals/2')
+// tranform('computer-peripherals/3')
+// tranform('computer-peripherals/4')
+// tranform('computer-peripherals/5')
 
 //!| electronics
 //*| phones

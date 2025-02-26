@@ -40,8 +40,8 @@ export const transformToMyProductData = (product) => {
 
   newProduct.categories = [
     'electronics',
-    'laptops-tablets-ereaders',
-    'tablets-ereaders'
+    'computer-hardware',
+    'computer-peripherals'
   ]
 
   newProduct.description = ''

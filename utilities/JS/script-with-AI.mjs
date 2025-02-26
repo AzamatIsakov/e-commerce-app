@@ -247,7 +247,7 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'laptops-tablets-ereaders'
-const categoryLevel_3 = 'tablets-ereaders'
+const categoryLevel_3 = 'laptop-accessories'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
@@ -296,45 +296,45 @@ const generatePath = (page, fileName) => {
 
 // !================================================================================
 
-// const fileToRead = 'dataWithDescription.json'
-// const fileToWrite = 'dataWithFeatures.json'
+const fileToRead = 'dataWithFeatures.json' // 'dataWithDescription.json'
+const fileToWrite = 'dataWithFeatures.json'
 
-// await updateJSONWithFeatures(
-//   generatePath(1, fileToRead),
-//   generatePath(1, fileToWrite)
-// )
+await updateJSONWithFeatures(
+  generatePath(1, fileToRead),
+  generatePath(1, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithFeatures(
-//   generatePath(2, fileToRead),
-//   generatePath(2, fileToWrite)
-// )
+await updateJSONWithFeatures(
+  generatePath(2, fileToRead),
+  generatePath(2, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithFeatures(
-//   generatePath(3, fileToRead),
-//   generatePath(3, fileToWrite)
-// )
+await updateJSONWithFeatures(
+  generatePath(3, fileToRead),
+  generatePath(3, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithFeatures(
-//   generatePath(4, fileToRead),
-//   generatePath(4, fileToWrite)
-// )
+await updateJSONWithFeatures(
+  generatePath(4, fileToRead),
+  generatePath(4, fileToWrite)
+)
 
-// console.log('Пауза <||>')
-// await delay(10000)
+console.log('Пауза <||>')
+await delay(10000)
 
-// await updateJSONWithFeatures(
-//   generatePath(5, fileToRead),
-//   generatePath(5, fileToWrite)
-// )
+await updateJSONWithFeatures(
+  generatePath(5, fileToRead),
+  generatePath(5, fileToWrite)
+)
 
 // !================================================================================
 
@@ -388,50 +388,50 @@ const generatePath = (page, fileName) => {
 
 // !================================================================================
 
-const fileToRead = 'data.json'
-const fileToWrite = 'products.json'
+// const fileToRead = 'data.json'
+// const fileToWrite = 'products.json'
 
-await updateJSONWithTags(
-  generatePath(1, fileToRead),
-  generatePath(1, fileToWrite)
-)
+// await updateJSONWithTags(
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  generatePath(2, fileToRead),
-  generatePath(2, fileToWrite)
-)
+// await updateJSONWithTags(
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  generatePath(3, fileToRead),
-  generatePath(3, fileToWrite)
-)
+// await updateJSONWithTags(
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  generatePath(4, fileToRead),
-  generatePath(4, fileToWrite)
-)
+// await updateJSONWithTags(
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
+// )
 
-console.log()
-console.log('Пауза <||>')
-await delay(10000)
-console.log()
+// console.log()
+// console.log('Пауза <||>')
+// await delay(10000)
+// console.log()
 
-await updateJSONWithTags(
-  generatePath(5, fileToRead),
-  generatePath(5, fileToWrite)
-)
+// await updateJSONWithTags(
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
+// )

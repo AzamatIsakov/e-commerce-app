@@ -1,0 +1,1996 @@
+{
+  "items": [
+    {
+      "id": 2266349,
+      "title": "Источник бесперебойного питания для портативных устройств, внешний АКБ мини УПС для WiFI",
+      "price": {
+        "min": 470000,
+        "max": 600000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "csiugpbvgbkipf21tis0",
+          "link": "https://images.uzum.uz/csiugpbvgbkipf21tis0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csiugqj4nkdv7h9iqsa0",
+          "link": "https://images.uzum.uz/csiugqj4nkdv7h9iqsa0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csiugsjvgbkipf21tisg",
+          "link": "https://images.uzum.uz/csiugsjvgbkipf21tisg/t_product_540_high.jpg"
+        },
+        {
+          "id": "csiugvbvgbkipf21tit0",
+          "link": "https://images.uzum.uz/csiugvbvgbkipf21tit0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csiuh1j4nkdv7h9iqsbg",
+          "link": "https://images.uzum.uz/csiuh1j4nkdv7h9iqsbg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -22,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1252790,
+      "title": "Информационный экран, для пк мини-умный, Porodo Gaming 3,5-дюймовый PDX537",
+      "price": {
+        "min": 689000,
+        "max": 689000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "clov6ad6sfhsc0unnf9g",
+          "link": "https://images.uzum.uz/clov6ad6sfhsc0unnf9g/t_product_540_high.jpg"
+        },
+        {
+          "id": "clov6afn7c6gg9ie7660",
+          "link": "https://images.uzum.uz/clov6afn7c6gg9ie7660/t_product_540_high.jpg"
+        },
+        {
+          "id": "clov6afn7c6gg9ie766g",
+          "link": "https://images.uzum.uz/clov6afn7c6gg9ie766g/t_product_540_high.jpg"
+        },
+        {
+          "id": "clov6afn7c6gg9ie7670",
+          "link": "https://images.uzum.uz/clov6afn7c6gg9ie7670/t_product_540_high.jpg"
+        },
+        {
+          "id": "clov6al6sfhsc0unnfa0",
+          "link": "https://images.uzum.uz/clov6al6sfhsc0unnfa0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cljcrcfn7c6ncm71h5t0",
+          "link": "https://images.uzum.uz/cljcrcfn7c6ncm71h5t0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2698702,
+      "title": "Патч - корд оптический SC/UPC-SC/UPC simplex, 3 мм, для интернета",
+      "price": {
+        "min": 35000,
+        "max": 44000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cuomljs5j42bjc4ejifg",
+          "link": "https://images.uzum.uz/cuomljs5j42bjc4ejifg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuoa11c5j42bjc4eh2j0",
+          "link": "https://images.uzum.uz/cuoa11c5j42bjc4eh2j0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -20,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1560675,
+      "title": "Сервопривод, для проектов Ардуино и электроники SG90",
+      "price": {
+        "min": 26000,
+        "max": 37000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "coh6gh6qva2fgre7g1b0",
+          "link": "https://images.uzum.uz/coh6gh6qva2fgre7g1b0/t_product_540_high.jpg"
+        },
+        {
+          "id": "coh6gh21om4pepe0l5a0",
+          "link": "https://images.uzum.uz/coh6gh21om4pepe0l5a0/t_product_540_high.jpg"
+        },
+        {
+          "id": "coh6gh6qva2fgre7g1ag",
+          "link": "https://images.uzum.uz/coh6gh6qva2fgre7g1ag/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -30,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1972480,
+      "title": "WiFi роутер, репитер 300 мб/c, усилитель WiFi, 2.4 ГГц",
+      "price": {
+        "min": 129000,
+        "max": 227000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cu8bce6i4n324lr5i2l0",
+          "link": "https://images.uzum.uz/cu8bce6i4n324lr5i2l0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqvrpufiraat934pmdqg",
+          "link": "https://images.uzum.uz/cqvrpufiraat934pmdqg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqpn9knfrr8a72r7gu10",
+          "link": "https://images.uzum.uz/cqpn9knfrr8a72r7gu10/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqpn9lcqvsse8leuvr7g",
+          "link": "https://images.uzum.uz/cqpn9lcqvsse8leuvr7g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqpn9n4qvsse8leuvr80",
+          "link": "https://images.uzum.uz/cqpn9n4qvsse8leuvr80/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqpn9nssslomdvnjuhs0",
+          "link": "https://images.uzum.uz/cqpn9nssslomdvnjuhs0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -43,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1159193,
+      "title": "Разветвитель интернет кабеля RJ45 LAN адаптер проходной, соединительная муфта сетевого",
+      "price": {
+        "min": 19000,
+        "max": 30000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cs6gv0mo5c8cka40qt30",
+          "link": "https://images.uzum.uz/cs6gv0mo5c8cka40qt30/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs6gv46o5c8cka40qt40",
+          "link": "https://images.uzum.uz/cs6gv46o5c8cka40qt40/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckql9brk9fq6u2te67v0",
+          "link": "https://images.uzum.uz/ckql9brk9fq6u2te67v0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cllnigd6sfhsc0un0bi0",
+          "link": "https://images.uzum.uz/cllnigd6sfhsc0un0bi0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cllnigd6sfhsc0un0bhg",
+          "link": "https://images.uzum.uz/cllnigd6sfhsc0un0bhg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cllnig5enntcj8aa1akg",
+          "link": "https://images.uzum.uz/cllnig5enntcj8aa1akg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cllnig7n7c6gg9idfum0",
+          "link": "https://images.uzum.uz/cllnig7n7c6gg9idfum0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -37,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1787096,
+      "title": "Гигабитный кабель для интернета, LAN, UTP, патч-корд, RJ45, Ethernet",
+      "price": {
+        "min": 7000,
+        "max": 20000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "cup237k5j42bjc4enpeg",
+          "link": "https://images.uzum.uz/cup237k5j42bjc4enpeg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq6ptuniraaj97sj3s70",
+          "link": "https://images.uzum.uz/cq6ptuniraaj97sj3s70/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpin38bmdtjnp7390gvg",
+          "link": "https://images.uzum.uz/cpin38bmdtjnp7390gvg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqo682ksslomdvnjieng",
+          "link": "https://images.uzum.uz/cqo682ksslomdvnjieng/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqo682nfrr8a72r74sqg",
+          "link": "https://images.uzum.uz/cqo682nfrr8a72r74sqg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqo682ksslomdvnjiemg",
+          "link": "https://images.uzum.uz/cqo682ksslomdvnjiemg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqo682ksslomdvnjien0",
+          "link": "https://images.uzum.uz/cqo682ksslomdvnjien0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -65,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1589616,
+      "title": "Видео конвертер HDMI на RCA, переходник HDMI2AV",
+      "price": {
+        "min": 120000,
+        "max": 190000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "co7sepa83ve66on37gp0",
+          "link": "https://images.uzum.uz/co7sepa83ve66on37gp0/t_product_540_high.jpg"
+        },
+        {
+          "id": "co7sepsqk7bc30trcja0",
+          "link": "https://images.uzum.uz/co7sepsqk7bc30trcja0/t_product_540_high.jpg"
+        },
+        {
+          "id": "co7seqv2u18gghcn8jl0",
+          "link": "https://images.uzum.uz/co7seqv2u18gghcn8jl0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -37,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1584476,
+      "title": "4G LTE, USB модем, с SIM-картой и точкой доступа Wi-Fi Адаптер",
+      "price": {
+        "min": 169000,
+        "max": 399000
+      },
+      "favorite": false,
+      "rating": 4.4,
+      "photos": [
+        {
+          "id": "csma3ij4nkdg18tl6hr0",
+          "link": "https://images.uzum.uz/csma3ij4nkdg18tl6hr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csma3jdpq3go3q2ibmf0",
+          "link": "https://images.uzum.uz/csma3jdpq3go3q2ibmf0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csma3kdpq3go3q2ibmg0",
+          "link": "https://images.uzum.uz/csma3kdpq3go3q2ibmg0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp45r9c0u44tu6dq44ng",
+          "link": "https://images.uzum.uz/cp45r9c0u44tu6dq44ng/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp45r97j2e4ghqnrqhsg",
+          "link": "https://images.uzum.uz/cp45r97j2e4ghqnrqhsg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp45r97j2e4ghqnrqhs0",
+          "link": "https://images.uzum.uz/cp45r97j2e4ghqnrqhs0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp45r97frr80f2glndo0",
+          "link": "https://images.uzum.uz/cp45r97frr80f2glndo0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -58,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1500360,
+      "title": "Гигабитный кабель для интернета, LAN, UTP, патч-корд, RJ45, Ethernet, лан кабель",
+      "price": {
+        "min": 9000,
+        "max": 20000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "crns07mvip07shn5kfig",
+          "link": "https://images.uzum.uz/crns07mvip07shn5kfig/t_product_540_high.jpg"
+        },
+        {
+          "id": "co8kdkcqk7bc30triklg",
+          "link": "https://images.uzum.uz/co8kdkcqk7bc30triklg/t_product_540_high.jpg"
+        },
+        {
+          "id": "co8kdkf2u18gghcnel50",
+          "link": "https://images.uzum.uz/co8kdkf2u18gghcnel50/t_product_540_high.jpg"
+        },
+        {
+          "id": "co8kdkf2u18gghcnel4g",
+          "link": "https://images.uzum.uz/co8kdkf2u18gghcnel4g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -55,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1314853,
+      "title": "Archer AX12 двухдиапазонный гигабитный WiFi роутер AX1500 с поддержкой Mesh",
+      "price": {
+        "min": 623000,
+        "max": 900000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cmfuv0h25ku1lubrt1h0",
+          "link": "https://images.uzum.uz/cmfuv0h25ku1lubrt1h0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmfuv0bifoubkc6nnurg",
+          "link": "https://images.uzum.uz/cmfuv0bifoubkc6nnurg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmfuv0hs99ouqbfqaia0",
+          "link": "https://images.uzum.uz/cmfuv0hs99ouqbfqaia0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmfuv13ifoubkc6nnusg",
+          "link": "https://images.uzum.uz/cmfuv13ifoubkc6nnusg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmfuv11s99ouqbfqaib0",
+          "link": "https://images.uzum.uz/cmfuv11s99ouqbfqaib0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmfuv0h25ku1lubrt1hg",
+          "link": "https://images.uzum.uz/cmfuv0h25ku1lubrt1hg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmfuv0ps99ouqbfqaiag",
+          "link": "https://images.uzum.uz/cmfuv0ps99ouqbfqaiag/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -31,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1673521,
+      "title": "LAN кабель для интернета GIGABIT, Lan, Utp, CAT6, патч-корд, RJ45, Ethernet",
+      "price": {
+        "min": 10000,
+        "max": 30000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "cu5utds5j42bjc492fe0",
+          "link": "https://images.uzum.uz/cu5utds5j42bjc492fe0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu5vaak5j42bjc492ir0",
+          "link": "https://images.uzum.uz/cu5vaak5j42bjc492ir0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp98um4crcfud1qnfj70",
+          "link": "https://images.uzum.uz/cp98um4crcfud1qnfj70/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp98um4crcfud1qnfj6g",
+          "link": "https://images.uzum.uz/cp98um4crcfud1qnfj6g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp98um40u44vrh8euha0",
+          "link": "https://images.uzum.uz/cp98um40u44vrh8euha0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -67,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1239578,
+      "title": "Беспроводной сетевой PCI-адаптер TP-Link TL-WN751ND",
+      "price": {
+        "min": 238000,
+        "max": 280000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "clleuglenntcj8a9u2bg",
+          "link": "https://images.uzum.uz/clleuglenntcj8a9u2bg/t_product_540_high.jpg"
+        },
+        {
+          "id": "clleuglenntcj8a9u2ag",
+          "link": "https://images.uzum.uz/clleuglenntcj8a9u2ag/t_product_540_high.jpg"
+        },
+        {
+          "id": "clleuglenntcj8a9u2a0",
+          "link": "https://images.uzum.uz/clleuglenntcj8a9u2a0/t_product_540_high.jpg"
+        },
+        {
+          "id": "clleugl6sfhsc0umt3e0",
+          "link": "https://images.uzum.uz/clleugl6sfhsc0umt3e0/t_product_540_high.jpg"
+        },
+        {
+          "id": "clleugnn7c6gg9idclh0",
+          "link": "https://images.uzum.uz/clleugnn7c6gg9idclh0/t_product_540_high.jpg"
+        },
+        {
+          "id": "clleuglenntcj8a9u2b0",
+          "link": "https://images.uzum.uz/clleuglenntcj8a9u2b0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -15,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 525832,
+      "title": "Двухдиапазонный гигабитный Wi-Fi роутер, TP-Link EC225-G5",
+      "price": {
+        "min": 554000,
+        "max": 660000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "csi7gd3vgbkipf21mrfg",
+          "link": "https://images.uzum.uz/csi7gd3vgbkipf21mrfg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs2hd840u44g6jor4d9g",
+          "link": "https://images.uzum.uz/cs2hd840u44g6jor4d9g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs2hgrbi153t30uosb5g",
+          "link": "https://images.uzum.uz/cs2hgrbi153t30uosb5g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs2hibs0u44g6jor4f0g",
+          "link": "https://images.uzum.uz/cs2hibs0u44g6jor4f0g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -16,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1138003,
+      "title": "Mini UPS один выход 12 Вт, 1.5A ИБП для роутеров и камеры",
+      "price": {
+        "min": 145000,
+        "max": 500000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "clivs8nn7c6ncm71fi80",
+          "link": "https://images.uzum.uz/clivs8nn7c6ncm71fi80/t_product_540_high.jpg"
+        },
+        {
+          "id": "clivs8l6sfhjvlnaimq0",
+          "link": "https://images.uzum.uz/clivs8l6sfhjvlnaimq0/t_product_540_high.jpg"
+        },
+        {
+          "id": "clivs8t6sfhjvlnaimqg",
+          "link": "https://images.uzum.uz/clivs8t6sfhjvlnaimqg/t_product_540_high.jpg"
+        },
+        {
+          "id": "clivs8vn7c6ncm71fi8g",
+          "link": "https://images.uzum.uz/clivs8vn7c6ncm71fi8g/t_product_540_high.jpg"
+        },
+        {
+          "id": "clivs8l6sfhjvlnaimpg",
+          "link": "https://images.uzum.uz/clivs8l6sfhjvlnaimpg/t_product_540_high.jpg"
+        },
+        {
+          "id": "clivs8t6sfhjvlnaimr0",
+          "link": "https://images.uzum.uz/clivs8t6sfhjvlnaimr0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -71,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1871893,
+      "title": "USB-модем, адаптер 4G LTE с SIM-картой Wi-Fi, точка доступа, Hotspot",
+      "price": {
+        "min": 159000,
+        "max": 200000
+      },
+      "favorite": false,
+      "rating": 4.5,
+      "photos": [
+        {
+          "id": "cs6di2nfrr8f0ihurt1g",
+          "link": "https://images.uzum.uz/cs6di2nfrr8f0ihurt1g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq4ie936eisq2rketlb0",
+          "link": "https://images.uzum.uz/cq4ie936eisq2rketlb0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq4ieab6eisq2rketlbg",
+          "link": "https://images.uzum.uz/cq4ieab6eisq2rketlbg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq4iec0sarnfdo9amhj0",
+          "link": "https://images.uzum.uz/cq4iec0sarnfdo9amhj0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -20,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2603494,
+      "title": "Сетевой кабель JH CAT-6 LAN до 10Гбит/сек, UTP для интернета, патч-корд RJ45, компьютерный",
+      "price": {
+        "min": 19000,
+        "max": 19000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cuar1rlht56ksubfk6u0",
+          "link": "https://images.uzum.uz/cuar1rlht56ksubfk6u0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuar1tui4n324lr6aqv0",
+          "link": "https://images.uzum.uz/cuar1tui4n324lr6aqv0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuar1omi4n324lr6aqug",
+          "link": "https://images.uzum.uz/cuar1omi4n324lr6aqug/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuar2rc5j42bjc4afmcg",
+          "link": "https://images.uzum.uz/cuar2rc5j42bjc4afmcg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuar20lht56ksubfk6ug",
+          "link": "https://images.uzum.uz/cuar20lht56ksubfk6ug/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2502124,
+      "title": "Радиомост 5.8G 867 Mbps 5км",
+      "price": {
+        "min": 1350000,
+        "max": 1700000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ctp4r8lht56ksubb2arg",
+          "link": "https://images.uzum.uz/ctp4r8lht56ksubb2arg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctp4tr6i4n324lr1p5s0",
+          "link": "https://images.uzum.uz/ctp4tr6i4n324lr1p5s0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctp4r8c5j42bjc45t9bg",
+          "link": "https://images.uzum.uz/ctp4r8c5j42bjc45t9bg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctp4r8ei4n324lr1p5b0",
+          "link": "https://images.uzum.uz/ctp4r8ei4n324lr1p5b0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctp4r8dht56ksubb2ar0",
+          "link": "https://images.uzum.uz/ctp4r8dht56ksubb2ar0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -21,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2496731,
+      "title": "Адаптер Bluetooth адаптер USB 4.0",
+      "price": {
+        "min": 25000,
+        "max": 120000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "ctnspv5ht56ksubaqie0",
+          "link": "https://images.uzum.uz/ctnspv5ht56ksubaqie0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctnspv45j42bjc45lmrg",
+          "link": "https://images.uzum.uz/ctnspv45j42bjc45lmrg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -79,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1221325,
+      "title": "Гигабитный интернет кабель CAT6E, RJ45 Lan для сети Wi-Fi",
+      "price": {
+        "min": 15000,
+        "max": 30000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "cufg52lht56sc95ccfog",
+          "link": "https://images.uzum.uz/cufg52lht56sc95ccfog/t_product_540_high.jpg"
+        },
+        {
+          "id": "cufg52lht56sc95ccfp0",
+          "link": "https://images.uzum.uz/cufg52lht56sc95ccfp0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cufg52k5j42bjc4brs50",
+          "link": "https://images.uzum.uz/cufg52k5j42bjc4brs50/t_product_540_high.jpg"
+        },
+        {
+          "id": "cufg52k5j42bjc4brs5g",
+          "link": "https://images.uzum.uz/cufg52k5j42bjc4brs5g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -50,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2299602,
+      "title": "Сервопривод для проектов Ардуино и электроники SG90",
+      "price": {
+        "min": 28900,
+        "max": 59000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "csode5rvgbkpg1nlhbs0",
+          "link": "https://images.uzum.uz/csode5rvgbkpg1nlhbs0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csodqe5pq3ggq63chil0",
+          "link": "https://images.uzum.uz/csodqe5pq3ggq63chil0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuqs0gmi4n32hnc2cs50",
+          "link": "https://images.uzum.uz/cuqs0gmi4n32hnc2cs50/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -51,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1150315,
+      "title": "WiFi роутер Mercusys AC12G/AC1300 Двухдиапазонный гигабитный",
+      "price": {
+        "min": 499000,
+        "max": 800000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "ckvqnfd6sfhgee0jv2c0",
+          "link": "https://images.uzum.uz/ckvqnfd6sfhgee0jv2c0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckvqnfdennt861insq20",
+          "link": "https://images.uzum.uz/ckvqnfdennt861insq20/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckvqnffn7c6qm23h4m2g",
+          "link": "https://images.uzum.uz/ckvqnffn7c6qm23h4m2g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -38,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 446801,
+      "title": "USB адаптер Bluetooth 5.0, Tp-Link UB500",
+      "price": {
+        "min": 130000,
+        "max": 130000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "csi7uvdpq3ghb2qm6u4g",
+          "link": "https://images.uzum.uz/csi7uvdpq3ghb2qm6u4g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cgq29svhj8j9g69cnsl0",
+          "link": "https://images.uzum.uz/cgq29svhj8j9g69cnsl0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cgq29svhj8j9g69cnskg",
+          "link": "https://images.uzum.uz/cgq29svhj8j9g69cnskg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cgq29sr57mg9720ef540",
+          "link": "https://images.uzum.uz/cgq29sr57mg9720ef540/t_product_540_high.jpg"
+        },
+        {
+          "id": "cgq29t7hj8j9g69cnslg",
+          "link": "https://images.uzum.uz/cgq29t7hj8j9g69cnslg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1948095,
+      "title": "Беспроводной мини адаптер Wi-Fi USB, без помех 600 Mbs, WIN10/WIN11, до 150 м",
+      "price": {
+        "min": 39000,
+        "max": 199000
+      },
+      "favorite": false,
+      "rating": 4,
+      "photos": [
+        {
+          "id": "cqktiqsqvsse8lettscg",
+          "link": "https://images.uzum.uz/cqktiqsqvsse8lettscg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqktiqvfrr8a72r6f2i0",
+          "link": "https://images.uzum.uz/cqktiqvfrr8a72r6f2i0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqktiqssslomdvnisggg",
+          "link": "https://images.uzum.uz/cqktiqssslomdvnisggg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqktiqssslomdvnisgh0",
+          "link": "https://images.uzum.uz/cqktiqssslomdvnisgh0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqktiqvfrr8a72r6f2ig",
+          "link": "https://images.uzum.uz/cqktiqvfrr8a72r6f2ig/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -80,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1922820,
+      "title": "Плоский патч-корд GCR PROF кат. 6 кабель для интернета 10 Гбит/с, медный",
+      "price": {
+        "min": 55000,
+        "max": 88000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "ct7cltui4n3ehka1vf9g",
+          "link": "https://images.uzum.uz/ct7cltui4n3ehka1vf9g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -37,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1863997,
+      "title": "Xiaomi Mi Range Extender AC1200 усилитель беспроводного wifi сигнала двухдиапазоный Global",
+      "price": {
+        "min": 329000,
+        "max": 410000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cs68j0mfh2vj1qtk86u0",
+          "link": "https://images.uzum.uz/cs68j0mfh2vj1qtk86u0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs68j2efh2vj1qtk86ug",
+          "link": "https://images.uzum.uz/cs68j2efh2vj1qtk86ug/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq395pr5qt1gj8de2i60",
+          "link": "https://images.uzum.uz/cq395pr5qt1gj8de2i60/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq395r35qt1gj8de2i7g",
+          "link": "https://images.uzum.uz/cq395r35qt1gj8de2i7g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq398u36eisq2rkelgig",
+          "link": "https://images.uzum.uz/cq398u36eisq2rkelgig/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq398v36eisq2rkelgj0",
+          "link": "https://images.uzum.uz/cq398v36eisq2rkelgj0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq3990r5qt1gj8de2jg0",
+          "link": "https://images.uzum.uz/cq3990r5qt1gj8de2jg0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -20,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2196648,
+      "title": "Внешний оптический привод DVD RW USB 3.0, для ноутбуков и настольных компьютеров, USB 3.0",
+      "price": {
+        "min": 199000,
+        "max": 378000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "curdvdrvgbkm5ehfth20",
+          "link": "https://images.uzum.uz/curdvdrvgbkm5ehfth20/t_product_540_high.jpg"
+        },
+        {
+          "id": "curdvdtpb7f8r31vqiig",
+          "link": "https://images.uzum.uz/curdvdtpb7f8r31vqiig/t_product_540_high.jpg"
+        },
+        {
+          "id": "curdvdui4n32hnc2hnig",
+          "link": "https://images.uzum.uz/curdvdui4n32hnc2hnig/t_product_540_high.jpg"
+        },
+        {
+          "id": "curdvdrvgbkm5ehfth1g",
+          "link": "https://images.uzum.uz/curdvdrvgbkm5ehfth1g/t_product_540_high.jpg"
+        },
+        {
+          "id": "curdvdtpb7f8r31vqii0",
+          "link": "https://images.uzum.uz/curdvdtpb7f8r31vqii0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -47,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1309370,
+      "title": "Линейный шнур для удлинения домашнего телефона и факсов RJ11",
+      "price": {
+        "min": 9000,
+        "max": 9000
+      },
+      "favorite": false,
+      "rating": 4.7,
+      "photos": [
+        {
+          "id": "cmh94v3ifoubkc6nv73g",
+          "link": "https://images.uzum.uz/cmh94v3ifoubkc6nv73g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmh94th25ku1lubs46mg",
+          "link": "https://images.uzum.uz/cmh94th25ku1lubs46mg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cmh94th25ku1lubs46ng",
+          "link": "https://images.uzum.uz/cmh94th25ku1lubs46ng/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1925398,
+      "title": "Патч корд Cat.8 GCR PROF RJ45 SF/FTP 40 Гб, медь, LAN сетевой кабель для интернета",
+      "price": {
+        "min": 159000,
+        "max": 253000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "cthecedht56qpot7a14g",
+          "link": "https://images.uzum.uz/cthecedht56qpot7a14g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cql1umssslomdvniub7g",
+          "link": "https://images.uzum.uz/cql1umssslomdvniub7g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -37,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1048519,
+      "title": "Wi-Fi усилитель сигнала, репитер, TP-Link TL-WA855RE",
+      "price": {
+        "min": 245000,
+        "max": 426000
+      },
+      "favorite": false,
+      "rating": 4.7,
+      "photos": [
+        {
+          "id": "ck6mu3svutv3vmhktu30",
+          "link": "https://images.uzum.uz/ck6mu3svutv3vmhktu30/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck6mu3rk9fqd6b9u1b7g",
+          "link": "https://images.uzum.uz/ck6mu3rk9fqd6b9u1b7g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck6mu3sjvf2su072r53g",
+          "link": "https://images.uzum.uz/ck6mu3sjvf2su072r53g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck6mu3rk9fqd6b9u1b70",
+          "link": "https://images.uzum.uz/ck6mu3rk9fqd6b9u1b70/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck6mu3svutv3vmhktu2g",
+          "link": "https://images.uzum.uz/ck6mu3svutv3vmhktu2g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck6mu3sjvf2su072r530",
+          "link": "https://images.uzum.uz/ck6mu3sjvf2su072r530/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck6mu3sjvf2su072r540",
+          "link": "https://images.uzum.uz/ck6mu3sjvf2su072r540/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -42,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1922819,
+      "title": "Плоский патч-корд GCR PROF кат. 6 кабель для интернета 10 Гбит/с, медный",
+      "price": {
+        "min": 55000,
+        "max": 88000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "ct7clqdpb7f7ago6rflg",
+          "link": "https://images.uzum.uz/ct7clqdpb7f7ago6rflg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -37,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1753303,
+      "title": "Блютуз адаптер 5.1 для ПК и ноутбука",
+      "price": {
+        "min": 50000,
+        "max": 85000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cpe6v5bmdtjnp7380pfg",
+          "link": "https://images.uzum.uz/cpe6v5bmdtjnp7380pfg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpe6v5bmdtjnp7380pg0",
+          "link": "https://images.uzum.uz/cpe6v5bmdtjnp7380pg0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpe6v5ffrr82f0a53fug",
+          "link": "https://images.uzum.uz/cpe6v5ffrr82f0a53fug/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpe6v5ffrr82f0a53fv0",
+          "link": "https://images.uzum.uz/cpe6v5ffrr82f0a53fv0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -41,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1877876,
+      "title": "Усилитель беспроводного Wi-Fi сигнала Xiaomi М Range Extender АС1200, репитер  ( GLOBAL )",
+      "price": {
+        "min": 325000,
+        "max": 500000
+      },
+      "favorite": false,
+      "rating": 4.7,
+      "photos": [
+        {
+          "id": "cq5tv7j6eisq2rkf5nr0",
+          "link": "https://images.uzum.uz/cq5tv7j6eisq2rkf5nr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq5tv7gsarnfdo9aulgg",
+          "link": "https://images.uzum.uz/cq5tv7gsarnfdo9aulgg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -35,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1460236,
+      "title": "Проходной LAN адаптер RJ45/RJ45 мамка, соединительная муфта сетевого и интернет кабеля",
+      "price": {
+        "min": 9000,
+        "max": 35000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "cnm49o5bl7rtgkb9j0e0",
+          "link": "https://images.uzum.uz/cnm49o5bl7rtgkb9j0e0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnm49o5bl7rtgkb9j0eg",
+          "link": "https://images.uzum.uz/cnm49o5bl7rtgkb9j0eg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnm49o04idugcqegqi4g",
+          "link": "https://images.uzum.uz/cnm49o04idugcqegqi4g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -74,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2035865,
+      "title": "Источник бесберебойного питания, аккумулятор 12V7AH",
+      "price": {
+        "min": 125000,
+        "max": 148000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cr612k5bnta1ogm78850",
+          "link": "https://images.uzum.uz/cr612k5bnta1ogm78850/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr612k7iraat934r1lsg",
+          "link": "https://images.uzum.uz/cr612k7iraat934r1lsg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr612k6sbq7g1s9at550",
+          "link": "https://images.uzum.uz/cr612k6sbq7g1s9at550/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -16,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1138523,
+      "title": "Переходник Кабель DVI - HDMI, 1.5 м, 1080p, для проектора ноутбука монитора компьютера",
+      "price": {
+        "min": 85000,
+        "max": 130000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "cum8ni6i4n324lr9ovh0",
+          "link": "https://images.uzum.uz/cum8ni6i4n324lr9ovh0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckuuuut6sfhgee0jpg70",
+          "link": "https://images.uzum.uz/ckuuuut6sfhgee0jpg70/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckuuuut6sfhgee0jpg6g",
+          "link": "https://images.uzum.uz/ckuuuut6sfhgee0jpg6g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckuuuuvn7c6qm23gv65g",
+          "link": "https://images.uzum.uz/ckuuuuvn7c6qm23gv65g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckmjlisvutv26iiarfr0",
+          "link": "https://images.uzum.uz/ckmjlisvutv26iiarfr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckmjlmkvutv26iiarft0",
+          "link": "https://images.uzum.uz/ckmjlmkvutv26iiarft0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckmjm4rk9fq68304qn7g",
+          "link": "https://images.uzum.uz/ckmjm4rk9fq68304qn7g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -35,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1354946,
+      "title": "Wi-Fi роутер CPE, 4G, 5G, с сим-картой",
+      "price": {
+        "min": 379000,
+        "max": 790000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "cp6a2tj6eisk548all6g",
+          "link": "https://images.uzum.uz/cp6a2tj6eisk548all6g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp6a2tj6eisk548all70",
+          "link": "https://images.uzum.uz/cp6a2tj6eisk548all70/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp6a30fj2e4qlbisq3p0",
+          "link": "https://images.uzum.uz/cp6a30fj2e4qlbisq3p0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp6a2tdbnta2393fm0s0",
+          "link": "https://images.uzum.uz/cp6a2tdbnta2393fm0s0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp6a2tlbnta2393fm0sg",
+          "link": "https://images.uzum.uz/cp6a2tlbnta2393fm0sg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp6a2tdbnta2393fm0rg",
+          "link": "https://images.uzum.uz/cp6a2tdbnta2393fm0rg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cp6a30fj2e4qlbisq3og",
+          "link": "https://images.uzum.uz/cp6a30fj2e4qlbisq3og/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -52,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1883029,
+      "title": "Кабель Wi-Fi Patch kord Lan UTP  1, 2, 3, 5, 6, 8, 10, 15, 20, 30, 40, 50, 60, 70 м, 170b",
+      "price": {
+        "min": 15000,
+        "max": 23000
+      },
+      "favorite": false,
+      "rating": 4.5,
+      "photos": [
+        {
+          "id": "cs5rngffrr8f0ihuon6g",
+          "link": "https://images.uzum.uz/cs5rngffrr8f0ihuon6g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs5rngffrr8f0ihuon70",
+          "link": "https://images.uzum.uz/cs5rngffrr8f0ihuon70/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs5rngefh2vj1qtk69e0",
+          "link": "https://images.uzum.uz/cs5rngefh2vj1qtk69e0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cs5rngffrr8f0ihuon7g",
+          "link": "https://images.uzum.uz/cs5rngffrr8f0ihuon7g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq72nij5qt1qbnojrno0",
+          "link": "https://images.uzum.uz/cq72nij5qt1qbnojrno0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -35,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1881249,
+      "title": "Кабель c Display Port на HDMI, FullHD, 2К, 4К, 1.8 м",
+      "price": {
+        "min": 59000,
+        "max": 149000
+      },
+      "favorite": false,
+      "rating": 4.4,
+      "photos": [
+        {
+          "id": "cuv0batpb7f9qcnefco0",
+          "link": "https://images.uzum.uz/cuv0batpb7f9qcnefco0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq7tr0nfrr885gh1mc9g",
+          "link": "https://images.uzum.uz/cq7tr0nfrr885gh1mc9g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq7tqv4qvss6ad8hnf00",
+          "link": "https://images.uzum.uz/cq7tqv4qvss6ad8hnf00/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq7tr27frr885gh1mca0",
+          "link": "https://images.uzum.uz/cq7tr27frr885gh1mca0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cq7tr5cqvss6ad8hnf10",
+          "link": "https://images.uzum.uz/cq7tr5cqvss6ad8hnf10/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -60,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1846209,
+      "title": "Кабель питания для PlayStation, принтера, компьютера, монитора, блока питания, восьмёрка",
+      "price": {
+        "min": 25000,
+        "max": 55000
+      },
+      "favorite": false,
+      "rating": 4.7,
+      "photos": [
+        {
+          "id": "cpv98t0sarnfdo99n2l0",
+          "link": "https://images.uzum.uz/cpv98t0sarnfdo99n2l0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpv98t35qt1gj8ddbg0g",
+          "link": "https://images.uzum.uz/cpv98t35qt1gj8ddbg0g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpv98tb6eisq2rkdu030",
+          "link": "https://images.uzum.uz/cpv98tb6eisq2rkdu030/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpv98t36eisq2rkdu02g",
+          "link": "https://images.uzum.uz/cpv98t36eisq2rkdu02g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cpv98t35qt1gj8ddbg00",
+          "link": "https://images.uzum.uz/cpv98t35qt1gj8ddbg00/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -55,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2673118,
+      "title": "WI-FI адаптер Go-Des GD-BT318, до 1200 м, без помех, 300 Мбит/с",
+      "price": {
+        "min": 121000,
+        "max": 450000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cutk93bvgbkm5ehggq40",
+          "link": "https://images.uzum.uz/cutk93bvgbkm5ehggq40/t_product_540_high.jpg"
+        },
+        {
+          "id": "cul31kc5j42bjc4dhsd0",
+          "link": "https://images.uzum.uz/cul31kc5j42bjc4dhsd0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cul31ls5j42bjc4dhseg",
+          "link": "https://images.uzum.uz/cul31ls5j42bjc4dhseg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cul31ntht56sc95e2f6g",
+          "link": "https://images.uzum.uz/cul31ntht56sc95e2f6g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -73,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2052395,
+      "title": "Адаптер HDMI-VGA с аудиокабелем, переходник для монитора",
+      "price": {
+        "min": 40000,
+        "max": 88000
+      },
+      "favorite": false,
+      "rating": 4.6,
+      "photos": [
+        {
+          "id": "cr9iau7s09cvvbjpvvm0",
+          "link": "https://images.uzum.uz/cr9iau7s09cvvbjpvvm0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr9iau60t1lqb8apmomg",
+          "link": "https://images.uzum.uz/cr9iau60t1lqb8apmomg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -55,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1047201,
+      "title": "Wi-Fi роутер Tp-Link Archer C50",
+      "price": {
+        "min": 390000,
+        "max": 542000
+      },
+      "favorite": false,
+      "rating": 4.8,
+      "photos": [
+        {
+          "id": "ck58vfkvutvccfo2qorg",
+          "link": "https://images.uzum.uz/ck58vfkvutvccfo2qorg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck58vfkvutvccfo2qos0",
+          "link": "https://images.uzum.uz/ck58vfkvutvccfo2qos0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck58vfcjvf2qegt46rig",
+          "link": "https://images.uzum.uz/ck58vfcjvf2qegt46rig/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck58vfcvutvccfo2qoqg",
+          "link": "https://images.uzum.uz/ck58vfcvutvccfo2qoqg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck58vfbk9fq8tdq5eu70",
+          "link": "https://images.uzum.uz/ck58vfbk9fq8tdq5eu70/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck58vfcvutvccfo2qoq0",
+          "link": "https://images.uzum.uz/ck58vfcvutvccfo2qoq0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -28,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2069551,
+      "title": "Источник бесперебойного питания UPS 2E ED850,OD2000  480W/1800W, LED, 2E-ED850,2E-OD2000",
+      "price": {
+        "min": 619000,
+        "max": 1200000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "cumdhhei4n324lr9r4lg",
+          "link": "https://images.uzum.uz/cumdhhei4n324lr9r4lg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cumdhhdht56sc95eg7b0",
+          "link": "https://images.uzum.uz/cumdhhdht56sc95eg7b0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct7ai8fiub3d1eok3bh0",
+          "link": "https://images.uzum.uz/ct7ai8fiub3d1eok3bh0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct7ai86i4n3ehka1uop0",
+          "link": "https://images.uzum.uz/ct7ai86i4n3ehka1uop0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct7ai8dpb7f7ago6qn10",
+          "link": "https://images.uzum.uz/ct7ai8dpb7f7ago6qn10/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct7ai87iub3d1eok3bgg",
+          "link": "https://images.uzum.uz/ct7ai87iub3d1eok3bgg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -48,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1928295,
+      "title": "Модем 4G Corex CPE-903 A9SW, Wi-Fi роутер, 2-х антенный",
+      "price": {
+        "min": 299000,
+        "max": 599000
+      },
+      "favorite": false,
+      "rating": 4.7,
+      "photos": [
+        {
+          "id": "cqgtm24sslomdvni3q50",
+          "link": "https://images.uzum.uz/cqgtm24sslomdvni3q50/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqgtm24qvsse8let4ro0",
+          "link": "https://images.uzum.uz/cqgtm24qvsse8let4ro0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqgtm27frr8a72r5m8d0",
+          "link": "https://images.uzum.uz/cqgtm27frr8a72r5m8d0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqgtm24sslomdvni3q4g",
+          "link": "https://images.uzum.uz/cqgtm24sslomdvni3q4g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqgtm24qvsse8let4rog",
+          "link": "https://images.uzum.uz/cqgtm24qvsse8let4rog/t_product_540_high.jpg"
+        },
+        {
+          "id": "cqgtm27frr8a72r5m8dg",
+          "link": "https://images.uzum.uz/cqgtm27frr8a72r5m8dg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -50,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2290038,
+      "title": "Маршрутизатор Wi-Fi Xiaomi Router AX3200 Wi-Fi 6, глобальная ,частота 2,4G и 5 ГГц",
+      "price": {
+        "min": 799000,
+        "max": 999000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "ctptrdmi4n324lr1svr0",
+          "link": "https://images.uzum.uz/ctptrdmi4n324lr1svr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctpts645j42bjc461b80",
+          "link": "https://images.uzum.uz/ctpts645j42bjc461b80/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctptrik5j42bjc461b5g",
+          "link": "https://images.uzum.uz/ctptrik5j42bjc461b5g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctptrls5j42bjc461b60",
+          "link": "https://images.uzum.uz/ctptrls5j42bjc461b60/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctptros5j42bjc461b6g",
+          "link": "https://images.uzum.uz/ctptros5j42bjc461b6g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctptrrei4n324lr1svs0",
+          "link": "https://images.uzum.uz/ctptrrei4n324lr1svs0/t_product_540_high.jpg"
+        },
+        {
+          "id": "csmrt8r4nkdp9ake5skg",
+          "link": "https://images.uzum.uz/csmrt8r4nkdp9ake5skg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -20,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 1407015,
+      "title": "Wi-Fi роутер 6-го поколений TP-Link Archer AX12 Технология Mesh",
+      "price": {
+        "min": 624000,
+        "max": 900000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "cnc8js9s99ouqbfvojng",
+          "link": "https://images.uzum.uz/cnc8js9s99ouqbfvojng/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnc8js925kub33f4up10",
+          "link": "https://images.uzum.uz/cnc8js925kub33f4up10/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnc8js925kub33f4up1g",
+          "link": "https://images.uzum.uz/cnc8js925kub33f4up1g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnc8js9s99ouqbfvojo0",
+          "link": "https://images.uzum.uz/cnc8js9s99ouqbfvojo0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -31,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    },
+    {
+      "id": 2670571,
+      "title": "Источник бесперебойного питания UPS 2E ED850,OD2000  480W/1800W, LED, 2E-ED850,2E-OD2000",
+      "price": {
+        "min": 1349000,
+        "max": 2600000
+      },
+      "favorite": false,
+      "rating": 4.9,
+      "photos": [
+        {
+          "id": "cumdnu5ht56sc95egaa0",
+          "link": "https://images.uzum.uz/cumdnu5ht56sc95egaa0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cumdnu6i4n324lr9r6qg",
+          "link": "https://images.uzum.uz/cumdnu6i4n324lr9r6qg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cukravtht56sc95dv3dg",
+          "link": "https://images.uzum.uz/cukravtht56sc95dv3dg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cukravs5j42bjc4deimg",
+          "link": "https://images.uzum.uz/cukravs5j42bjc4deimg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cukravui4n324lr9a2r0",
+          "link": "https://images.uzum.uz/cukravui4n324lr9a2r0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cukravui4n324lr9a2qg",
+          "link": "https://images.uzum.uz/cukravui4n324lr9a2qg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -48,
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "computer-peripherals"
+      ],
+      "description": "",
+      "tags": [],
+      "stock": 0,
+      "features": [],
+      "variations": []
+    }
+  ]
+}

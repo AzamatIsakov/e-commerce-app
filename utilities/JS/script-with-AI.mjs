@@ -182,7 +182,7 @@ const updateJSONWithVariations = async (readFilePath, writeFilePath) => {
 
     // Обрабатываем каждый элемент
     for (const item of items) {
-      console.log(item.variations.length)
+      console.log(item.variations?.length)
 
       if (!item?.variations?.length) {
         console.log(`Генерация вариаций для ${item.title}`)
@@ -246,60 +246,18 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
 
 // !================================================================================
 const categoryLevel_1 = 'electronics'
-const categoryLevel_2 = 'laptops-tablets-ereaders'
-const categoryLevel_3 = 'laptop-accessories'
+const categoryLevel_2 = 'computer-hardware'
+const categoryLevel_3 = 'computer-peripherals'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
 }
 // ?================================================================================
 
-// const fileToRead = 'transformedData.json'
-// const fileToWrite = 'dataWithDescription.json'
+const fileToRead = 'transformedData.json'
+const fileToWrite = 'dataWithDescription.json'
 
-// await updateJSONWithDescriptions(
-//   generatePath(1, fileToRead),
-//   generatePath(1, fileToWrite)
-// )
-
-// console.log('Пауза <||>')
-// await delay(10000)
-
-// await updateJSONWithDescriptions(
-//   generatePath(2, fileToRead),
-//   generatePath(2, fileToWrite)
-// )
-
-// console.log('Пауза <||>')
-// await delay(10000)
-
-// await updateJSONWithDescriptions(
-//   generatePath(3, fileToRead),
-//   generatePath(3, fileToWrite)
-// )
-
-// console.log('Пауза <||>')
-// await delay(10000)
-
-// await updateJSONWithDescriptions(
-//   generatePath(4, fileToRead),
-//   generatePath(4, fileToWrite)
-// )
-
-// console.log('Пауза <||>')
-// await delay(10000)
-
-// await updateJSONWithDescriptions(
-//   generatePath(5, fileToRead),
-//   generatePath(5, fileToWrite)
-// )
-
-// !================================================================================
-
-const fileToRead = 'dataWithFeatures.json' // 'dataWithDescription.json'
-const fileToWrite = 'dataWithFeatures.json'
-
-await updateJSONWithFeatures(
+await updateJSONWithDescriptions(
   generatePath(1, fileToRead),
   generatePath(1, fileToWrite)
 )
@@ -307,7 +265,7 @@ await updateJSONWithFeatures(
 console.log('Пауза <||>')
 await delay(10000)
 
-await updateJSONWithFeatures(
+await updateJSONWithDescriptions(
   generatePath(2, fileToRead),
   generatePath(2, fileToWrite)
 )
@@ -315,7 +273,7 @@ await updateJSONWithFeatures(
 console.log('Пауза <||>')
 await delay(10000)
 
-await updateJSONWithFeatures(
+await updateJSONWithDescriptions(
   generatePath(3, fileToRead),
   generatePath(3, fileToWrite)
 )
@@ -323,7 +281,7 @@ await updateJSONWithFeatures(
 console.log('Пауза <||>')
 await delay(10000)
 
-await updateJSONWithFeatures(
+await updateJSONWithDescriptions(
   generatePath(4, fileToRead),
   generatePath(4, fileToWrite)
 )
@@ -331,10 +289,52 @@ await updateJSONWithFeatures(
 console.log('Пауза <||>')
 await delay(10000)
 
-await updateJSONWithFeatures(
+await updateJSONWithDescriptions(
   generatePath(5, fileToRead),
   generatePath(5, fileToWrite)
 )
+
+// !================================================================================
+
+// const fileToRead = 'dataWithDescription.json'
+// const fileToWrite = 'dataWithFeatures.json'
+
+// await updateJSONWithFeatures(
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
+// )
+
+// console.log('Пауза <||>')
+// await delay(10000)
+
+// await updateJSONWithFeatures(
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
+// )
 
 // !================================================================================
 

@@ -1,8 +1,13 @@
 import { getJsonProducts } from '@/services/JsonProducts.service'
 
 const AllProductsPage = async () => {
-  const products = await getJsonProducts()
+  let products = null
 
+  try {
+    products = await getJsonProducts()
+  } catch (e) {
+    console.error(e)
+  }
   return (
     <div>
       <div className="container">
@@ -10,7 +15,7 @@ const AllProductsPage = async () => {
           Добавление продукта
         </h1>
         <div className="grid grid-cols-2 gap-5 xl:grid-cols-4">
-          {products.map((product) => (
+          {products?.map((product) => (
             <div
               key={product.id}
               className="flex flex-col gap-5 rounded-2xl border p-5"

@@ -3,8 +3,10 @@ import { CreateProductReqDTO, GetProductResDTO } from './JsonProducts.dto'
 export const getJsonProducts = async (): Promise<GetProductResDTO> => {
   console.log('[GET]: Все продукты из JSON')
 
+  const URL = process.env.NEXT_PUBLIC_MAIN_URL
+
   try {
-    const response = await fetch('http://localhost:4000/products', {
+    const response = await fetch(`${URL}:4000/products`, {
       next: {
         revalidate: 300
       }

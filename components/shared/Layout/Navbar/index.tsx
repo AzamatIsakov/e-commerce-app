@@ -1,58 +1,33 @@
 'use client'
 
+import { links } from '@/data/navbar'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-
-const links = [
-  {
-    title: 'Главная',
-    path: '/'
-  },
-  {
-    title: 'Категории',
-    path: '/category'
-  },
-  {
-    title: 'Поиск',
-    path: '/search'
-  },
-  {
-    title: 'Корзина',
-    path: '/cart'
-  },
-  {
-    title: 'Добавить продукт',
-    path: '/product/create'
-  },
-  {
-    title: 'Посмотреть продукты',
-    path: '/product/all'
-  }
-]
 
 export const Navbar = () => {
   const currentPath = usePathname()
 
   return (
-    <nav>
-      <ul className="flex gap-5">
-        {links.map((link) =>
-          link.path === currentPath ? (
-            <li className="cursor-default text-red-600" key={link.path}>
-              {link.title}
-            </li>
-          ) : (
-            <li key={link.path}>
-              <Link
-                className="transition-all hover:text-red-400 active:text-red-700"
-                href={link.path}
-              >
-                {link.title}
-              </Link>
-            </li>
-          )
-        )}
-      </ul>
+    <nav className="flex items-center gap-6 text-sm font-semibold">
+      {links.map((link) =>
+        currentPath !== link.path ? (
+          <Link
+            draggable="false"
+            href={link.path}
+            key={link.title}
+            className="flex items-center gap-2 rounded-md px-2.5 py-1.5 transition-all duration-300 hover:bg-gray-100 focus-visible:outline-[#E53935] active:bg-gray-200"
+          >
+            {link.icon} {link.title}
+          </Link>
+        ) : (
+          <span
+            key={link.title}
+            className="flex items-center gap-2 rounded-md px-2.5 py-1.5 text-red-600 transition-all duration-300"
+          >
+            {link.icon} {link.title}
+          </span>
+        )
+      )}
     </nav>
   )
 }

@@ -6,7 +6,7 @@ import { getAllProducts } from '@/services/Products.service'
 import { useQuery } from '@tanstack/react-query'
 
 const CategoryPage = () => {
-  console.log('Category page')
+  console.log('Categores page')
 
   const {
     data: products,

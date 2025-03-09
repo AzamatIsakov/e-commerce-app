@@ -9,13 +9,13 @@ export interface IPhoto {
 }
 
 export interface IProduct {
-  id: number
+  id: string | string
   title: string
   price: IPrice
   favorite: boolean
   rating: number
   photos: IPhoto[]
-  discountInfo: string // '-56%'
+  discountInfo: number | null
 }
 
 export interface ProductDTO {

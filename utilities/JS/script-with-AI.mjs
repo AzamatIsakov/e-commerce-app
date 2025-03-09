@@ -1,6 +1,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai'
 import dotenv from 'dotenv'
 import fs from 'fs/promises' // Используем модуль fs/promises
+import syncFs from 'fs' // Используем модуль fs/promises
 import { extractAndParseJSON } from './utilities.mjs'
 import {
   getDescriptionPrompt,
@@ -182,8 +183,6 @@ const updateJSONWithVariations = async (readFilePath, writeFilePath) => {
 
     // Обрабатываем каждый элемент
     for (const item of items) {
-      console.log(item.variations?.length)
-
       if (!item?.variations?.length) {
         console.log(`Генерация вариаций для ${item.title}`)
         // Генерация описания
@@ -241,13 +240,32 @@ const updateJSONWithTags = async (readFilePath, writeFilePath) => {
   }
 }
 
+const addCategories = (filePath) => {
+  try {
+    // Читаем файл
+    const data = syncFs.readFileSync(filePath, 'utf-8')
+    const { items } = JSON.parse(data)
+
+    // Обрабатываем каждый элемент
+    for (const item of items) {
+      item.categories = [categoryLevel_1, categoryLevel_2, categoryLevel_3]
+    }
+
+    // Записываем результат
+    syncFs.writeFileSync(filePath, JSON.stringify({ items }, null, 2))
+    console.log('JSON-файл успешно обновлен!')
+  } catch (error) {
+    console.error('Ошибка:', error)
+  }
+}
+
 //! Надо будеть проверять подстроки между собой и выявлять схожие как a.includes(b) || b.includes(a) и при этом можно разделить это всё на подстроки распарсить и проверять каждое слово на существование в подстроках
 //! как проверка "A16" на моделях "Samsung Galaxy A16"
 
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'computer-hardware'
-const categoryLevel_3 = 'computer-peripherals'
+const categoryLevel_3 = 'data-storage'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
@@ -256,6 +274,14 @@ const generatePath = (page, fileName) => {
 
 // const fileToRead = 'transformedData.json'
 // const fileToWrite = 'dataWithDescription.json'
+
+// addCategories(generatePath(1, fileToRead))
+// addCategories(generatePath(2, fileToRead))
+// addCategories(generatePath(3, fileToRead))
+// addCategories(generatePath(4, fileToRead))
+// addCategories(generatePath(5, fileToRead))
+// console.log('Добавлены категории')
+// console.log()
 
 // await updateJSONWithDescriptions(
 //   generatePath(1, fileToRead),

@@ -4,7 +4,11 @@
 
 @import './fonts/CSS/font.css';
 
-@import '@/shared/ProductCard/ProductCard.css';
+@import '@/shared/Products/components/ProductCard/ProductCard.css';
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;

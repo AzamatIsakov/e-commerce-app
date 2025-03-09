@@ -1,5 +1,5 @@
 import { CategoriesGrid } from '@/components/shared/CategoriesGrid'
-import { ProductsSkeleton } from '@/components/shared/Skeleton'
+import { ProductCardSkeleton } from '@/components/shared/Skeleton'
 import { Products } from '@/shared'
 import { Suspense } from 'react'
 
@@ -13,7 +13,7 @@ const Home = async () => {
       </h1>
       <CategoriesGrid />
       <div className="my-10">
-        <Suspense fallback={<ProductsSkeleton />}>
+        <Suspense fallback={<ProductCardSkeleton />}>
           <Products />
         </Suspense>
       </div>

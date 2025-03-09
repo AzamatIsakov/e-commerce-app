@@ -1,1 +1,1 @@
-export { ProductsSkeleton } from './ProductCardSkeleton'
+export { ProductCardSkeleton } from './ProductCardSkeleton'

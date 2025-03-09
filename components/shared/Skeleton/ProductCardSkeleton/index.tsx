@@ -7,7 +7,7 @@ import {
 } from '@/components/ui/card'
 import { Skeleton } from '@/components/ui/skeleton'
 
-export const ProductsSkeleton = () => (
+export const ProductCardSkeleton = () => (
   <div className="grid grid-cols-5 gap-5">
     {new Array(10).fill('').map((_, index) => (
       <Card key={index}>

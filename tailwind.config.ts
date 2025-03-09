@@ -13,11 +13,16 @@ const config: Config = {
     extend: {
       container: {
         center: true,
+        padding: '20px',
         screens: {
           xl: '1440px'
         }
       },
       colors: {
+        red: {
+          DEFAULT: '#E53935',
+          active: '#FF0000'
+        },
         background: 'var(--background)',
         foreground: 'var(--foreground)'
       },

@@ -1,4 +1,4 @@
-import { getDataFromJSON } from '@/utilities'
+import { getDataFromJSON } from '@/utilities/file'
 import { NextResponse } from 'next/server'
 
 export async function GET() {

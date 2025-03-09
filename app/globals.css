@@ -4,8 +4,6 @@
 
 @import './fonts/CSS/font.css';
 
-@import '@/shared/Products/components/ProductCard/ProductCard.css';
-
 html {
   scroll-behavior: smooth;
 }

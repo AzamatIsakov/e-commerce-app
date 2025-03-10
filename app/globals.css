@@ -10,7 +10,12 @@ html {
 
 body {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
-  background-color: rgb(250, 250, 250);
+  /* background-color: rgb(250, 250, 250); */
+  @apply bg-gray-50;
+}
+
+.title {
+  @apply text-2xl font-bold;
 }
 
 @layer utilities {

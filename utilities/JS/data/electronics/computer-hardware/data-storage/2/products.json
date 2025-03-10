@@ -24,9 +24,70 @@
         }
       ],
       "discount": -41,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка, карта памяти Type-C, 1 TB / 2 TB\n\n**Описание:**\n\nУстройство памяти формата флеш-накопителя с интерфейсом USB Type-C, предлагающее объём памяти 1 ТБ или 2 ТБ.  Корпус изготовлен из прочного анодированного алюминия.  Поддерживает стандарт UHS-II, обеспечивающий высокую скорость передачи данных.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 3.2 Gen 2 Type-C\n* **Ёмкость:** 1 ТБ / 2 ТБ (на выбор)\n* **Скорость чтения:** до 900 МБ/с\n* **Скорость записи:** до 800 МБ/с\n* **Стандарт:** UHS-II\n* **Материал корпуса:** Анодированный алюминий\n* **Размеры:** 70 x 25 x 10 мм\n* **Вес:** 20 г\n* **Рабочая температура:** 0°C ~ 50°C\n* **Температура хранения:** -20°C ~ 70°C\n* **Совместимость:**  Устройства с портом USB Type-C, поддерживающими стандарт USB 3.2 Gen 2 или выше.\n\n\n**Преимущества:**\n\n* **Высокая скорость передачи данных:**  Обеспечивает быструю передачу больших объёмов информации.\n* **Большой объём памяти:**  Позволяет хранить значительное количество данных.\n* **Компактный размер и лёгкий вес:** Удобна для переноски.\n* **Прочный корпус:** Защищает данные от механических повреждений.\n* **Интерфейс Type-C:**  Широкая совместимость с современными устройствами.\n\n\n**Особенности:**\n\n* Поддержка UHS-II для максимальной производительности.\n* Анодированный алюминиевый корпус для долговечности.\n*  Plug-and-Play совместимость (подключи и работай).\n*  Поддержка функции TRIM для оптимизации работы флеш-памяти.\n\n**(Замечание:  Указанные скорости чтения и записи являются теоретическими максимальными значениями.  Фактические скорости могут варьироваться в зависимости от используемого устройства, типа файлов и других факторов.)**\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "usb-type-c-flash-drive",
+          "displayName": "Флешка USB Type-C"
+        },
+        {
+          "name": "1tb-2tb",
+          "displayName": "1 ТБ / 2 ТБ"
+        },
+        {
+          "name": "usb-3-2-gen-2",
+          "displayName": "USB 3.2 Gen 2"
+        },
+        {
+          "name": "900mb-s-read-speed",
+          "displayName": "Скорость чтения до 900 МБ/с"
+        },
+        {
+          "name": "800mb-s-write-speed",
+          "displayName": "Скорость записи до 800 МБ/с"
+        },
+        {
+          "name": "uhs-ii",
+          "displayName": "UHS-II"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "70x25x10mm-dimensions",
+          "displayName": "Размеры 70 x 25 x 10 мм"
+        },
+        {
+          "name": "20g-weight",
+          "displayName": "Вес 20 г"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-Play"
+        },
+        {
+          "name": "trim-support",
+          "displayName": "Поддержка TRIM"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -207,9 +268,70 @@
         }
       ],
       "discount": -47,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Картридер USB-адаптер Micro SD Black\n\n**Описание:**\n\nUSB-адаптер для чтения карт памяти Micro SD формата.  Корпус изготовлен из ABS-пластика черного цвета.  Обеспечивает быструю и стабильную передачу данных с карт Micro SD на устройства с USB-портом. Поддерживает стандарт UHS-I.  Подключение осуществляется через стандартный USB 2.0 интерфейс.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 2.0\n* **Тип карты памяти:** Micro SD (до 2TB)\n* **Скорость передачи данных:** до 480 Мбит/с (USB 2.0 ограничение)\n* **Материал корпуса:** ABS-пластик\n* **Цвет:** Черный\n* **Размеры:** 25x15x8 мм (приблизительно)\n* **Вес:** 3 г (приблизительно)\n* **Совместимость:** Windows, macOS, Linux (драйвер не требуется)\n* **Поддержка UHS-I:** Да\n\n\n**Преимущества:**\n\n* Компактный размер и легкий вес.\n* Простота использования - подключение \"plug-and-play\".\n* Высокая скорость передачи данных для USB 2.0.\n* Надежная конструкция.\n* Широкая совместимость с различными операционными системами.\n\n\n**Особенности:**\n\n* Черный матовый корпус.\n* Поддержка карт памяти Micro SD большой емкости.\n* Отсутствие необходимости в установке дополнительных драйверов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "micro-sd-card-reader",
+          "displayName": "Картридер Micro SD"
+        },
+        {
+          "name": "usb-2.0",
+          "displayName": "USB 2.0"
+        },
+        {
+          "name": "micro-sd-up-to-2tb",
+          "displayName": "Micro SD (до 2 ТБ)"
+        },
+        {
+          "name": "480mbps-data-transfer-speed",
+          "displayName": "Скорость передачи данных до 480 Мбит/с"
+        },
+        {
+          "name": "abs-plastic",
+          "displayName": "ABS-пластик"
+        },
+        {
+          "name": "black",
+          "displayName": "Черный"
+        },
+        {
+          "name": "matte-finish",
+          "displayName": "Матовая поверхность"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-play"
+        },
+        {
+          "name": "uhs-i-support",
+          "displayName": "Поддержка UHS-I"
+        },
+        {
+          "name": "windows-macos-linux-compatible",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "no-drivers-required",
+          "displayName": "Драйверы не требуются"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -513,9 +635,70 @@
         }
       ],
       "discount": -53,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флеш-карта SanDisk Ultra Micro SD\n\n**Модель:** SanDisk Ultra Micro SD (доступные объёмы: 16/32/64/128/256/512 ГБ)\n\n**Технические характеристики:**\n\n* **Производитель:** SanDisk\n* **Тип:** microSDXC (для объёмов 64 ГБ и выше), microSDHC (для объёмов до 32 ГБ)\n* **Интерфейс:** UHS-I (Скорость передачи данных до 100 МБ/с)\n* **Класс скорости:** A1 (применяется к 32 ГБ и выше) / Class 10 (для всех объемов)\n* **Скорость чтения:**  До 100 МБ/с (зависит от объёма и устройства чтения)\n* **Скорость записи:**  До 80 МБ/с (зависит от объёма и устройства чтения)\n* **Материал корпуса:**  Пластик\n* **Рабочая температура:** -25°C до +85°C\n* **Совместимость:**  Большинство смартфонов, планшетов, камер и других устройств, поддерживающих microSD карты.\n* **Формат:** FAT32 (для объемов до 32 ГБ), exFAT (для объемов 64 ГБ и выше)\n\n\n**Преимущества:**\n\n* Высокая скорость чтения и записи данных.\n* Доступные различные объёмы памяти,  позволяющие подобрать оптимальный вариант под потребности пользователя.\n* Надежность и долговечность, свойственные продукции SanDisk.\n* Поддержка стандарта A1 (для 32 ГБ и больше), обеспечивающего высокую производительность при работе с приложениями.\n* Компактный размер, идеально подходящий для мобильных устройств.\n\n\n**Особенности:**\n\n* Карта памяти поставляется без адаптера microSD → SD. (Адаптер приобретается отдельно.)\n*  Реальные скорости записи могут быть ниже заявленных, в зависимости от условий использования и устройства чтения.\n\n\n**Примечание:**  Характеристики могут незначительно варьироваться в зависимости от конкретного объёма карты памяти.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "sandisk-ultra-micro-sd",
+          "displayName": "SanDisk Ultra Micro SD"
+        },
+        {
+          "name": "16-512gb-capacity",
+          "displayName": "Ёмкость 16-512 ГБ"
+        },
+        {
+          "name": "microsdhc-microsdxc",
+          "displayName": "microSDHC/microSDXC"
+        },
+        {
+          "name": "uhs-i-interface",
+          "displayName": "Интерфейс UHS-I"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "a1-class-10-speed-class",
+          "displayName": "Класс скорости A1/Class 10"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "-25-85-degrees-c-operating-temperature",
+          "displayName": "Рабочая температура от -25°C до +85°C"
+        },
+        {
+          "name": "fat32-exfat-file-system",
+          "displayName": "FAT32/exFAT файловая система"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -704,9 +887,90 @@
         }
       ],
       "discount": -44,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "USB-флеш-накопитель HP HC Invo с поддержкой MicroSD.  Доступные объемы памяти: 1 ГБ, 2 ГБ, 4 ГБ, 8 ГБ, 16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 2.0 (предполагается,  для более высоких скоростей можно указать USB 3.0/3.1 в зависимости от целевой аудитории и реальных возможностей продукта)\n* **Тип памяти:** Flash NAND\n* **Корпус:** Пластик (ABS)\n* **Скорость чтения:** до 20 МБ/с (для USB 2.0) / до 80 МБ/с (для USB 3.0/3.1 -  указать нужное значение в зависимости от реальных возможностей продукта)\n* **Скорость записи:** до 10 МБ/с (для USB 2.0) / до 40 МБ/с (для USB 3.0/3.1 -  указать нужное значение в зависимости от реальных возможностей продукта)\n* **Рабочая температура:** 0°C - 60°C\n* **Температура хранения:** -20°C - 85°C\n* **Поддержка ОС:** Windows, macOS, Linux (уточнить конкретные версии)\n* **Размеры (примерные):** 58 x 20 x 10 мм (зависит от фактического размера флешки,  это пример)\n* **Вес (примерный):** 10 г (зависит от фактического веса)\n* **Слот для MicroSD:**  Да (указать максимальный поддерживаемый объем карты MicroSD)\n\n\n**Преимущества:**\n\n* Компактный размер и удобство использования.\n* Широкий выбор объемов памяти.\n* Поддержка карт MicroSD для расширения емкости.\n* Надежный корпус из пластика.\n* Совместимость с большинством операционных систем.\n\n\n**Особенности:**\n\n*  Возможность использования как USB-накопителя, так и с картой MicroSD. (если это действительно так, иначе убрать)\n*  (Указать, если есть:  Например, наличие колпачка для защиты разъема, петля для брелка,  или другие особенности дизайна.)\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "hc-invo",
+          "displayName": "HC Invo"
+        },
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB-флеш-накопитель"
+        },
+        {
+          "name": "microsd-support",
+          "displayName": "Поддержка MicroSD"
+        },
+        {
+          "name": "usb-2.0-interface",
+          "displayName": "Интерфейс USB 2.0"
+        },
+        {
+          "name": "flash-nand-memory",
+          "displayName": "Память Flash NAND"
+        },
+        {
+          "name": "1-2-4-8-16-32-64-128gb-capacity",
+          "displayName": "Емкость 1-2-4-8-16-32-64-128 ГБ"
+        },
+        {
+          "name": "up-to-20mb-s-read-speed",
+          "displayName": "Скорость чтения до 20 МБ/с"
+        },
+        {
+          "name": "up-to-10mb-s-write-speed",
+          "displayName": "Скорость записи до 10 МБ/с"
+        },
+        {
+          "name": "0-60-degrees-c-operating-temperature",
+          "displayName": "Рабочая температура 0-60°C"
+        },
+        {
+          "name": "-20-85-degrees-c-storage-temperature",
+          "displayName": "Температура хранения -20-85°C"
+        },
+        {
+          "name": "windows-macos-linux-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "58x20x10mm-dimensions",
+          "displayName": "Размеры 58x20x10 мм"
+        },
+        {
+          "name": "10g-weight",
+          "displayName": "Вес 10 г"
+        },
+        {
+          "name": "abs-plastic-casing",
+          "displayName": "Корпус из пластика ABS"
+        },
+        {
+          "name": "up-to-32gb-microsd-card-support",
+          "displayName": "Поддержка карт MicroSD до 32 ГБ"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -891,9 +1155,62 @@
         }
       ],
       "discount": -5,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка SanDisk Ultra Luxe, USB 3.1 Gen 1 Flash Drive\n\n**Технические характеристики:**\n\n* **Производитель:** SanDisk\n* **Модель:** Ultra Luxe\n* **Интерфейс:** USB 3.1 Gen 1 (USB 3.0)\n* **Емкость:** 16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ (на выбор)\n* **Скорость чтения:** до 150 МБ/с (теоретическое значение, фактическая скорость может варьироваться в зависимости от устройства и условий использования)\n* **Скорость записи:** до 100 МБ/с (теоретическое значение, фактическая скорость может варьироваться в зависимости от устройства и условий использования)\n* **Корпус:** Металлический,  анодированный алюминий (цвет - зависит от конкретной емкости, например, 16 ГБ - серебристый, 32 ГБ - золотой и т.д.)\n* **Размеры:**  (Примерные, зависят от емкости)  58 мм x 21 мм x 8 мм\n* **Вес:** (Примерный) 10 г\n* **Рабочая температура:** 0°C ~ 40°C\n* **Температура хранения:** -10°C ~ 60°C\n* **Совместимость:**  Windows, macOS, Linux, Android (с поддержкой OTG)\n* **Гарантия:** 5 лет (или до истечения срока службы изделия, в зависимости от что наступит раньше)\n\n\n**Преимущества и особенности:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.1 Gen 1.\n* Долговечный и стильный металлический корпус из анодированного алюминия, обеспечивающий защиту от повреждений.\n* Широкая линейка емкостей на выбор: 16 ГБ, 32 ГБ, 64 ГБ и 128 ГБ.\n* Совместимость с широким спектром операционных систем.\n* Надежность и качество, подтвержденные брендом SanDisk.\n\n\n**Примечание:**  Указанные скорости чтения и записи являются теоретическими максимальными значениями. Фактическая скорость может отличаться в зависимости от устройства хоста, типа файла и других факторов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "ultra-luxe",
+          "displayName": "Ultra Luxe"
+        },
+        {
+          "name": "usb-3-1-gen-1",
+          "displayName": "USB 3.1 Gen 1"
+        },
+        {
+          "name": "16gb-32gb-64gb-128gb",
+          "displayName": "16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "up-to-100mb-s-write-speed",
+          "displayName": "Скорость записи до 100 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "silver-gold-gray-dark-gray-rose-gold-blue",
+          "displayName": "Серебристый, Золотой, Серый, Темно-серый, Розовое золото, Синий"
+        },
+        {
+          "name": "5-year-warranty",
+          "displayName": "Гарантия 5 лет"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерная техника"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -1078,9 +1395,82 @@
         }
       ],
       "discount": -78,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флеш-накопители HP USB 2.0\n\n**Доступные объемы памяти:** 8 ГБ, 64 ГБ, 128 ГБ\n\n**Интерфейс:** USB 2.0\n\n**Совместимость:**  ПК, ноутбуки (поддержка ОС Windows, macOS, Linux)\n\n**Технические характеристики:**\n\n* **Тип памяти:**  NAND Flash память (тип - MLC, предполагается)\n* **Скорость чтения:** до 20 МБ/с (приблизительная, зависит от объема и загруженности системы)\n* **Скорость записи:** до 10 МБ/с (приблизительная, зависит от объема и загруженности системы)\n* **Корпус:** Пластик (ABS), черный цвет.\n* **Рабочая температура:** 0°C ~ 60°C\n* **Температура хранения:** -20°C ~ 85°C\n* **Габариты:**  (приблизительные) 58 x 18 x 10 мм\n* **Вес:**  приблизительно 8 грамм\n\n\n**Преимущества:**\n\n* Надежность и долговечность, благодаря применению качественных компонентов HP.\n* Простота использования - подключение Plug&Play.\n* Компактные размеры и легкий вес для удобного переноса данных.\n* Совместимость с большинством компьютеров.\n\n\n**Особенности:**\n\n*  Стандартный интерфейс USB 2.0 обеспечивает широкую совместимость.\n*  Предназначены для хранения и переноса данных различного типа.\n\n\n**Примечание:**  Фактическая скорость передачи данных может варьироваться в зависимости от условий использования и конфигурации системы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "flash-drive",
+          "displayName": "Флеш-накопитель"
+        },
+        {
+          "name": "8gb-64gb-128gb-capacity",
+          "displayName": "Емкость 8 ГБ, 64 ГБ, 128 ГБ"
+        },
+        {
+          "name": "usb-2.0",
+          "displayName": "USB 2.0"
+        },
+        {
+          "name": "nand-flash-mlc",
+          "displayName": "NAND Flash (MLC)"
+        },
+        {
+          "name": "up-to-20mb-s-read-speed",
+          "displayName": "Скорость чтения до 20 МБ/с"
+        },
+        {
+          "name": "up-to-10mb-s-write-speed",
+          "displayName": "Скорость записи до 10 МБ/с"
+        },
+        {
+          "name": "black-plastic-case",
+          "displayName": "Черный пластиковый корпус"
+        },
+        {
+          "name": "58x18x10mm-dimensions",
+          "displayName": "Размеры 58 x 18 x 10 мм"
+        },
+        {
+          "name": "8g-weight",
+          "displayName": "Вес 8 г"
+        },
+        {
+          "name": "0-60-c-operating-temperature",
+          "displayName": "Рабочая температура 0°C ~ 60°C"
+        },
+        {
+          "name": "-20-85-c-storage-temperature",
+          "displayName": "Температура хранения -20°C ~ 85°C"
+        },
+        {
+          "name": "windows-macos-linux-compatible",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug&Play"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -1314,9 +1704,70 @@
         }
       ],
       "discount": -5,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Внешний твердотельный накопитель Transcend ESD270C объемом 2 ТБ, интерфейс USB 3.1 Gen 1 (5 Гбит/с) Type-C.  Корпус выполнен из анодированного алюминия для обеспечения прочности и эффективного отвода тепла.  Поддерживает технологию UASP для ускорения передачи данных.  Встроенный контроллер обеспечивает высокую скорость чтения/записи.  Совместим с устройствами, оснащенными портами USB Type-C и USB Type-A (через прилагаемый адаптер).  Габариты: 92 x 55 x 10 мм.  Вес: 60 г.  Поддерживает режимы энергосбережения.  В комплект поставки входит сам накопитель, кабель USB Type-C - Type-C и адаптер USB Type-C - Type-A.  Заявленная скорость чтения до 400 МБ/с, скорость записи до 350 МБ/с. (Значения скорости могут варьироваться в зависимости от конфигурации системы и условий эксплуатации).  Гарантия: 3 года.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "transcend",
+          "displayName": "Transcend"
+        },
+        {
+          "name": "esd270c",
+          "displayName": "ESD270C"
+        },
+        {
+          "name": "2tb-capacity",
+          "displayName": "Емкость 2 ТБ"
+        },
+        {
+          "name": "usb-3-1-type-c",
+          "displayName": "USB 3.1 Type-C"
+        },
+        {
+          "name": "400mb-s-read-speed",
+          "displayName": "Скорость чтения до 400 МБ/с"
+        },
+        {
+          "name": "350mb-s-write-speed",
+          "displayName": "Скорость записи до 350 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-case",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "uasp-support",
+          "displayName": "Поддержка UASP"
+        },
+        {
+          "name": "usb-type-c-usb-type-a-compatibility",
+          "displayName": "Совместимость с USB Type-C и USB Type-A"
+        },
+        {
+          "name": "energy-saving-mode",
+          "displayName": "Режим энергосбережения"
+        },
+        {
+          "name": "3-year-warranty",
+          "displayName": "Гарантия 3 года"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -1482,9 +1933,70 @@
         }
       ],
       "discount": -61,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Картридер USB, Micro SD, OTG, Type-C, Flash, чип\n\n**Описание:**  Многофункциональный картридер, обеспечивающий чтение данных с карт памяти Micro SD и Flash-накопителей через интерфейсы USB Type-A (через адаптер, в комплект не входит), USB Type-C и OTG (On-The-Go) для устройств с поддержкой этой функции.  Встроенный чип обеспечивает высокую скорость передачи данных.  Корпус выполнен из прочного ABS-пластика.\n\n**Характеристики:**\n\n* **Интерфейсы:** USB Type-C, OTG (Micro USB), USB Type-A (через адаптер)\n* **Поддерживаемые карты памяти:** Micro SD (до 256 Гб), Flash-накопители (до 512 Гб)\n* **Скорость передачи данных:**  до 100 Мб/с (зависит от класса карты памяти и устройства)\n* **Материал корпуса:** ABS-пластик\n* **Размеры:** 50 x 25 x 10 мм (приблизительно)\n* **Вес:** 10 г (приблизительно)\n* **Поддерживаемые ОС:** Windows, macOS, Android, iOS (через адаптер)\n* **Встроенный чип:**  контроллер UHS-I\n* **Индикатор работы:** LED-индикатор (синий)\n\n\n**Преимущества:**\n\n* Универсальность: поддержка различных интерфейсов и типов карт памяти.\n* Высокая скорость передачи данных.\n* Компактный размер и легкий вес.\n* Прочный корпус.\n* Простота в использовании - Plug and Play.\n\n**Особенности:**\n\n* Поддержка карт памяти Micro SD высокой емкости.\n* Возможность подключения к широкому кругу устройств.\n* Встроенный высокопроизводительный чип для быстрой обработки данных.\n\n\n**Примечание:** Скорость передачи данных может варьироваться в зависимости от используемых устройств и карт памяти. Адаптер USB Type-A в комплект не входит и приобретается отдельно.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "multifunctional-card-reader",
+          "displayName": "Многофункциональный картридер"
+        },
+        {
+          "name": "usb-type-c-otg-usb-a",
+          "displayName": "USB Type-C, OTG, USB Type-A"
+        },
+        {
+          "name": "microsd-flash",
+          "displayName": "Micro SD, Flash"
+        },
+        {
+          "name": "256gb-microsd-support",
+          "displayName": "Поддержка Micro SD до 256 Гб"
+        },
+        {
+          "name": "512gb-flash-support",
+          "displayName": "Поддержка Flash до 512 Гб"
+        },
+        {
+          "name": "100mb-s-data-transfer-speed",
+          "displayName": "Скорость передачи данных до 100 Мб/с"
+        },
+        {
+          "name": "abs-plastic-case",
+          "displayName": "Корпус из ABS-пластика"
+        },
+        {
+          "name": "uhs-i-controller",
+          "displayName": "Контроллер UHS-I"
+        },
+        {
+          "name": "led-indicator",
+          "displayName": "LED-индикатор"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "windows-macos-android-ios",
+          "displayName": "Windows, macOS, Android, iOS"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -1714,9 +2226,98 @@
         }
       ],
       "discount": -53,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Шариковая ручка с интегрированной флеш-памятью USB 2.0 объемом 32 ГБ.  Корпус ручки выполнен из прочного анодированного алюминия.  Запись данных осуществляется с помощью интерфейса USB 2.0.  Скорость чтения/записи соответствует стандарту USB 2.0.  Встроенная флеш-память типа NAND Flash.  Шариковая ручка использует чернила черного цвета на основе масла.  Запас чернил рассчитан на приблизительно 1000 метров письма.  Размеры: 145 мм (длина) x 10 мм (диаметр). Вес: 25 г.  Совместимость: Windows, macOS, Linux.  Гарантия: 1 год.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "ballpoint-pen-with-flash-drive",
+          "displayName": "Шариковая ручка с флешкой"
+        },
+        {
+          "name": "32gb-usb-2.0-flash-drive",
+          "displayName": "Флеш-память 32 ГБ USB 2.0"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "black-ink",
+          "displayName": "Черные чернила"
+        },
+        {
+          "name": "oil-based-ink",
+          "displayName": "Масляные чернила"
+        },
+        {
+          "name": "approximately-1000-meters-ink-supply",
+          "displayName": "Запас чернил приблизительно на 1000 метров письма"
+        },
+        {
+          "name": "145mm-length",
+          "displayName": "Длина 145 мм"
+        },
+        {
+          "name": "10mm-diameter",
+          "displayName": "Диаметр 10 мм"
+        },
+        {
+          "name": "25g-weight",
+          "displayName": "Вес 25 г"
+        },
+        {
+          "name": "usb-2.0-interface",
+          "displayName": "Интерфейс USB 2.0"
+        },
+        {
+          "name": "nand-flash-memory",
+          "displayName": "Память NAND Flash"
+        },
+        {
+          "name": "windows-macos-linux-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "1-year-warranty",
+          "displayName": "Гарантия 1 год"
+        },
+        {
+          "name": "usb-2.0-speed",
+          "displayName": "Скорость USB 2.0"
+        },
+        {
+          "name": "silver-body",
+          "displayName": "Серебристый корпус"
+        },
+        {
+          "name": "black-body",
+          "displayName": "Черный корпус"
+        },
+        {
+          "name": "gold-body",
+          "displayName": "Золотистый корпус"
+        },
+        {
+          "name": "blue-ink",
+          "displayName": "Синие чернила"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -1996,9 +2597,86 @@
         }
       ],
       "discount": -64,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Карта памяти INVO microSD\n\n**Технические характеристики:**\n\n* **Производитель:** INVO\n* **Тип:** microSD\n* **Емкость:** 1 ГБ, 2 ГБ, 4 ГБ, 8 ГБ, 16 ГБ, 32 ГБ, 64 ГБ (доступны различные варианты)\n* **Интерфейс:**  UHS-I (предполагается для моделей 16ГБ и выше), Standard Speed (для моделей меньше 16ГБ)\n* **Скорость чтения:**  До 80 МБ/с (модели 16ГБ и выше), до 25 МБ/с (модели меньше 16ГБ)  *(предполагаемые значения)*\n* **Скорость записи:** До 40 МБ/с (модели 16ГБ и выше), до 15 МБ/с (модели меньше 16ГБ) *(предполагаемые значения)*\n* **Класс скорости:**  Class 10 (модели 16ГБ и выше), Class 4 (модели меньше 16ГБ) *(предполагаемые значения)*\n* **Материал корпуса:**  Пластик\n* **Рабочая температура:**  -25°C ~ +85°C\n* **Напряжение питания:** 3.3 В\n* **Совместимость:**  Большинство смартфонов, планшетов, цифровых камер и других устройств, поддерживающих microSD карты.\n\n\n**Преимущества:**\n\n* Широкий выбор емкостей для удовлетворения различных потребностей.\n* Достаточная скорость чтения и записи для большинства повседневных задач, таких как хранение фотографий, видео и приложений.\n* Надежное хранение данных.\n* Компактный размер.\n\n\n**Особенности:**\n\n*  Поддержка адаптера microSDHC/SDXC (в комплект не входит, продается отдельно – предполагается).\n*  Формат карты памяти соответствует стандарту SD Association.\n\n\n**Примечание:**  Указанные скорости чтения и записи являются приблизительными и могут варьироваться в зависимости от устройства и условий эксплуатации.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "invo",
+          "displayName": "INVO"
+        },
+        {
+          "name": "microsd-card",
+          "displayName": "Карта памяти microSD"
+        },
+        {
+          "name": "1gb-2gb-4gb-8gb-16gb-32gb-64gb-capacity",
+          "displayName": "Емкость 1 ГБ, 2 ГБ, 4 ГБ, 8 ГБ, 16 ГБ, 32 ГБ, 64 ГБ"
+        },
+        {
+          "name": "uhs-i-interface",
+          "displayName": "Интерфейс UHS-I"
+        },
+        {
+          "name": "standard-speed-interface",
+          "displayName": "Интерфейс Standard Speed"
+        },
+        {
+          "name": "up-to-80mb-s-read-speed",
+          "displayName": "Скорость чтения до 80 МБ/с"
+        },
+        {
+          "name": "up-to-25mb-s-read-speed",
+          "displayName": "Скорость чтения до 25 МБ/с"
+        },
+        {
+          "name": "up-to-40mb-s-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "up-to-15mb-s-write-speed",
+          "displayName": "Скорость записи до 15 МБ/с"
+        },
+        {
+          "name": "class-10",
+          "displayName": "Класс скорости Class 10"
+        },
+        {
+          "name": "class-4",
+          "displayName": "Класс скорости Class 4"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "-25-to-85-degrees-c-operating-temperature",
+          "displayName": "Рабочая температура от -25°C до +85°C"
+        },
+        {
+          "name": "3.3v-power-supply",
+          "displayName": "Напряжение питания 3.3 В"
+        },
+        {
+          "name": "microsdhc-sdxc-adapter-support",
+          "displayName": "Поддержка адаптера microSDHC/SDXC"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерные комплектующие"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -2210,9 +2888,82 @@
         }
       ],
       "discount": -42,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флеш-накопитель универсальной совместимости\n\n**Модель:** UF-UniDrive 64GB (Характеристики могут варьироваться в зависимости от модели)\n\n**Описание:**  Универсальный флеш-накопитель с поддержкой интерфейсов USB-A, USB-C и Lightning, обеспечивающий кроссплатформенную совместимость с устройствами на базе iOS (iPhone, iPad), Android, macOS и Windows.  Корпус выполнен из прочного анодированного алюминия.  Встроенная система автоматического определения файловой системы и оптимизации для разных операционных систем. Поддерживает функцию Plug-and-Play.\n\n**Характеристики:**\n\n* **Емкость:** 64 ГБ (доступны также модели на 128 ГБ и 256 ГБ)\n* **Интерфейсы:** USB-A 3.2 Gen 1 (USB 3.0), USB-C 3.2 Gen 1 (USB 3.0), Lightning\n* **Скорость чтения:** до 100 МБ/с\n* **Скорость записи:** до 40 МБ/с\n* **Поддерживаемые ОС:** iOS, Android, macOS, Windows\n* **Файловая система:**  exFAT (по умолчанию), совместимость с FAT32 и NTFS (после форматирования)\n* **Материал корпуса:** Анодированный алюминий\n* **Габариты:** 55 x 20 x 10 мм\n* **Вес:** 15 г\n\n\n**Преимущества:**\n\n* **Универсальная совместимость:** Работает с широким спектром устройств без необходимости использования дополнительных адаптеров.\n* **Высокая скорость передачи данных:** Обеспечивает быструю передачу файлов благодаря поддержке USB 3.0.\n* **Прочный и компактный корпус:**  Надежно защищает данные и легко переносится.\n* **Plug-and-Play:** Простота использования - подключил и работаешь.\n* **Автоматическое определение файловой системы:**  Оптимизирует работу на разных операционных системах без необходимости ручного вмешательства.\n\n\n**Особенности:**\n\n* Встроенная светодиодная индикация активности.\n* Поддержка функции шифрования данных (опционально, в более дорогих моделях).\n\n\n**Примечание:**  Фактическая скорость передачи данных может варьироваться в зависимости от используемого устройства и условий эксплуатации.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "uf-unidrive",
+          "displayName": "UF-UniDrive"
+        },
+        {
+          "name": "64gb-128gb-256gb",
+          "displayName": "64 ГБ, 128 ГБ, 256 ГБ"
+        },
+        {
+          "name": "usb-a-3-2-gen1-usb-c-3-2-gen1-lightning",
+          "displayName": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 1, Lightning"
+        },
+        {
+          "name": "100mb-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "40mb-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "ios-android-macos-windows",
+          "displayName": "iOS, Android, macOS, Windows"
+        },
+        {
+          "name": "exfat-fat32-ntfs",
+          "displayName": "exFAT, FAT32, NTFS"
+        },
+        {
+          "name": "anodized-aluminum",
+          "displayName": "Анодированный алюминий"
+        },
+        {
+          "name": "55x20x10mm",
+          "displayName": "Габариты 55 x 20 x 10 мм"
+        },
+        {
+          "name": "15g-weight",
+          "displayName": "Вес 15 г"
+        },
+        {
+          "name": "led-indicator",
+          "displayName": "Светодиодная индикация"
+        },
+        {
+          "name": "optional-encryption",
+          "displayName": "Функция шифрования (опционально)"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-Play"
+        },
+        {
+          "name": "automatic-file-system-detection",
+          "displayName": "Автоматическое определение файловой системы"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -2429,9 +3180,58 @@
         }
       ],
       "discount": -50,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка MicroSD Class 10 INVO: Карта памяти\n\n**Характеристики:**\n\n* **Производитель:** INVO\n* **Тип:** MicroSD\n* **Класс скорости:** Class 10 (минимальная скорость записи 10 МБ/с)\n* **Емкость:** 4 ГБ, 8 ГБ, 16 ГБ, 32 ГБ, 64 ГБ (выберите необходимый вариант)\n* **Интерфейс:** SD 3.0\n* **Материал корпуса:** Пластик\n* **Рабочая температура:** от -25°C до +85°C\n* **Совместимость:**  Совместима с большинством устройств, поддерживающих карты microSD, включая смартфоны, планшеты, камеры, видеорегистраторы и др.\n* **Гарантия:** 1 год\n\n\n**Преимущества:**\n\n* **Высокая скорость передачи данных:** Class 10 обеспечивает быструю запись и чтение информации, идеально подходящую для записи видео высокой четкости (Full HD и выше).\n* **Надежность:**  Карта памяти изготовлена из высококачественных материалов и прошла строгий контроль качества, обеспечивая надежное хранение данных.\n* **Компактность:**  Форм-фактор microSD позволяет использовать карту памяти в компактных устройствах.\n* **Различные варианты емкости:** Широкий выбор емкости позволяет выбрать оптимальный вариант для ваших нужд.\n\n\n**Особенности:**\n\n* Поддержка стандарта SD 3.0 для высокой скорости передачи данных.\n* Прочный пластиковый корпус обеспечивает защиту от механических повреждений.\n* Широкий диапазон рабочих температур.\n\n\n**Примечание:** Фактическая скорость чтения/записи может незначительно отличаться в зависимости от устройства и условий эксплуатации.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "invo",
+          "displayName": "INVO"
+        },
+        {
+          "name": "microsd-card",
+          "displayName": "MicroSD карта"
+        },
+        {
+          "name": "class-10",
+          "displayName": "Class 10"
+        },
+        {
+          "name": "4gb-8gb-16gb-32gb-64gb-capacity",
+          "displayName": "Емкость 4 ГБ, 8 ГБ, 16 ГБ, 32 ГБ, 64 ГБ"
+        },
+        {
+          "name": "sd-3-0-interface",
+          "displayName": "Интерфейс SD 3.0"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "high-speed-data-transfer",
+          "displayName": "Высокая скорость передачи данных"
+        },
+        {
+          "name": "reliable-data-storage",
+          "displayName": "Надежное хранение данных"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Хранение данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -2624,9 +3424,78 @@
         }
       ],
       "discount": -9,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Флеш-память USB 3.0 64 ГБ Двойной Накопитель Type-C.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 3.0, Type-C (двойной разъем - Type-A и Type-C)\n* **Емкость:** 64 ГБ\n* **Скорость чтения:** до 100 МБ/с\n* **Скорость записи:** до 40 МБ/с\n* **Материал корпуса:** Анодированный алюминий\n* **Совместимость:** Windows, macOS, Android, Linux\n* **Размеры:** 60x20x10 мм\n* **Вес:** 10 г\n* **Напряжение питания:** 5В\n\n**Преимущества:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.0.\n* Двойной разъем Type-C и Type-A обеспечивает широкую совместимость с различными устройствами.\n* Компактный и легкий дизайн.\n* Прочный корпус из анодированного алюминия.\n* Большая емкость памяти (64 ГБ) для хранения большого количества данных.\n\n**Особенности:**\n\n* Поддержка технологии Plug and Play (подключение и использование без дополнительной установки драйверов).\n* Надежная система хранения данных.\n* Возможность использования для резервного копирования данных.\n\n\n**Готовый текст для описания:**\n\nФлеш-память USB 3.0 64 ГБ с двойным накопителем Type-C – это высокоскоростное и надежное решение для хранения и передачи данных.  Оснащена интерфейсом USB 3.0 (скорость чтения до 100 МБ/с, записи до 40 МБ/с) и двойным разъемом (Type-A и Type-C) для максимальной совместимости.  Компактный и прочный корпус из анодированного алюминия защищает данные от повреждений.  Емкость 64 ГБ позволяет хранить значительный объем информации.  Поддерживает Plug and Play. Идеально подходит для резервного копирования, хранения файлов и передачи данных между различными устройствами. Размеры 60x20x10 мм, вес 10 г.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "usb-3.0-flash-drive",
+          "displayName": "USB 3.0 Флеш-накопитель"
+        },
+        {
+          "name": "64gb",
+          "displayName": "64 ГБ"
+        },
+        {
+          "name": "dual-connector-type-a-type-c",
+          "displayName": "Двойной разъем (Type-A и Type-C)"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-40mb-s-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "60x20x10-mm",
+          "displayName": "Размеры 60x20x10 мм"
+        },
+        {
+          "name": "10g-weight",
+          "displayName": "Вес 10 г"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "windows-macos-android-linux-compatible",
+          "displayName": "Совместимость: Windows, macOS, Android, Linux"
+        },
+        {
+          "name": "grey-blue-black-red-gold",
+          "displayName": "Серый, Синий, Черный, Красный, Золотой"
+        },
+        {
+          "name": "1-year-warranty",
+          "displayName": "Гарантия 1 год"
+        },
+        {
+          "name": "2-year-warranty",
+          "displayName": "Гарантия 2 года"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -2811,9 +3680,58 @@
         }
       ],
       "discount": -45,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Картридер Mini USB Micro SD TF Card Reader USB 2.0\n\n**Описание:** Компактный картридер с интерфейсом USB 2.0 для чтения карт памяти Micro SD и TF (TransFlash).  Корпус изготовлен из прочного ABS-пластика.  Обеспечивает высокую скорость передачи данных благодаря поддержке USB 2.0.  Подключается к компьютеру или другому устройству с USB-портом без необходимости установки драйверов (plug-and-play).\n\n**Преимущества:**\n\n* **Компактность:** Минималистичный дизайн для удобства переноски и хранения.\n* **Скорость:**  Высокая скорость передачи данных, соответствующая стандарту USB 2.0 (до 480 Мбит/с теоретически).\n* **Универсальность:** Поддержка распространенных форматов карт памяти Micro SD и TF.\n* **Простота использования:** Подключение Plug-and-Play, без необходимости установки дополнительного программного обеспечения.\n* **Надежность:** Прочный корпус из ABS-пластика защищает внутренние компоненты от повреждений.\n\n\n**Характеристики:**\n\n* **Интерфейс:** USB 2.0\n* **Поддерживаемые карты памяти:** Micro SD, TF (TransFlash)\n* **Скорость передачи данных:** До 480 Мбит/с (теоретически, фактическая скорость зависит от класса карты памяти и устройства)\n* **Материал корпуса:** ABS-пластик\n* **Размеры:** 25 x 18 x 10 мм (приблизительно)\n* **Вес:** 5 г (приблизительно)\n* **Цвет:** Черный (или другой, уточняется)\n* **Питание:** От порта USB\n\n\n**Примечание:** Фактическая скорость передачи данных может отличаться в зависимости от класса карты памяти, используемого устройства и других факторов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "card-reader",
+          "displayName": "Картридер"
+        },
+        {
+          "name": "mini-usb-micro-sd-tf-card-reader-usb-2.0",
+          "displayName": "Mini USB Micro SD TF Card Reader USB 2.0"
+        },
+        {
+          "name": "usb-2.0",
+          "displayName": "USB 2.0"
+        },
+        {
+          "name": "micro-sd-tf-card-support",
+          "displayName": "Поддержка Micro SD и TF карт"
+        },
+        {
+          "name": "abs-plastic-body",
+          "displayName": "Корпус из ABS-пластика"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-Play"
+        },
+        {
+          "name": "black-grey-blue-red",
+          "displayName": "Черный, Серый, Синий, Красный"
+        },
+        {
+          "name": "6-12-months-warranty",
+          "displayName": "Гарантия 6 или 12 месяцев"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -2998,9 +3916,78 @@
         }
       ],
       "discount": -17,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Портативный корпус для SSD Lenova Thinkplus M01 предназначен для m.2 NVMe/SATA SSD формата NGFF с интерфейсом Type-C и скоростью передачи данных до 6 Гбит/с. Корпус выполнен из анодированного алюминия для эффективного отвода тепла.  Обеспечивает горячую замену SSD.  Поддерживает стандарт NVMe 1.3 и SATA III.  Внутренний интерфейс - m.2 (B ключ). Габариты: 95 x 30 x 11 мм. Вес: 25 г.\n\n\n**Преимущества:**\n\n* Компактность и портативность.\n* Высокая скорость передачи данных (до 6 Гбит/с).\n* Эффективное охлаждение благодаря алюминиевому корпусу.\n* Поддержка NVMe и SATA интерфейсов.\n* Простота установки и использования.\n*  Горячая замена SSD.\n\n\n**Характеристики:**\n\n* **Модель:** Lenova Thinkplus M01\n* **Тип:** Портативный корпус для SSD\n* **Интерфейс:** USB Type-C\n* **Скорость передачи данных:** до 6 Гбит/с\n* **Форм-фактор SSD:** m.2 NGFF (B ключ)\n* **Поддержка протоколов:** NVMe 1.3, SATA III\n* **Материал корпуса:** Анодированный алюминий\n* **Габариты:** 95 x 30 x 11 мм\n* **Вес:** 25 г.\n\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "lenovo",
+          "displayName": "Lenovo"
+        },
+        {
+          "name": "thinkplus-m01",
+          "displayName": "Thinkplus M01"
+        },
+        {
+          "name": "usb-type-c-interface",
+          "displayName": "Интерфейс USB Type-C"
+        },
+        {
+          "name": "6gbps-data-transfer-speed",
+          "displayName": "Скорость передачи данных до 6 Гбит/с"
+        },
+        {
+          "name": "m-2-ngff-b-key-ssd",
+          "displayName": "SSD m.2 NGFF (B ключ)"
+        },
+        {
+          "name": "nvme-1.3-and-sata-iii-support",
+          "displayName": "Поддержка NVMe 1.3 и SATA III"
+        },
+        {
+          "name": "anodized-aluminum-case",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "95x30x11mm-dimensions",
+          "displayName": "Габариты 95 x 30 x 11 мм"
+        },
+        {
+          "name": "25g-weight",
+          "displayName": "Вес 25 г"
+        },
+        {
+          "name": "hot-swap-support",
+          "displayName": "Поддержка горячей замены"
+        },
+        {
+          "name": "passive-cooling",
+          "displayName": "Пассивное охлаждение"
+        },
+        {
+          "name": "grey-silver-space-grey-dark-grey",
+          "displayName": "Серый, Серебристый, Космически серый, Темно-серый"
+        },
+        {
+          "name": "case-manual-usb-c-cable",
+          "displayName": "Комплектация: корпус, инструкция, кабель USB-C"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -3166,9 +4153,70 @@
         }
       ],
       "discount": -66,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Устройство чтения карт памяти SD TF 3 в 1 для Apple iPhone/iPad (OTG-адаптер)\n\n**Технические характеристики:**\n\n* **Поддерживаемые карты памяти:** SD, microSD (TF), SDHC, SDXC (до 2TB)\n* **Интерфейс:** Lightning (для Apple iPhone/iPad)\n* **Материал корпуса:** Анодированный алюминий\n* **Скорость передачи данных:**  До 100 МБ/с (зависит от класса карты памяти и устройства)\n* **Поддерживаемые устройства:** iPhone и iPad с разъемом Lightning (совместимость зависит от версии iOS)\n* **Размеры:** 55 x 20 x 10 мм\n* **Вес:** 15 г\n* **Функции:** Чтение данных с карт памяти SD и microSD (TF),  поддержка OTG (On-The-Go)\n\n**Особенности и преимущества:**\n\n* **Многоформатное чтение:** Поддерживает три распространенных формата карт памяти – SD, microSD и SDXC.\n* **Высокая скорость передачи данных:** Обеспечивает быстрый доступ к файлам с карт памяти.\n* **Компактный размер и лёгкий вес:** Удобно носить с собой.\n* **Прочный корпус из анодированного алюминия:** Защита от повреждений и долговечность.\n* **Простота использования:**  Plug-and-play, не требует установки драйверов.\n* **Поддержка OTG:**  Позволяет подключать карты памяти непосредственно к устройствам Apple без использования дополнительных адаптеров.\n\n\n**Важно:**  Скорость передачи данных может варьироваться в зависимости от класса карты памяти, загруженности устройства и версии операционной системы.  Некоторые приложения могут требовать дополнительной настройки для доступа к файлам с карты памяти.  Перед использованием убедитесь в совместимости вашего устройства с OTG.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "apple-iphone-ipad-card-reader",
+          "displayName": "Устройство чтения карт памяти для Apple iPhone/iPad"
+        },
+        {
+          "name": "sd-microsd-sdhc-sdxc-card-reader",
+          "displayName": "Картридер SD, microSD, SDHC, SDXC"
+        },
+        {
+          "name": "lightning-interface",
+          "displayName": "Интерфейс Lightning"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "up-to-100mb-s-data-transfer-speed",
+          "displayName": "Скорость передачи данных до 100 МБ/с"
+        },
+        {
+          "name": "supports-up-to-2tb-cards",
+          "displayName": "Поддержка карт памяти до 2 ТБ"
+        },
+        {
+          "name": "55x20x10mm-dimensions",
+          "displayName": "Размеры 55x20x10 мм"
+        },
+        {
+          "name": "15g-weight",
+          "displayName": "Вес 15 г"
+        },
+        {
+          "name": "otg-support",
+          "displayName": "Поддержка OTG"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Подключение Plug-and-Play"
+        },
+        {
+          "name": "3-in-1-card-reader",
+          "displayName": "3-в-1 Картридер"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -3345,9 +4393,86 @@
         }
       ],
       "discount": -37,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Флеш-накопитель SanDisk USB 3.1. Скорость чтения: 150 МБ/с.  Интерфейс USB 3.1 Gen 1 обеспечивает высокую скорость передачи данных. Корпус выполнен из прочного пластика.  Встроенная система защиты от данных обеспечивает надежное хранение информации.  Ёмкость: 64 ГБ (возможны другие варианты). Поддерживаемые операционные системы: Windows, macOS, Linux, Android. Размеры: 60x20x10 мм (приблизительно). Вес: 10 г (приблизительно).\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "usb-3-1-speed-150mb-s-read",
+          "displayName": "USB 3.1 Speed 150 МБ/с Read"
+        },
+        {
+          "name": "usb-3-1-gen-1-interface",
+          "displayName": "Интерфейс USB 3.1 Gen 1"
+        },
+        {
+          "name": "150mb-s-read-speed",
+          "displayName": "Скорость чтения 150 МБ/с"
+        },
+        {
+          "name": "64gb-capacity",
+          "displayName": "Ёмкость 64 ГБ"
+        },
+        {
+          "name": "128gb-capacity",
+          "displayName": "Ёмкость 128 ГБ"
+        },
+        {
+          "name": "32gb-capacity",
+          "displayName": "Ёмкость 32 ГБ"
+        },
+        {
+          "name": "256gb-capacity",
+          "displayName": "Ёмкость 256 ГБ"
+        },
+        {
+          "name": "16gb-capacity",
+          "displayName": "Ёмкость 16 ГБ"
+        },
+        {
+          "name": "durable-plastic-casing",
+          "displayName": "Прочный пластиковый корпус"
+        },
+        {
+          "name": "built-in-data-protection",
+          "displayName": "Встроенная защита данных"
+        },
+        {
+          "name": "windows-macos-linux-android-support",
+          "displayName": "Поддержка Windows, macOS, Linux, Android"
+        },
+        {
+          "name": "60x20x10mm-dimensions",
+          "displayName": "Размеры 60x20x10 мм"
+        },
+        {
+          "name": "10g-weight",
+          "displayName": "Вес 10 г"
+        },
+        {
+          "name": "flash-drive",
+          "displayName": "Флеш-накопитель"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерная техника"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -3513,9 +4638,78 @@
         }
       ],
       "discount": -44,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Кардридер OTG, USB-адаптер для флешек с поддержкой Type-C, Micro USB и USB OTG\n\n**Технические характеристики:**\n\n* **Поддерживаемые интерфейсы:** USB Type-C, Micro USB, USB OTG (через соответствующие разъемы).\n* **Поддерживаемые карты памяти:** SD, microSD (требуется адаптер microSD-to-SD, не включен в комплект).\n* **Скорость передачи данных:**  до 480 Мбит/с (USB 2.0).\n* **Материал корпуса:** Анодированный алюминий.\n* **Габариты:** 50x25x10 мм.\n* **Вес:** 10 г.\n* **Поддерживаемые файловые системы:** FAT32, NTFS, exFAT.\n* **Напряжение питания:** 5В (питание от USB-порта).\n* **Plug-and-play:**  Поддержка автоматического распознавания.\n* **Совместимость:**  Android, Windows, macOS (драйверы не требуются для большинства устройств).\n\n\n**Преимущества и особенности:**\n\n* Универсальность:  Поддержка трех распространенных интерфейсов (Type-C, Micro USB, USB OTG) обеспечивает широкую совместимость с различными устройствами.\n* Компактность и портативность:  Миниатюрные размеры и небольшой вес позволяют легко носить кардридер с собой.\n* Высокая скорость передачи данных:  Обеспечивает быстрый доступ к данным на картах памяти.\n* Простота использования:  Поддержка Plug-and-play,  не требует установки дополнительных драйверов.\n* Прочный корпус из анодированного алюминия обеспечивает надежную защиту от повреждений.\n\n\n**Примечание:**  Максимальная скорость передачи данных может варьироваться в зависимости от класса карты памяти, устройства и условий работы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "otg-card-reader",
+          "displayName": "Кардридер OTG"
+        },
+        {
+          "name": "usb-type-c",
+          "displayName": "USB Type-C"
+        },
+        {
+          "name": "micro-usb",
+          "displayName": "Micro USB"
+        },
+        {
+          "name": "usb-otg",
+          "displayName": "USB OTG"
+        },
+        {
+          "name": "sd-microsd",
+          "displayName": "SD, microSD"
+        },
+        {
+          "name": "480mbps",
+          "displayName": "480 Мбит/с"
+        },
+        {
+          "name": "anodized-aluminum",
+          "displayName": "Анодированный алюминий"
+        },
+        {
+          "name": "50x25x10mm",
+          "displayName": "50x25x10 мм"
+        },
+        {
+          "name": "10g",
+          "displayName": "10 г"
+        },
+        {
+          "name": "fat32-ntfs-exfat",
+          "displayName": "FAT32, NTFS, exFAT"
+        },
+        {
+          "name": "5v-usb-power",
+          "displayName": "5В (от USB-порта)"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-Play"
+        },
+        {
+          "name": "android-windows-macos",
+          "displayName": "Android, Windows, macOS"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -3745,9 +4939,66 @@
         }
       ],
       "discount": -59,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Высокоскоростные флеш-накопители USB 3.1\n\n**Характеристики:**\n\n* **Интерфейс:** USB 3.1 Gen 1 (5 Гбит/с)\n* **Емкость:** 16 Гб, 32 Гб, 64 Гб, 128 Гб\n* **Скорость чтения:** до 150 МБ/с\n* **Скорость записи:** до 80 МБ/с\n* **Материал корпуса:** Прочный ABS пластик\n* **Совместимость:** Windows, macOS, Linux, Android (с поддержкой OTG)\n* **Габариты:** 58 x 21 x 10 мм\n* **Вес:** 10 г\n* **Рабочая температура:** 0°C - 60°C\n* **Температура хранения:** -20°C - 85°C\n\n\n**Преимущества:**\n\n* **Высокая скорость передачи данных:**  Интерфейс USB 3.1 обеспечивает значительное ускорение по сравнению с USB 2.0, что позволяет быстро переносить большие объемы файлов.\n* **Надежность:**  Флеш-накопители выполнены из прочного ABS пластика, защищающего от механических повреждений.  Встроенная система коррекции ошибок повышает надежность хранения данных.\n* **Компактность и портативность:**  Малый размер и вес обеспечивают удобство использования и переноски.\n* **Широкая совместимость:**  Работают с большинством современных операционных систем и устройств.\n* **Различные варианты емкости:**  Предлагаются в четырех вариантах емкости, позволяющих выбрать оптимальный вариант под ваши нужды.\n\n\n**Особенности:**\n\n* Поддержка функции Plug and Play (подключай и работай)\n* Защита от перезаписи (опционально, возможно наличие моделей с функцией защиты от записи).\n\n**Примечание:**  Фактические скорости чтения и записи могут варьироваться в зависимости от условий использования, оборудования и типа файлов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB флеш-накопитель"
+        },
+        {
+          "name": "usb-3-1",
+          "displayName": "USB 3.1"
+        },
+        {
+          "name": "16gb-32gb-64gb-128gb",
+          "displayName": "16 Гб, 32 Гб, 64 Гб, 128 Гб"
+        },
+        {
+          "name": "150mb-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "80mb-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "abs-plastic-case",
+          "displayName": "Корпус из прочного ABS пластика"
+        },
+        {
+          "name": "windows-macos-linux-android",
+          "displayName": "Windows, macOS, Linux, Android"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "optional-write-protection",
+          "displayName": "Защита от перезаписи (опционально)"
+        },
+        {
+          "name": "error-correction",
+          "displayName": "Система коррекции ошибок"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерная техника"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -3940,9 +5191,90 @@
         }
       ],
       "discount": -16,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка/Карта памяти 1ТБ/2ТБ\n\n**Модель:**  UMX-1TB/2TB (условное обозначение)\n\n**Тип носителя:**  NAND Flash память, MLC (условное обозначение)\n\n**Емкость:** 1 ТБ или 2 ТБ (на выбор)\n\n**Интерфейс:** USB 3.2 Gen 2 (для флешки) / UHS-II (для карты памяти)\n\n**Скорость чтения:** до 900 МБ/с (для флешки и карты памяти)\n\n**Скорость записи:** до 800 МБ/с (для флешки и карты памяти)\n\n**Корпус (для флешки):**  Анодированный алюминий,  размер 75x20x10 мм (условные)\n\n**Рабочая температура:** от 0°C до +55°C\n\n**Рабочее напряжение:** 5 В (для флешки) / 3.3В (для карты памяти)\n\n**Совместимость:**  USB 3.2 и выше (для флешки) / SDXC/SDHC слоты (для карты памяти),  поддержка большинства операционных систем.\n\n**Особенности:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.2 Gen 2 / UHS-II.\n* Большая емкость памяти для хранения большого количества данных.\n* Прочный и долговечный корпус из анодированного алюминия (для флешки).\n* Широкая совместимость с различными устройствами.\n* Надежная технология MLC NAND Flash  для обеспечения долговечности и стабильной работы.\n\n**В комплект поставки входит:**\n\n* Флешка/карта памяти 1ТБ/2ТБ (на выбор)\n* (Для флешки)  Защитный колпачок USB разъема.\n* (Для карты памяти)  Адаптер SD/SDHC\n\n\n**Примечание:**  Характеристики могут незначительно отличаться в зависимости от партии товара.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "umx",
+          "displayName": "UMX"
+        },
+        {
+          "name": "umx-1tb-2tb",
+          "displayName": "UMX 1TB/2TB"
+        },
+        {
+          "name": "1tb-2tb-capacity",
+          "displayName": "Емкость 1 ТБ/2 ТБ"
+        },
+        {
+          "name": "mlc-nand-flash",
+          "displayName": "Память NAND Flash MLC"
+        },
+        {
+          "name": "usb-3-2-gen-2",
+          "displayName": "USB 3.2 Gen 2"
+        },
+        {
+          "name": "uhs-ii",
+          "displayName": "UHS-II"
+        },
+        {
+          "name": "900mb-read-speed",
+          "displayName": "Скорость чтения до 900 МБ/с"
+        },
+        {
+          "name": "800mb-write-speed",
+          "displayName": "Скорость записи до 800 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-case",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "75x20x10mm-dimensions",
+          "displayName": "Размеры 75x20x10 мм"
+        },
+        {
+          "name": "0-55-celsius-operating-temperature",
+          "displayName": "Рабочая температура от 0°C до +55°C"
+        },
+        {
+          "name": "5v-working-voltage",
+          "displayName": "Рабочее напряжение 5 В"
+        },
+        {
+          "name": "3-3v-working-voltage",
+          "displayName": "Рабочее напряжение 3.3 В"
+        },
+        {
+          "name": "sdxc-sdhc-compatibility",
+          "displayName": "Совместимость с SDXC/SDHC"
+        },
+        {
+          "name": "usb-3-2-compatibility",
+          "displayName": "Совместимость с USB 3.2"
+        },
+        {
+          "name": "most-os-support",
+          "displayName": "Поддержка большинства ОС"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -4167,9 +5499,74 @@
         }
       ],
       "discount": -59,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка SanDisk (USB & microSD) 16/32/64/128/256 ГБ\n\n**Технические характеристики:**\n\n* **Модель:** SanDisk (модельная вариация зависит от емкости и типа)\n* **Емкость:** 16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ, 256 ГБ  (на выбор)\n* **Интерфейс:** USB 3.2 Gen 1 (для USB-версии), UHS-I (для microSD-версии)\n* **Скорость чтения:** до 100 МБ/с (USB), до 100 МБ/с (microSD) *приблизительные значения, зависят от модели и условий работы*\n* **Скорость записи:** до 80 МБ/с (USB), до 80 МБ/с (microSD) *приблизительные значения, зависят от модели и условий работы*\n* **Тип флеш-памяти:**  NAND Flash (тип уточняется в зависимости от конкретной модели)\n* **Корпус:** Пластик (USB),  адаптер из пластика (microSD)\n* **Рабочая температура:** 0°C до +60°C\n* **Температура хранения:** -20°C до +85°C\n* **Совместимость:**  USB 2.0/3.0/3.1/3.2  (USB-версия),  совместима с устройствами, поддерживающими microSD UHS-I (microSD-версия)\n* **Гарантия:**  (Указать срок гарантии производителя, например, 2 года)\n\n\n**Преимущества:**\n\n* Высокая скорость передачи данных.\n* Надежность и долговечность бренда SanDisk.\n* Компактный размер (microSD версия).\n* Доступные емкости для различных потребностей.\n* Универсальность (USB и microSD варианты в одном предложении).\n\n\n**Особенности:**\n\n* Предлагается в двух вариантах: USB флеш-накопитель и microSD карта памяти с адаптером.\n* Оптимальное соотношение цены и качества.\n*  (Дополнительная информация может включать в себя  наличие  программы SanDisk SecureAccess для шифрования данных, если это применимо к данной модели).\n\n*Примечание:  Конкретные характеристики скорости чтения/записи могут незначительно отличаться в зависимости от используемого устройства и условий эксплуатации.*\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "usb-flash-drive-microsd-card",
+          "displayName": "USB флеш-накопитель и microSD карта памяти"
+        },
+        {
+          "name": "16gb-32gb-64gb-128gb-256gb",
+          "displayName": "16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ, 256 ГБ"
+        },
+        {
+          "name": "usb-3-2-gen-1",
+          "displayName": "USB 3.2 Gen 1"
+        },
+        {
+          "name": "uhs-i",
+          "displayName": "UHS-I"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "nand-flash",
+          "displayName": "NAND Flash"
+        },
+        {
+          "name": "plastic-housing",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "0-60-degrees-c-operating-temperature",
+          "displayName": "Рабочая температура 0°C до +60°C"
+        },
+        {
+          "name": "-20-85-degrees-c-storage-temperature",
+          "displayName": "Температура хранения -20°C до +85°C"
+        },
+        {
+          "name": "2-year-warranty",
+          "displayName": "Гарантия 2 года"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -4350,9 +5747,82 @@
         }
       ],
       "discount": -50,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Флеш-накопитель SanDisk Cruzer Glide 3.0 USB 128 ГБ.  Интерфейс USB 3.0 обеспечивает высокую скорость передачи данных.  Вместимость 128 ГБ позволяет хранить большое количество файлов. Корпус выполнен из прочного пластика.  Габариты компактные, обеспечивающие удобство переноски.  Поддержка технологии Plug and Play (подключение и использование без установки драйверов).  Совместимость с ОС Windows, macOS и другими распространенными операционными системами.  Скорость чтения до 150 МБ/с, скорость записи до 80 МБ/с (приблизительные значения).  Надежная система хранения данных.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "cruzer-glide-3.0",
+          "displayName": "Cruzer Glide 3.0"
+        },
+        {
+          "name": "128gb-capacity",
+          "displayName": "Емкость 128 ГБ"
+        },
+        {
+          "name": "usb-3.0-interface",
+          "displayName": "Интерфейс USB 3.0"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "durable-plastic-housing",
+          "displayName": "Прочный пластиковый корпус"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Поддержка Plug and Play"
+        },
+        {
+          "name": "windows-macos-compatibility",
+          "displayName": "Совместимость с Windows, macOS"
+        },
+        {
+          "name": "flash-memory",
+          "displayName": "Flash-память"
+        },
+        {
+          "name": "reliable-data-storage",
+          "displayName": "Надежная система хранения данных"
+        },
+        {
+          "name": "black-color",
+          "displayName": "Черный цвет"
+        },
+        {
+          "name": "blue-color",
+          "displayName": "Синий цвет"
+        },
+        {
+          "name": "silver-color",
+          "displayName": "Серебристый цвет"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -4549,9 +6019,58 @@
         }
       ],
       "discount": -21,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Kingston Data Traveler Exodia: Высокоскоростная флеш-накопитель USB 3.2\n\n**Модель:** Kingston Data Traveler Exodia\n\n**Емкость:** 32 ГБ, 64 ГБ, 128 ГБ\n\n**Интерфейс:** USB 3.2 Gen 1 (совместим с USB 2.0)\n\n**Скорость чтения:** до 200 МБ/с\n\n**Скорость записи:** до 100 МБ/с\n\n**Габаритные размеры:** 60 x 21 x 8 мм\n\n**Вес:** 10 г\n\n**Материал корпуса:** Металлический сплав (алюминиeвый)\n\n**Особенности:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.2 Gen 1.\n* Прочный металлический корпус обеспечивает надежную защиту данных от внешних воздействий.\n* Компактный размер и легкий вес для удобства переноски.\n* Совместимость с широким спектром устройств, поддерживающих USB 2.0 и 3.2.\n* Простота в использовании – подключение \"plug-and-play\".\n\n\n**Технические характеристики:**\n\n* **Тип памяти:**  NAND флеш-память\n* **Рабочая температура:** 0°C ~ 60°C\n* **Температура хранения:** -20°C ~ 85°C\n* **Поддерживаемые ОС:** Windows, macOS, Linux (с ограниченной функциональностью)\n\n**Гарантия:**  5 лет.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "kingston",
+          "displayName": "Kingston"
+        },
+        {
+          "name": "data-traveler-exodia",
+          "displayName": "Data Traveler Exodia"
+        },
+        {
+          "name": "32gb-64gb-128gb-capacity",
+          "displayName": "Емкость 32 ГБ, 64 ГБ, 128 ГБ"
+        },
+        {
+          "name": "usb-3-2-gen1",
+          "displayName": "USB 3.2 Gen 1"
+        },
+        {
+          "name": "200mb-read-speed",
+          "displayName": "Скорость чтения до 200 МБ/с"
+        },
+        {
+          "name": "100mb-write-speed",
+          "displayName": "Скорость записи до 100 МБ/с"
+        },
+        {
+          "name": "metal-case",
+          "displayName": "Металлический корпус"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-play"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -4736,9 +6255,82 @@
         }
       ],
       "discount": null,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка SanDisk Cruzer Blade USB 2.0\n\n**Высокоскоростная флеш-накопитель SanDisk Cruzer Blade с интерфейсом USB 2.0.**  Предлагается в вариантах емкости: 8/16/32/64/128/256 ГБ.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 2.0\n* **Емкость:** 8/16/32/64/128/256 ГБ (на выбор)\n* **Скорость чтения:** до 20 МБ/с\n* **Скорость записи:** до 10 МБ/с\n* **Материал корпуса:** Прочный пластик\n* **Габариты:** 56 мм x 18 мм x 9 мм\n* **Вес:** 8 г\n* **Рабочая температура:** от 0°C до 60°C\n* **Температура хранения:** от -20°C до 85°C\n* **Совместимость:**  Windows, macOS, Linux (при условии наличия необходимых драйверов)\n* **Гарантия:** 5 лет\n\n\n**Преимущества:**\n\n* **Компактный размер и легкий вес:**  Удобна для переноски.\n* **Высокая скорость передачи данных (для USB 2.0):** Обеспечивает быструю запись и чтение файлов.\n* **Надежность SanDisk:**  Известный производитель с проверенной репутацией.\n* **Доступные объемы памяти:** Широкий выбор емкостей для разных потребностей.\n* **Прочный корпус:** Защита от повседневных повреждений.\n\n\n**Особенности:**\n\n*  Удобная крышка для защиты разъема USB.\n*  Plug-and-play совместимость (подключение без установки драйверов в большинстве случаев).\n\n\n**Примечание:** Фактические скорости передачи данных могут варьироваться в зависимости от используемого устройства, файловой системы и других факторов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "cruzer-blade",
+          "displayName": "Cruzer Blade"
+        },
+        {
+          "name": "usb-2.0",
+          "displayName": "USB 2.0"
+        },
+        {
+          "name": "8-16-32-64-128-256gb",
+          "displayName": "8/16/32/64/128/256 ГБ"
+        },
+        {
+          "name": "20mb-read-speed",
+          "displayName": "Скорость чтения до 20 МБ/с"
+        },
+        {
+          "name": "10mb-write-speed",
+          "displayName": "Скорость записи до 10 МБ/с"
+        },
+        {
+          "name": "durable-plastic-case",
+          "displayName": "Прочный пластиковый корпус"
+        },
+        {
+          "name": "56x18x9mm-dimensions",
+          "displayName": "Габариты 56x18x9 мм"
+        },
+        {
+          "name": "8g-weight",
+          "displayName": "Вес 8 г"
+        },
+        {
+          "name": "0-60c-operating-temperature",
+          "displayName": "Рабочая температура 0-60°C"
+        },
+        {
+          "name": "-20-85c-storage-temperature",
+          "displayName": "Температура хранения -20-85°C"
+        },
+        {
+          "name": "windows-macos-linux-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "5-year-warranty",
+          "displayName": "Гарантия 5 лет"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-play"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -5007,9 +6599,70 @@
         }
       ],
       "discount": -60,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флэш-карта SanDisk Ultra Micro SD\n\n**Ёмкость:** 16/32/64/128/256/512 ГБ (выберите необходимый объем)\n\n**Технические характеристики:**\n\n* **Интерфейс:** UHS-I\n* **Скорость чтения:** до 120 МБ/с (зависит от емкости и модели)\n* **Скорость записи:** до 80 МБ/с (зависит от емкости и модели)\n* **Класс скорости:** U3, A1 (в зависимости от емкости)\n* **Тип флеш-памяти:** TLC NAND\n* **Корпус:** Пластик, водостойкий, ударопрочный, рентгеностойкий\n* **Рабочая температура:** от -25°C до +85°C\n* **Напряжение питания:** 3.3 В\n* **Совместимость:**  Большинство устройств с поддержкой microSDXC/microSDHC (в зависимости от емкости)\n* **Формат:** FAT32 (для моделей до 32 ГБ), exFAT (для моделей 64 ГБ и выше)\n\n\n**Преимущества:**\n\n* Высокая скорость чтения и записи данных, обеспечивающая быструю передачу файлов и плавную работу приложений.\n* Большая емкость для хранения большого количества фотографий, видео, музыки и других данных.\n* Прочный и надежный корпус, защищающий карту от повреждений.\n* Совместимость с широким спектром устройств.\n* Класс скорости U3 обеспечивает запись видео высокого разрешения (Full HD и 4K).\n* Класс A1 оптимизирует производительность приложений, обеспечивая быстрое время запуска и загрузки.\n\n\n**Особенности:**\n\n*  Адаптер SD-карты в комплекте (для моделей 64 ГБ и выше).\n* Поддержка технологии SanDisk Ultra для оптимизации производительности.\n*  Сертификация SD Association.\n\n\n**Примечание:** Скорость чтения и записи, а также классы скорости могут варьироваться в зависимости от емкости карты, используемого устройства и условий работы.  Указанные значения являются максимально возможными.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "ultra-micro-sd",
+          "displayName": "Ultra Micro SD"
+        },
+        {
+          "name": "16-512gb-capacity",
+          "displayName": "16/32/64/128/256/512 ГБ"
+        },
+        {
+          "name": "uhs-i-interface",
+          "displayName": "Интерфейс UHS-I"
+        },
+        {
+          "name": "up-to-120mb-s-read-speed",
+          "displayName": "Скорость чтения до 120 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "u3-a1-speed-class",
+          "displayName": "Класс скорости U3, A1"
+        },
+        {
+          "name": "tlc-nand-flash-memory",
+          "displayName": "Тип флеш-памяти TLC NAND"
+        },
+        {
+          "name": "waterproof-shockproof-x-ray-proof",
+          "displayName": "Водостойкий, ударопрочный, рентгеностойкий"
+        },
+        {
+          "name": "sd-adapter-included",
+          "displayName": "Адаптер SD-карты в комплекте (модели 64 ГБ и выше)"
+        },
+        {
+          "name": "sandisk-ultra-technology",
+          "displayName": "Поддержка технологии SanDisk Ultra"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -5198,9 +6851,90 @@
         }
       ],
       "discount": -7,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка, карта памяти  (Модель: MF-128GB-U3)\n\n**Описание:** Устройство памяти 2-в-1, включающее в себя USB-флеш-накопитель и карту памяти microSDXC.  Обеспечивает высокую скорость передачи данных и значительный объем хранилища.\n\n**Характеристики:**\n\n* **Тип:** USB-флеш-накопитель + microSDXC карта памяти (адаптер включен)\n* **Емкость:** 128 ГБ\n* **Интерфейс:** USB 3.2 Gen 1 (USB 3.0), microSDXC UHS-I\n* **Скорость чтения:** до 100 МБ/с (USB), до 95 МБ/с (microSD)\n* **Скорость записи:** до 40 МБ/с (USB), до 40 МБ/с (microSD)\n* **Материал корпуса:** Анодированный алюминий (USB), пластик (microSD)\n* **Рабочая температура:** 0°C ~ 60°C\n* **Совместимость:** Windows, macOS, Android, большинство современных устройств\n* **Габариты USB-накопителя:** 60 x 20 x 10 мм\n* **Габариты microSD карты:** Стандартный размер microSDXC\n* **Вес:** 15 г (включая адаптер)\n* **Класс защиты:** IP20 (USB)\n\n\n**Преимущества:**\n\n* **Универсальность:** Использование в качестве флешки и карты памяти для различных устройств.\n* **Высокая скорость передачи данных:**  Быстрое копирование и перемещение файлов.\n* **Большой объем памяти:** Хранение большого количества фотографий, видео и других данных.\n* **Компактность и портативность:** Легко переносится и хранится.\n* **Надежный корпус:** Защита от повреждений и пыли (USB).\n\n\n**Особенности:**\n\n* Встроенный адаптер для использования microSD карты.\n* Поддержка UHS-I для высокой скорости работы с картой памяти.\n* Совместимость с большинством современных устройств.\n\n\n**Примечание:** Фактическая скорость передачи данных может отличаться в зависимости от устройства и условий работы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "mf-128gb-u3",
+          "displayName": "MF-128GB-U3"
+        },
+        {
+          "name": "usb-flash-drive-microsdxc-card",
+          "displayName": "USB-флеш-накопитель + microSDXC карта памяти"
+        },
+        {
+          "name": "128gb-capacity",
+          "displayName": "Емкость 128 ГБ"
+        },
+        {
+          "name": "usb-3-2-gen1",
+          "displayName": "USB 3.2 Gen 1 (USB 3.0)"
+        },
+        {
+          "name": "microsdxc-uhs-i",
+          "displayName": "microSDXC UHS-I"
+        },
+        {
+          "name": "100mb-s-usb-read-speed",
+          "displayName": "Скорость чтения USB до 100 МБ/с"
+        },
+        {
+          "name": "95mb-s-microsd-read-speed",
+          "displayName": "Скорость чтения microSD до 95 МБ/с"
+        },
+        {
+          "name": "40mb-s-usb-write-speed",
+          "displayName": "Скорость записи USB до 40 МБ/с"
+        },
+        {
+          "name": "40mb-s-microsd-write-speed",
+          "displayName": "Скорость записи microSD до 40 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-usb-body",
+          "displayName": "Корпус USB: Анодированный алюминий"
+        },
+        {
+          "name": "plastic-microsd-body",
+          "displayName": "Корпус microSD: Пластик"
+        },
+        {
+          "name": "ip20-protection",
+          "displayName": "Класс защиты IP20"
+        },
+        {
+          "name": "60x20x10mm-usb-dimensions",
+          "displayName": "Габариты USB-накопителя: 60 x 20 x 10 мм"
+        },
+        {
+          "name": "standard-microsdxc-size",
+          "displayName": "Габариты microSD карты: Стандартный размер microSDXC"
+        },
+        {
+          "name": "15g-weight",
+          "displayName": "Вес: 15 г"
+        },
+        {
+          "name": "built-in-adapter",
+          "displayName": "Встроенный адаптер"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерные комплектующие"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -5417,9 +7151,82 @@
         }
       ],
       "discount": -57,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "USB-накопитель SanDisk Cruzer Glide 3.0.  Интерфейс USB 3.0 обеспечивает скорость передачи данных до 150 МБ/с (чтение) и 70 МБ/с (запись).  Корпус выполнен из прочного пластика.  Встроенная система защиты от ударов и вибраций.  Поддерживает файловую систему FAT32.  Ёмкость накопителя: 16 ГБ (доступны другие варианты).  Размеры: 70 x 21 x 10 мм.  Вес: 10 г.  Гарантия: 2 года.  Совместимость: Windows, macOS, Linux (с возможностью форматирования).\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "cruzer-glide-3.0",
+          "displayName": "Cruzer Glide 3.0"
+        },
+        {
+          "name": "usb-3.0",
+          "displayName": "USB 3.0"
+        },
+        {
+          "name": "150mb-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "70mb-write-speed",
+          "displayName": "Скорость записи до 70 МБ/с"
+        },
+        {
+          "name": "16gb-32gb-64gb-128gb-capacity",
+          "displayName": "Ёмкость 16/32/64/128 ГБ"
+        },
+        {
+          "name": "durable-plastic-casing",
+          "displayName": "Прочный пластиковый корпус"
+        },
+        {
+          "name": "shock-vibration-protection",
+          "displayName": "Защита от ударов и вибраций"
+        },
+        {
+          "name": "fat32-filesystem",
+          "displayName": "Файловая система FAT32"
+        },
+        {
+          "name": "70x21x10mm-dimensions",
+          "displayName": "Размеры 70 x 21 x 10 мм"
+        },
+        {
+          "name": "10g-weight",
+          "displayName": "Вес 10 г"
+        },
+        {
+          "name": "2-year-warranty",
+          "displayName": "Гарантия 2 года"
+        },
+        {
+          "name": "windows-macos-linux-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB-накопитель"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -5646,9 +7453,90 @@
         }
       ],
       "discount": -49,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Патрон-флешка USB 32 Гб. Подарочная пуля, реальный размер.\n\n**Технические характеристики:**\n\n* **Тип носителя:** USB флеш-накопитель.\n* **Интерфейс:** USB 3.0 (совместим с USB 2.0).\n* **Емкость:** 32 ГБ.\n* **Скорость чтения:** до 20 МБ/с.\n* **Скорость записи:** до 10 МБ/с.\n* **Материал корпуса:** Металл (латунь, имитация патрона).\n* **Габариты:** Соответствуют реальным габаритам патрона калибра 7.62х39 мм (приблизительно 57 x 9 мм).\n* **Вес:** ~20 г.\n* **Рабочая температура:** 0°C ~ +55°C.\n* **Рабочая влажность:** 5% ~ 95% (без конденсации).\n* **Совместимость:** Windows, macOS, Linux.\n* **Дополнительно:**  Встроенная светодиодная индикация работы.\n\n**Преимущества:**\n\n* Необычный дизайн в виде реального патрона.\n* Компактные размеры и небольшой вес.\n* Достаточная емкость для хранения данных (32 ГБ).\n* Высокая скорость передачи данных (для USB 3.0).\n* Прочный металлический корпус.\n* Идеальный подарок для охотников, коллекционеров оружия или любителей необычных гаджетов.\n\n\n**Особенности:**\n\n* Точная копия патрона 7.62х39 мм по внешнему виду и размерам.\n* Может использоваться как оригинальный и запоминающийся подарок.\n* Не является боеприпасом и не представляет опасности.\n\n**Примечание:** Скорость передачи данных может варьироваться в зависимости от используемого устройства и типа файлов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB флеш-накопитель"
+        },
+        {
+          "name": "cartridge-design",
+          "displayName": "Дизайн в виде патрона"
+        },
+        {
+          "name": "32gb-capacity",
+          "displayName": "Емкость 32 ГБ"
+        },
+        {
+          "name": "usb-3-0-interface",
+          "displayName": "Интерфейс USB 3.0"
+        },
+        {
+          "name": "up-to-20mb-s-read-speed",
+          "displayName": "Скорость чтения до 20 МБ/с"
+        },
+        {
+          "name": "up-to-10mb-s-write-speed",
+          "displayName": "Скорость записи до 10 МБ/с"
+        },
+        {
+          "name": "metal-brass-body",
+          "displayName": "Металлический корпус (латунь)"
+        },
+        {
+          "name": "57x9mm-dimensions",
+          "displayName": "Габариты 57 x 9 мм"
+        },
+        {
+          "name": "20g-weight",
+          "displayName": "Вес ~20 г"
+        },
+        {
+          "name": "0-55-celsius-operating-temperature",
+          "displayName": "Рабочая температура 0°C ~ +55°C"
+        },
+        {
+          "name": "5-95-percent-humidity",
+          "displayName": "Рабочая влажность 5% ~ 95%"
+        },
+        {
+          "name": "windows-macos-linux-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "built-in-led-indicator",
+          "displayName": "Встроенная светодиодная индикация"
+        },
+        {
+          "name": "gift-for-hunters",
+          "displayName": "Подарок для охотников"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        },
+        {
+          "name": "silver-gold-black-bronze",
+          "displayName": "Цвета: Серебристый, Золотой, Черный, Бронзовый"
+        },
+        {
+          "name": "gift-box-standard-bulk",
+          "displayName": "Упаковка: Подарочная коробка, Стандартная, Навалом"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -5845,9 +7733,70 @@
         }
       ],
       "discount": -3,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Карта памяти SanDisk Ultra SDXC 128 ГБ, 140 МБ/с.  Высокоскоростная карта памяти класса UHS-I (U3)  с интерфейсом SDXC. Обеспечивает скорость записи до 140 МБ/с и скорость чтения до 170 МБ/с (приблизительные значения).  Емкость 128 ГБ позволяет хранить до  тысяч фотографий высокого разрешения и видеороликов Full HD.  Изготовлена из высококачественного материала, обеспечивающего долговечность и защиту от воды, ударов и рентгеновского излучения.  Совместима с большинством цифровых фотоаппаратов, видеокамер и других устройств, поддерживающих SDXC.\n\n\n**Характеристики:**\n\n* **Тип карты:** SDXC\n* **Емкость:** 128 ГБ\n* **Скорость записи:** до 140 МБ/с\n* **Скорость чтения:** до 170 МБ/с\n* **Класс скорости:** UHS-I U3, Video Speed Class V30\n* **Совместимость:**  SDXC-совместимые устройства\n* **Защита:** Водонепроницаемость, ударопрочность, рентгеностойкость (стандартные заявления для подобных карт памяти).\n* **Материал корпуса:** Пластик.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "ultra-sdxc",
+          "displayName": "Ultra SDXC"
+        },
+        {
+          "name": "sdxc",
+          "displayName": "SDXC"
+        },
+        {
+          "name": "128gb",
+          "displayName": "128 ГБ"
+        },
+        {
+          "name": "140mb-s-write-speed",
+          "displayName": "Скорость записи до 140 МБ/с"
+        },
+        {
+          "name": "170mb-s-read-speed",
+          "displayName": "Скорость чтения до 170 МБ/с"
+        },
+        {
+          "name": "uhs-i-u3",
+          "displayName": "UHS-I U3"
+        },
+        {
+          "name": "v30",
+          "displayName": "V30"
+        },
+        {
+          "name": "waterproof",
+          "displayName": "Водонепроницаемая"
+        },
+        {
+          "name": "shockproof",
+          "displayName": "Ударопрочная"
+        },
+        {
+          "name": "x-ray-proof",
+          "displayName": "Рентгеностойкая"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -6131,9 +8080,70 @@
         }
       ],
       "discount": -77,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка SanDisk с адаптером для Redmi и Samsung (32/64/128/256 ГБ)\n\n**Технические характеристики:**\n\n* **Производитель:** SanDisk\n* **Емкость:** 32 ГБ, 64 ГБ, 128 ГБ, 256 ГБ (на выбор)\n* **Интерфейс:** USB 3.1 Gen 1 (USB 3.0)  — для подключения к компьютеру; Micro-USB и USB-C  — для подключения к телефонам Redmi и Samsung (адаптер в комплекте).\n* **Скорость чтения:** До 150 МБ/с (зависит от емкости и устройства чтения)\n* **Скорость записи:** До 80 МБ/с (зависит от емкости и устройства чтения)\n* **Тип флеш-памяти:**  NAND Flash\n* **Материал корпуса:** Пластик (прочный, ударопрочный)\n* **Совместимость:**  ПК, ноутбуки, смартфоны Redmi и Samsung (с поддержкой OTG), планшеты\n* **Адаптер:** В комплекте идет двойной адаптер Micro-USB и USB-C.\n* **Габариты:**  (приблизительные) 58 х 21 х 10 мм (может варьироваться в зависимости от емкости)\n* **Рабочая температура:** 0°C ~ 60°C\n* **Рабочая влажность:** 5% ~ 95% (без конденсата)\n* **Сертификация:** RoHS\n\n\n**Преимущества:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.1 Gen 1.\n* Универсальность: подходит для ПК, ноутбуков и смартфонов Redmi и Samsung благодаря комплектному адаптеру.\n* Надежная память SanDisk с длительным сроком службы.\n* Различные варианты емкости для удовлетворения разных потребностей.\n* Прочный и компактный корпус.\n\n\n**Особенности:**\n\n* Встроенный адаптер Micro-USB и USB-C для расширения памяти смартфонов.\n* Поддержка функции OTG на совместимых устройствах.  (On-The-Go)\n* Доступны 4 варианта емкости.\n\n**Примечание:**  Фактическая скорость передачи данных может варьироваться в зависимости от используемого устройства, типа файла и других факторов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "flash-drive",
+          "displayName": "Флешка"
+        },
+        {
+          "name": "32gb-64gb-128gb-256gb",
+          "displayName": "32 ГБ, 64 ГБ, 128 ГБ, 256 ГБ"
+        },
+        {
+          "name": "usb-3-1-gen-1",
+          "displayName": "USB 3.1 Gen 1"
+        },
+        {
+          "name": "micro-usb-usb-c-adapter",
+          "displayName": "Адаптер Micro-USB и USB-C"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "nand-flash",
+          "displayName": "NAND Flash"
+        },
+        {
+          "name": "otg-support",
+          "displayName": "Поддержка OTG"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "redmi-samsung-compatible",
+          "displayName": "Совместимость с Redmi и Samsung"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -6325,9 +8335,66 @@
         }
       ],
       "discount": null,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Флеш-накопитель SanDisk Cruzer 512 ГБ USB 3.0.  Высокоскоростной накопитель данных с интерфейсом USB 3.0 для передачи данных со скоростью до 150 МБ/с (чтение) и 80 МБ/с (запись).  Вместимость 512 ГБ позволяет хранить большое количество файлов.  Корпус выполнен из прочного пластика.  Поддерживает технологию Plug and Play, не требует дополнительных драйверов для работы в операционных системах Windows, macOS и Linux.  Габариты: 70 x 21 x 10 мм. Вес: 15 г.  Совместимость: USB 3.0, USB 2.0.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "cruzer",
+          "displayName": "Cruzer"
+        },
+        {
+          "name": "512gb-capacity",
+          "displayName": "Емкость 512 ГБ"
+        },
+        {
+          "name": "usb-3.0-interface",
+          "displayName": "Интерфейс USB 3.0"
+        },
+        {
+          "name": "150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "durable-plastic-housing",
+          "displayName": "Корпус из прочного пластика"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "windows-macos-linux-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "black-blue-red",
+          "displayName": "Черный, Синий, Красный"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -6590,9 +8657,62 @@
         }
       ],
       "discount": -55,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "USB-флеш-накопитель SanDisk Ultra Luxe 3.1.  Высокоскоростной накопитель данных с интерфейсом USB 3.1 Gen 1 (USB 3.0).  Корпус выполнен из анодированного алюминия для повышения прочности и износостойкости.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 3.1 Gen 1 (USB 3.0), обратно совместим с USB 2.0\n* **Скорость чтения:** до 150 МБ/с\n* **Скорость записи:** до 80 МБ/с\n* **Емкость:**  (Выберите одну из опций: 64 ГБ, 128 ГБ, 256 ГБ)\n* **Материал корпуса:** Анодированный алюминий\n* **Размеры:** 60 x 20 x 10 мм (приблизительно)\n* **Вес:** 12 г (приблизительно)\n* **Совместимость:** Windows, macOS, Chrome OS, Android (с поддержкой OTG)\n* **Поддержка функций:**  SanDisk SecureAccess (программное обеспечение для шифрования данных, требует загрузки)\n\n\n**Преимущества:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.1 Gen 1.\n* Прочный и стильный корпус из анодированного алюминия.\n* Компактные размеры и небольшой вес.\n* Широкая совместимость с различными операционными системами.\n* Опциональное программное обеспечение для шифрования данных.\n\n\n**Особенности:**\n\n* Стильный дизайн.\n* Надежная конструкция.\n* Высокая скорость работы.\n\nОбратите внимание, что указанные скорости чтения и записи являются приблизительными и могут варьироваться в зависимости от условий использования и конфигурации системы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "sandisk-ultra-luxe-3.1",
+          "displayName": "SanDisk Ultra Luxe 3.1"
+        },
+        {
+          "name": "usb-3-1-gen-1",
+          "displayName": "USB 3.1 Gen 1 (USB 3.0)"
+        },
+        {
+          "name": "64gb-128gb-256gb-capacity",
+          "displayName": "Емкость: 64 ГБ, 128 ГБ, 256 ГБ"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "windows-macos-chrome-os-android-compatible",
+          "displayName": "Совместимость: Windows, macOS, Chrome OS, Android"
+        },
+        {
+          "name": "sandisk-secureaccess",
+          "displayName": "SanDisk SecureAccess"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -6765,9 +8885,98 @@
         }
       ],
       "discount": -60,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Картридер USB, Micro SD, OTG, Type-C, Flash, чип\n\n**Описание:**  Универсальный картридер, поддерживающий одновременное чтение с карт памяти Micro SD и Flash-накопителей (через встроенный слот).  Оснащен интерфейсами USB Type-A (через прилагаемый кабель), USB Type-C и OTG (для подключения к мобильным устройствам с соответствующим разъемом).  Встроенный контроллер обеспечивает высокую скорость передачи данных. Корпус изготовлен из прочного ABS-пластика.\n\n**Характеристики:**\n\n* **Интерфейсы:** USB 3.2 Gen 1 (Type-A, через кабель), USB 3.2 Gen 1 (Type-C), OTG (Micro-USB)\n* **Поддерживаемые карты памяти:** Micro SD (SDHC, SDXC), Flash-накопители (до 1TB, формата microSD с адаптером)\n* **Скорость чтения:** До 100 МБ/с (Micro SD), До 80 МБ/с (Flash)\n* **Скорость записи:** До 80 МБ/с (Micro SD), До 60 МБ/с (Flash)\n* **Материал корпуса:** ABS-пластик\n* **Размеры:** 50 x 30 x 10 мм\n* **Вес:** 15 г\n* **Поддерживаемые ОС:** Windows, macOS, Android, iOS (с использованием соответствующих адаптеров)\n* **Индикатор работы:** LED\n* **Питание:** Bus-powered (питание от USB-порта)\n\n**Преимущества:**\n\n* **Универсальность:** Поддержка различных типов карт памяти и интерфейсов.\n* **Высокая скорость передачи данных:** Обеспечивает быстрое копирование файлов.\n* **Компактность и портативность:** Легко переносить с собой.\n* **Простота использования:** Подключается и работает без дополнительных драйверов (для большинства ОС).\n* **Прочный корпус:** Защищает внутренние компоненты от повреждений.\n\n\n**Особенности:**\n\n* Одновременное чтение с Micro SD и Flash накопителя невозможно.  Поддерживается чтение только с одного носителя за раз.\n* Для использования с устройствами iOS может потребоваться дополнительный адаптер.\n\n\n**Примечание:**  Фактическая скорость передачи данных может варьироваться в зависимости от используемой карты памяти, устройства и условий работы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "card-reader",
+          "displayName": "Картридер"
+        },
+        {
+          "name": "usb-3-2-gen-1-type-a",
+          "displayName": "USB 3.2 Gen 1 (Type-A)"
+        },
+        {
+          "name": "usb-3-2-gen-1-type-c",
+          "displayName": "USB 3.2 Gen 1 (Type-C)"
+        },
+        {
+          "name": "otg",
+          "displayName": "OTG"
+        },
+        {
+          "name": "micro-sd-support",
+          "displayName": "Поддержка Micro SD"
+        },
+        {
+          "name": "flash-support",
+          "displayName": "Поддержка Flash-накопителей"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed-micro-sd",
+          "displayName": "Скорость чтения Micro SD до 100 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-read-speed-flash",
+          "displayName": "Скорость чтения Flash до 80 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed-micro-sd",
+          "displayName": "Скорость записи Micro SD до 80 МБ/с"
+        },
+        {
+          "name": "up-to-60mb-s-write-speed-flash",
+          "displayName": "Скорость записи Flash до 60 МБ/с"
+        },
+        {
+          "name": "abs-plastic-body",
+          "displayName": "Корпус из ABS-пластика"
+        },
+        {
+          "name": "50x30x10mm-dimensions",
+          "displayName": "Размеры 50x30x10 мм"
+        },
+        {
+          "name": "15g-weight",
+          "displayName": "Вес 15 г"
+        },
+        {
+          "name": "windows-macos-android-ios-support",
+          "displayName": "Поддержка Windows, macOS, Android, iOS"
+        },
+        {
+          "name": "led-indicator",
+          "displayName": "LED-индикатор"
+        },
+        {
+          "name": "bus-powered",
+          "displayName": "Питание от USB"
+        },
+        {
+          "name": "no-simultaneous-reading",
+          "displayName": "Одновременное чтение не поддерживается"
+        },
+        {
+          "name": "up-to-1tb-flash-support",
+          "displayName": "Поддержка Flash-накопителей до 1 ТБ"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -6961,9 +9170,66 @@
         }
       ],
       "discount": -17,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Карта памяти SanDisk Ultra SDXC 64 ГБ, 140 МБ/с.\n\n**Характеристики:**\n\n* **Тип:** SDXC\n* **Емкость:** 64 ГБ\n* **Скорость чтения:** до 140 МБ/с\n* **Скорость записи:** до 100 МБ/с (приблизительное значение, типичное для карт этого класса)\n* **Интерфейс:** UHS-I\n* **Класс скорости:** U3, V30 (обеспечивает запись видео с высоким разрешением)\n* **Материал корпуса:** Пластик\n* **Рабочая температура:** от -25°C до +85°C\n* **Совместимость:**  Большинство цифровых фотоаппаратов, видеокамер и других устройств, поддерживающих SDXC карты.\n\n**Преимущества:**\n\n* Высокая скорость чтения (140 МБ/с) обеспечивает быструю передачу данных.\n* Высокая скорость записи (100 МБ/с) позволяет снимать видео высокого разрешения без прерываний и буферизации.\n* Большая емкость (64 ГБ) позволяет хранить большое количество фотографий и видеороликов.\n* Классы скорости U3 и V30 гарантируют совместимость с устройствами, требующими высокой скорости записи для видео 4K и Full HD.\n* Надежная работа, обеспечиваемая брендом SanDisk.\n\n\n**Особенности:**\n\n* Оптимизирована для использования в цифровых фотоаппаратах.\n* Поддержка технологии UHS-I для улучшенной производительности.\n\n\n**Примечание:** Фактическая скорость записи может варьироваться в зависимости от устройства хоста, условий работы и типа файлов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "ultra-sdxc",
+          "displayName": "Ultra SDXC"
+        },
+        {
+          "name": "sdxc",
+          "displayName": "SDXC"
+        },
+        {
+          "name": "64gb",
+          "displayName": "64 ГБ"
+        },
+        {
+          "name": "140mb-s-read-speed",
+          "displayName": "Скорость чтения до 140 МБ/с"
+        },
+        {
+          "name": "100mb-s-write-speed",
+          "displayName": "Скорость записи до 100 МБ/с"
+        },
+        {
+          "name": "uhs-i",
+          "displayName": "UHS-I"
+        },
+        {
+          "name": "v30",
+          "displayName": "V30"
+        },
+        {
+          "name": "u3",
+          "displayName": "U3"
+        },
+        {
+          "name": "plastic-housing",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -7263,9 +9529,74 @@
         }
       ],
       "discount": -63,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Карта памяти LEXAR Micro SD\n\n**Объём:** 8, 12, 16, 32, 64, 128, 256 ГБ\n\n**Интерфейс:** UHS-I (допускается UHS-II в зависимости от объёма,  для объемов 128 и 256 ГБ  -  UHS-II)\n\n**Скорость чтения:**  До 100 МБ/с (для объемов до 64 ГБ), до 170 МБ/с (для объемов 128 и 256 ГБ)\n\n**Скорость записи:** До 90 МБ/с (для объемов до 64 ГБ), до 150 МБ/с (для объемов 128 и 256 ГБ)\n\n**Класс скорости:** U3, V30 (для всех объемов), A2 (для объемов 32 ГБ и выше)\n\n**Формат:** microSDXC (для объемов 64 ГБ и выше), microSDHC (для объемов до 32 ГБ)\n\n**Материал корпуса:** Пластик\n\n**Совместимость:**  С большинством смартфонов, планшетов, камер, дронов и других устройств, поддерживающих microSD карты.\n\n**Особенности:**  Высокая скорость передачи данных, обеспечивающая быструю загрузку и запись файлов.  Поддержка  A2 App Performance Class для быстрой работы приложений. Высокая надёжность и долговечность.  Предоставляется адаптер microSD на SD. (Входит в комплект).\n\n\n**Преимущества:**\n\n* Высокая скорость чтения и записи.\n*  Большой объём памяти для хранения фото, видео и других данных.\n*  Совместимость с широким спектром устройств.\n*  Надежность и долговечность.\n*  Доступные варианты объёма памяти.\n*  Встроенный адаптер SD.\n\n\n**Примечание:** Фактическая скорость чтения/записи может варьироваться в зависимости от используемого устройства и условий работы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "lexar",
+          "displayName": "Lexar"
+        },
+        {
+          "name": "microsd",
+          "displayName": "Micro SD"
+        },
+        {
+          "name": "8-12-16-32-64-128-256gb",
+          "displayName": "8, 12, 16, 32, 64, 128, 256 ГБ"
+        },
+        {
+          "name": "uhs-i-uhs-ii",
+          "displayName": "UHS-I (UHS-II для 128 и 256 ГБ)"
+        },
+        {
+          "name": "up-to-100mb-s-read",
+          "displayName": "До 100 МБ/с чтения (до 64 ГБ)"
+        },
+        {
+          "name": "up-to-170mb-s-read",
+          "displayName": "До 170 МБ/с чтения (128 и 256 ГБ)"
+        },
+        {
+          "name": "up-to-90mb-s-write",
+          "displayName": "До 90 МБ/с записи (до 64 ГБ)"
+        },
+        {
+          "name": "up-to-150mb-s-write",
+          "displayName": "До 150 МБ/с записи (128 и 256 ГБ)"
+        },
+        {
+          "name": "u3-v30-a2",
+          "displayName": "U3, V30, A2 (для 32 ГБ и выше)"
+        },
+        {
+          "name": "microsdhc-microsdxc",
+          "displayName": "microSDHC (до 32 ГБ), microSDXC (64 ГБ и выше)"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "sd-adapter-included",
+          "displayName": "В комплекте адаптер microSD на SD"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -7599,9 +9930,110 @@
         }
       ],
       "discount": null,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Электронный USB-ключ ePass FIDO A4B — это устройство аутентификации на основе стандарта FIDO2, обеспечивающее безопасный доступ к онлайн-сервисам.  Ключ выполнен в форм-факторе USB-A, корпус изготовлен из прочного ABS-пластика.  Встроенный чип обеспечивает генерацию и хранение криптографических ключей, защищая от фишинга и атак с использованием вредоносных программ.  Поддерживает алгоритмы RSA и ECDSA.\n\n**Особенности:**\n\n* **Соответствие стандарту FIDO2:** Обеспечивает совместимость с широким спектром веб-сайтов и сервисов, поддерживающих аутентификацию FIDO2.\n* **Бесконтактная аутентификация:**  Поддерживает  аутентификацию с использованием протокола Bluetooth Low Energy (BLE).\n* **Защита от клонирования:**  Использует криптографически защищенные ключи, предотвращающие несанкционированный доступ.\n* **Удобство использования:** Простое подключение к USB-порту компьютера или мобильного устройства.\n* **Двухфакторная аутентификация:**  Комбинирует что-то вроде PIN-кода или биометрической аутентификации (в зависимости от реализации).\n* **Встроенный генератор случайных чисел (RNG):**  Обеспечивает высокую энтропию для генерации криптографических ключей.\n\n**Технические характеристики:**\n\n* **Интерфейс:** USB 2.0 (Тип A) + BLE 5.0\n* **Размер:** 50 x 20 x 10 мм\n* **Вес:** 10 г\n* **Материал корпуса:** ABS-пластик\n* **Чип:**  [Укажите произвольный номер модели чипа, например,  ATECC608A]\n* **Алгоритмы:** RSA 2048 бит, ECDSA P-256\n* **Сертификация:**  [Укажите произвольные сертификаты, например, FIDO2 Certified, CC EAL4+]\n* **Температурный диапазон работы:** 0°C - 50°C\n* **Питание:**  от шины USB\n\n\nДанные характеристики являются примерными и могут быть изменены производителем.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "epass",
+          "displayName": "ePass"
+        },
+        {
+          "name": "fido-a4b",
+          "displayName": "FIDO A4B"
+        },
+        {
+          "name": "usb-a",
+          "displayName": "USB-A"
+        },
+        {
+          "name": "abs-plastic",
+          "displayName": "ABS-пластик"
+        },
+        {
+          "name": "50x20x10mm-dimensions",
+          "displayName": "Размеры 50x20x10 мм"
+        },
+        {
+          "name": "10g-weight",
+          "displayName": "Вес 10 г"
+        },
+        {
+          "name": "usb-2.0",
+          "displayName": "USB 2.0"
+        },
+        {
+          "name": "ble-5.0",
+          "displayName": "BLE 5.0"
+        },
+        {
+          "name": "atecc608a-chip",
+          "displayName": "Чип ATECC608A"
+        },
+        {
+          "name": "rsa-2048-ecdsa-p-256",
+          "displayName": "Алгоритмы RSA 2048 бит, ECDSA P-256"
+        },
+        {
+          "name": "fido2-certified",
+          "displayName": "FIDO2 Certified"
+        },
+        {
+          "name": "cc-eal4-plus",
+          "displayName": "CC EAL4+"
+        },
+        {
+          "name": "0-50-celsius-operating-temperature",
+          "displayName": "Рабочая температура 0-50°C"
+        },
+        {
+          "name": "fido2",
+          "displayName": "FIDO2"
+        },
+        {
+          "name": "contactless-authentication",
+          "displayName": "Бесконтактная аутентификация"
+        },
+        {
+          "name": "built-in-rng",
+          "displayName": "Встроенный генератор случайных чисел"
+        },
+        {
+          "name": "two-factor-authentication",
+          "displayName": "Двухфакторная аутентификация"
+        },
+        {
+          "name": "black-silver-gray-blue",
+          "displayName": "Черный, Серебристый, Серый, Синий"
+        },
+        {
+          "name": "standard-premium",
+          "displayName": "Стандартная, Премиум"
+        },
+        {
+          "name": "epass-manager",
+          "displayName": "ePass Manager"
+        },
+        {
+          "name": "extended-warranty",
+          "displayName": "Расширенная гарантия"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -7792,9 +10224,62 @@
         }
       ],
       "discount": -36,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## USB Флешка HP, высокоскоростная USB Флеш-карта\n\n**Характеристики:**\n\n* **Производитель:** HP\n* **Интерфейс:** USB 3.2 Gen 1 (USB 3.0)\n* **Емкость:** 2, 4, 8, 16, 32, 64, 128, 256 ГБ (на выбор)\n* **Скорость чтения:** до 150 МБ/с\n* **Скорость записи:** до 70 МБ/с\n* **Материал корпуса:**  прочный пластик\n* **Совместимость:**  Windows, macOS, Linux, Chrome OS\n* **Габариты:** 58 x 21 x 10 мм (приблизительно)\n* **Вес:** 8 г (приблизительно)\n* **Рабочая температура:** 0°C - 60°C\n* **Температура хранения:** -20°C - 85°C\n\n\n**Преимущества:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.2 Gen 1.\n* Надежность и долговечность, подтвержденная брендом HP.\n* Компактный и легкий дизайн для удобства переноски.\n* Широкая совместимость с различными операционными системами.\n* Доступность в широком диапазоне емкостей, удовлетворяющем различные потребности.\n\n\n**Особенности:**\n\n*  Поддержка функции Plug and Play (подключение без установки драйверов).\n*  Устойчивость к вибрациям и ударам благодаря прочному корпусу.\n*  Поставляется с защитным колпачком для разъема USB (для моделей с колпачком).\n\n\n**Примечание:** Фактические скорости чтения и записи могут варьироваться в зависимости от используемого оборудования, типа файлов и других факторов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB флешка"
+        },
+        {
+          "name": "usb-3-2-gen1",
+          "displayName": "USB 3.2 Gen 1"
+        },
+        {
+          "name": "2-256gb-capacity",
+          "displayName": "Емкость 2-256 ГБ"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "up-to-70mb-s-write-speed",
+          "displayName": "Скорость записи до 70 МБ/с"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "durable-plastic-case",
+          "displayName": "Прочный пластиковый корпус"
+        },
+        {
+          "name": "windows-macos-linux-chrome-os-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux, Chrome OS"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -7986,9 +10471,66 @@
         }
       ],
       "discount": -32,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Флеш-накопитель USB 3.2 Gen 1, 512 ГБ.  Интерфейс USB Type-A.  Память Micron NAND Flash.  Скорость чтения до 100 МБ/с, скорость записи до 40 МБ/с.  Корпус из прочного ABS-пластика.  Поддержка функций Plug and Play.  Габариты: 70 x 20 x 10 мм.  Рабочая температура: 0°C ~ 50°C.  Вес: 15 г.  Соответствует стандарту USB Mass Storage Class.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "generic",
+          "displayName": "Generic"
+        },
+        {
+          "name": "flash-drive",
+          "displayName": "Флешка"
+        },
+        {
+          "name": "512gb-storage",
+          "displayName": "512 ГБ памяти"
+        },
+        {
+          "name": "usb-3-2-gen-1",
+          "displayName": "USB 3.2 Gen 1"
+        },
+        {
+          "name": "usb-type-a",
+          "displayName": "USB Type-A"
+        },
+        {
+          "name": "micron-nand-flash",
+          "displayName": "Micron NAND Flash"
+        },
+        {
+          "name": "100mb-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "40mb-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "abs-plastic-case",
+          "displayName": "Корпус из ABS-пластика"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -8284,9 +10826,66 @@
         }
       ],
       "discount": -50,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "Флеш-накопитель SanDisk Ultra Luxe 16 ГБ USB 3.1.  Высокоскоростной интерфейс USB 3.1 Gen 1 (до 150 МБ/с) обеспечивает быструю передачу данных.  Вместимость 16 ГБ достаточно для хранения значительного объема файлов. Корпус выполнен из высококачественного анодированного алюминия, обеспечивающего прочность и стильный внешний вид.  Поддерживает технологию Plug and Play, не требуя дополнительных драйверов для работы на большинстве операционных систем. Размеры: 58 x 21 x 8 мм. Вес: 10 г.  Цвет: серебристый.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "ultra-luxe",
+          "displayName": "Ultra Luxe"
+        },
+        {
+          "name": "16gb-capacity",
+          "displayName": "Емкость 16 ГБ"
+        },
+        {
+          "name": "usb-3-1-gen-1-interface",
+          "displayName": "Интерфейс USB 3.1 Gen 1"
+        },
+        {
+          "name": "150mb-s-data-transfer-speed",
+          "displayName": "Скорость передачи данных до 150 МБ/с"
+        },
+        {
+          "name": "anodized-aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "silver-color",
+          "displayName": "Цвет: Серебристый"
+        },
+        {
+          "name": "black-color",
+          "displayName": "Цвет: Черный"
+        },
+        {
+          "name": "gold-color",
+          "displayName": "Цвет: Золотой"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерная техника"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -8530,9 +11129,66 @@
         }
       ],
       "discount": -60,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка, USB Fleshka и Микро SD Флешка SanDisk 16 ГБ / 32 ГБ / 64 ГБ / 128 ГБ / 256 ГБ\n\n**Технические характеристики:**\n\n* **Производитель:** SanDisk\n* **Тип носителя:**  USB Flash Drive (стандартный форм-фактор), Micro SD Card (с адаптером для USB)\n* **Емкость:** 16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ, 256 ГБ (выберите необходимую)\n* **Интерфейс:** USB 3.1 Gen 1 (USB 3.0) для USB версии; UHS-I для Micro SD версии (скорость передачи данных зависит от устройства-ридера).\n* **Скорость чтения:** До 100 МБ/с (USB), До 100 МБ/с (Micro SD)  *(приблизительные значения, могут варьироваться в зависимости от емкости и устройства чтения)*\n* **Скорость записи:** До 40 МБ/с (USB), До 40 МБ/с (Micro SD) *(приблизительные значения, могут варьироваться в зависимости от емкости и устройства чтения)*\n* **Материал корпуса:** Пластик\n* **Совместимость:**  USB 2.0/3.0/3.1  (USB версия), SD/SDHC/SDXC (Micro SD версия, совместимость с устройствами зависит от класса карты и поддержки UHS-I)\n* **Рабочая температура:** 0°C - 60°C\n* **Температура хранения:** -20°C - 85°C\n\n\n**Преимущества:**\n\n* Высокая скорость передачи данных.\n* Надежная технология SanDisk, обеспечивающая долговечность и сохранность данных.\n* Компактный размер и удобство использования.\n* Два форм-фактора в одном комплекте (USB и Micro SD).\n* Подходит для хранения больших объемов данных (фото, видео, документов).\n\n\n**Особенности:**\n\n*  Комплектация включает как USB флешку, так и Micro SD карту с адаптером.\n* Скорость чтения и записи может варьироваться в зависимости от условий использования и класса карты (для Micro SD).\n* Гарантия производителя (уточняйте у продавца).\n\n\n**Примечание:**  Фактические скорости чтения/записи могут отличаться от заявленных.  Скорость работы зависит от  характеристик используемого устройства чтения и класса  Micro SD карты.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "usb-flash-drive-microsd-card",
+          "displayName": "USB флешка и Micro SD карта"
+        },
+        {
+          "name": "16gb-32gb-64gb-128gb-256gb",
+          "displayName": "16 ГБ, 32 ГБ, 64 ГБ, 128 ГБ, 256 ГБ"
+        },
+        {
+          "name": "usb-3-1-gen-1",
+          "displayName": "USB 3.1 Gen 1 (USB 3.0)"
+        },
+        {
+          "name": "uhs-i",
+          "displayName": "UHS-I"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-40mb-s-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "usb-2-0-3-0-3-1-compatible",
+          "displayName": "Совместимость с USB 2.0/3.0/3.1"
+        },
+        {
+          "name": "sd-sdhc-sdxc-compatible",
+          "displayName": "Совместимость с SD/SDHC/SDXC"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -8721,9 +11377,66 @@
         }
       ],
       "discount": null,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Карта памяти, флешка в форме пульта USB 3.2\n\n**Описание:**\n\nUSB-накопитель форм-фактора пульта дистанционного управления, выполненный в прочном пластиковом корпусе.  Обеспечивает высокоскоростной перенос данных благодаря интерфейсу USB 3.2 Gen 1 (5 Гбит/с).  Встроенный чип памяти класса A гарантирует высокую скорость чтения/записи и долговечность.  Компактный дизайн и удобство использования, имитирующее стандартный пульт ДУ.\n\n**Характеристики:**\n\n* **Интерфейс:** USB 3.2 Gen 1\n* **Скорость чтения:** до 100 МБ/с\n* **Скорость записи:** до 80 МБ/с\n* **Емкость:**  доступны варианты 64ГБ, 128ГБ, 256ГБ\n* **Материал корпуса:**  прочный ABS-пластик\n* **Размеры:** 100 x 40 x 10 мм (приблизительно)\n* **Вес:** 25 г (приблизительно)\n* **Рабочая температура:** 0°C - 40°C\n* **Рабочая влажность:** 5% - 90%\n* **Совместимость:** Windows, macOS, Linux, Android\n* **Гарантия:** 1 год\n\n\n**Преимущества:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.2.\n* Компактный и удобный дизайн в форме пульта.\n* Прочный и долговечный корпус.\n* Надёжный чип памяти класса A.\n* Широкая совместимость с различными операционными системами.\n\n\n**Особенности:**\n\n* Имитация внешнего вида стандартного пульта ДУ.\n* Поддержка функции Plug and Play.\n* Не требует установки дополнительных драйверов.\n\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB-накопитель"
+        },
+        {
+          "name": "remote-control-design",
+          "displayName": "Дизайн в форме пульта"
+        },
+        {
+          "name": "usb-3-2-gen-1",
+          "displayName": "USB 3.2 Gen 1"
+        },
+        {
+          "name": "64gb-128gb-256gb-capacity",
+          "displayName": "Емкость 64ГБ, 128ГБ, 256ГБ"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-80mb-s-write-speed",
+          "displayName": "Скорость записи до 80 МБ/с"
+        },
+        {
+          "name": "abs-plastic-case",
+          "displayName": "Корпус из ABS-пластика"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "no-drivers-needed",
+          "displayName": "Драйверы не требуются"
+        },
+        {
+          "name": "windows-macos-linux-android-compatibility",
+          "displayName": "Совместимость с Windows, macOS, Linux, Android"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -8915,9 +11628,86 @@
         }
       ],
       "discount": -7,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка, карта памяти: Техническое описание\n\n**Модель:**  UMX-64GB-Dual\n\n**Тип устройства:** Комбинированное устройство хранения данных, включающее USB-флеш-накопитель и карту памяти microSDXC.\n\n**Характеристики USB-флеш-накопителя:**\n\n* **Интерфейс:** USB 3.2 Gen 1 (USB 3.0)\n* **Емкость:** 64 ГБ\n* **Скорость чтения:** до 100 МБ/с\n* **Скорость записи:** до 40 МБ/с\n* **Материал корпуса:** Анодированный алюминий\n* **Совместимость:** Windows, macOS, Linux\n* **Размеры:** 60x20x10 мм\n* **Вес:** 10 г\n\n\n**Характеристики карты памяти microSDXC:**\n\n* **Тип карты:** microSDXC UHS-I U3 V30 A1\n* **Емкость:** 64 ГБ\n* **Скорость чтения:** до 100 МБ/с\n* **Скорость записи:** до 60 МБ/с\n* **Класс скорости:** UHS Speed Class 3 (U3), Video Speed Class 30 (V30), Application Performance Class 1 (A1)\n* **Формат:** FAT32 (предустановлен), совместим с exFAT\n* **Размеры:** 11x15x1 мм\n\n**Преимущества:**\n\n* **Двойное хранение:**  Сочетание флеш-накопителя и карты памяти обеспечивает универсальность и гибкость использования.\n* **Высокая скорость передачи данных:**  Обеспечивает быструю передачу больших объемов информации.\n* **Компактность и портативность:**  Удобный размер для переноски и хранения.\n* **Прочный корпус:**  Анодированный алюминиевый корпус флеш-накопителя защищает от повреждений.\n* **Широкая совместимость:**  Работает с большинством устройств.\n\n\n**Особенности:**\n\n*  В комплекте адаптер microSDXC → SD.\n*  Поддержка функции Plug and Play.\n*  Долговечность памяти.\n\n\n**Примечание:**  Фактические скорости передачи данных могут варьироваться в зависимости от используемого устройства, типа файлов и других факторов.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "umx",
+          "displayName": "UMX"
+        },
+        {
+          "name": "umx-64gb-dual",
+          "displayName": "UMX-64GB-Dual"
+        },
+        {
+          "name": "64gb-capacity",
+          "displayName": "Емкость 64 ГБ"
+        },
+        {
+          "name": "usb-3-0-interface",
+          "displayName": "Интерфейс USB 3.0"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-40mb-s-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "micro-sdxc-card",
+          "displayName": "Карта памяти microSDXC"
+        },
+        {
+          "name": "up-to-100mb-s-microsdxc-read-speed",
+          "displayName": "Скорость чтения microSDXC до 100 МБ/с"
+        },
+        {
+          "name": "up-to-60mb-s-microsdxc-write-speed",
+          "displayName": "Скорость записи microSDXC до 60 МБ/с"
+        },
+        {
+          "name": "uhs-i-u3-v30-a1",
+          "displayName": "UHS Speed Class 3 (U3), Video Speed Class 30 (V30), Application Performance Class 1 (A1)"
+        },
+        {
+          "name": "aluminum-body",
+          "displayName": "Корпус из анодированного алюминия"
+        },
+        {
+          "name": "fat32-exfat-compatible",
+          "displayName": "Формат FAT32 (совместим с exFAT)"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug and Play"
+        },
+        {
+          "name": "windows-macos-linux-compatible",
+          "displayName": "Совместимость с Windows, macOS, Linux"
+        },
+        {
+          "name": "micro-sd-adapter-included",
+          "displayName": "В комплекте адаптер microSDXC → SD"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -9118,9 +11908,82 @@
         }
       ],
       "discount": null,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## XIAOMI 2TB/1TB Высокоскоростной Накопитель 3.1 (PC карта)\n\n**Технические характеристики:**\n\n* **Модель:** XIAOMI Высокоскоростной Накопитель (два варианта: 2TB и 1TB)\n* **Интерфейс:**  PCIe 3.1 NVMe (M.2 2280 форм-фактор, предположительно)\n* **Емкость:**  Два варианта: 2TB и 1TB\n* **Скорость чтения:**  До 3500 МБ/с (2TB), До 3300 МБ/с (1TB)  (приблизительные значения)\n* **Скорость записи:**  До 3000 МБ/с (2TB), До 2800 МБ/с (1TB) (приблизительные значения)\n* **Тип памяти:**  3D NAND Flash (предположительно TLC)\n* **Форм-фактор:** M.2 2280\n* **Корпус:**  Алюминиевый радиатор (для отвода тепла)\n* **Совместимость:**  ПК, ноутбуки с поддержкой NVMe PCIe 3.1 x4\n* **Гарантия:** 3 года (предположительно)\n* **Дополнительные функции:**  Поддержка  NVMe 1.4,  интеллектуальное управление энергопотреблением (предположительно)\n\n**Преимущества:**\n\n* Высокая скорость чтения и записи данных благодаря интерфейсу PCIe 3.1 NVMe.\n* Большая емкость для хранения больших объемов информации (2TB или 1TB).\n* Компактный форм-фактор M.2 2280 для удобной установки в ноутбуки и ПК.\n* Алюминиевый радиатор для эффективного охлаждения и предотвращения перегрева.\n* Надежная и долговечная 3D NAND Flash память.\n\n\n**Особенности:**\n\n* Предназначен для использования в качестве основного или дополнительного накопителя в настольных компьютерах и ноутбуках.\n* Обеспечивает значительное повышение производительности системы за счет высокой скорости передачи данных.\n* Оптимизирован для работы с современными операционными системами.\n\n\n**Примечание:**  Указанные скорости чтения и записи являются приблизительными и могут варьироваться в зависимости от конфигурации системы и условий работы.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "xiaomi",
+          "displayName": "Xiaomi"
+        },
+        {
+          "name": "high-speed-ssd",
+          "displayName": "Высокоскоростной SSD"
+        },
+        {
+          "name": "2tb-1tb-capacity",
+          "displayName": "Емкость 2 ТБ или 1 ТБ"
+        },
+        {
+          "name": "pcie-3-1-nvme-interface",
+          "displayName": "Интерфейс PCIe 3.1 NVMe"
+        },
+        {
+          "name": "m-2-2280-form-factor",
+          "displayName": "Форм-фактор M.2 2280"
+        },
+        {
+          "name": "3500-mbps-read-2tb",
+          "displayName": "Скорость чтения (2TB) до 3500 МБ/с"
+        },
+        {
+          "name": "3300-mbps-read-1tb",
+          "displayName": "Скорость чтения (1TB) до 3300 МБ/с"
+        },
+        {
+          "name": "3000-mbps-write-2tb",
+          "displayName": "Скорость записи (2TB) до 3000 МБ/с"
+        },
+        {
+          "name": "2800-mbps-write-1tb",
+          "displayName": "Скорость записи (1TB) до 2800 МБ/с"
+        },
+        {
+          "name": "3d-nand-flash-memory",
+          "displayName": "Память 3D NAND Flash"
+        },
+        {
+          "name": "aluminum-heatsink",
+          "displayName": "Алюминиевый радиатор"
+        },
+        {
+          "name": "3-years-warranty",
+          "displayName": "Гарантия 3 года"
+        },
+        {
+          "name": "nvme-1-4-support",
+          "displayName": "Поддержка NVMe 1.4"
+        },
+        {
+          "name": "intelligent-power-management",
+          "displayName": "Интеллектуальное управление энергопотреблением"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -9313,9 +12176,66 @@
         }
       ],
       "discount": -76,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Картридер для Micro SD, USB TF, SD OTG\n\n**Описание:**  Универсальный картридер, обеспечивающий чтение данных с карт памяти Micro SD, TF (Micro SDHC/XC), и SD (SDHC/XC) через интерфейс USB 2.0.  Поддержка OTG позволяет использовать устройство с мобильными гаджетами, оснащенными USB OTG портом. Корпус изготовлен из ударопрочного ABS пластика.\n\n**Характеристики:**\n\n* **Поддерживаемые карты памяти:** Micro SD, Micro SDHC, Micro SDXC, TF (Micro SD), SD, SDHC, SDXC.\n* **Интерфейс:** USB 2.0 (стандартный USB Type-A разъем)\n* **Скорость передачи данных:** до 480 Мбит/с (теоретический максимум, фактическая скорость зависит от карты памяти и устройства).\n* **Поддержка OTG:** Да.\n* **Материал корпуса:** ABS пластик.\n* **Размеры:** 50 x 25 x 10 мм (приблизительно).\n* **Вес:** 10 г (приблизительно).\n* **Совместимость:**  Windows XP/Vista/7/8/10/11, MacOS, Android (с поддержкой OTG), Linux.\n* **\"Hot Swap\" поддержка:** Да (возможность подключения/отключения во время работы устройства).\n\n\n**Преимущества:**\n\n* **Универсальность:** Поддерживает все распространенные типы карт памяти.\n* **Простота использования:**  Подключается и работает без установки дополнительных драйверов (для большинства ОС).\n* **Компактность и портативность:** Легкий и маленький, легко переносится.\n* **Высокая скорость передачи данных:** Обеспечивает быстрый перенос файлов.\n* **Поддержка OTG:**  Разрешает использование с мобильными устройствами.\n\n\n**Особенности:**\n\n*  Изготовлен из прочного ABS пластика.\n*  \"Hot Swap\" функциональность.\n*  Прямое подключение к USB порту без дополнительных адаптеров.\n\n\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "generic",
+          "displayName": "Generic"
+        },
+        {
+          "name": "usb-card-reader",
+          "displayName": "Картридер USB"
+        },
+        {
+          "name": "microsd-sd-tf-support",
+          "displayName": "Поддержка MicroSD, SD, TF"
+        },
+        {
+          "name": "usb-2.0-interface",
+          "displayName": "Интерфейс USB 2.0"
+        },
+        {
+          "name": "up-to-480mbps-transfer-speed",
+          "displayName": "Скорость передачи данных до 480 Мбит/с"
+        },
+        {
+          "name": "otg-support",
+          "displayName": "Поддержка OTG"
+        },
+        {
+          "name": "abs-plastic-housing",
+          "displayName": "Корпус из ABS пластика"
+        },
+        {
+          "name": "hot-swap-support",
+          "displayName": "Поддержка Hot Swap"
+        },
+        {
+          "name": "usb-type-a-connector",
+          "displayName": "Разъем USB Type-A"
+        },
+        {
+          "name": "windows-macos-android-linux-compatibility",
+          "displayName": "Совместимость с Windows, MacOS, Android, Linux"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -9512,9 +12432,74 @@
         }
       ],
       "discount": null,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Lexar 64GB A1, V30, 4K, 100 Mb/s microSDXC UHS-I Карта памяти\n\n**Характеристики:**\n\n* **Емкость:** 64 ГБ\n* **Скорость чтения:** до 100 Мб/с\n* **Скоростной класс видеозаписи:** V30 (минимальная скорость записи 30 МБ/с)\n* **Класс приложения:** A1 (оптимизирована для работы с приложениями)\n* **Поддержка 4K видео:** Да\n* **Интерфейс:** UHS-I\n* **Тип карты:** microSDXC\n* **Формат:** microSD\n* **Материал корпуса:** Пластик\n\n\n**Преимущества и особенности:**\n\n* Высокая скорость чтения до 100 МБ/с обеспечивает быструю передачу данных.\n* Скоростной класс V30 гарантирует непрерывную запись видео 4K Ultra HD без прерываний и потери кадров.\n* Класс приложения A1 оптимизирует производительность приложений, обеспечивая быстрый запуск и работу.\n* Большая емкость 64 ГБ позволяет хранить значительное количество данных, включая фотографии, видео высокого разрешения и приложения.\n* Совместимость с устройствами, поддерживающими microSDXC UHS-I.\n\n\n**Данные характеристики являются приблизительными. Фактическая производительность может варьироваться в зависимости от используемого устройства и условий эксплуатации.**\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "lexar",
+          "displayName": "Lexar"
+        },
+        {
+          "name": "64gb-a1-v30-4k-100mbps-microsdxc-uhs-i",
+          "displayName": "64GB A1, V30, 4K, 100 Мб/с microSDXC UHS-I"
+        },
+        {
+          "name": "64gb-capacity",
+          "displayName": "Емкость 64 ГБ"
+        },
+        {
+          "name": "100mbps-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "v30-video-speed-class",
+          "displayName": "Скоростной класс видеозаписи V30"
+        },
+        {
+          "name": "30mbps-min-write-speed",
+          "displayName": "Минимальная скорость записи 30 МБ/с"
+        },
+        {
+          "name": "a1-application-class",
+          "displayName": "Класс приложения A1"
+        },
+        {
+          "name": "4k-video-support",
+          "displayName": "Поддержка 4K видео"
+        },
+        {
+          "name": "uhs-i-interface",
+          "displayName": "Интерфейс UHS-I"
+        },
+        {
+          "name": "microsdxc-card-type",
+          "displayName": "Тип карты памяти microSDXC"
+        },
+        {
+          "name": "microsd-format",
+          "displayName": "Формат карты памяти microSD"
+        },
+        {
+          "name": "plastic-case",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -9802,9 +12787,62 @@
         }
       ],
       "discount": -58,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка SanDisk Cruzer Glide 3.0 USB Flash Drive\n\n**Характеристики:**\n\n* **Модель:** SanDisk Cruzer Glide 3.0\n* **Интерфейс:** USB 3.0 (совместим с USB 2.0)\n* **Емкость:** 16ГБ, 32ГБ, 64ГБ, 128ГБ (на выбор)\n* **Скорость чтения:** до 150 МБ/с (для 64ГБ и 128ГБ моделей,  до 100 МБ/с для 16ГБ и 32ГБ моделей)\n* **Скорость записи:** до 30 МБ/с (для всех моделей)\n* **Материал корпуса:** Прочный пластик\n* **Габариты:**  (приблизительно) 56 мм x 21 мм x 10 мм\n* **Вес:**  (приблизительно) 8 г\n* **Рабочая температура:** 0°C - 60°C\n* **Температура хранения:** -20°C - 85°C\n* **Совместимость:**  Windows, macOS, Linux, Chrome OS.\n* **Гарантия:**  (например) 5 лет\n\n**Преимущества:**\n\n* **Высокая скорость передачи данных:** USB 3.0 обеспечивает быстрый перенос файлов по сравнению с USB 2.0.\n* **Надежность SanDisk:**  Известный бренд, обеспечивающий высокое качество и долговечность.\n* **Компактный размер и легкий вес:** Удобна для переноски.\n* **Различные варианты емкости:**  Выбор подходящего объема памяти в зависимости от потребностей.\n* **Широкая совместимость:** Работает с большинством операционных систем.\n* **Прочный корпус:** Защита от повседневных повреждений.\n\n\n**Особенности:**\n\n*  Скользящий колпачок для удобства использования.\n*  Поддержка функции SanDisk SecureAccess (программное обеспечение для шифрования данных - может быть или не быть в зависимости от комплектации и региона продажи)\n\n**Примечание:**  Скорость передачи данных может варьироваться в зависимости от  хост-устройства, файлов и других факторов. Характеристики могут незначительно отличаться в зависимости от партии.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "cruzer-glide-3.0",
+          "displayName": "Cruzer Glide 3.0"
+        },
+        {
+          "name": "usb-3.0",
+          "displayName": "USB 3.0"
+        },
+        {
+          "name": "16gb-32gb-64gb-128gb",
+          "displayName": "16ГБ, 32ГБ, 64ГБ, 128ГБ"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с (64ГБ/128ГБ)"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с (16ГБ/32ГБ)"
+        },
+        {
+          "name": "up-to-30mb-s-write-speed",
+          "displayName": "Скорость записи до 30 МБ/с"
+        },
+        {
+          "name": "sliding-cap",
+          "displayName": "Скользящий колпачок"
+        },
+        {
+          "name": "secureaccess-optional",
+          "displayName": "SanDisk SecureAccess (опционально)"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -10016,9 +13054,62 @@
         }
       ],
       "discount": -33,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "USB-накопитель SanDisk Cruzer Glide 3.0 USB (SDCZ600-064G-G35) – это высокоскоростной накопитель данных с интерфейсом USB 3.0.  Корпус выполнен из прочного пластика.  Ёмкость накопителя составляет 64 ГБ.  \n\n**Характеристики:**\n\n* **Модель:** SanDisk Cruzer Glide 3.0\n* **Интерфейс:** USB 3.0 (совместим с USB 2.0)\n* **Ёмкость:** 64 ГБ\n* **Скорость чтения:** до 150 МБ/с (приблизительно)\n* **Скорость записи:** до 70 МБ/с (приблизительно)\n* **Материал корпуса:** Прочный пластик\n* **Габариты:**  (приблизительно) 56 мм х 21 мм х 8 мм\n* **Вес:**  (приблизительно) 10 г\n* **Рабочая температура:** от 0°C до 50°C\n* **Температура хранения:** от -20°C до 60°C\n\n**Преимущества:**\n\n* Высокая скорость передачи данных благодаря интерфейсу USB 3.0.\n* Компактный и удобный дизайн.\n* Прочный корпус обеспечивает надежную защиту данных.\n* Большая емкость для хранения большого количества файлов.\n\n\n**Особенности:**\n\n*  Plug-and-play совместимость с большинством операционных систем.\n*  Простота использования.\n\n\n*Примечание: Скорость передачи данных может варьироваться в зависимости от оборудования хоста, файлов и других факторов.*\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "sandisk",
+          "displayName": "SanDisk"
+        },
+        {
+          "name": "cruzer-glide-3.0",
+          "displayName": "Cruzer Glide 3.0"
+        },
+        {
+          "name": "64gb-capacity",
+          "displayName": "Ёмкость 64 ГБ"
+        },
+        {
+          "name": "usb-3-0-interface",
+          "displayName": "Интерфейс USB 3.0"
+        },
+        {
+          "name": "up-to-150mb-s-read-speed",
+          "displayName": "Скорость чтения до 150 МБ/с"
+        },
+        {
+          "name": "up-to-70mb-s-write-speed",
+          "displayName": "Скорость записи до 70 МБ/с"
+        },
+        {
+          "name": "durable-plastic-case",
+          "displayName": "Прочный пластиковый корпус"
+        },
+        {
+          "name": "plug-and-play",
+          "displayName": "Plug-and-play"
+        },
+        {
+          "name": "black-color",
+          "displayName": "Черный цвет"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Накопители данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {
@@ -10238,9 +13329,66 @@
         }
       ],
       "discount": -7,
-      "categories": ["electronics", "computer-hardware", "data-storage"],
+      "categories": [
+        "electronics",
+        "computer-hardware",
+        "data-storage"
+      ],
       "description": "## Флешка с металлическим корпусом USB 3.0, флэш-чип класса A, объем 8GB/16GB/32GB\n\n**Технические характеристики:**\n\n* **Интерфейс:** USB 3.0 (совместимость с USB 2.0)\n* **Тип флеш-памяти:**  NAND Flash,  чип класса A (высокая скорость чтения/записи)\n* **Емкость:** 8GB, 16GB, 32GB (на выбор)\n* **Корпус:** Металлический,  алюминиевый сплав,  цвет - серебристый.\n* **Скорость чтения:** до 100 МБ/с\n* **Скорость записи:** до 40 МБ/с\n* **Рабочая температура:** 0°C ~ 60°C\n* **Температура хранения:** -20°C ~ 80°C\n* **Размеры:** 60 x 20 x 10 мм (приблизительно)\n* **Вес:** 15 г (приблизительно)\n* **Совместимость:** Windows, macOS, Linux, Android (с поддержкой OTG)\n\n\n**Преимущества и особенности:**\n\n* **Высокая скорость передачи данных:**  Интерфейс USB 3.0 и флэш-чип класса A обеспечивают быструю передачу файлов.\n* **Надежный металлический корпус:** Защита от повреждений и ударов.\n* **Компактный размер:**  Удобство для переноски и хранения.\n* **Долговечность:** Высокое качество компонентов и надежный корпус обеспечивают длительный срок службы.\n* **Широкая совместимость:** Работает с большинством операционных систем.\n\n\n**Примечание:**  Скорость чтения и записи может варьироваться в зависимости от оборудования и условий использования.  Указанные размеры и вес являются приблизительными.\n",
-      "tags": [],
+      "tags": [
+        {
+          "name": "usb-flash-drive",
+          "displayName": "USB-флешка"
+        },
+        {
+          "name": "8gb-16gb-32gb",
+          "displayName": "8 ГБ/16 ГБ/32 ГБ"
+        },
+        {
+          "name": "usb-3-0",
+          "displayName": "USB 3.0"
+        },
+        {
+          "name": "nand-flash",
+          "displayName": "NAND Flash"
+        },
+        {
+          "name": "class-a-chip",
+          "displayName": "Чип класса A"
+        },
+        {
+          "name": "metal-case",
+          "displayName": "Металлический корпус"
+        },
+        {
+          "name": "silver-color",
+          "displayName": "Серебристый цвет"
+        },
+        {
+          "name": "up-to-100mb-s-read-speed",
+          "displayName": "Скорость чтения до 100 МБ/с"
+        },
+        {
+          "name": "up-to-40mb-s-write-speed",
+          "displayName": "Скорость записи до 40 МБ/с"
+        },
+        {
+          "name": "windows-macos-linux-android",
+          "displayName": "Windows, macOS, Linux, Android"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "computer-hardware",
+          "displayName": "Компьютерное оборудование"
+        },
+        {
+          "name": "data-storage",
+          "displayName": "Устройства хранения данных"
+        }
+      ],
       "stock": 0,
       "features": [
         {

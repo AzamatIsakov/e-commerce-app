@@ -8,7 +8,7 @@ export const Navbar = () => {
   const currentPath = usePathname()
 
   return (
-    <nav className="flex items-center gap-6 text-sm font-semibold">
+    <nav className="hidden items-center text-sm font-semibold lg:flex lg:gap-4 xl:gap-6">
       {links.map((link) =>
         currentPath !== link.path ? (
           <Link

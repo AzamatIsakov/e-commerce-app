@@ -20,14 +20,9 @@ import { Button } from '@/components/ui/button'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { ScrollArea } from '@/components/ui/scroll-area'
 import { formatNumberWithSpace } from '@/utilities/format'
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious
-} from '@/components/ui/carousel'
+
 import { useEffect, useState } from 'react'
+import { ProductCarousel } from '@/components/shared/ProductCarousel'
 
 const SingleProductPage: React.FC = () => {
   useEffect(() => {
@@ -42,10 +37,8 @@ const SingleProductPage: React.FC = () => {
   }, [])
   // const [thumbsSwiper, setThumbsSwiper] = useState(null)
   const [selectedVariation, setSelectedVariation] = useState(0)
-  const [favorite, setFavorite] = useState(false)
   const [quantity, setQuantity] = useState(1)
   const [activeTab, setActiveTab] = useState('description')
-  const [currentSlide, setCurrentSlide] = useState(0)
   const productData = {
     name: 'Игровой компьютер ASUS ROG',
     variations: [
@@ -156,6 +149,10 @@ const SingleProductPage: React.FC = () => {
       'https://public.readdy.ai/ai/img_res/19d2f9b2bde05ffe10e2e8f37a16a940.jpg',
       'https://public.readdy.ai/ai/img_res/d6b1a6bfc3805db16197601d814300fd.jpg',
       'https://public.readdy.ai/ai/img_res/2ea495d05e9e651b8a6f42df50fb7feb.jpg',
+      'https://public.readdy.ai/ai/img_res/d6b1a6bfc3805db16197601d814300fd.jpg',
+      'https://public.readdy.ai/ai/img_res/2ea495d05e9e651b8a6f42df50fb7feb.jpg',
+      'https://public.readdy.ai/ai/img_res/d6b1a6bfc3805db16197601d814300fd.jpg',
+      'https://public.readdy.ai/ai/img_res/2ea495d05e9e651b8a6f42df50fb7feb.jpg',
       'https://public.readdy.ai/ai/img_res/cc6cdd46a6853a14652aa097a191a745.jpg'
     ],
     specifications: [
@@ -185,134 +182,8 @@ const SingleProductPage: React.FC = () => {
         <div className="rounded-2xl bg-white p-4 shadow-sm sm:p-6 lg:p-8">
           <div className="flex flex-col gap-12">
             <div className="flex flex-col items-start gap-4 lg:flex-row lg:gap-8">
-              <div className="w-full lg:w-[600px]">
-                <div className="relative">
-                  <Carousel
-                    className="aspect-[3/4] w-full"
-                    onSelect={(index) => setCurrentSlide(Number(index))}
-                  >
-                    <CarouselContent>
-                      {productData.images.map((image, index) => (
-                        <CarouselItem key={index}>
-                          <div className="relative aspect-[3/4] overflow-hidden rounded-xl">
-                            <img
-                              src={image}
-                              alt={`Product view ${index + 1}`}
-                              className="h-full w-full object-cover"
-                            />
-                          </div>
-                        </CarouselItem>
-                      ))}
-                    </CarouselContent>
-                    <CarouselPrevious className="left-4" />
-                    <CarouselNext className="right-4" />
-                    <button
-                      onClick={() => setFavorite(!favorite)}
-                      className="absolute right-4 top-4 z-10 rounded-full bg-white/90 p-3 shadow-lg backdrop-blur-sm transition-colors hover:bg-white"
-                    >
-                      <i
-                        className={`fa-${favorite ? 'solid' : 'regular'} fa-heart text-xl text-red-600`}
-                      ></i>
-                    </button>
-                    <div className="absolute left-4 top-4 z-10 rounded-full bg-red-600 px-4 py-2 font-medium text-white">
-                      -50%
-                    </div>
-                  </Carousel>
-                </div>
-                <div className="mt-4">
-                  <Carousel
-                    className="w-full"
-                    opts={{
-                      align: 'start',
-                      slidesToScroll: 1
-                    }}
-                  >
-                    <CarouselContent className="-ml-2">
-                      {productData.images.map((image, index) => (
-                        <CarouselItem key={index} className="basis-1/4 pl-2">
-                          <div
-                            className={`aspect-[3/4] cursor-pointer overflow-hidden rounded-lg border-2 transition-colors hover:border-red-400 ${currentSlide === index ? 'border-red-400' : 'border-transparent'}`}
-                            onClick={() => {
-                              setCurrentSlide(index)
-                              const mainCarousel = document.querySelector(
-                                '.carousel'
-                                // eslint-disable-next-line @typescript-eslint/no-explicit-any
-                              ) as any
-                              if (mainCarousel?.scrollTo)
-                                mainCarousel.scrollTo({
-                                  left: index * mainCarousel.offsetWidth,
-                                  behavior: 'smooth'
-                                })
-                            }}
-                          >
-                            <img
-                              src={image}
-                              alt={`Thumbnail ${index + 1}`}
-                              className="h-full w-full object-cover"
-                            />
-                          </div>
-                        </CarouselItem>
-                      ))}
-                    </CarouselContent>
-                  </Carousel>
-                </div>
-              </div>
+              <ProductCarousel images={productData.images} />
 
-              {/* <div className="w-full lg:w-[600px]">
-                <div className="relative">
-                  <Swiper
-                    modules={[Navigation, Pagination, Thumbs]}
-                    thumbs={{ swiper: thumbsSwiper }}
-                    navigation
-                    pagination={{ clickable: true }}
-                    className="aspect-[3/4] overflow-hidden rounded-xl"
-                  >
-                    {productData.images.map((image, index) => (
-                      <SwiperSlide key={index}>
-                        <img
-                          src={image}
-                          alt={`Product view ${index + 1}`}
-                          className="h-full w-full object-cover"
-                        />
-                      </SwiperSlide>
-                    ))}
-                  </Swiper>
-                  <button
-                    onClick={() => setFavorite(!favorite)}
-                    className="absolute right-4 top-4 z-10 rounded-full bg-white/90 p-3 shadow-lg backdrop-blur-sm transition-colors hover:bg-white"
-                  >
-                    <i
-                      className={`fa-${favorite ? 'solid' : 'regular'} fa-heart text-xl text-red-600`}
-                    ></i>
-                  </button>
-                  <div className="absolute left-4 top-4 z-10 rounded-full bg-red-600 px-4 py-2 font-medium text-white">
-                    -50%
-                  </div>
-                </div>
-                <div className="mt-4">
-                  <Swiper
-                    onSwiper={setThumbsSwiper}
-                    spaceBetween={12}
-                    slidesPerView={4}
-                    freeMode={true}
-                    watchSlidesProgress={true}
-                    modules={[FreeMode, Navigation, Thumbs]}
-                    className="thumbs-gallery"
-                  >
-                    {productData.images.map((image, index) => (
-                      <SwiperSlide key={index}>
-                        <div className="aspect-[3/4] cursor-pointer overflow-hidden rounded-lg border-2 transition-colors hover:border-red-400">
-                          <img
-                            src={image}
-                            alt={`Thumbnail ${index + 1}`}
-                            className="h-full w-full object-cover"
-                          />
-                        </div>
-                      </SwiperSlide>
-                    ))}
-                  </Swiper>
-                </div>
-              </div> */}
               <div className="flex-1">
                 <h1 className="mb-6 text-2xl font-bold">{productData.name}</h1>
                 <div className="mb-6 rounded-xl bg-gray-50 p-4 sm:mb-8 sm:p-6">

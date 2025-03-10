@@ -280,45 +280,45 @@ const generatePath = (page, fileName) => {
 // console.log('Добавлены категории')
 // console.log()
 
-const fileToRead = 'transformedData.json'
-const fileToWrite = 'dataWithDescription.json'
+// const fileToRead = 'transformedData.json'
+// const fileToWrite = 'dataWithDescription.json'
 
-await updateJSONWithDescriptions(
-  generatePath(1, fileToRead),
-  generatePath(1, fileToWrite)
-)
+// await updateJSONWithDescriptions(
+//   generatePath(1, fileToRead),
+//   generatePath(1, fileToWrite)
+// )
 
-console.log('Пауза <||>')
-await delay(10000)
+// console.log('Пауза <||>')
+// await delay(10000)
 
-await updateJSONWithDescriptions(
-  generatePath(2, fileToRead),
-  generatePath(2, fileToWrite)
-)
+// await updateJSONWithDescriptions(
+//   generatePath(2, fileToRead),
+//   generatePath(2, fileToWrite)
+// )
 
-console.log('Пауза <||>')
-await delay(10000)
+// console.log('Пауза <||>')
+// await delay(10000)
 
-await updateJSONWithDescriptions(
-  generatePath(3, fileToRead),
-  generatePath(3, fileToWrite)
-)
+// await updateJSONWithDescriptions(
+//   generatePath(3, fileToRead),
+//   generatePath(3, fileToWrite)
+// )
 
-console.log('Пауза <||>')
-await delay(10000)
+// console.log('Пауза <||>')
+// await delay(10000)
 
-await updateJSONWithDescriptions(
-  generatePath(4, fileToRead),
-  generatePath(4, fileToWrite)
-)
+// await updateJSONWithDescriptions(
+//   generatePath(4, fileToRead),
+//   generatePath(4, fileToWrite)
+// )
 
-console.log('Пауза <||>')
-await delay(10000)
+// console.log('Пауза <||>')
+// await delay(10000)
 
-await updateJSONWithDescriptions(
-  generatePath(5, fileToRead),
-  generatePath(5, fileToWrite)
-)
+// await updateJSONWithDescriptions(
+//   generatePath(5, fileToRead),
+//   generatePath(5, fileToWrite)
+// )
 
 // !================================================================================
 
@@ -414,50 +414,50 @@ await updateJSONWithDescriptions(
 
 // !================================================================================
 
-// const fileToRead = 'data.json'
-// const fileToWrite = 'products.json'
+const fileToRead = 'data.json'
+const fileToWrite = 'products.json'
 
-// await updateJSONWithTags(
-//   generatePath(1, fileToRead),
-//   generatePath(1, fileToWrite)
-// )
+await updateJSONWithTags(
+  generatePath(1, fileToRead),
+  generatePath(1, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   generatePath(2, fileToRead),
-//   generatePath(2, fileToWrite)
-// )
+await updateJSONWithTags(
+  generatePath(2, fileToRead),
+  generatePath(2, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   generatePath(3, fileToRead),
-//   generatePath(3, fileToWrite)
-// )
+await updateJSONWithTags(
+  generatePath(3, fileToRead),
+  generatePath(3, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   generatePath(4, fileToRead),
-//   generatePath(4, fileToWrite)
-// )
+await updateJSONWithTags(
+  generatePath(4, fileToRead),
+  generatePath(4, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithTags(
-//   generatePath(5, fileToRead),
-//   generatePath(5, fileToWrite)
-// )
+await updateJSONWithTags(
+  generatePath(5, fileToRead),
+  generatePath(5, fileToWrite)
+)

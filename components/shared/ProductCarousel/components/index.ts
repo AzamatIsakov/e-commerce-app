@@ -1,0 +1,1 @@
+export { ProductCarouselModal } from './ProductCarouselModal'

@@ -19,6 +19,7 @@ type CarouselProps = {
   plugins?: CarouselPlugin
   orientation?: 'horizontal' | 'vertical'
   setApi?: (api: CarouselApi) => void
+  wrapperClass?: string
 }
 
 type CarouselContextProps = {
@@ -28,6 +29,7 @@ type CarouselContextProps = {
   scrollNext: () => void
   canScrollPrev: boolean
   canScrollNext: boolean
+  wrapperClass?: string
 } & CarouselProps
 
 const CarouselContext = React.createContext<CarouselContextProps | null>(null)
@@ -53,6 +55,7 @@ const Carousel = React.forwardRef<
       plugins,
       className,
       children,
+      wrapperClass,
       ...props
     },
     ref
@@ -124,7 +127,8 @@ const Carousel = React.forwardRef<
           scrollPrev,
           scrollNext,
           canScrollPrev,
-          canScrollNext
+          canScrollNext,
+          wrapperClass
         }}
       >
         <div
@@ -147,10 +151,10 @@ const CarouselContent = React.forwardRef<
   HTMLDivElement,
   React.HTMLAttributes<HTMLDivElement>
 >(({ className, ...props }, ref) => {
-  const { carouselRef, orientation } = useCarousel()
+  const { carouselRef, orientation, wrapperClass } = useCarousel()
 
   return (
-    <div ref={carouselRef} className="overflow-hidden">
+    <div ref={carouselRef} className={`overflow-hidden ${wrapperClass}`}>
       <div
         ref={ref}
         className={cn(

@@ -28,13 +28,6 @@ import {
   CarouselPrevious
 } from '@/components/ui/carousel'
 import { useEffect, useState } from 'react'
-// import { Swiper, SwiperSlide } from 'swiper/react'
-// import { Navigation, Pagination, Thumbs, FreeMode } from 'swiper/modules'
-// import 'swiper/css'
-// import 'swiper/css/navigation'
-// import 'swiper/css/pagination'
-// import 'swiper/css/thumbs'
-// import 'swiper/css/free-mode'
 
 const SingleProductPage: React.FC = () => {
   useEffect(() => {

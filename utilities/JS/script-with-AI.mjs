@@ -265,7 +265,7 @@ const addCategories = (filePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'gaming-products'
-const categoryLevel_3 = 'gaming-mice'
+const categoryLevel_3 = 'gaming-keyboards'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`

@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-tranform('gaming-mice/1')
-tranform('gaming-mice/2')
-tranform('gaming-mice/3')
-tranform('gaming-mice/4')
-tranform('gaming-mice/5')
+tranform('gaming-keyboards/1')
+tranform('gaming-keyboards/2')
+tranform('gaming-keyboards/3')
+tranform('gaming-keyboards/4')
+tranform('gaming-keyboards/5')
 
 //!| electronics
 //*| phones

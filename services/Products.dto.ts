@@ -8,14 +8,41 @@ export interface IPhoto {
   link: string
 }
 
+export interface ITag {
+  name: string
+  displayName: string
+}
+
+export interface IFeature {
+  name: string
+  value: string
+}
+
+export interface IVariationOption {
+  name: string
+  value: string
+}
+export interface IVariation {
+  id: string
+  price: number
+  stock: number
+  options: IVariationOption[]
+}
+
 export interface IProduct {
-  id: string | string
+  id: string | number
   title: string
   price: IPrice
   favorite: boolean
   rating: number
   photos: IPhoto[]
-  discountInfo: number | null
+  discount: number | null
+  categories: string[]
+  description: string
+  tags: ITag[]
+  stock: number
+  features: IFeature[]
+  variations: IVariation[]
 }
 
 export interface ProductDTO {

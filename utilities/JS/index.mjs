@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-tranform('gaming-keyboards/1')
-tranform('gaming-keyboards/2')
-tranform('gaming-keyboards/3')
-tranform('gaming-keyboards/4')
-tranform('gaming-keyboards/5')
+// tranform('gaming-keyboards/1')
+// tranform('gaming-keyboards/2')
+// tranform('gaming-keyboards/3')
+// tranform('gaming-keyboards/4')
+// tranform('gaming-keyboards/5')
 
 //!| electronics
 //*| phones
@@ -40,3 +40,11 @@ tranform('gaming-keyboards/5')
 // |_smartphones
 // |_feature-phones
 // |_landline-phones
+
+// function generateNumericId() {
+//   const array = new Uint32Array(2)
+//   crypto.getRandomValues(array)
+//   return array[0] * 2 ** 21 + (array[1] >>> 11) // 53-битное число
+// }
+
+// console.log(generateNumericId())

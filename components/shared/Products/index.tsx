@@ -34,7 +34,7 @@ export const Products = () => {
             images={product.photos}
             price={product.price}
             title={product.title}
-            discountInfo={product.discountInfo}
+            discountInfo={product.discount}
           />
         ))}
       </div>

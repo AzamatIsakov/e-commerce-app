@@ -27,7 +27,7 @@ export const Header = () => (
             <Input
               type="text"
               placeholder="Поиск товаров..."
-              className="peer border-none bg-gray-100 py-2 pl-10 pr-4 transition-all duration-300 focus:ring-2 focus:ring-red-600 focus-visible:ring-[#E53935] active:ring-red-600 lg:w-64 xl:w-[400px]"
+              className="peer cursor-pointer border-none bg-gray-100 py-2 pl-10 pr-4 outline-none transition-all duration-300 focus-within:cursor-text focus:ring-2 focus:ring-red-600 focus-visible:ring-[#E53935] active:ring-red-600 lg:w-64 xl:w-[400px]"
             />
             <Search
               size={16}

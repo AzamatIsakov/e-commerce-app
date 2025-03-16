@@ -138,6 +138,7 @@ export const ProductCard = ({
               sizes="(max-width: 768px) 100vw, 50vw"
               className="h-full w-full object-cover"
               src={images[0].link || '/placeholder.svg'}
+              unoptimized
             />
           </div>
         )}

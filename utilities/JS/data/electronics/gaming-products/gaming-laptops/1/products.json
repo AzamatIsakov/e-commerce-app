@@ -1,0 +1,5886 @@
+{
+  "items": [
+    {
+      "id": 2355078,
+      "title": "Игровой ноутбук, Hp Victus Ryzen5-8645HS/8 ГБ DDR5/512 ГБ SSD/RTX4050 6 ГБ",
+      "price": {
+        "min": 10901000,
+        "max": 13885000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ct1e45jvgbkpg1no1je0",
+          "link": "https://images.uzum.uz/ct1e45jvgbkpg1no1je0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1e45j4nkdilc6cg7mg",
+          "link": "https://images.uzum.uz/ct1e45j4nkdilc6cg7mg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1e45jvgbkpg1no1jdg",
+          "link": "https://images.uzum.uz/ct1e45jvgbkpg1no1jdg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1e45lpq3ggq63f1j10",
+          "link": "https://images.uzum.uz/ct1e45lpq3ggq63f1j10/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -21,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Игровой ноутбук HP Victus с процессором AMD Ryzen 5 8645HS, 8 ГБ оперативной памяти DDR5, 512 ГБ SSD накопителем и видеокартой NVIDIA GeForce RTX 4050 с 6 ГБ видеопамяти.  Корпус выполнен из прочного пластика.\n\n**Преимущества:**\n\n* **Производительный процессор:** AMD Ryzen 5 8645HS обеспечивает высокую производительность в играх и повседневных задачах.\n* **Быстрая оперативная память:** 8 ГБ DDR5 гарантирует плавную работу системы и быструю загрузку приложений.\n* **Быстрый SSD:** 512 ГБ SSD обеспечивает молниеносную загрузку операционной системы и игр.\n* **Дискретная видеокарта:** NVIDIA GeForce RTX 4050 с 6 ГБ видеопамяти позволяет играть в современные игры на средних и высоких настройках графики.\n* **Компактный и портативный дизайн:**  (Предположение,  стандартный для игровых ноутбуков HP Victus форм-фактор)\n\n**Технические характеристики:**\n\n* **Процессор:** AMD Ryzen 5 8645HS\n* **Оперативная память:** 8 ГБ DDR5\n* **Накопитель:** 512 ГБ SSD NVMe PCIe\n* **Видеокарта:** NVIDIA GeForce RTX 4050 6 ГБ GDDR6\n* **Экран:** 15.6\" IPS (Предположение, стандартный размер для данной модели)\n* **Операционная система:**  Windows 11 Home (Предположение)\n* **Корпус:** Пластик\n* **Порты:**  USB-A, USB-C, HDMI, RJ-45 (Предположение, стандартный набор портов)\n\n\n**Особенности:**  (Предположения, так как модель не указана полностью)\n\n*  Оптимизированная система охлаждения для предотвращения перегрева.\n*  Поддержка технологии AMD FreeSync для плавной игры без разрывов кадра.\n*  Хорошо сбалансированный ноутбук для игр и повседневных задач.\n\n\nОбратите внимание, что некоторые характеристики (например, размер экрана, тип матрицы, наличие и количество портов, операционная система) являются предположениями, так как полная модель ноутбука не указана.  Для уточнения всех параметров, пожалуйста, обратитесь к продавцу или спецификации конкретной модели.\n",
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "victus",
+          "displayName": "Victus"
+        },
+        {
+          "name": "amd-ryzen-5-8645hs",
+          "displayName": "AMD Ryzen 5 8645HS"
+        },
+        {
+          "name": "8gb-ddr5-ram",
+          "displayName": "8 ГБ DDR5 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "nvidia-geforce-rtx-4050-6gb",
+          "displayName": "NVIDIA GeForce RTX 4050 6 ГБ"
+        },
+        {
+          "name": "15.6-inch-ips-display",
+          "displayName": "15.6-дюймовый IPS-экран"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "usb-a-usb-c-hdmi-rj45",
+          "displayName": "USB-A, USB-C, HDMI, RJ-45"
+        },
+        {
+          "name": "amd-freesync",
+          "displayName": "AMD FreeSync"
+        },
+        {
+          "name": "optimized-cooling-system",
+          "displayName": "Оптимизированная система охлаждения"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "HP Victus"
+        },
+        {
+          "name": "Процессор",
+          "value": "AMD Ryzen 5 8645HS"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR5"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4050 6 ГБ GDDR6"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6\" IPS"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Пластик"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI, RJ-45"
+        },
+        {
+          "name": "Система охлаждения",
+          "value": "Оптимизированная"
+        },
+        {
+          "name": "Технологии",
+          "value": "AMD FreeSync"
+        },
+        {
+          "name": "Назначение",
+          "value": "Игры и повседневные задачи"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (приблизительно)"
+        },
+        {
+          "name": "Срок гарантии",
+          "value": "1 год (стандартно)"
+        },
+        {
+          "name": "Цвет",
+          "value": "Черный (стандартно)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 10901500,
+          "stock": 25,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Space Gray"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "16GB DDR5"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 10890000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "id": "5e4d3c2b-1a09-8765-4321-0987654321fe",
+          "price": 10912000,
+          "stock": 50,
+          "options": [
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD NVMe PCIe"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "RGB"
+            }
+          ]
+        },
+        {
+          "id": "1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f",
+          "price": 10950000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Дополнительная память",
+              "value": "32GB DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD NVMe PCIe"
+            }
+          ]
+        },
+        {
+          "id": "2b1a0987-6543-2109-8765-432109876543",
+          "price": 10880000,
+          "stock": 30,
+          "options": []
+        },
+        {
+          "id": "3c4d5e6f-7a8b-9c0d-1e2f-3a4b5c6d7e8f",
+          "price": 10925000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "White"
+            }
+          ]
+        },
+        {
+          "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+          "price": 10870000,
+          "stock": 40,
+          "options": [
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD NVMe PCIe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2595604,
+      "title": "Ноутбук MSI THIN 15, I5-12450H, DDR4 8 ГБ / 512 ГБ, RTX 4050 6 ГБ, 15.6 FHD IPS, Windows",
+      "price": {
+        "min": 9299000,
+        "max": 12000000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cu9lq2ei4n324lr5vrug",
+          "link": "https://images.uzum.uz/cu9lq2ei4n324lr5vrug/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu9lq2dht56ksubf9bp0",
+          "link": "https://images.uzum.uz/cu9lq2dht56ksubf9bp0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu9lq2c5j42bjc4a4o30",
+          "link": "https://images.uzum.uz/cu9lq2c5j42bjc4a4o30/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu9lq2c5j42bjc4a4o2g",
+          "link": "https://images.uzum.uz/cu9lq2c5j42bjc4a4o2g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu9lq2ei4n324lr5vru0",
+          "link": "https://images.uzum.uz/cu9lq2ei4n324lr5vru0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu9lq2dht56ksubf9bo0",
+          "link": "https://images.uzum.uz/cu9lq2dht56ksubf9bo0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu9lq2c5j42bjc4a4o20",
+          "link": "https://images.uzum.uz/cu9lq2c5j42bjc4a4o20/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -23,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук MSI THIN 15 - производительный ультрабук с тонким и легким дизайном.\n\n**Технические характеристики:**\n\n* **Процессор:** Intel Core i5-12450H\n* **Оперативная память:** 8 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD NVMe PCIe\n* **Видеокарта:** NVIDIA GeForce RTX 4050 6 ГБ GDDR6\n* **Экран:** 15.6\" FHD (1920x1080) IPS, матовый\n* **Операционная система:** Windows 11 Home (предположительно)\n* **Корпус:** Алюминиевый сплав (предположительно)\n* **Порты:**  USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1,  разъём для наушников/микрофона (конкретные модели могут отличаться)\n* **Связь:** Wi-Fi 6E, Bluetooth 5.2\n* **Аккумулятор:**  (ёмкость уточняется,  примерно 50-60 Wh)\n\n\n**Преимущества и особенности:**\n\n* Производительный процессор Intel Core i5-12450H обеспечивает высокую скорость работы в многозадачном режиме и ресурсоемких приложениях.\n* Дискретная видеокарта NVIDIA GeForce RTX 4050 6 ГБ GDDR6 позволяет играть в современные игры на средних/высоких настройках графики.\n* Быстрый SSD NVMe PCIe обеспечивает быструю загрузку операционной системы и приложений.\n* Яркий и качественный 15.6\" FHD IPS экран с матовым покрытием обеспечивает комфортный просмотр контента даже при ярком освещении.\n* Тонкий и легкий корпус из алюминиевого сплава обеспечивает портативность и стильный внешний вид.\n* Поддержка современных стандартов беспроводной связи Wi-Fi 6E и Bluetooth 5.2.\n\n\n**Примечание:**  Некоторые характеристики могут незначительно отличаться в зависимости от конкретной конфигурации.  Более подробную информацию смотрите на сайте производителя или в документации к товару.\n",
+      "tags": [
+        {
+          "name": "msi",
+          "displayName": "MSI"
+        },
+        {
+          "name": "thin-15",
+          "displayName": "Thin 15"
+        },
+        {
+          "name": "i5-12450h-processor",
+          "displayName": "Процессор Intel Core i5-12450H"
+        },
+        {
+          "name": "8gb-ddr4-ram",
+          "displayName": "8 ГБ ОЗУ DDR4"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "rtx-4050-6gb-graphics",
+          "displayName": "Видеокарта NVIDIA GeForce RTX 4050 6 ГБ GDDR6"
+        },
+        {
+          "name": "15.6-inch-fhd-ips-display",
+          "displayName": "15.6\" FHD (1920x1080) IPS дисплей"
+        },
+        {
+          "name": "windows-11",
+          "displayName": "Windows 11"
+        },
+        {
+          "name": "aluminum-body",
+          "displayName": "Алюминиевый корпус"
+        },
+        {
+          "name": "55wh-battery",
+          "displayName": "Аккумулятор 55 Wh"
+        },
+        {
+          "name": "wifi-6e",
+          "displayName": "Wi-Fi 6E"
+        },
+        {
+          "name": "bluetooth-5.2",
+          "displayName": "Bluetooth 5.2"
+        },
+        {
+          "name": "gray-silver-black",
+          "displayName": "Серый, Серебристый, Черный"
+        },
+        {
+          "name": "12-months-warranty",
+          "displayName": "Гарантия 12 месяцев"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "MSI THIN 15"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-12450H"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4050 6 ГБ GDDR6"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6\" FHD (1920x1080) IPS, матовый"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Алюминиевый сплав"
+        },
+        {
+          "name": "Вес",
+          "value": "1.8 кг (примерно)"
+        },
+        {
+          "name": "Ёмкость батареи",
+          "value": "55 Wh (примерно)"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, разъём для наушников/микрофона"
+        },
+        {
+          "name": "Связь",
+          "value": "Wi-Fi 6E, Bluetooth 5.2"
+        },
+        {
+          "name": "Цвет",
+          "value": "Серый (типичный для данной модели)"
+        },
+        {
+          "name": "Гарантия",
+          "value": "12 месяцев (стандартная гарантия производителя)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9295000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 9302000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "id": "55555555-5555-5555-5555-555555555555",
+          "price": 9288000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "16GB DDR4"
+            }
+          ]
+        },
+        {
+          "id": "66666666-6666-6666-6666-666666666666",
+          "price": 9310000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD NVMe PCIe"
+            }
+          ]
+        },
+        {
+          "id": "77777777-7777-7777-7777-777777777777",
+          "price": 9299000,
+          "stock": 5,
+          "options": []
+        },
+        {
+          "id": "88888888-8888-8888-8888-888888888888",
+          "price": 9270000,
+          "stock": 100,
+          "options": [
+            {
+              "name": "Гарантия",
+              "value": "24 months"
+            }
+          ]
+        },
+        {
+          "id": "99999999-9999-9999-9999-999999999999",
+          "price": 9325000,
+          "stock": 1,
+          "options": [
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD NVMe PCIe"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "16GB DDR4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2722637,
+      "title": "Ноутбук Acer Nitro Intel Core I5-12450H 15.6 FHD IPS 144Hz RTX 4050/6GB RAM16GB/512GB SSD",
+      "price": {
+        "min": 9899990,
+        "max": 18200000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "curqfemi4n32hnc2mhvg",
+          "link": "https://images.uzum.uz/curqfemi4n32hnc2mhvg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cutnq7tpb7f9qcne493g",
+          "link": "https://images.uzum.uz/cutnq7tpb7f9qcne493g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cutnq8jvgbkm5ehghq50",
+          "link": "https://images.uzum.uz/cutnq8jvgbkm5ehghq50/t_product_540_high.jpg"
+        },
+        {
+          "id": "cutnq9ei4n36ls3re1c0",
+          "link": "https://images.uzum.uz/cutnq9ei4n36ls3re1c0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -46,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Acer Nitro с процессором Intel Core i5-12450H, 15.6-дюймовым FHD IPS-дисплеем с частотой обновления 144Гц, видеокартой NVIDIA GeForce RTX 4050 (6GB GDDR6), 16 ГБ оперативной памяти и 512 ГБ SSD-накопителем.  Корпус выполнен из прочного пластика.\n\n**Характеристики:**\n\n* **Процессор:** Intel Core i5-12450H\n* **Оперативная память:** 16 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD NVMe PCIe\n* **Дисплей:** 15.6 дюймов, IPS, FHD (1920x1080), 144Гц\n* **Видеокарта:** NVIDIA GeForce RTX 4050 (6GB GDDR6)\n* **Операционная система:**  (Не указана, предполагаем предустановленную Windows 11 Home)\n* **Корпус:** Пластик\n* **Порты:** (Не указаны, предполагаем стандартный набор для современных ноутбуков: USB-A, USB-C, HDMI, RJ45, аудиоразъем)\n* **Вес:** (Не указан, предполагаем ~2.2 кг)\n* **Батарея:** (Не указана, предполагаем 4-6 часов автономной работы в зависимости от нагрузки)\n\n\n**Преимущества:**\n\n* Высокопроизводительный процессор Intel Core i5-12450H для плавной работы в многозадачном режиме и современных играх.\n* Быстрый SSD-накопитель обеспечивает моментальную загрузку операционной системы и приложений.\n* Мощная видеокарта NVIDIA GeForce RTX 4050 позволяет играть в современные игры на средних/высоких настройках графики.\n* Частота обновления экрана 144Гц обеспечивает плавную картинку в динамичных играх.\n* IPS-матрица обеспечивает широкие углы обзора и качественное изображение.\n\n\n**Особенности:**\n\n* Высокая частота обновления экрана.\n* Дискретная видеокарта уровня начального сегмента для гейминга.\n* Процессор с хорошей производительностью в многопоточных задачах.\n* Быстрый SSD накопитель.\n\n\n**Примечание:**  Некоторые характеристики являются предположительными, так как не были указаны в исходном названии товара.\n",
+      "tags": [
+        {
+          "name": "acer",
+          "displayName": "Acer"
+        },
+        {
+          "name": "nitro",
+          "displayName": "Nitro"
+        },
+        {
+          "name": "intel-core-i5-12450h",
+          "displayName": "Intel Core i5-12450H"
+        },
+        {
+          "name": "16gb-ram",
+          "displayName": "16 ГБ ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "15.6-inch-fhd-ips-144hz-display",
+          "displayName": "15.6-дюймовый FHD IPS дисплей (144 Гц)"
+        },
+        {
+          "name": "nvidia-geforce-rtx-4050-6gb",
+          "displayName": "NVIDIA GeForce RTX 4050 (6GB)"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "2.2kg-weight",
+          "displayName": "Вес 2.2 кг"
+        },
+        {
+          "name": "4-6-hours-battery",
+          "displayName": "4-6 часов автономной работы"
+        },
+        {
+          "name": "wifi-6",
+          "displayName": "Wi-Fi 6"
+        },
+        {
+          "name": "bluetooth-5.2",
+          "displayName": "Bluetooth 5.2"
+        },
+        {
+          "name": "black-silver-gray",
+          "displayName": "Черный, Серебристый, Серый"
+        },
+        {
+          "name": "1tb-ssd",
+          "displayName": "1 ТБ SSD"
+        },
+        {
+          "name": "32gb-ram",
+          "displayName": "32 ГБ ОЗУ"
+        },
+        {
+          "name": "2-years-warranty",
+          "displayName": "2 года гарантии"
+        },
+        {
+          "name": "backpack-included",
+          "displayName": "Рюкзак в комплекте"
+        },
+        {
+          "name": "mouse-included",
+          "displayName": "Мышь в комплекте"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Acer Nitro"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-12450H"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "Дисплей",
+          "value": "15.6 дюймов, IPS, FHD (1920x1080), 144Гц"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4050 (6GB GDDR6)"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Корпус",
+          "value": "Пластик"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI, RJ45, аудиоразъем"
+        },
+        {
+          "name": "Вес",
+          "value": "2.2 кг"
+        },
+        {
+          "name": "Время автономной работы",
+          "value": "4-6 часов"
+        },
+        {
+          "name": "Тип подсветки экрана",
+          "value": "Без указания, предполагается стандартная"
+        },
+        {
+          "name": "Разрешение веб-камеры",
+          "value": "HD (720p)"
+        },
+        {
+          "name": "Поддержка Wi-Fi",
+          "value": "Wi-Fi 6"
+        },
+        {
+          "name": "Поддержка Bluetooth",
+          "value": "Bluetooth 5.2"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9899995,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 9898000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "id": "57483920-1649-a3b2-c1d0-e9f876543210",
+          "price": 9901000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Gray"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "32GB RAM"
+            }
+          ]
+        },
+        {
+          "id": "c5d6e7f8-a9b0-1234-5678-90abcdef0123",
+          "price": 9895000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD"
+            }
+          ]
+        },
+        {
+          "id": "12345678-90ab-cdef-1234-567890abcdef",
+          "price": 9900500,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Дополнительная гарантия",
+              "value": "2 years"
+            }
+          ]
+        },
+        {
+          "id": "e8d7c6b5-a493-210f-8765-43210fedcba98",
+          "price": 9902000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Рюкзак в комплекте",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "b7a69584-c3d2-e1f0-9876-543210fedcba",
+          "price": 9897000,
+          "stock": 25,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Gray"
+            },
+            {
+              "name": "Мышь в комплекте",
+              "value": "Yes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2355228,
+      "title": "Ноутбук HP VICTUS, i5-13420H, RTX 2050 4GB, 8GB DDR5, 512GB SSD, 15.6\" FHD",
+      "price": {
+        "min": 9999000,
+        "max": 13000000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ct1eper4nkdilc6cgkng",
+          "link": "https://images.uzum.uz/ct1eper4nkdilc6cgkng/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1epetpq3ggq63f1pr0",
+          "link": "https://images.uzum.uz/ct1epetpq3ggq63f1pr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1epej4nkdilc6cgkn0",
+          "link": "https://images.uzum.uz/ct1epej4nkdilc6cgkn0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1epervgbkpg1no1tmg",
+          "link": "https://images.uzum.uz/ct1epervgbkpg1no1tmg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -23,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук HP VICTUS с процессором Intel Core i5-13420H, видеокартой NVIDIA GeForce RTX 2050 (4GB GDDR6), 8 ГБ оперативной памяти DDR5-4800, SSD накопителем 512 ГБ NVMe PCIe и 15.6\" FHD (1920x1080) IPS-матрицей.  Корпус выполнен из прочного пластика.\n\n**Преимущества:**\n\n* **Производительный процессор:** Intel Core i5-13420H обеспечивает высокую производительность для повседневных задач и игр.\n* **Дискретная видеокарта:** NVIDIA GeForce RTX 2050 (4GB GDDR6) позволяет играть в современные игры на средних настройках графики.\n* **Быстрая память:** 8 ГБ оперативной памяти DDR5 обеспечивает плавную многозадачность.\n* **Быстрый SSD:** 512 ГБ SSD NVMe PCIe обеспечивает быструю загрузку операционной системы и приложений.\n* **Яркий экран:** 15.6\" FHD IPS-матрица обеспечивает четкое и яркое изображение с широкими углами обзора.\n\n\n**Особенности:**\n\n* Тип процессора: Intel Core i5-13420H\n* Графический процессор: NVIDIA GeForce RTX 2050 (4GB GDDR6)\n* Оперативная память: 8GB DDR5-4800\n* Накопитель: 512GB SSD NVMe PCIe\n* Экран: 15.6\" FHD (1920x1080) IPS\n* Операционная система: (не указана, требуется уточнение)\n* Материал корпуса: Пластик\n* Подсветка клавиатуры: (не указана, требуется уточнение)\n* Порты: (не указаны, требуется уточнение)\n* Вес: (не указан, требуется уточнение)\n\n\nОбратите внимание:  некоторые характеристики (операционная система, подсветка клавиатуры, порты, вес) требуют уточнения.\n",
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "victus",
+          "displayName": "Victus"
+        },
+        {
+          "name": "intel-core-i5-13420h",
+          "displayName": "Intel Core i5-13420H"
+        },
+        {
+          "name": "nvidia-geforce-rtx-2050-4gb",
+          "displayName": "NVIDIA GeForce RTX 2050 4GB"
+        },
+        {
+          "name": "8gb-ddr5-ram",
+          "displayName": "8 ГБ DDR5 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "15.6-inch-fhd-display",
+          "displayName": "15.6\" FHD экран"
+        },
+        {
+          "name": "windows-11",
+          "displayName": "Windows 11"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "black",
+          "displayName": "Черный"
+        },
+        {
+          "name": "grey",
+          "displayName": "Серый"
+        },
+        {
+          "name": "lithium-ion-battery",
+          "displayName": "Литий-ионная батарея"
+        },
+        {
+          "name": "6-8-hours-battery-life",
+          "displayName": "6-8 часов работы от батареи"
+        },
+        {
+          "name": "7-9-hours-battery-life",
+          "displayName": "7-9 часов работы от батареи"
+        },
+        {
+          "name": "usb-a",
+          "displayName": "USB-A"
+        },
+        {
+          "name": "usb-c",
+          "displayName": "USB-C"
+        },
+        {
+          "name": "hdmi",
+          "displayName": "HDMI"
+        },
+        {
+          "name": "rj45",
+          "displayName": "RJ45"
+        },
+        {
+          "name": "sd-card-reader",
+          "displayName": "SD Card Reader"
+        },
+        {
+          "name": "backlit-keyboard",
+          "displayName": "Подсветка клавиатуры"
+        },
+        {
+          "name": "2.5kg-weight",
+          "displayName": "2.5 кг"
+        },
+        {
+          "name": "2.6kg-weight",
+          "displayName": "2.6 кг"
+        },
+        {
+          "name": "laptop",
+          "displayName": "Ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "HP VICTUS"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-13420H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050 (4GB GDDR6)"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8GB DDR5-4800"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512GB SSD NVMe PCIe"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6\" FHD (1920x1080) IPS"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home (предположительно)"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Пластик"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Нет (предположительно)"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI,  (необходимо уточнение)"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (предположительно)"
+        },
+        {
+          "name": "Цвет",
+          "value": "Черный (предположительно)"
+        },
+        {
+          "name": "Тип батареи",
+          "value": "Литий-ионная (предположительно)"
+        },
+        {
+          "name": "Время автономной работы",
+          "value": "6-8 часов (предположительно)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9999000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "HP VICTUS"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-13420H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 2050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "8GB DDR5-4800"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "Пластик"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Нет"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, RJ45"
+            },
+            {
+              "name": "Вес",
+              "value": "2.5 кг"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            },
+            {
+              "name": "Тип батареи",
+              "value": "Литий-ионная"
+            },
+            {
+              "name": "Время автономной работы",
+              "value": "6-8 часов"
+            }
+          ]
+        },
+        {
+          "id": "f7e6d5c4-b3a2-1098-7654-3210fedcba98",
+          "price": 9750000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "HP VICTUS"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-13420H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 2050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "8GB DDR5-4800"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "Пластик"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Нет"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, RJ45, SD Card Reader"
+            },
+            {
+              "name": "Вес",
+              "value": "2.5 кг"
+            },
+            {
+              "name": "Цвет",
+              "value": "Серый"
+            },
+            {
+              "name": "Тип батареи",
+              "value": "Литий-ионная"
+            },
+            {
+              "name": "Время автономной работы",
+              "value": "6-8 часов"
+            }
+          ]
+        },
+        {
+          "id": "14725836-9abc-def0-1234-567890abcdef",
+          "price": 10200000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "HP VICTUS"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-13420H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 2050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "8GB DDR5-4800"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "Пластик"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Да"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, RJ45"
+            },
+            {
+              "name": "Вес",
+              "value": "2.6 кг"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            },
+            {
+              "name": "Тип батареи",
+              "value": "Литий-ионная"
+            },
+            {
+              "name": "Время автономной работы",
+              "value": "7-9 часов"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040170,
+      "title": "Игровой ноутбук HP Victus 15, i5-13420H/RTX2050/16GB/512GB/White",
+      "price": {
+        "min": 9700000,
+        "max": 9700000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "cr6qetusbq7g1s9b40l0",
+          "link": "https://images.uzum.uz/cr6qetusbq7g1s9b40l0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr6qeutbnta1ogm7f0v0",
+          "link": "https://images.uzum.uz/cr6qeutbnta1ogm7f0v0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr6qevdbnta1ogm7f0vg",
+          "link": "https://images.uzum.uz/cr6qevdbnta1ogm7f0vg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr6qf05bnta1ogm7f100",
+          "link": "https://images.uzum.uz/cr6qf05bnta1ogm7f100/t_product_540_high.jpg"
+        },
+        {
+          "id": "cr6qf0lbnta1ogm7f10g",
+          "link": "https://images.uzum.uz/cr6qf0lbnta1ogm7f10g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Игровой ноутбук HP Victus 15.  Модель оснащена процессором Intel Core i5-13420H, видеокартой NVIDIA GeForce RTX 2050, 16 ГБ оперативной памяти DDR4 и твердотельным накопителем NVMe PCIe 512 ГБ. Корпус выполнен из белого пластика.  Экран 15,6 дюймов (разрешение уточняется, предположительно Full HD).  \n\n**Преимущества и особенности:**\n\n* **Процессор Intel Core i5-13420H:**  Обеспечивает высокую производительность для игр и повседневных задач.\n* **Видеокарта NVIDIA GeForce RTX 2050:**  Позволяет играть в современные игры на средних настройках графики.\n* **16 ГБ оперативной памяти:**  Достаточно для плавной работы в многозадачном режиме и запуска требовательных игр.\n* **512 ГБ NVMe PCIe SSD:**  Обеспечивает быструю загрузку операционной системы и приложений.\n* **Белый корпус:**  Стильный и современный дизайн.\n* **15,6-дюймовый экран:**  Оптимальный размер для игр и работы.\n\n\n**Технические характеристики (предположительные):**\n\n* **Процессор:** Intel Core i5-13420H\n* **Видеокарта:** NVIDIA GeForce RTX 2050\n* **Оперативная память:** 16 ГБ DDR4\n* **Накопитель:** 512 ГБ NVMe PCIe SSD\n* **Экран:** 15.6 дюймов, Full HD (1920x1080), IPS (предположительно)\n* **Операционная система:**  Windows 11 Home (предположительно)\n* **Корпус:** Пластик, белый\n* **Вес:** Примерно 2.2 кг (предположительно)\n* **Аккумулятор:**  Литий-ионный (емкость уточняется)\n* **Порты:** USB-A, USB-C, HDMI, RJ-45 (предположительные)\n\n\n**Примечание:**  Некоторые характеристики являются предположительными, так как полная спецификация не предоставлена в названии товара.\n",
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "victus-15",
+          "displayName": "Victus 15"
+        },
+        {
+          "name": "intel-core-i5-13420h-processor",
+          "displayName": "Процессор Intel Core i5-13420H"
+        },
+        {
+          "name": "nvidia-geforce-rtx-2050-gpu",
+          "displayName": "Видеокарта NVIDIA GeForce RTX 2050"
+        },
+        {
+          "name": "16gb-ddr4-ram",
+          "displayName": "16 ГБ ОЗУ DDR4"
+        },
+        {
+          "name": "512gb-nvme-pcie-ssd",
+          "displayName": "512 ГБ NVMe PCIe SSD"
+        },
+        {
+          "name": "15.6-inch-full-hd-display",
+          "displayName": "15.6-дюймовый экран Full HD"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "white-plastic-case",
+          "displayName": "Белый пластиковый корпус"
+        },
+        {
+          "name": "2.2kg-weight",
+          "displayName": "Вес 2.2 кг"
+        },
+        {
+          "name": "52wh-battery",
+          "displayName": "Аккумулятор 52 Wh"
+        },
+        {
+          "name": "usb-a-usb-c-hdmi-rj45-ports",
+          "displayName": "Порты USB-A, USB-C, HDMI, RJ-45"
+        },
+        {
+          "name": "backlit-keyboard",
+          "displayName": "Подсветка клавиатуры"
+        },
+        {
+          "name": "60hz-refresh-rate",
+          "displayName": "Частота обновления экрана 60 Гц"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "HP Victus 15"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-13420H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ NVMe PCIe SSD"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6 дюймов, Full HD (1920x1080), IPS"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Корпус",
+          "value": "Пластик, белый"
+        },
+        {
+          "name": "Вес",
+          "value": "2.2 кг"
+        },
+        {
+          "name": "Аккумулятор",
+          "value": "Литий-ионный, 52 Wh"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI, RJ-45"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Есть"
+        },
+        {
+          "name": "Тип памяти",
+          "value": "DDR4"
+        },
+        {
+          "name": "Максимальная частота обновления экрана",
+          "value": "60 Hz"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9685000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "HP Victus 15"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-13420H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 2050"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ NVMe PCIe SSD"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6 дюймов, Full HD (1920x1080), IPS"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Корпус",
+              "value": "Пластик, белый"
+            },
+            {
+              "name": "Вес",
+              "value": "2.2 кг"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "Литий-ионный, 52 Wh"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, RJ-45"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Есть"
+            },
+            {
+              "name": "Тип памяти",
+              "value": "DDR4"
+            },
+            {
+              "name": "Максимальная частота обновления экрана",
+              "value": "60 Hz"
+            }
+          ]
+        },
+        {
+          "id": "f7e6d5c4-b3a2-1098-7654-3210fedcba98",
+          "price": 9720000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "HP Victus 15"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-13420H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 2050"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ NVMe PCIe SSD"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6 дюймов, Full HD (1920x1080), IPS"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Корпус",
+              "value": "Пластик, белый"
+            },
+            {
+              "name": "Вес",
+              "value": "2.2 кг"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "Литий-ионный, 52 Wh"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, RJ-45"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Есть"
+            },
+            {
+              "name": "Тип памяти",
+              "value": "DDR4"
+            },
+            {
+              "name": "Максимальная частота обновления экрана",
+              "value": "60 Hz"
+            },
+            {
+              "name": "Дополнительная опция",
+              "value": "Гарантия 3 года"
+            }
+          ]
+        },
+        {
+          "id": "24680135-79bdea1c-f7e6d5c4-b3a2-1098",
+          "price": 9755000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "HP Victus 15"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-13420H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 2050"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ NVMe PCIe SSD"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6 дюймов, Full HD (1920x1080), IPS"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Корпус",
+              "value": "Пластик, белый"
+            },
+            {
+              "name": "Вес",
+              "value": "2.2 кг"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "Литий-ионный, 52 Wh"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, RJ-45"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Есть"
+            },
+            {
+              "name": "Тип памяти",
+              "value": "DDR4"
+            },
+            {
+              "name": "Максимальная частота обновления экрана",
+              "value": "60 Hz"
+            },
+            {
+              "name": "Дополнительная опция",
+              "value": "Рюкзак в подарок"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1894344,
+      "title": "Ноутбук Asus Vivobook 16, R5-7430U, AMD Radeon, 8 GB DDR4, 512 Gb SSD, 16.0\" WUXGA IPS",
+      "price": {
+        "min": 5599000,
+        "max": 12000000
+      },
+      "favorite": false,
+      "rating": 4.7,
+      "photos": [
+        {
+          "id": "ct29i3b4nkdilc6cqkc0",
+          "link": "https://images.uzum.uz/ct29i3b4nkdilc6cqkc0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct29i5j4nkdilc6cqkeg",
+          "link": "https://images.uzum.uz/ct29i5j4nkdilc6cqkeg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct29i434nkdilc6cqkdg",
+          "link": "https://images.uzum.uz/ct29i434nkdilc6cqkdg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct29i6dpq3ggq63fb55g",
+          "link": "https://images.uzum.uz/ct29i6dpq3ggq63fb55g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct29i7bvgbkpg1nobdsg",
+          "link": "https://images.uzum.uz/ct29i7bvgbkpg1nobdsg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct29i8rvgbkpg1nobdu0",
+          "link": "https://images.uzum.uz/ct29i8rvgbkpg1nobdu0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct29icdpq3ggq63fb57g",
+          "link": "https://images.uzum.uz/ct29icdpq3ggq63fb57g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -53,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Asus Vivobook 16 с процессором AMD Ryzen 5 7430U, графическим процессором AMD Radeon Graphics, 8 ГБ оперативной памяти DDR4, твердотельным накопителем (SSD) емкостью 512 ГБ и 16-дюймовым WUXGA (1920x1200) IPS-дисплеем.  Корпус выполнен из прочного пластика.\n\n**Преимущества и особенности:**\n\n* **Производительный процессор:** AMD Ryzen 5 7430U обеспечивает достаточную производительность для повседневных задач, включая работу с офисными приложениями, просмотр видео и веб-серфинг.\n* **Быстрый SSD:** 512 ГБ SSD обеспечивает быструю загрузку операционной системы и приложений, а также высокую скорость чтения и записи данных.\n* **Большой и качественный экран:** 16-дюймовый WUXGA IPS-дисплей с разрешением 1920x1200 пикселей обеспечивает яркое и четкое изображение с широкими углами обзора.\n* **Достаточный объем оперативной памяти:** 8 ГБ DDR4 оперативной памяти позволяют комфортно работать с несколькими приложениями одновременно.\n* **Встроенная графика AMD Radeon:**  Позволяет комфортно работать с графическими приложениями начального уровня и играть в нетребовательные игры.\n\n\n**Технические характеристики:**\n\n* **Модель:** Asus Vivobook 16\n* **Процессор:** AMD Ryzen 5 7430U\n* **Графика:** AMD Radeon Graphics\n* **Оперативная память:** 8 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD\n* **Экран:** 16.0\" WUXGA (1920x1200) IPS\n* **Материал корпуса:** Пластик\n* **Операционная система:**  (Не указана, необходимо уточнить при продаже)\n\n\n**Примечание:**  Характеристики могут незначительно отличаться в зависимости от конкретной конфигурации.\n",
+      "tags": [
+        {
+          "name": "asus",
+          "displayName": "Asus"
+        },
+        {
+          "name": "vivobook-16",
+          "displayName": "Vivobook 16"
+        },
+        {
+          "name": "amd-ryzen-5-7430u",
+          "displayName": "AMD Ryzen 5 7430U"
+        },
+        {
+          "name": "amd-radeon-graphics",
+          "displayName": "AMD Radeon Graphics"
+        },
+        {
+          "name": "8gb-ddr4-ram",
+          "displayName": "8 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "16-inch-wuxga-ips-display",
+          "displayName": "16-дюймовый WUXGA IPS-дисплей"
+        },
+        {
+          "name": "1920x1200-resolution",
+          "displayName": "Разрешение 1920x1200"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "silver",
+          "displayName": "Серебристый"
+        },
+        {
+          "name": "grey",
+          "displayName": "Серый"
+        },
+        {
+          "name": "black",
+          "displayName": "Черный"
+        },
+        {
+          "name": "blue",
+          "displayName": "Синий"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "windows-10-pro",
+          "displayName": "Windows 10 Pro"
+        },
+        {
+          "name": "windows-11-pro",
+          "displayName": "Windows 11 Pro"
+        },
+        {
+          "name": "windows-10-home",
+          "displayName": "Windows 10 Home"
+        },
+        {
+          "name": "ubuntu-22.04-lts",
+          "displayName": "Ubuntu 22.04 LTS"
+        },
+        {
+          "name": "backlit-keyboard",
+          "displayName": "Подсветка клавиатуры"
+        },
+        {
+          "name": "1tb-ssd",
+          "displayName": "Дополнительный SSD 1TB"
+        },
+        {
+          "name": "2-years-warranty",
+          "displayName": "Гарантия 2 года"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Asus Vivobook 16"
+        },
+        {
+          "name": "Процессор",
+          "value": "AMD Ryzen 5 7430U"
+        },
+        {
+          "name": "Графический процессор",
+          "value": "AMD Radeon Graphics"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD"
+        },
+        {
+          "name": "Экран",
+          "value": "16.0\" WUXGA (1920x1200) IPS"
+        },
+        {
+          "name": "Разрешение экрана",
+          "value": "1920x1200"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Пластик"
+        },
+        {
+          "name": "Вес",
+          "value": "1.8 кг (примерное значение)"
+        },
+        {
+          "name": "Размер",
+          "value": "35.94 x 23.49 x 1.8 x cm (примерные значения)"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Не указана"
+        },
+        {
+          "name": "Тип памяти",
+          "value": "DDR4"
+        },
+        {
+          "name": "Web-камера",
+          "value": "Встроенная (разрешение уточнять)"
+        },
+        {
+          "name": "Порты",
+          "value": "Уточнять в спецификации"
+        },
+        {
+          "name": "Батарея",
+          "value": "Ёмкость уточнять"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 5589000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 5612000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Grey"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 10 Pro"
+            }
+          ]
+        },
+        {
+          "id": "55667788-99aa-bbcc-ddeeff-001122334455",
+          "price": 5575000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Ubuntu 22.04 LTS"
+            }
+          ]
+        },
+        {
+          "id": "11223344-5566-7788-99aabbccddee",
+          "price": 5600000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "778899aabb-ccddeeff-00112233-44556677",
+          "price": 5599000,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Grey"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            },
+            {
+              "name": "Дополнительный SSD 1TB",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "aa998877-66554433-221100ffee-ddccbbaa",
+          "price": 5620000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Blue"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            }
+          ]
+        },
+        {
+          "id": "00112233-44556677-8899aabbccddee",
+          "price": 5550000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 10 Home"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2356388,
+      "title": "Ноутбук Acer Nitro i5-13, RTX 3050 6GB, 16 ГБ DDR5, 512 ГБ SSD, 15.6\" FHD IPS 144 hz",
+      "price": {
+        "min": 10733000,
+        "max": 12900000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ct1i8glpq3ggq63f39ag",
+          "link": "https://images.uzum.uz/ct1i8glpq3ggq63f39ag/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1i8gj4nkdilc6cif4g",
+          "link": "https://images.uzum.uz/ct1i8gj4nkdilc6cif4g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1i8glpq3ggq63f39a0",
+          "link": "https://images.uzum.uz/ct1i8glpq3ggq63f39a0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ct1i8gjvgbkpg1no3k4g",
+          "link": "https://images.uzum.uz/ct1i8gjvgbkpg1no3k4g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -17,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Acer Nitro с процессором Intel Core i5-13500H, видеокартой NVIDIA GeForce RTX 3050 (6 ГБ GDDR6), 16 ГБ оперативной памяти DDR5-4800, SSD-накопителем 512 ГБ NVMe PCIe и 15.6-дюймовым IPS-дисплеем с разрешением Full HD (1920x1080) и частотой обновления 144 Гц.  Корпус выполнен из прочного пластика.\n\n**Преимущества:**\n\n* **Производительный процессор:** Intel Core i5-13500H обеспечивает высокую производительность для повседневных задач и игр.\n* **Дискретная видеокарта:** NVIDIA GeForce RTX 3050 (6 ГБ GDDR6) позволяет играть в современные игры на средних/высоких настройках графики.\n* **Быстрая оперативная память:** 16 ГБ DDR5-4800 обеспечивает плавную многозадачность и быстрый запуск приложений.\n* **Быстрый SSD:** 512 ГБ NVMe PCIe SSD обеспечивает молниеносную загрузку операционной системы и приложений.\n* **Высокочастотный дисплей:** 15.6-дюймовый IPS-дисплей с разрешением Full HD и частотой обновления 144 Гц обеспечивает плавную картинку и яркие цвета.\n\n\n**Особенности:**\n\n* Прочный пластиковый корпус.\n* Подсветка клавиатуры (цвет подсветки – белый).\n*  Наличие портов: USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, RJ-45, разъем для наушников/микрофона.\n*  Встроенный Wi-Fi 6 (802.11ax) и Bluetooth 5.2.\n*  Система охлаждения Acer CoolBoost™.\n*  Предварительно установленная операционная система Windows 11 Home. (Лицензионная)\n\n\n**Технические характеристики:**\n\n* **Процессор:** Intel Core i5-13500H\n* **Видеокарта:** NVIDIA GeForce RTX 3050 (6 ГБ GDDR6)\n* **Оперативная память:** 16 ГБ DDR5-4800\n* **Накопитель:** 512 ГБ NVMe PCIe SSD\n* **Дисплей:** 15.6\" FHD (1920x1080) IPS, 144 Гц\n* **Операционная система:** Windows 11 Home\n* **Корпус:** Пластик\n* **Подсветка клавиатуры:** Белая\n\n\n**(Примечание:  Характеристики могут незначительно отличаться в зависимости от конфигурации.)**\n",
+      "tags": [
+        {
+          "name": "acer",
+          "displayName": "Acer"
+        },
+        {
+          "name": "nitro-i5-13",
+          "displayName": "Nitro i5-13"
+        },
+        {
+          "name": "intel-core-i5-13500h",
+          "displayName": "Intel Core i5-13500H"
+        },
+        {
+          "name": "nvidia-geforce-rtx-3050-6gb",
+          "displayName": "NVIDIA GeForce RTX 3050 (6 ГБ GDDR6)"
+        },
+        {
+          "name": "16gb-ddr5-ram",
+          "displayName": "16 ГБ DDR5 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "15.6-inch-fhd-ips-144hz-display",
+          "displayName": "15.6\" FHD (1920x1080) IPS, 144 Гц"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "white-keyboard-backlight",
+          "displayName": "Подсветка клавиатуры (белая)"
+        },
+        {
+          "name": "wifi-6-802.11ax",
+          "displayName": "Wi-Fi 6 (802.11ax)"
+        },
+        {
+          "name": "bluetooth-5.2",
+          "displayName": "Bluetooth 5.2"
+        },
+        {
+          "name": "usb-a-3.2-gen1",
+          "displayName": "USB-A 3.2 Gen 1"
+        },
+        {
+          "name": "usb-c-3.2-gen2",
+          "displayName": "USB-C 3.2 Gen 2"
+        },
+        {
+          "name": "hdmi-2.1",
+          "displayName": "HDMI 2.1"
+        },
+        {
+          "name": "rj-45",
+          "displayName": "RJ-45"
+        },
+        {
+          "name": "acer-coolboost",
+          "displayName": "Acer CoolBoost™"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        },
+        {
+          "name": "silver-black-grey-white",
+          "displayName": "Цвет корпуса: Silver, Black, Grey, White"
+        },
+        {
+          "name": "1-2-3-year-warranty",
+          "displayName": "Гарантия: 1, 2, 3 года"
+        },
+        {
+          "name": "1tb-ssd",
+          "displayName": "Дополнительный SSD 1 ТБ"
+        },
+        {
+          "name": "backpack",
+          "displayName": "Рюкзак в комплекте"
+        },
+        {
+          "name": "mouse",
+          "displayName": "Мышь в комплекте"
+        },
+        {
+          "name": "32gb-ddr5-ram",
+          "displayName": "Дополнительная ОЗУ 32 ГБ DDR5"
+        },
+        {
+          "name": "adobe-creative-cloud",
+          "displayName": "Adobe Creative Cloud (1 месяц)"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Acer Nitro"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-13500H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 3050 (6 ГБ GDDR6)"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR5-4800"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ NVMe PCIe SSD"
+        },
+        {
+          "name": "Дисплей",
+          "value": "15.6\" FHD (1920x1080) IPS, 144 Гц"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Корпус",
+          "value": "Пластик"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Белая"
+        },
+        {
+          "name": "Wi-Fi",
+          "value": "Wi-Fi 6 (802.11ax)"
+        },
+        {
+          "name": "Bluetooth",
+          "value": "Bluetooth 5.2"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, RJ-45, разъем для наушников/микрофона"
+        },
+        {
+          "name": "Система охлаждения",
+          "value": "Acer CoolBoost™"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (приблизительно)"
+        },
+        {
+          "name": "Время автономной работы",
+          "value": "6-8 часов (приблизительно, зависит от нагрузки)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 10725000,
+          "stock": 250,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 года"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 10750000,
+          "stock": 100,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 год"
+            }
+          ]
+        },
+        {
+          "id": "55443322-1100-ffee-ddcc-bbaaa9876543",
+          "price": 10780000,
+          "stock": 300,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Grey"
+            },
+            {
+              "name": "Гарантия",
+              "value": "3 года"
+            },
+            {
+              "name": "Дополнительный SSD",
+              "value": "1TB NVMe"
+            }
+          ]
+        },
+        {
+          "id": "e4d3c2b1-a098-7654-3210-fedcba987654",
+          "price": 10700000,
+          "stock": 150,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Рюкзак в комплекте",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "b9a87654-3210-fedc-ba98-76543210fedc",
+          "price": 10760000,
+          "stock": 200,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Мышь в комплекте",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "87654321-0fed-cba9-8765-43210fedcba9",
+          "price": 10740000,
+          "stock": 50,
+          "options": [
+            {
+              "name": "Гарантия",
+              "value": "2 года"
+            },
+            {
+              "name": "Дополнительная оперативная память",
+              "value": "32GB DDR5"
+            }
+          ]
+        },
+        {
+          "id": "77889900-aabb-ccdd-eeff-112233445566",
+          "price": 10790000,
+          "stock": 75,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "White"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 год"
+            },
+            {
+              "name": "Программное обеспечение",
+              "value": "Adobe Creative Cloud (1 месяц)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2791763,
+      "title": "Игровой ноутбук Asus TUF Gaming FA506N, R7-7435HS, 8/512 ГБ, RTX2050 4ГБ, 15.6\", гарантия 1 год",
+      "price": {
+        "min": 8499000,
+        "max": 13000000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cv5evcdpb7f9qcng8frg",
+          "link": "https://images.uzum.uz/cv5evcdpb7f9qcng8frg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cv5dd0rvgbkm5ehil26g",
+          "link": "https://images.uzum.uz/cv5dd0rvgbkm5ehil26g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cv5deplpb7f9qcng7ql0",
+          "link": "https://images.uzum.uz/cv5deplpb7f9qcng7ql0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cv5dfqtpb7f9qcng7r40",
+          "link": "https://images.uzum.uz/cv5dfqtpb7f9qcng7r40/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -35,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Игровой ноутбук Asus TUF Gaming FA506N - надежное решение для геймеров и пользователей, требующих высокой производительности.  Модель оснащена процессором AMD Ryzen 7 7435HS, 8 ГБ оперативной памяти и SSD накопителем объемом 512 ГБ, обеспечивая быструю загрузку и плавную работу.  Графическая карта NVIDIA GeForce RTX 2050 с 4 ГБ видеопамяти позволяет комфортно играть в современные игры на средних и высоких настройках графики. 15.6-дюймовый дисплей (тип матрицы IPS, разрешение уточняется) обеспечивает яркое и четкое изображение.  Корпус выполнен из прочного пластика, устойчивого к повреждениям.  Ноутбук поставляется с 1-летней гарантией.\n\n**Технические характеристики:**\n\n* **Процессор:** AMD Ryzen 7 7435HS\n* **Оперативная память:** 8 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD NVMe PCIe\n* **Видеокарта:** NVIDIA GeForce RTX 2050 4 ГБ GDDR6\n* **Дисплей:** 15.6 дюймов, IPS (разрешение - 1920x1080 предположительно), матовый\n* **Операционная система:**  (Не указана, предположительно без ОС)\n* **Гарантия:** 1 год\n\n\n**Преимущества:**\n\n* Высокая производительность для игр и ресурсоемких задач.\n* Быстрый SSD накопитель.\n* Дискретная видеокарта NVIDIA GeForce RTX 2050.\n* Прочный и надежный корпус.\n*  Доступная цена (в сравнении с моделями с более мощной видеокартой).\n\n\n**Особенности:**\n\n* Модель относится к серии TUF Gaming, известной своей прочностью.\n* Используется энергоэффективный процессор AMD Ryzen 7 7435HS.\n* Относительно компактные размеры для 15.6-дюймового ноутбука.\n",
+      "tags": [
+        {
+          "name": "asus",
+          "displayName": "Asus"
+        },
+        {
+          "name": "tuf-gaming-fa506n",
+          "displayName": "TUF Gaming FA506N"
+        },
+        {
+          "name": "amd-ryzen-7-7435hs",
+          "displayName": "AMD Ryzen 7 7435HS"
+        },
+        {
+          "name": "8gb-ram",
+          "displayName": "8 ГБ ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "nvidia-geforce-rtx-2050-4gb",
+          "displayName": "NVIDIA GeForce RTX 2050 4 ГБ"
+        },
+        {
+          "name": "15.6-inch-display",
+          "displayName": "15.6-дюймовый дисплей"
+        },
+        {
+          "name": "1920x1080-resolution",
+          "displayName": "Разрешение 1920x1080"
+        },
+        {
+          "name": "ips-display",
+          "displayName": "IPS-матрица"
+        },
+        {
+          "name": "matte-display",
+          "displayName": "Матовый дисплей"
+        },
+        {
+          "name": "no-os",
+          "displayName": "Без ОС"
+        },
+        {
+          "name": "1-year-warranty",
+          "displayName": "Гарантия 1 год"
+        },
+        {
+          "name": "black-color",
+          "displayName": "Черный цвет"
+        },
+        {
+          "name": "gray-color",
+          "displayName": "Серый цвет"
+        },
+        {
+          "name": "silver-color",
+          "displayName": "Серебристый цвет"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Asus TUF Gaming FA506N"
+        },
+        {
+          "name": "Процессор",
+          "value": "AMD Ryzen 7 7435HS"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050 4 ГБ GDDR6"
+        },
+        {
+          "name": "Дисплей",
+          "value": "15.6 дюймов, IPS, 1920x1080, матовый"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Без ОС"
+        },
+        {
+          "name": "Гарантия",
+          "value": "1 год"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Прочный пластик"
+        },
+        {
+          "name": "Вес",
+          "value": "2.3 кг (приблизительно)"
+        },
+        {
+          "name": "Размеры",
+          "value": "Относительно компактные для 15.6-дюймового ноутбука"
+        },
+        {
+          "name": "Ёмкость батареи",
+          "value": "48 Втч (приблизительно)"
+        },
+        {
+          "name": "Серия",
+          "value": "TUF Gaming"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 8499500,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 8480000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Gray"
+            }
+          ]
+        },
+        {
+          "id": "55555555-5555-5555-5555-555555555555",
+          "price": 8510000,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Рюкзак в комплекте",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "66666666-6666-6666-6666-666666666666",
+          "price": 8450000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Gray"
+            },
+            {
+              "name": "Дополнительная гарантия (1 год)",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "77777777-7777-7777-7777-777777777777",
+          "price": 8525000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Мышь в комплекте",
+              "value": "Yes"
+            }
+          ]
+        },
+        {
+          "id": "88888888-8888-8888-8888-888888888888",
+          "price": 8470000,
+          "stock": 12,
+          "options": []
+        },
+        {
+          "id": "99999999-9999-9999-9999-999999999999",
+          "price": 8530000,
+          "stock": 2,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Клавиатура с подсветкой",
+              "value": "RGB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2455470,
+      "title": "Ноутбук Thunderobot 911S Core D, Core i5-12450H, RTX 3050 4GB, 16/512GB, 15.6\" 144 Hz IPS",
+      "price": {
+        "min": 8499000,
+        "max": 24000000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ctbb6itpb7f7ago7vh70",
+          "link": "https://images.uzum.uz/ctbb6itpb7f7ago7vh70/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbb7k6i4n3ehka333ug",
+          "link": "https://images.uzum.uz/ctbb7k6i4n3ehka333ug/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbb6n6i4n3ehka333qg",
+          "link": "https://images.uzum.uz/ctbb6n6i4n3ehka333qg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbb7olpb7f7ago7vhdg",
+          "link": "https://images.uzum.uz/ctbb7olpb7f7ago7vhdg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbb7qdpb7f7ago7vheg",
+          "link": "https://images.uzum.uz/ctbb7qdpb7f7ago7vheg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbb7r5pb7f7ago7vhf0",
+          "link": "https://images.uzum.uz/ctbb7r5pb7f7ago7vhf0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbb7rui4n3ehka3340g",
+          "link": "https://images.uzum.uz/ctbb7rui4n3ehka3340g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -65,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Thunderobot 911S Core D – высокопроизводительная игровая платформа, оснащенная процессором Intel Core i5-12450H, видеокартой NVIDIA GeForce RTX 3050 (4GB GDDR6), 16 ГБ оперативной памяти DDR4 и SSD накопителем на 512 ГБ.  15.6-дюймовый IPS-дисплей с частотой обновления 144 Гц обеспечивает плавную картинку и высокую скорость отклика.  Корпус выполнен из прочного алюминиевого сплава.\n\n**Характеристики:**\n\n* **Процессор:** Intel Core i5-12450H\n* **Видеокарта:** NVIDIA GeForce RTX 3050 (4GB GDDR6)\n* **Оперативная память:** 16 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD NVMe PCIe\n* **Дисплей:** 15.6\", IPS, 144 Гц, Full HD (1920x1080)\n* **Операционная система:** (Не указана, предположительно Windows 11 Home)\n* **Корпус:** Алюминиевый сплав\n* **Подсветка клавиатуры:** (Не указана, предположительно есть)\n* **Порты:** (Не указаны, предполагается стандартный набор для игровых ноутбуков)\n* **Батарея:** (Не указана,  емкость предположительно 50-60 Wh)\n* **Вес:** (Не указан, предположительно 2.2 - 2.5 кг)\n\n\n**Преимущества:**\n\n* Высокая производительность для игр и ресурсоемких задач благодаря сочетанию процессора Intel Core i5-12450H и видеокарты RTX 3050.\n* Плавный геймплей обеспечивается IPS-дисплеем с частотой обновления 144 Гц.\n* Быстрая загрузка и работа приложений благодаря SSD накопителю.\n* Достаточный объем оперативной памяти для многозадачности.\n* Прочный и стильный алюминиевый корпус.\n\n\n**Особенности:**\n\n* Модель ориентирована на геймеров и пользователей, которым необходима высокая производительность в портативном формате.\n* Предположительно,  имеет эффективную систему охлаждения для предотвращения перегрева.\n\n\n**Примечание:**  Некоторые характеристики (операционная система, наличие подсветки клавиатуры, точные параметры портов, емкость батареи, вес)  являются предположительными, так как не были указаны в исходном названии.\n",
+      "tags": [
+        {
+          "name": "thunderobot",
+          "displayName": "Thunderobot"
+        },
+        {
+          "name": "thunderobot-911s-core-d",
+          "displayName": "Thunderobot 911S Core D"
+        },
+        {
+          "name": "intel-core-i5-12450h",
+          "displayName": "Intel Core i5-12450H"
+        },
+        {
+          "name": "nvidia-geforce-rtx-3050-4gb",
+          "displayName": "NVIDIA GeForce RTX 3050 (4GB)"
+        },
+        {
+          "name": "16gb-ddr4-ram",
+          "displayName": "16 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "15.6-inch-display",
+          "displayName": "15.6-дюймовый дисплей"
+        },
+        {
+          "name": "ips-display",
+          "displayName": "IPS-дисплей"
+        },
+        {
+          "name": "144hz-refresh-rate",
+          "displayName": "Частота обновления 144 Гц"
+        },
+        {
+          "name": "full-hd-resolution",
+          "displayName": "Разрешение Full HD"
+        },
+        {
+          "name": "aluminum-body",
+          "displayName": "Алюминиевый корпус"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "windows-11-pro",
+          "displayName": "Windows 11 Pro"
+        },
+        {
+          "name": "no-os",
+          "displayName": "Без ОС"
+        },
+        {
+          "name": "grey",
+          "displayName": "Серый"
+        },
+        {
+          "name": "black",
+          "displayName": "Черный"
+        },
+        {
+          "name": "blue",
+          "displayName": "Синий"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Thunderobot 911S Core D"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-12450H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 3050 (4GB GDDR6)"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "Дисплей",
+          "value": "15.6\", IPS, 144 Гц, Full HD (1920x1080)"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home (предположительно)"
+        },
+        {
+          "name": "Корпус",
+          "value": "Алюминиевый сплав"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Есть (предположительно)"
+        },
+        {
+          "name": "Порты",
+          "value": "Стандартный набор для игровых ноутбуков (предположительно)"
+        },
+        {
+          "name": "Батарея",
+          "value": "55 Wh (предположительно)"
+        },
+        {
+          "name": "Вес",
+          "value": "2.3 кг (предположительно)"
+        },
+        {
+          "name": "Система охлаждения",
+          "value": "Эффективная (предположительно)"
+        },
+        {
+          "name": "Тип памяти",
+          "value": "DDR4"
+        },
+        {
+          "name": "Частота обновления экрана",
+          "value": "144 Гц"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 8499000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911S Core D"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 3050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ SSD NVMe PCIe"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\", IPS, 144 Гц, Full HD (1920x1080)"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Цвет",
+              "value": "Серый"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 8550000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911S Core D"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 3050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ SSD NVMe PCIe"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\", IPS, 144 Гц, Full HD (1920x1080)"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            }
+          ]
+        },
+        {
+          "id": "567890abcdef-1234-5678-90ab-cdef12345678",
+          "price": 8420000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911S Core D"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 3050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ SSD NVMe PCIe"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\", IPS, 144 Гц, Full HD (1920x1080)"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Без ОС"
+            },
+            {
+              "name": "Цвет",
+              "value": "Серый"
+            }
+          ]
+        },
+        {
+          "id": "0987654321fedc-ba98-7654-3210-fedcba987654",
+          "price": 8600000,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911S Core D"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 3050 (4GB GDDR6)"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16 ГБ DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512 ГБ SSD NVMe PCIe"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\", IPS, 144 Гц, Full HD (1920x1080)"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Цвет",
+              "value": "Синий"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "32GB DDR4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2492187,
+      "title": "Ноутбук MSI THIN i5 Pro, Intel Core i5-12450H, 15.6\" FHD IPS 144Hz, RTX 4050, 16GB/SSD 512GB",
+      "price": {
+        "min": 9199000,
+        "max": 13000000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "ctmrnhei4n368aads1qg",
+          "link": "https://images.uzum.uz/ctmrnhei4n368aads1qg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctqpfe6i4n324lr1vjsg",
+          "link": "https://images.uzum.uz/ctqpfe6i4n324lr1vjsg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctqpfes5j42bjc463u60",
+          "link": "https://images.uzum.uz/ctqpfes5j42bjc463u60/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctqpffk5j42bjc463u6g",
+          "link": "https://images.uzum.uz/ctqpffk5j42bjc463u6g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctqpfhdht56ksubb8qh0",
+          "link": "https://images.uzum.uz/ctqpfhdht56ksubb8qh0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctqpfi45j42bjc463u7g",
+          "link": "https://images.uzum.uz/ctqpfi45j42bjc463u7g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctqpfis5j42bjc463u80",
+          "link": "https://images.uzum.uz/ctqpfis5j42bjc463u80/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -29,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук MSI THIN i5 Pro.  Конфигурация:\n\n* **Процессор:** Intel Core i5-12450H\n* **Видеокарта:** NVIDIA GeForce RTX 4050\n* **Экран:** 15.6\" FHD (1920x1080) IPS, 144Hz\n* **Оперативная память:** 16GB DDR4\n* **Накопитель:** 512GB SSD NVMe PCIe\n* **Корпус:**  Алюминиевый, тонкий и лёгкий (предположительная толщина 18-20мм, вес ~2кг)\n* **Операционная система:**  Windows 11 Home (предположительно)\n* **Порты:**  USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1,  разъём для наушников/микрофона (конкретное количество и типы портов могут варьироваться)\n* **Батарея:**  4-6 часов автономной работы (зависит от нагрузки)\n* **Подсветка клавиатуры:**  Есть (предположительно белая)\n\n\n**Преимущества:**\n\n* Высокая частота обновления экрана (144Гц) обеспечивает плавную картинку в динамичных играх и видео.\n* Производительная видеокарта NVIDIA GeForce RTX 4050 позволяет играть в современные игры на средних/высоких настройках графики.\n* Быстрый SSD обеспечивает молниеносную загрузку операционной системы и приложений.\n* Мощный процессор Intel Core i5-12450H гарантирует высокую производительность в многозадачном режиме и ресурсоёмких приложениях.\n* Тонкий и лёгкий корпус обеспечивает мобильность.\n\n\n**Особенности:**\n\n* IPS-матрица обеспечивает широкие углы обзора и качественную цветопередачу.\n* Быстрая и объёмная оперативная память DDR4 16GB.\n*  Современный интерфейс NVMe PCIe для SSD обеспечивает высокую скорость чтения/записи.\n\n\n**Примечание:**  Некоторые характеристики являются предположительными и могут незначительно отличаться от реальных параметров.  Для точной информации обратитесь к спецификации производителя.\n",
+      "tags": [
+        {
+          "name": "msi",
+          "displayName": "MSI"
+        },
+        {
+          "name": "thin-i5-pro",
+          "displayName": "THIN i5 Pro"
+        },
+        {
+          "name": "intel-core-i5-12450h",
+          "displayName": "Intel Core i5-12450H"
+        },
+        {
+          "name": "nvidia-geforce-rtx-4050",
+          "displayName": "NVIDIA GeForce RTX 4050"
+        },
+        {
+          "name": "15.6-inch-fhd-ips-display",
+          "displayName": "15.6\" FHD IPS-дисплей"
+        },
+        {
+          "name": "144hz-refresh-rate",
+          "displayName": "Частота обновления 144 Гц"
+        },
+        {
+          "name": "16gb-ddr4-ram",
+          "displayName": "16 ГБ ОЗУ DDR4"
+        },
+        {
+          "name": "512gb-ssd-nvme-pcie",
+          "displayName": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "aluminum-body",
+          "displayName": "Алюминиевый корпус"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "backlit-keyboard",
+          "displayName": "Подсветка клавиатуры"
+        },
+        {
+          "name": "usb-a-3.2-gen1",
+          "displayName": "USB-A 3.2 Gen 1"
+        },
+        {
+          "name": "usb-c-3.2-gen2",
+          "displayName": "USB-C 3.2 Gen 2"
+        },
+        {
+          "name": "hdmi-2.1",
+          "displayName": "HDMI 2.1"
+        },
+        {
+          "name": "headphone-jack",
+          "displayName": "Разъем для наушников/микрофона"
+        },
+        {
+          "name": "approx-2kg-weight",
+          "displayName": "Вес ~2 кг"
+        },
+        {
+          "name": "approx-18-20mm-thickness",
+          "displayName": "Толщина ~18-20 мм"
+        },
+        {
+          "name": "4-6-hours-battery-life",
+          "displayName": "Время работы от батареи 4-6 часов"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "MSI THIN i5 Pro"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-12450H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4050"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6\" FHD (1920x1080) IPS, 144Hz"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16GB DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512GB SSD NVMe PCIe"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Алюминий"
+        },
+        {
+          "name": "Вес",
+          "value": "~2кг"
+        },
+        {
+          "name": "Толщина",
+          "value": "18-20мм"
+        },
+        {
+          "name": "Автономная работа",
+          "value": "4-6 часов"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Белая"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, Разъём для наушников/микрофона"
+        },
+        {
+          "name": "Тип экрана",
+          "value": "IPS"
+        },
+        {
+          "name": "Скорость чтения/записи SSD",
+          "value": "Высокая (NVMe PCIe)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9199500,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "MSI THIN i5 Pro"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4050"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS, 144Hz"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16GB DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "Алюминий"
+            },
+            {
+              "name": "Вес",
+              "value": "~2кг"
+            },
+            {
+              "name": "Толщина",
+              "value": "18-20мм"
+            },
+            {
+              "name": "Автономная работа",
+              "value": "4-6 часов"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Белая"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, Разъём для наушников/микрофона"
+            },
+            {
+              "name": "Тип экрана",
+              "value": "IPS"
+            },
+            {
+              "name": "Скорость чтения/записи SSD",
+              "value": "Высокая (NVMe PCIe)"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 9200000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "MSI THIN i5 Pro"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4050"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS, 144Hz"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16GB DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "Алюминий"
+            },
+            {
+              "name": "Вес",
+              "value": "~2кг"
+            },
+            {
+              "name": "Толщина",
+              "value": "18-20мм"
+            },
+            {
+              "name": "Автономная работа",
+              "value": "4-6 часов"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Белая"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, Разъём для наушников/микрофона"
+            },
+            {
+              "name": "Тип экрана",
+              "value": "IPS"
+            },
+            {
+              "name": "Скорость чтения/записи SSD",
+              "value": "Высокая (NVMe PCIe)"
+            }
+          ]
+        },
+        {
+          "id": "5e4d3c2b-1a09-8765-4321-0987654321fe",
+          "price": 9198000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "MSI THIN i5 Pro"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4050"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS, 144Hz"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "16GB DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Материал корпуса",
+              "value": "Алюминий"
+            },
+            {
+              "name": "Вес",
+              "value": "~2кг"
+            },
+            {
+              "name": "Толщина",
+              "value": "18-20мм"
+            },
+            {
+              "name": "Автономная работа",
+              "value": "4-6 часов"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Белая"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, Разъём для наушников/микрофона"
+            },
+            {
+              "name": "Тип экрана",
+              "value": "IPS"
+            },
+            {
+              "name": "Скорость чтения/записи SSD",
+              "value": "Высокая (NVMe PCIe)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2057942,
+      "title": "Ноутбук LENOVO LOQ 15, R7-7435HS, RTX 4060 8GB, 12GB DDR5, 512GB SSD, 15.6\" FHD",
+      "price": {
+        "min": 11300000,
+        "max": 15000000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "crdclhvs09cvvbjqo4t0",
+          "link": "https://images.uzum.uz/crdclhvs09cvvbjqo4t0/t_product_540_high.jpg"
+        },
+        {
+          "id": "crdalhu0t1lqb8aqdtfg",
+          "link": "https://images.uzum.uz/crdalhu0t1lqb8aqdtfg/t_product_540_high.jpg"
+        },
+        {
+          "id": "crdalivs09cvvbjqn7u0",
+          "link": "https://images.uzum.uz/crdalivs09cvvbjqn7u0/t_product_540_high.jpg"
+        },
+        {
+          "id": "crdalke0t1lqb8aqdtgg",
+          "link": "https://images.uzum.uz/crdalke0t1lqb8aqdtgg/t_product_540_high.jpg"
+        },
+        {
+          "id": "crdalkvs09cvvbjqn7ug",
+          "link": "https://images.uzum.uz/crdalkvs09cvvbjqn7ug/t_product_540_high.jpg"
+        },
+        {
+          "id": "crdalle0t1lqb8aqdth0",
+          "link": "https://images.uzum.uz/crdalle0t1lqb8aqdth0/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -25,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Lenovo LOQ 15 — высокопроизводительная игровая система в компактном 15.6-дюймовом форм-факторе.  Основан на процессоре AMD Ryzen 7 7735HS, обеспечивающем высокую производительность в многозадачном режиме и играх.  Дискретная видеокарта NVIDIA GeForce RTX 4060 с 8 ГБ видеопамяти гарантирует плавную работу современных игр на высоких настройках графики.  Оперативная память 12 ГБ DDR5 обеспечивает быстрый доступ к данным и отзывчивость системы.  Быстрый SSD накопитель объемом 512 ГБ гарантирует молниеносную загрузку операционной системы и приложений.  Экран 15.6\" FHD (1920x1080) IPS-матрица с антибликовым покрытием обеспечивает четкое и яркое изображение. Корпус выполнен из прочного пластика.\n\n\n**Технические характеристики:**\n\n* **Процессор:** AMD Ryzen 7 7735HS\n* **Видеокарта:** NVIDIA GeForce RTX 4060 8GB GDDR6\n* **Оперативная память:** 12GB DDR5\n* **Накопитель:** 512GB SSD NVMe PCIe\n* **Экран:** 15.6\" FHD (1920x1080) IPS, антибликовое покрытие\n* **Операционная система:**  (Уточнить - предположительно, без предустановленной)\n* **Корпус:** Пластик\n* **Вес:** (Уточнить)\n* **Аккумулятор:** (Уточнить)\n* **Порты:** (Уточнить - стандартный набор для современных ноутбуков)\n\n\n**Преимущества:**\n\n* Высокая производительность благодаря мощному процессору и видеокарте.\n* Быстрая и емкая память для плавной многозадачности.\n* Быстрый SSD накопитель для мгновенной загрузки.\n* Четкий и яркий FHD экран.\n* Компактный и относительно легкий корпус.\n\n\n**Особенности:**\n\n* Игровая направленность.\n* Современные компоненты.\n*  (Уточнить -  возможно наличие RGB-подсветки клавиатуры, специфических игровых настроек, ПО)\n",
+      "tags": [
+        {
+          "name": "lenovo",
+          "displayName": "Lenovo"
+        },
+        {
+          "name": "lenovo-loq-15",
+          "displayName": "Lenovo LOQ 15"
+        },
+        {
+          "name": "amd-ryzen-7-7735hs",
+          "displayName": "AMD Ryzen 7 7735HS"
+        },
+        {
+          "name": "nvidia-geforce-rtx-4060-8gb",
+          "displayName": "NVIDIA GeForce RTX 4060 8GB"
+        },
+        {
+          "name": "12gb-ddr5-ram",
+          "displayName": "12 ГБ DDR5 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "15.6-inch-fhd-ips-display",
+          "displayName": "15.6\" FHD IPS-экран"
+        },
+        {
+          "name": "45wh-battery",
+          "displayName": "Аккумулятор 45Wh"
+        },
+        {
+          "name": "rgb-keyboard-backlight",
+          "displayName": "RGB-подсветка клавиатуры"
+        },
+        {
+          "name": "no-os",
+          "displayName": "Без предустановленной ОС"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Lenovo LOQ 15"
+        },
+        {
+          "name": "Процессор",
+          "value": "AMD Ryzen 7 7735HS"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "12GB DDR5"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512GB SSD NVMe PCIe"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6\" FHD (1920x1080) IPS, антибликовое покрытие"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Без предустановленной"
+        },
+        {
+          "name": "Корпус",
+          "value": "Пластик"
+        },
+        {
+          "name": "Вес",
+          "value": "2.2 кг"
+        },
+        {
+          "name": "Аккумулятор",
+          "value": "45Wh"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI,  разъём для наушников"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Есть, RGB"
+        },
+        {
+          "name": "Тип памяти",
+          "value": "DDR5"
+        },
+        {
+          "name": "Назначение",
+          "value": "Игровой"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 11250000,
+          "stock": 350,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Lenovo LOQ 15"
+            },
+            {
+              "name": "Процессор",
+              "value": "AMD Ryzen 7 7735HS"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "12GB DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS, антибликовое покрытие"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Без предустановленной"
+            },
+            {
+              "name": "Корпус",
+              "value": "Пластик"
+            },
+            {
+              "name": "Вес",
+              "value": "2.2 кг"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "45Wh"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, разъем для наушников"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Есть, RGB"
+            },
+            {
+              "name": "Цвет",
+              "value": "Серый"
+            }
+          ]
+        },
+        {
+          "id": "f7e6d5c4-b3a2-1098-7654-3210fedcba98",
+          "price": 11380000,
+          "stock": 120,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Lenovo LOQ 15"
+            },
+            {
+              "name": "Процессор",
+              "value": "AMD Ryzen 7 7735HS"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "12GB DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS, антибликовое покрытие"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Без предустановленной"
+            },
+            {
+              "name": "Корпус",
+              "value": "Пластик"
+            },
+            {
+              "name": "Вес",
+              "value": "2.2 кг"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "45Wh"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, разъем для наушников"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Есть, RGB"
+            },
+            {
+              "name": "Цвет",
+              "value": "Черный"
+            }
+          ]
+        },
+        {
+          "id": "24680135-7911-5317-a1b2-c3d4e5f6a789",
+          "price": 11100000,
+          "stock": 80,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Lenovo LOQ 15"
+            },
+            {
+              "name": "Процессор",
+              "value": "AMD Ryzen 7 7735HS"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "12GB DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "512GB SSD NVMe PCIe"
+            },
+            {
+              "name": "Экран",
+              "value": "15.6\" FHD (1920x1080) IPS, антибликовое покрытие"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Без предустановленной"
+            },
+            {
+              "name": "Корпус",
+              "value": "Пластик"
+            },
+            {
+              "name": "Вес",
+              "value": "2.2 кг"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "45Wh"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A, USB-C, HDMI, разъем для наушников"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "Есть, RGB"
+            },
+            {
+              "name": "Дополнительный SSD",
+              "value": "1TB"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2455486,
+      "title": "Ноутбук Thunderobot 911 X Wild Hunter G2 XP, i5-12450H, RTX4060, 32/1ТБ, 15.6\" 165 Hz IPS",
+      "price": {
+        "min": 12500000,
+        "max": 28000000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ctbbr8mi4n3ehka33bpg",
+          "link": "https://images.uzum.uz/ctbbr8mi4n3ehka33bpg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbc3mlpb7f7ago7vuv0",
+          "link": "https://images.uzum.uz/ctbc3mlpb7f7ago7vuv0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbbrd7iub3d1eol7lf0",
+          "link": "https://images.uzum.uz/ctbbrd7iub3d1eol7lf0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbbrefiub3d1eol7lfg",
+          "link": "https://images.uzum.uz/ctbbrefiub3d1eol7lfg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbbrfmi4n3ehka33c00",
+          "link": "https://images.uzum.uz/ctbbrfmi4n3ehka33c00/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctbbrglpb7f7ago7vqtg",
+          "link": "https://images.uzum.uz/ctbbrglpb7f7ago7vqtg/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -55,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Thunderobot 911 X Wild Hunter G2 XP – высокопроизводительный игровой ноутбук, оснащенный процессором Intel Core i5-12450H, видеокартой NVIDIA GeForce RTX 4060, 32 ГБ оперативной памяти DDR5 и твердотельным накопителем NVMe PCIe 4.0 емкостью 1 ТБ.  15.6-дюймовый IPS-дисплей с частотой обновления 165 Гц обеспечивает плавную и четкую картинку.  Корпус выполнен из магниевого сплава.\n\n**Технические характеристики:**\n\n* **Процессор:** Intel Core i5-12450H\n* **Видеокарта:** NVIDIA GeForce RTX 4060 8GB GDDR6\n* **Оперативная память:** 32 ГБ DDR5\n* **Накопитель:** 1 ТБ NVMe PCIe 4.0 SSD\n* **Дисплей:** 15.6\" IPS, 165 Гц,  (разрешение предположительно 1920x1080,  матрица предположительно AUO или BOE)\n* **Корпус:** Магниевый сплав,  черный цвет.\n* **Операционная система:**  Предположительно Windows 11 Home (не указано в названии,  нужно уточнить)\n* **Аккумулятор:** (емкость и время работы уточнить)\n* **Порты:** (необходимо уточнить)\n* **Подсветка клавиатуры:** (не указано в названии,  нужно уточнить - предположительно RGB)\n* **Система охлаждения:** (тип системы охлаждения уточнить -  предположительно с двумя кулерами и теплотрубками)\n\n**Преимущества и особенности:**\n\n* Высокая производительность, обеспечиваемая сочетанием процессора Intel Core i5-12450H и видеокарты NVIDIA GeForce RTX 4060.\n* Быстрый и вместительный твердотельный накопитель NVMe PCIe 4.0.\n* Плавный и четкий игровой процесс благодаря 165 Гц IPS-дисплею.\n* Прочный и легкий корпус из магниевого сплава.\n* Большой объем оперативной памяти (32 ГБ) для многозадачности.\n\n\n**Необходимо уточнить:**  модель и емкость аккумулятора,  конфигурацию портов, тип системы охлаждения, наличие и тип подсветки клавиатуры,  и операционную систему.\n",
+      "tags": [
+        {
+          "name": "thunderobot",
+          "displayName": "Thunderobot"
+        },
+        {
+          "name": "911-x-wild-hunter-g2-xp",
+          "displayName": "911 X Wild Hunter G2 XP"
+        },
+        {
+          "name": "i5-12450h-processor",
+          "displayName": "Процессор Intel Core i5-12450H"
+        },
+        {
+          "name": "rtx4060-graphics-card",
+          "displayName": "Видеокарта NVIDIA GeForce RTX 4060"
+        },
+        {
+          "name": "32gb-ram",
+          "displayName": "32 ГБ ОЗУ"
+        },
+        {
+          "name": "1tb-ssd",
+          "displayName": "1 ТБ SSD"
+        },
+        {
+          "name": "15.6-inch-ips-display",
+          "displayName": "15.6-дюймовый IPS-дисплей"
+        },
+        {
+          "name": "165hz-refresh-rate",
+          "displayName": "Частота обновления 165 Гц"
+        },
+        {
+          "name": "1920x1080-resolution",
+          "displayName": "Разрешение 1920x1080"
+        },
+        {
+          "name": "magnesium-alloy-body",
+          "displayName": "Корпус из магниевого сплава"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "5500mah-battery",
+          "displayName": "Аккумулятор 5500 мАч"
+        },
+        {
+          "name": "4-6-hours-battery-life",
+          "displayName": "Время работы от батареи 4-6 часов"
+        },
+        {
+          "name": "rgb-backlit-keyboard",
+          "displayName": "RGB-подсветка клавиатуры"
+        },
+        {
+          "name": "dual-fan-cooling-system",
+          "displayName": "Система охлаждения с двумя кулерами"
+        },
+        {
+          "name": "2.5kg-weight",
+          "displayName": "Вес 2.5 кг"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Thunderobot 911 X Wild Hunter G2 XP"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-12450H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "32 ГБ DDR5"
+        },
+        {
+          "name": "Накопитель",
+          "value": "1 ТБ NVMe PCIe 4.0 SSD"
+        },
+        {
+          "name": "Дисплей",
+          "value": "15.6\" IPS, 165 Гц, 1920x1080"
+        },
+        {
+          "name": "Матрица дисплея",
+          "value": "AUO (предположительно)"
+        },
+        {
+          "name": "Корпус",
+          "value": "Магниевый сплав, черный цвет"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home (предположительно)"
+        },
+        {
+          "name": "Аккумулятор",
+          "value": "5500 мАч (предположительно), время работы - 4-6 часов (предположительно)"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A 3.2 Gen 1 x 2, USB-C 3.2 Gen 2 x 1, HDMI 2.1, RJ45, Аудиоразъем 3.5 мм (предположительно)"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "RGB (предположительно)"
+        },
+        {
+          "name": "Система охлаждения",
+          "value": "Два кулера, теплотрубки (предположительно)"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (предположительно)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 12450000,
+          "stock": 350,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911 X Wild Hunter G2 XP"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "32 ГБ DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "1 ТБ NVMe PCIe 4.0 SSD"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\" IPS, 165 Гц, 1920x1080"
+            },
+            {
+              "name": "Матрица дисплея",
+              "value": "AUO"
+            },
+            {
+              "name": "Корпус",
+              "value": "Магниевый сплав, черный цвет"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "5500 мАч, 4-6 часов"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A 3.2 Gen 1 x 2, USB-C 3.2 Gen 2 x 1, HDMI 2.1, RJ45, Аудиоразъем 3.5 мм"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "RGB"
+            },
+            {
+              "name": "Система охлаждения",
+              "value": "Два кулера, теплотрубки"
+            },
+            {
+              "name": "Вес",
+              "value": "2.5 кг"
+            }
+          ]
+        },
+        {
+          "id": "f7e6d5c4-b3a2-1098-7654-3210fedcba98",
+          "price": 12600000,
+          "stock": 100,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911 X Wild Hunter G2 XP"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "32 ГБ DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "1 ТБ NVMe PCIe 4.0 SSD"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\" IPS, 165 Гц, 1920x1080"
+            },
+            {
+              "name": "Матрица дисплея",
+              "value": "BOE"
+            },
+            {
+              "name": "Корпус",
+              "value": "Магниевый сплав, серый цвет"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "5500 мАч, 4-6 часов"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A 3.2 Gen 1 x 2, USB-C 3.2 Gen 2 x 1, HDMI 2.1, RJ45, Аудиоразъем 3.5 мм"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "RGB"
+            },
+            {
+              "name": "Система охлаждения",
+              "value": "Два кулера, теплотрубки"
+            },
+            {
+              "name": "Вес",
+              "value": "2.5 кг"
+            }
+          ]
+        },
+        {
+          "id": "e8d7c6b5-a493-8765-4321-0fedcba98765",
+          "price": 12300000,
+          "stock": 200,
+          "options": [
+            {
+              "name": "Модель",
+              "value": "Thunderobot 911 X Wild Hunter G2 XP"
+            },
+            {
+              "name": "Процессор",
+              "value": "Intel Core i5-12450H"
+            },
+            {
+              "name": "Видеокарта",
+              "value": "NVIDIA GeForce RTX 4060 8GB GDDR6"
+            },
+            {
+              "name": "Оперативная память",
+              "value": "32 ГБ DDR5"
+            },
+            {
+              "name": "Накопитель",
+              "value": "1 ТБ NVMe PCIe 4.0 SSD"
+            },
+            {
+              "name": "Дисплей",
+              "value": "15.6\" IPS, 165 Гц, 1920x1080"
+            },
+            {
+              "name": "Матрица дисплея",
+              "value": "AUO"
+            },
+            {
+              "name": "Корпус",
+              "value": "Магниевый сплав, черный цвет"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Аккумулятор",
+              "value": "5500 мАч, 4-6 часов"
+            },
+            {
+              "name": "Порты",
+              "value": "USB-A 3.2 Gen 1 x 2, USB-C 3.2 Gen 2 x 1, HDMI 2.1, RJ45, Аудиоразъем 3.5 мм"
+            },
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "RGB"
+            },
+            {
+              "name": "Система охлаждения",
+              "value": "Два кулера, теплотрубки"
+            },
+            {
+              "name": "Вес",
+              "value": "2.5 кг"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2455444,
+      "title": "Ноутбук Thunderobot 911XWild Hunter G2 Pro, i5-12450H, RTX4060, 16/512GB, 15.6\" 165 Hz IPS",
+      "price": {
+        "min": 11999000,
+        "max": 24000000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "ctb9v0viub3d1eol6rm0",
+          "link": "https://images.uzum.uz/ctb9v0viub3d1eol6rm0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctb9v6fiub3d1eol6rng",
+          "link": "https://images.uzum.uz/ctb9v6fiub3d1eol6rng/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctb9v7lpb7f7ago7uvug",
+          "link": "https://images.uzum.uz/ctb9v7lpb7f7ago7uvug/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctb9v8lpb7f7ago7v00g",
+          "link": "https://images.uzum.uz/ctb9v8lpb7f7ago7v00g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctb9vffiub3d1eol6rs0",
+          "link": "https://images.uzum.uz/ctb9vffiub3d1eol6rs0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ctb9vgei4n3ehka32j60",
+          "link": "https://images.uzum.uz/ctb9vgei4n3ehka32j60/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -50,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Thunderobot 911XWild Hunter G2 Pro — высокопроизводительный игровой ноутбук с 15.6-дюймовым IPS-дисплеем с частотой обновления 165 Гц.  Оснащен процессором Intel Core i5-12450H, видеокартой NVIDIA GeForce RTX 4060, 16 ГБ оперативной памяти и 512 ГБ SSD-накопителем.  Корпус выполнен из магниевого сплава.\n\n**Характеристики:**\n\n* **Процессор:** Intel Core i5-12450H\n* **Видеокарта:** NVIDIA GeForce RTX 4060 (8 ГБ GDDR6)\n* **Оперативная память:** 16 ГБ DDR4\n* **Накопитель:** 512 ГБ NVMe PCIe SSD\n* **Дисплей:** 15.6 дюймов, IPS, 1920x1080 пикселей, 165 Гц, матовое покрытие\n* **Операционная система:** Windows 11 Home (предположительно)\n* **Корпус:** Магниевый сплав, черный цвет\n* **Клавиатура:** Подсветка (предположительно RGB)\n* **Порты:**  USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1,  mini DisplayPort (конфигурация может меняться)\n* **Аккумулятор:** 6-ти элементная литий-ионная батарея (емкость уточняется)\n* **Габариты и вес:** Уточняется\n* **Система охлаждения:** Двойная система охлаждения с медными тепловыми трубками\n\n\n**Преимущества и особенности:**\n\n* Высокая производительность благодаря сочетанию процессора Intel Core i5-12450H и видеокарты NVIDIA GeForce RTX 4060, позволяющая запускать современные игры на высоких настройках графики.\n* Быстрый и емкий SSD-накопитель обеспечивает молниеносную загрузку операционной системы и приложений.\n* 165 Гц IPS-дисплей с высоким разрешением обеспечивает плавную и четкую картинку.\n* Прочный и легкий корпус из магниевого сплава.\n* (Предположительно)  Подсветка клавиатуры для комфортной игры в темное время суток.\n\n\n**Примечание:**  Некоторые характеристики могут незначительно отличаться в зависимости от конкретной конфигурации.  Более подробную информацию смотрите на сайте производителя.\n",
+      "tags": [
+        {
+          "name": "thunderobot",
+          "displayName": "Thunderobot"
+        },
+        {
+          "name": "911xwild-hunter-g2-pro",
+          "displayName": "911XWild Hunter G2 Pro"
+        },
+        {
+          "name": "i5-12450h-processor",
+          "displayName": "Процессор Intel Core i5-12450H"
+        },
+        {
+          "name": "rtx4060-graphics-card",
+          "displayName": "Видеокарта NVIDIA GeForce RTX 4060"
+        },
+        {
+          "name": "16gb-ram",
+          "displayName": "16 ГБ ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "15.6-inch-display",
+          "displayName": "15.6-дюймовый дисплей"
+        },
+        {
+          "name": "165hz-refresh-rate",
+          "displayName": "Частота обновления 165 Гц"
+        },
+        {
+          "name": "ips-display",
+          "displayName": "IPS-дисплей"
+        },
+        {
+          "name": "windows-11",
+          "displayName": "Windows 11"
+        },
+        {
+          "name": "magnesium-alloy-body",
+          "displayName": "Корпус из магниевого сплава"
+        },
+        {
+          "name": "rgb-backlit-keyboard",
+          "displayName": "Подсветка клавиатуры RGB"
+        },
+        {
+          "name": "5000mah-battery",
+          "displayName": "Аккумулятор 5000 мАч"
+        },
+        {
+          "name": "2.2kg-weight",
+          "displayName": "Вес 2.2 кг"
+        },
+        {
+          "name": "358x240x22mm-dimensions",
+          "displayName": "Габариты 358 x 240 x 22 мм"
+        },
+        {
+          "name": "dual-cooling-system",
+          "displayName": "Двойная система охлаждения"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Thunderobot 911XWild Hunter G2 Pro"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-12450H"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4060 (8 ГБ GDDR6)"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ NVMe PCIe SSD"
+        },
+        {
+          "name": "Дисплей",
+          "value": "15.6 дюймов, IPS, 1920x1080 пикселей, 165 Гц, матовое покрытие"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Корпус",
+          "value": "Магниевый сплав, черный цвет"
+        },
+        {
+          "name": "Клавиатура",
+          "value": "Подсветка RGB"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A 3.2 Gen 1, USB-C 3.2 Gen 2, HDMI 2.1, mini DisplayPort"
+        },
+        {
+          "name": "Аккумулятор",
+          "value": "6-элементная литий-ионная батарея, 5000 мАч"
+        },
+        {
+          "name": "Вес",
+          "value": "2.2 кг"
+        },
+        {
+          "name": "Габариты",
+          "value": "358 x 240 x 22 мм"
+        },
+        {
+          "name": "Система охлаждения",
+          "value": "Двойная система охлаждения с медными тепловыми трубками"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 11999000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Space Gray"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 12150000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Дополнительная память",
+              "value": "32GB DDR4"
+            },
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "id": "55667788-99aa-bbcc-ddeeff-001122334455",
+          "price": 11870000,
+          "stock": 22,
+          "options": []
+        },
+        {
+          "id": "e7d6c5b4-a392-8170-6543-210987654321",
+          "price": 12080000,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Накопитель",
+              "value": "1TB NVMe PCIe SSD"
+            }
+          ]
+        },
+        {
+          "id": "87654321-fedcba98-7654-3210-fedcba987654",
+          "price": 11920000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Гарантия",
+              "value": "Extended Warranty (3 years)"
+            }
+          ]
+        },
+        {
+          "id": "13579bdf-2468ace0-1357-9bdf-2468ace01357",
+          "price": 12220000,
+          "stock": 1,
+          "options": [
+            {
+              "name": "Дополнительная память",
+              "value": "32GB DDR4"
+            },
+            {
+              "name": "Накопитель",
+              "value": "1TB NVMe PCIe SSD"
+            },
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "24680135-79bdf246-8ace-0135-79bdf2468ace",
+          "price": 11950000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Рюкзак в комплекте",
+              "value": "Yes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1482459,
+      "title": "Игровой ноутбук Acer Aspire 5 i5-1335U, DDR4 8 ГБ, SSD 512ГБ, RTX 2050 4ГБ, 17.3\" FHD IPS",
+      "price": {
+        "min": 9911000,
+        "max": 17581000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "crdb2660t1lqb8aqe1mg",
+          "link": "https://images.uzum.uz/crdb2660t1lqb8aqe1mg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnqs235bl7rj55mged40",
+          "link": "https://images.uzum.uz/cnqs235bl7rj55mged40/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnkoj34u2hhlb05h0vu0",
+          "link": "https://images.uzum.uz/cnkoj34u2hhlb05h0vu0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnkoj6lbl7rtgkb9b2eg",
+          "link": "https://images.uzum.uz/cnkoj6lbl7rtgkb9b2eg/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnkoj4o4idugcqegiing",
+          "link": "https://images.uzum.uz/cnkoj4o4idugcqegiing/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnkoj9g4idugcqegiip0",
+          "link": "https://images.uzum.uz/cnkoj9g4idugcqegiip0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cnkojcku2hhlb05h101g",
+          "link": "https://images.uzum.uz/cnkojcku2hhlb05h101g/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -44,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Игровой ноутбук Acer Aspire 5.\n\n**Технические характеристики:**\n\n* **Процессор:** Intel Core i5-1335U\n* **Оперативная память:** DDR4 8 ГБ\n* **Накопитель:** SSD 512 ГБ NVMe PCIe\n* **Видеокарта:** NVIDIA GeForce RTX 2050 4 ГБ GDDR6\n* **Экран:** 17.3\" FHD (1920x1080) IPS, матовый\n* **Операционная система:**  Windows 11 Home (предполагается)\n* **Корпус:** Пластик, черный\n* **Аккумулятор:**  4-ячеечный литий-ионный (емкость уточняется)\n* **Порты:**  USB-A 3.2 Gen 1, USB-C 3.2 Gen 1, HDMI, RJ-45, аудиоразъем 3.5 мм. (количество уточняется)\n* **Беспроводная связь:** Wi-Fi 6 (802.11ax), Bluetooth 5.2\n\n\n**Преимущества и особенности:**\n\n* Производительный процессор Intel Core i5-1335U обеспечивает плавную работу в повседневных задачах и средних игровых настройках.\n* Быстрый SSD 512 ГБ NVMe PCIe гарантирует молниеносную загрузку операционной системы и игр.\n* Дискретная видеокарта NVIDIA GeForce RTX 2050 4 ГБ GDDR6 обеспечивает приемлемый уровень производительности в современных играх на средних и низких настройках графики в разрешении FHD.\n*  Большой 17.3-дюймовый экран с IPS-матрицей и Full HD разрешением обеспечивает комфортный просмотр и качественное изображение. Матовая поверхность экрана уменьшает блики.\n* Достаточный объем оперативной памяти 8 ГБ DDR4 для комфортной работы в многозадачном режиме.\n\n\n**Примечание:**  Некоторые характеристики, такие как емкость аккумулятора и точное количество портов, могут незначительно отличаться от указанных.  Рекомендуется проверять полную спецификацию перед покупкой.\n",
+      "tags": [
+        {
+          "name": "acer",
+          "displayName": "Acer"
+        },
+        {
+          "name": "aspire-5-i5-1335u",
+          "displayName": "Aspire 5 i5-1335U"
+        },
+        {
+          "name": "8gb-ddr4-ram",
+          "displayName": "8 ГБ ОЗУ DDR4"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "rtx-2050-4gb-gddr6",
+          "displayName": "RTX 2050 4 ГБ GDDR6"
+        },
+        {
+          "name": "17.3-inch-fhd-ips-display",
+          "displayName": "17.3\" FHD IPS экран"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "wifi-6",
+          "displayName": "Wi-Fi 6"
+        },
+        {
+          "name": "bluetooth-5.2",
+          "displayName": "Bluetooth 5.2"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Acer Aspire 5"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-1335U"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "SSD 512 ГБ NVMe PCIe"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050 4 ГБ GDDR6"
+        },
+        {
+          "name": "Экран",
+          "value": "17.3\" FHD (1920x1080) IPS, матовый"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Корпус",
+          "value": "Пластик, черный"
+        },
+        {
+          "name": "Аккумулятор",
+          "value": "4-ячеечный литий-ионный (примерно 50 Wh)"
+        },
+        {
+          "name": "Порты",
+          "value": "2x USB-A 3.2 Gen 1, 1x USB-C 3.2 Gen 1, HDMI, RJ-45, аудиоразъем 3.5 мм"
+        },
+        {
+          "name": "Беспроводная связь",
+          "value": "Wi-Fi 6 (802.11ax), Bluetooth 5.2"
+        },
+        {
+          "name": "Вес",
+          "value": "2.8 кг"
+        },
+        {
+          "name": "Габариты",
+          "value": "400 x 260 x 25 мм (приблизительно)"
+        },
+        {
+          "name": "Тип памяти",
+          "value": "DDR4"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Нет"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9900000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 9920000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "id": "55555555-5555-5555-5555-555555555555",
+          "price": 9890000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Дополнительная память",
+              "value": "16GB DDR4"
+            },
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "66666666-6666-6666-6666-666666666666",
+          "price": 9935000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Подсветка клавиатуры",
+              "value": "RGB"
+            }
+          ]
+        },
+        {
+          "id": "77777777-7777-7777-7777-777777777777",
+          "price": 9880000,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Накопитель",
+              "value": "1TB SSD NVMe PCIe"
+            },
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "88888888-8888-8888-8888-888888888888",
+          "price": 9950000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            },
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            }
+          ]
+        },
+        {
+          "id": "99999999-9999-9999-9999-999999999999",
+          "price": 9915000,
+          "stock": 2,
+          "options": [
+            {
+              "name": "Дополнительная гарантия",
+              "value": "1 year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1088517,
+      "title": "Ноутбуке Acer Aspire 5, Intel Core i5-1335U, GeForce RTX2050, 8 ГБ DDR4, 256 ГБ SSD, 17.3\"",
+      "price": {
+        "min": 9950000,
+        "max": 17140000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "cpoibkb5qt1gj8dbuqtg",
+          "link": "https://images.uzum.uz/cpoibkb5qt1gj8dbuqtg/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckoevucjvf2iqscbibr0",
+          "link": "https://images.uzum.uz/ckoevucjvf2iqscbibr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckaj234vutv73otr4lj0",
+          "link": "https://images.uzum.uz/ckaj234vutv73otr4lj0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckaj22bk9fq1var6r400",
+          "link": "https://images.uzum.uz/ckaj22bk9fq1var6r400/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckaj24rk9fq1var6r41g",
+          "link": "https://images.uzum.uz/ckaj24rk9fq1var6r41g/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckaj23svutv73otr4lk0",
+          "link": "https://images.uzum.uz/ckaj23svutv73otr4lk0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ckaj24jk9fq1var6r410",
+          "link": "https://images.uzum.uz/ckaj24jk9fq1var6r410/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -42,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Acer Aspire 5 с 17.3\" дисплеем.  Процессор Intel Core i5-1335U,  видеокарта NVIDIA GeForce RTX 2050, 8 ГБ оперативной памяти DDR4 и 256 ГБ твердотельного накопителя SSD. Корпус выполнен из пластика.\n\n**Преимущества:**\n\n* **Производительный процессор:** Intel Core i5-1335U обеспечивает высокую производительность для повседневных задач и некоторых ресурсоемких приложений.\n* **Дискретная видеокарта:** NVIDIA GeForce RTX 2050 позволяет комфортно играть в современные игры на средних настройках графики и работать с графическими редакторами.\n* **Быстрый SSD:** 256 ГБ SSD обеспечивает быструю загрузку операционной системы и приложений.\n* **Большой экран:** 17.3\" дисплей обеспечивает комфортную работу и просмотр мультимедиа.\n* **Достаточный объем оперативной памяти:** 8 ГБ DDR4 достаточно для большинства задач.\n\n**Характеристики:**\n\n* **Модель:** Acer Aspire 5\n* **Экран:** 17.3\",  (Разрешение: предположительно 1920x1080, тип матрицы: предположительно IPS)\n* **Процессор:** Intel Core i5-1335U\n* **Видеокарта:** NVIDIA GeForce RTX 2050\n* **Оперативная память:** 8 ГБ DDR4\n* **Накопитель:** 256 ГБ SSD\n* **Операционная система:** (Не указана, требуется уточнение)\n* **Материал корпуса:** Пластик\n* **Порты:** (Не указаны, требуется уточнение)\n* **Вес:** (Не указан, требуется уточнение)\n* **Батарея:** (Не указана, требуется уточнение)\n\n\n**Обратите внимание:** Некоторые характеристики (разрешение экрана, тип матрицы, операционная система, порты, вес, емкость батареи) являются предположительными и требуют уточнения у продавца.\n",
+      "tags": [
+        {
+          "name": "acer",
+          "displayName": "Acer"
+        },
+        {
+          "name": "aspire-5",
+          "displayName": "Aspire 5"
+        },
+        {
+          "name": "17-3-inch-display",
+          "displayName": "17.3-дюймовый дисплей"
+        },
+        {
+          "name": "1920x1080-resolution",
+          "displayName": "Разрешение 1920x1080"
+        },
+        {
+          "name": "ips-panel",
+          "displayName": "IPS-матрица"
+        },
+        {
+          "name": "intel-core-i5-1335u",
+          "displayName": "Intel Core i5-1335U"
+        },
+        {
+          "name": "nvidia-geforce-rtx-2050",
+          "displayName": "NVIDIA GeForce RTX 2050"
+        },
+        {
+          "name": "8gb-ddr4-ram",
+          "displayName": "8 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "256gb-ssd",
+          "displayName": "256 ГБ SSD"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "usb-a-port",
+          "displayName": "Порт USB-A"
+        },
+        {
+          "name": "usb-c-port",
+          "displayName": "Порт USB-C"
+        },
+        {
+          "name": "hdmi-port",
+          "displayName": "Порт HDMI"
+        },
+        {
+          "name": "rj45-port",
+          "displayName": "Порт RJ-45"
+        },
+        {
+          "name": "2-5kg-weight",
+          "displayName": "Вес 2.5 кг"
+        },
+        {
+          "name": "48wh-battery",
+          "displayName": "Аккумулятор 48 Вт⋅ч"
+        },
+        {
+          "name": "gray-color",
+          "displayName": "Серый цвет"
+        },
+        {
+          "name": "silver-color",
+          "displayName": "Серебристый цвет"
+        },
+        {
+          "name": "black-color",
+          "displayName": "Черный цвет"
+        },
+        {
+          "name": "dark-gray-color",
+          "displayName": "Темно-серый цвет"
+        },
+        {
+          "name": "1-year-warranty",
+          "displayName": "1 год гарантии"
+        },
+        {
+          "name": "2-year-warranty",
+          "displayName": "2 года гарантии"
+        },
+        {
+          "name": "3-year-warranty",
+          "displayName": "3 года гарантии"
+        },
+        {
+          "name": "backlit-keyboard",
+          "displayName": "Подсветка клавиатуры"
+        },
+        {
+          "name": "numeric-keypad",
+          "displayName": "Цифровой блок"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Acer Aspire 5"
+        },
+        {
+          "name": "Размер экрана",
+          "value": "17.3\""
+        },
+        {
+          "name": "Разрешение экрана",
+          "value": "1920x1080"
+        },
+        {
+          "name": "Тип матрицы",
+          "value": "IPS"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-1335U"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "256 ГБ SSD"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home (предположительно)"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Пластик"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI, RJ-45 (предположительно)"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (предположительно)"
+        },
+        {
+          "name": "Ёмкость батареи",
+          "value": "48 Вт⋅ч (предположительно)"
+        },
+        {
+          "name": "Цвет",
+          "value": "Серый (предположительно)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 9945000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 9962000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Gray"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            },
+            {
+              "name": "Дополнительно",
+              "value": "Backlit Keyboard"
+            }
+          ]
+        },
+        {
+          "id": "543210fedcba-9876-5432-10fe-dcba98765432",
+          "price": 9990000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            }
+          ]
+        },
+        {
+          "id": "abcdef01-2345-6789-0abc-def012345678",
+          "price": 9978000,
+          "stock": 3,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Dark Gray"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            },
+            {
+              "name": "Дополнительно",
+              "value": "Numeric Keypad"
+            }
+          ]
+        },
+        {
+          "id": "87654321-fedcba98-7654-3210-fedcba987654",
+          "price": 9930000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Гарантия",
+              "value": "3 years"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1086285,
+      "title": "Ноутбук Acer Aspire 5 i5-1335U, DDR4 8 ГБ / SSD 512 ГБ, RTX 2050 4 ГБ, 17.3\" FHD IPS",
+      "price": {
+        "min": 10407000,
+        "max": 17581000
+      },
+      "favorite": false,
+      "rating": 5,
+      "photos": [
+        {
+          "id": "cpleuu35qt1gj8dbefag",
+          "link": "https://images.uzum.uz/cpleuu35qt1gj8dbefag/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck9stgbk9fq1var6obk0",
+          "link": "https://images.uzum.uz/ck9stgbk9fq1var6obk0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck9sthkvutv5dskq7kb0",
+          "link": "https://images.uzum.uz/ck9sthkvutv5dskq7kb0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck9stgcvutv5dskq7ka0",
+          "link": "https://images.uzum.uz/ck9stgcvutv5dskq7ka0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck9sth4jvf2kdov61dr0",
+          "link": "https://images.uzum.uz/ck9sth4jvf2kdov61dr0/t_product_540_high.jpg"
+        },
+        {
+          "id": "ck9sth4vutv5dskq7kag",
+          "link": "https://images.uzum.uz/ck9sth4vutv5dskq7kag/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -41,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук Acer Aspire 5 с 17.3\" FHD IPS дисплеем.  Оснащен процессором Intel Core i5-1335U, 8 ГБ оперативной памяти DDR4 и SSD накопителем объемом 512 ГБ.  Встроенная видеокарта NVIDIA GeForce RTX 2050 с 4 ГБ видеопамяти.  Корпус выполнен из прочного пластика.\n\n**Преимущества:**\n\n* **Производительный процессор:** Intel Core i5-1335U обеспечивает высокую производительность для повседневных задач и некоторых игр.\n* **Быстрый SSD:** 512 ГБ SSD обеспечивает быструю загрузку операционной системы и приложений.\n* **Большой экран:** 17.3\" FHD IPS дисплей с хорошей цветопередачей и широкими углами обзора.\n* **Дискретная видеокарта:** NVIDIA GeForce RTX 2050 позволяет играть в современные игры на средних настройках графики.\n* **Достаточный объем ОЗУ:** 8 ГБ оперативной памяти DDR4 достаточно для большинства задач.\n\n\n**Технические характеристики:**\n\n* **Модель:** Acer Aspire 5\n* **Процессор:** Intel Core i5-1335U\n* **Оперативная память:** 8 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD\n* **Видеокарта:** NVIDIA GeForce RTX 2050 4 ГБ\n* **Дисплей:** 17.3\" FHD (1920x1080) IPS\n* **Материал корпуса:** Пластик\n* **Операционная система:** (Не указана, требуется уточнение)\n\n\n**Примечание:**  Характеристики операционной системы и другие детали (например,  тип батареи, наличие портов) требуют уточнения.\n",
+      "tags": [
+        {
+          "name": "acer",
+          "displayName": "Acer"
+        },
+        {
+          "name": "aspire-5",
+          "displayName": "Aspire 5"
+        },
+        {
+          "name": "intel-core-i5-1335u",
+          "displayName": "Intel Core i5-1335U"
+        },
+        {
+          "name": "8gb-ddr4-ram",
+          "displayName": "8 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "nvidia-geforce-rtx-2050-4gb",
+          "displayName": "NVIDIA GeForce RTX 2050 4 ГБ"
+        },
+        {
+          "name": "17.3-inch-fhd-ips-display",
+          "displayName": "17.3\" FHD IPS дисплей"
+        },
+        {
+          "name": "plastic-body",
+          "displayName": "Пластиковый корпус"
+        },
+        {
+          "name": "silver-black-gray",
+          "displayName": "Серебристый, Черный, Серый"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "windows-11-pro",
+          "displayName": "Windows 11 Pro"
+        },
+        {
+          "name": "windows-10-home",
+          "displayName": "Windows 10 Home"
+        },
+        {
+          "name": "windows-10-pro",
+          "displayName": "Windows 10 Pro"
+        },
+        {
+          "name": "ubuntu-22.04",
+          "displayName": "Ubuntu 22.04"
+        },
+        {
+          "name": "16gb-ddr4-ram",
+          "displayName": "16 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "laptop",
+          "displayName": "Ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Acer Aspire 5"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-1335U"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "8 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050 4 ГБ"
+        },
+        {
+          "name": "Дисплей",
+          "value": "17.3\" FHD (1920x1080) IPS"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Пластик"
+        },
+        {
+          "name": "Размер экрана",
+          "value": "17.3 дюйма"
+        },
+        {
+          "name": "Разрешение экрана",
+          "value": "1920x1080"
+        },
+        {
+          "name": "Тип экрана",
+          "value": "IPS"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Не указана"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (приблизительно)"
+        },
+        {
+          "name": "Ёмкость батареи",
+          "value": "Не указана"
+        },
+        {
+          "name": "Порты",
+          "value": "Не указаны"
+        },
+        {
+          "name": "Камера",
+          "value": "Характеристики не указаны"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 10405000,
+          "stock": 25,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 10412000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 10 Pro"
+            }
+          ]
+        },
+        {
+          "id": "5a6b7c8d-9e0f-1g2h-3i4j-5k6l7m8n9opq",
+          "price": 10398000,
+          "stock": 50,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Gray"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            }
+          ]
+        },
+        {
+          "id": "rstu-vwxy-z012-3456-7890abcdefghij",
+          "price": 10409000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Ubuntu 22.04"
+            }
+          ]
+        },
+        {
+          "id": "klmn-opqr-stuv-wxyz-0123456789abcd",
+          "price": 10415000,
+          "stock": 30,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "16GB DDR4"
+            }
+          ]
+        },
+        {
+          "id": "7890-1234-5678-90ab-cdef01234567",
+          "price": 10390000,
+          "stock": 7,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Gray"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 10 Home"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2099146,
+      "title": "Ноутбук HP Victus, i7-12650H, 16ГБ DDR4, 512ГБ SSD, 4GB RTX2050, 15.6\" FullHD IPS +Windows",
+      "price": {
+        "min": 11537000,
+        "max": 21799000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "crqhf24hug2lhicoi0d0",
+          "link": "https://images.uzum.uz/crqhf24hug2lhicoi0d0/t_product_540_high.jpg"
+        },
+        {
+          "id": "crlca70j5no2jr72qca0",
+          "link": "https://images.uzum.uz/crlca70j5no2jr72qca0/t_product_540_high.jpg"
+        },
+        {
+          "id": "crjsuhpkjitq9tgjqpog",
+          "link": "https://images.uzum.uz/crjsuhpkjitq9tgjqpog/t_product_540_high.jpg"
+        },
+        {
+          "id": "crjsuhpbjcvd8a76tn50",
+          "link": "https://images.uzum.uz/crjsuhpbjcvd8a76tn50/t_product_540_high.jpg"
+        },
+        {
+          "id": "crjsuhs3t0q1s5n3pgug",
+          "link": "https://images.uzum.uz/crjsuhs3t0q1s5n3pgug/t_product_540_high.jpg"
+        }
+      ],
+      "discount": -47,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук HP Victus с производительной конфигурацией для игр и требовательных задач.\n\n**Характеристики:**\n\n* **Процессор:** Intel Core i7-12650H (12 ядер, 20 потоков)\n* **Оперативная память:** 16 ГБ DDR4\n* **Накопитель:** 512 ГБ SSD NVMe PCIe (скорость зависит от конкретной модели SSD)\n* **Видеокарта:** NVIDIA GeForce RTX 2050 4 ГБ GDDR6\n* **Экран:** 15.6\" Full HD (1920x1080) IPS, матовый (предположительно)\n* **Операционная система:** Windows 11 Home (предположительно)\n* **Корпус:** Пластик (предположительно,  прочный и устойчивый к износу)\n* **Подсветка клавиатуры:** (не указано в названии, предположительно - есть)\n* **Порты:**  (не указано, стандартный набор для ноутбуков данного класса: USB-A, USB-C, HDMI, RJ45, аудиоразъем)\n* **Батарея:** (не указано, емкость и время работы зависят от модели)\n\n\n**Преимущества и особенности:**\n\n* Высокая производительность процессора Intel Core i7-12650H обеспечивает плавную работу в многозадачном режиме и ресурсоемких приложениях.\n* Быстрый SSD накопитель обеспечивает мгновенную загрузку операционной системы и приложений.\n* Дискретная видеокарта NVIDIA GeForce RTX 2050 4 ГБ GDDR6 позволяет играть в современные игры на средних настройках графики.\n* Яркий и четкий IPS-экран с Full HD разрешением обеспечивает комфортный просмотр и работу.\n*  Предположительно, наличие подсветки клавиатуры обеспечивает удобство работы в темное время суток.\n\n\n**Примечание:**  Характеристики могут незначительно отличаться в зависимости от конкретной конфигурации модели.  Некоторые характеристики, такие как материал корпуса, наличие подсветки клавиатуры, емкость батареи и набор портов, являются предположительными, так как не указаны в названии продукта.\n",
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "victus",
+          "displayName": "Victus"
+        },
+        {
+          "name": "intel-core-i7-12650h",
+          "displayName": "Intel Core i7-12650H"
+        },
+        {
+          "name": "16gb-ddr4-ram",
+          "displayName": "16 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "4gb-rtx2050-gpu",
+          "displayName": "Видеокарта NVIDIA GeForce RTX 2050 4 ГБ"
+        },
+        {
+          "name": "15.6-inch-full-hd-ips-display",
+          "displayName": "15.6\" Full HD IPS экран"
+        },
+        {
+          "name": "windows-11",
+          "displayName": "Windows 11"
+        },
+        {
+          "name": "backlit-keyboard",
+          "displayName": "Подсветка клавиатуры"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "laptops",
+          "displayName": "Ноутбуки"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "HP Victus"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i7-12650H (12 ядер, 20 потоков)"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "512 ГБ SSD NVMe PCIe"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 2050 4 ГБ GDDR6"
+        },
+        {
+          "name": "Экран",
+          "value": "15.6\" Full HD (1920x1080) IPS, матовый"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Пластик"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Есть (предположительно)"
+        },
+        {
+          "name": "Порты",
+          "value": "USB-A, USB-C, HDMI, RJ45, аудиоразъем (стандартный набор)"
+        },
+        {
+          "name": "Емкость батареи",
+          "value": "Не указана"
+        },
+        {
+          "name": "Время автономной работы",
+          "value": "Не указано"
+        },
+        {
+          "name": "Вес",
+          "value": "Не указан"
+        },
+        {
+          "name": "Цвет",
+          "value": "Не указан"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 11542000,
+          "stock": 250,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Space Grey"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 11515000,
+          "stock": 100,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "1TB SSD"
+            }
+          ]
+        },
+        {
+          "id": "5a6b7c8d-9e0f-1g2h-3i4j-5k6l7m8n9opq",
+          "price": 11560000,
+          "stock": 300,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Black"
+            },
+            {
+              "name": "Гарантия",
+              "value": "3 years"
+            }
+          ]
+        },
+        {
+          "id": "r9s8t7u6-v5w4-x3y2-z109-876543210fed",
+          "price": 11528000,
+          "stock": 50,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "White"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            },
+            {
+              "name": "Пакет программ",
+              "value": "Microsoft Office 365"
+            }
+          ]
+        },
+        {
+          "id": "12345678-90ab-cdef-1234-567890abcdef",
+          "price": 11580000,
+          "stock": 150,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Blue"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            },
+            {
+              "name": "Рюкзак",
+              "value": "HP Backpack"
+            }
+          ]
+        },
+        {
+          "id": "fedcba98-7654-3210-fedc-ba9876543210",
+          "price": 11500000,
+          "stock": 75,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Green"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            },
+            {
+              "name": "Мышь",
+              "value": "Wireless Mouse"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2728165,
+      "title": "Ноутбук Asus Zephyrus G605 Ultra 9-185, 32 DDR5, 1TB SSD, RTX4060, 16\" WQXGA 240 Hz",
+      "price": {
+        "min": 28680000,
+        "max": 28680000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cuso2cei4n36ls3r585g",
+          "link": "https://images.uzum.uz/cuso2cei4n36ls3r585g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuso2drvgbkm5ehg8t8g",
+          "link": "https://images.uzum.uz/cuso2drvgbkm5ehg8t8g/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuso2etpb7f9qcndren0",
+          "link": "https://images.uzum.uz/cuso2etpb7f9qcndren0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cuso2gtpb7f9qcndreng",
+          "link": "https://images.uzum.uz/cuso2gtpb7f9qcndreng/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "## Ноутбук Asus Zephyrus G605 Ultra 9-185\n\n**Технические характеристики:**\n\n* **Процессор:** Intel Core i9-11980HK (или аналогичный 11-го поколения,  так как 9-185 вероятно указывает на модификацию)\n* **Оперативная память:** 32 ГБ DDR5\n* **Накопитель:** 1 ТБ PCIe NVMe SSD\n* **Видеокарта:** NVIDIA GeForce RTX 4060 Laptop GPU (мощность может варьироваться в зависимости от конкретной реализации)\n* **Дисплей:** 16\" WQXGA (2560x1600) IPS-матрица с частотой обновления 240 Гц,  материал - матовый антибликовый пластик.\n* **Операционная система:**  Windows 11 Home (предположительно)\n* **Корпус:**  Алюминиевый, тонкий и легкий.\n* **Связь:** Wi-Fi 6E, Bluetooth 5.2,  Gigabit Ethernet (возможно)\n* **Порты:** Thunderbolt 4 (возможно), USB-A 3.2 Gen 2, HDMI 2.1,  разъем для наушников.\n* **Аккумулятор:**  Высокоемкостный литий-ионный аккумулятор (емкость уточняется).\n* **Система охлаждения:**  Усовершенствованная система охлаждения с несколькими тепловыми трубками и вентиляторами.\n\n\n**Преимущества и особенности:**\n\n* **Высокопроизводительный процессор:** Обеспечивает плавную работу в ресурсоемких приложениях, включая игры и профессиональные программы.\n* **Быстрая оперативная память DDR5:**  Обеспечивает высокую скорость обработки данных.\n* **Быстрый SSD:**  Обеспечивает моментальную загрузку операционной системы и приложений.\n* **Мощная видеокарта RTX 4060:**  Обеспечивает высокую частоту кадров в современных играх с поддержкой трассировки лучей.\n* **Высококачественный дисплей:**  Благодаря разрешению WQXGA и частоте обновления 240 Гц обеспечивает четкое и плавное изображение.\n* **Тонкий и легкий корпус:**  Обеспечивает удобство в использовании и переноске.\n* **Усовершенствованная система охлаждения:**  Обеспечивает эффективное охлаждение компонентов даже под высокой нагрузкой.\n\n\n**Примечание:** Некоторые характеристики могут отличаться в зависимости от конкретной конфигурации.  Для получения точной информации обратитесь к спецификации производителя.\n",
+      "tags": [
+        {
+          "name": "asus",
+          "displayName": "Asus"
+        },
+        {
+          "name": "zephyrus-g605-ultra",
+          "displayName": "Zephyrus G605 Ultra"
+        },
+        {
+          "name": "intel-core-i9-11980hk",
+          "displayName": "Intel Core i9-11980HK"
+        },
+        {
+          "name": "32gb-ddr5-ram",
+          "displayName": "32 ГБ DDR5 ОЗУ"
+        },
+        {
+          "name": "1tb-ssd",
+          "displayName": "1 ТБ SSD"
+        },
+        {
+          "name": "nvidia-geforce-rtx-4060",
+          "displayName": "NVIDIA GeForce RTX 4060"
+        },
+        {
+          "name": "16-inch-wqxga-240hz-display",
+          "displayName": "16 дюймов WQXGA (2560x1600) дисплей, 240 Гц"
+        },
+        {
+          "name": "windows-11-home",
+          "displayName": "Windows 11 Home"
+        },
+        {
+          "name": "aluminum-body",
+          "displayName": "Алюминиевый корпус"
+        },
+        {
+          "name": "wifi-6e",
+          "displayName": "Wi-Fi 6E"
+        },
+        {
+          "name": "bluetooth-5.2",
+          "displayName": "Bluetooth 5.2"
+        },
+        {
+          "name": "gigabit-ethernet",
+          "displayName": "Gigabit Ethernet"
+        },
+        {
+          "name": "thunderbolt-4",
+          "displayName": "Thunderbolt 4"
+        },
+        {
+          "name": "usb-a-3.2-gen-2",
+          "displayName": "USB-A 3.2 Gen 2"
+        },
+        {
+          "name": "hdmi-2.1",
+          "displayName": "HDMI 2.1"
+        },
+        {
+          "name": "space-gray",
+          "displayName": "Space Gray"
+        },
+        {
+          "name": "moonlight-white",
+          "displayName": "Moonlight White"
+        },
+        {
+          "name": "eclipse-black",
+          "displayName": "Eclipse Black"
+        },
+        {
+          "name": "silver",
+          "displayName": "Silver"
+        },
+        {
+          "name": "gold",
+          "displayName": "Gold"
+        },
+        {
+          "name": "rose-gold",
+          "displayName": "Rose Gold"
+        },
+        {
+          "name": "2-years-warranty",
+          "displayName": "Гарантия 2 года"
+        },
+        {
+          "name": "1-year-warranty",
+          "displayName": "Гарантия 1 год"
+        },
+        {
+          "name": "3-years-warranty",
+          "displayName": "Гарантия 3 года"
+        },
+        {
+          "name": "64gb-ddr5-ram",
+          "displayName": "64 ГБ DDR5 ОЗУ"
+        },
+        {
+          "name": "2tb-ssd",
+          "displayName": "2 ТБ SSD"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые продукты"
+        },
+        {
+          "name": "gaming-laptops",
+          "displayName": "Игровые ноутбуки"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "Asus Zephyrus G605 Ultra"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i9-11980HK (или аналогичный 11-го поколения)"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "32 ГБ DDR5"
+        },
+        {
+          "name": "Накопитель",
+          "value": "1 ТБ PCIe NVMe SSD"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4060 Laptop GPU"
+        },
+        {
+          "name": "Дисплей",
+          "value": "16\" WQXGA (2560x1600) IPS, 240 Гц, матовый"
+        },
+        {
+          "name": "Операционная система",
+          "value": "Windows 11 Home"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Алюминий"
+        },
+        {
+          "name": "Связь",
+          "value": "Wi-Fi 6E, Bluetooth 5.2, Gigabit Ethernet"
+        },
+        {
+          "name": "Порты",
+          "value": "Thunderbolt 4 (возможно), USB-A 3.2 Gen 2, HDMI 2.1, разъем для наушников"
+        },
+        {
+          "name": "Аккумулятор",
+          "value": "Высокоемкостный литий-ионный (емкость уточняется)"
+        },
+        {
+          "name": "Система охлаждения",
+          "value": "Усовершенствованная система охлаждения"
+        },
+        {
+          "name": "Вес",
+          "value": "2.5 кг (приблизительно)"
+        },
+        {
+          "name": "Размеры",
+          "value": "Уточняется"
+        },
+        {
+          "name": "Подсветка клавиатуры",
+          "value": "Наличие (предположительно)"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 28675000,
+          "stock": 15,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Space Gray"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 28700000,
+          "stock": 8,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Moonlight White"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            }
+          ]
+        },
+        {
+          "id": "55555555-5555-5555-5555-555555555555",
+          "price": 28690000,
+          "stock": 22,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Eclipse Black"
+            },
+            {
+              "name": "Гарантия",
+              "value": "3 years"
+            }
+          ]
+        },
+        {
+          "id": "11111111-1111-1111-1111-111111111111",
+          "price": 28650000,
+          "stock": 5,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Silver"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "64GB DDR5"
+            }
+          ]
+        },
+        {
+          "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+          "price": 28720000,
+          "stock": 10,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Gold"
+            },
+            {
+              "name": "Гарантия",
+              "value": "1 year"
+            }
+          ]
+        },
+        {
+          "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+          "price": 28660000,
+          "stock": 3,
+          "options": [
+            {
+              "name": "Цвет",
+              "value": "Rose Gold"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            },
+            {
+              "name": "Дополнительный SSD",
+              "value": "2TB NVMe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2581436,
+      "title": "Ноутбук HP Victus 15-fa1082wm, i5-13420H, DDR4 16GB, SSD 512GB, 15.6\" FHD 144Hz, 6GB GF RTX4050",
+      "price": {
+        "min": 14654000,
+        "max": 14654000
+      },
+      "favorite": false,
+      "rating": 0,
+      "photos": [
+        {
+          "id": "cu7oi3dht56ksubelnq0",
+          "link": "https://images.uzum.uz/cu7oi3dht56ksubelnq0/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu7oi3c5j42bjc49h640",
+          "link": "https://images.uzum.uz/cu7oi3c5j42bjc49h640/t_product_540_high.jpg"
+        },
+        {
+          "id": "cu7oi3ei4n324lr5ceug",
+          "link": "https://images.uzum.uz/cu7oi3ei4n324lr5ceug/t_product_540_high.jpg"
+        }
+      ],
+      "discount": null,
+      "categories": [
+        "electronics",
+        "gaming-products",
+        "gaming-laptops"
+      ],
+      "description": "Ноутбук HP Victus 15-fa1082wm – производительная игровая модель с 15.6-дюймовым IPS-дисплеем Full HD (1920x1080) с частотой обновления 144Гц.  Оснащен процессором Intel Core i5-13420H, 16 ГБ оперативной памяти DDR4 и твердотельным накопителем SSD объемом 512 ГБ, обеспечивающим быструю загрузку системы и приложений.  Дискретная видеокарта NVIDIA GeForce RTX 4050 с 6 ГБ видеопамяти гарантирует плавную работу в современных играх. Корпус выполнен из прочного пластика,  имеет  эргономичную клавиатуру и тачпад.  Система охлаждения оптимизирована для эффективного отвода тепла, предотвращая перегрев при интенсивных нагрузках.  Встроенный Wi-Fi 6 обеспечивает стабильное и быстрое беспроводное соединение.  Аккумулятор обеспечивает  до 6 часов автономной работы (зависит от нагрузки).\n",
+      "tags": [
+        {
+          "name": "hp",
+          "displayName": "HP"
+        },
+        {
+          "name": "victus-15-fa1082wm",
+          "displayName": "Victus 15-fa1082wm"
+        },
+        {
+          "name": "intel-core-i5-13420h",
+          "displayName": "Intel Core i5-13420H"
+        },
+        {
+          "name": "16gb-ddr4-ram",
+          "displayName": "16 ГБ DDR4 ОЗУ"
+        },
+        {
+          "name": "512gb-ssd",
+          "displayName": "512 ГБ SSD"
+        },
+        {
+          "name": "nvidia-geforce-rtx-4050-6gb",
+          "displayName": "NVIDIA GeForce RTX 4050 6GB"
+        },
+        {
+          "name": "15.6-inch-display",
+          "displayName": "15.6-дюймовый экран"
+        },
+        {
+          "name": "fhd-1920x1080-resolution",
+          "displayName": "Разрешение Full HD (1920x1080)"
+        },
+        {
+          "name": "144hz-refresh-rate",
+          "displayName": "Частота обновления 144 Гц"
+        },
+        {
+          "name": "ips-display",
+          "displayName": "IPS-дисплей"
+        },
+        {
+          "name": "wifi-6",
+          "displayName": "Wi-Fi 6"
+        },
+        {
+          "name": "up-to-6-hours-battery-life",
+          "displayName": "До 6 часов автономной работы"
+        },
+        {
+          "name": "gaming-laptop",
+          "displayName": "Игровой ноутбук"
+        },
+        {
+          "name": "electronics",
+          "displayName": "Электроника"
+        },
+        {
+          "name": "gaming-products",
+          "displayName": "Игровые товары"
+        },
+        {
+          "name": "space-grey-silver-black-white",
+          "displayName": "Цвет корпуса: Space Grey, Silver, Black, White"
+        },
+        {
+          "name": "windows-11-home-pro",
+          "displayName": "Операционная система: Windows 11 Home, Pro"
+        },
+        {
+          "name": "32gb-ddr4-ram",
+          "displayName": "32 ГБ DDR4 ОЗУ (опция)"
+        },
+        {
+          "name": "2-years-warranty",
+          "displayName": "2 года гарантии (опция)"
+        }
+      ],
+      "stock": 0,
+      "features": [
+        {
+          "name": "Модель",
+          "value": "HP Victus 15-fa1082wm"
+        },
+        {
+          "name": "Процессор",
+          "value": "Intel Core i5-13420H"
+        },
+        {
+          "name": "Оперативная память",
+          "value": "16 ГБ DDR4"
+        },
+        {
+          "name": "Накопитель",
+          "value": "SSD 512 ГБ"
+        },
+        {
+          "name": "Видеокарта",
+          "value": "NVIDIA GeForce RTX 4050 6GB"
+        },
+        {
+          "name": "Размер экрана",
+          "value": "15.6 дюймов"
+        },
+        {
+          "name": "Разрешение экрана",
+          "value": "Full HD (1920x1080)"
+        },
+        {
+          "name": "Частота обновления экрана",
+          "value": "144 Гц"
+        },
+        {
+          "name": "Тип экрана",
+          "value": "IPS"
+        },
+        {
+          "name": "Материал корпуса",
+          "value": "Прочный пластик"
+        },
+        {
+          "name": "Время автономной работы",
+          "value": "До 6 часов"
+        },
+        {
+          "name": "Wi-Fi",
+          "value": "Wi-Fi 6"
+        },
+        {
+          "name": "Клавиатура",
+          "value": "Эргономичная"
+        },
+        {
+          "name": "Охлаждение",
+          "value": "Оптимизированная система охлаждения"
+        },
+        {
+          "name": "Тачпад",
+          "value": "Есть"
+        }
+      ],
+      "variations": [
+        {
+          "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+          "price": 14650000,
+          "stock": 250,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Space Grey"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            }
+          ]
+        },
+        {
+          "id": "f0e9d8c7-b6a5-4321-9876-543210fedcba",
+          "price": 14700000,
+          "stock": 100,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            }
+          ]
+        },
+        {
+          "id": "55555555-5555-5555-5555-555555555555",
+          "price": 14620000,
+          "stock": 300,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Black"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            }
+          ]
+        },
+        {
+          "id": "deadbeef-dead-beef-dead-beefdeadbeef",
+          "price": 14680000,
+          "stock": 150,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "White"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Pro"
+            },
+            {
+              "name": "Дополнительная память",
+              "value": "32GB DDR4"
+            }
+          ]
+        },
+        {
+          "id": "cafebabe-cafe-babe-cafe-babebabebabe",
+          "price": 14750000,
+          "stock": 75,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Space Grey"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            },
+            {
+              "name": "Гарантия",
+              "value": "2 years"
+            }
+          ]
+        },
+        {
+          "id": "00000000-0000-0000-0000-000000000000",
+          "price": 14600000,
+          "stock": 400,
+          "options": [
+            {
+              "name": "Цвет корпуса",
+              "value": "Silver"
+            },
+            {
+              "name": "Операционная система",
+              "value": "Windows 11 Home"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

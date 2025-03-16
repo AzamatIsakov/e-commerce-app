@@ -1,6 +1,4 @@
-import React from 'react'
-
-const OneCategoryPage = ({ params }: { params: { category: string } }) => {
+const SingleCategoryPage = ({ params }: { params: { category: string } }) => {
   console.log('Category page', params.category)
   return (
     <main>
@@ -13,4 +11,4 @@ const OneCategoryPage = ({ params }: { params: { category: string } }) => {
   )
 }
 
-export default OneCategoryPage
+export default SingleCategoryPage

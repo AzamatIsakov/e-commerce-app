@@ -50,7 +50,7 @@ const SingleProductPage = ({ params }: { params: { id: string } }) => {
       .then((data) => {
         setProduct(data.data)
       })
-  }, [])
+  }, [id])
 
   if (!product) return null
 

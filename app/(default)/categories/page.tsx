@@ -1,4 +1,4 @@
-const CategoryPage = () => {
+const CategoriesPage = () => {
   console.log('Categores page')
 
   return (
@@ -10,4 +10,4 @@ const CategoryPage = () => {
   )
 }
 
-export default CategoryPage
+export default CategoriesPage

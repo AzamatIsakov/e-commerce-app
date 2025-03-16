@@ -101,6 +101,7 @@ export const ProductCard = ({
                     fill
                     loading="lazy"
                     sizes="(max-width: 768px) 100vw, 50vw"
+                    unoptimized
                   />
                 </div>
               ))}

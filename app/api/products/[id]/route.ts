@@ -15,7 +15,7 @@ export const GET = async (
     )
 
   const products: ProductDTO = getDataFromJSON(
-    '/data/electronics/phones/smartphones/1/products.json'
+    'data/electronics/phones/smartphones/1/products.json'
   )
 
   const product = products.items.find((item) => Number(item.id) === id)

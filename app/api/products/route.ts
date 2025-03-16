@@ -3,7 +3,7 @@ import { NextResponse } from 'next/server'
 
 export async function GET() {
   const products = getDataFromJSON(
-    'data/electronics/phones/smartphones/1/products.json'
+    '/data/electronics/phones/smartphones/1/products.json'
   )
 
   if (!products || products.length === 0)

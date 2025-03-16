@@ -52,7 +52,7 @@ export const ProductCarousel = ({ images }: ProductCarouselProps) => {
   }
 
   return (
-    <div className="w-full lg:w-[600px]">
+    <div className="w-full shrink-0 xl:w-[600px]">
       <ProductCarouselModal
         onCarouselSelect={setSlide}
         selected={selected}

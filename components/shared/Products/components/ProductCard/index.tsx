@@ -152,7 +152,7 @@ export const ProductCard = ({
           {title}
         </CardTitle>
 
-        <div className="mt-1 flex items-end gap-2">
+        <div className="mt-1 flex flex-col items-start sm:flex-row sm:items-end sm:gap-2">
           <span className="text-base font-bold text-red md:text-lg">
             {formatNumberWithSpace(price.max)}
           </span>

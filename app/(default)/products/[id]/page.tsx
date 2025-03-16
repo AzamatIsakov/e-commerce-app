@@ -56,7 +56,7 @@ const SingleProductPage = ({ params }: { params: { id: string } }) => {
 
   return (
     <div className="container min-h-screen bg-gray-50">
-      <div className="mx-auto max-w-[1440px] px-4 py-6 sm:px-6 sm:py-8 lg:px-8 lg:py-12">
+      <div className="py-6 sm:py-8 lg:py-12">
         <div className="mb-4 overflow-x-auto whitespace-nowrap text-sm text-gray-600 sm:mb-8">
           <span className="cursor-pointer hover:text-gray-900">Главная</span>
           <span className="mx-2">/</span>
@@ -68,12 +68,12 @@ const SingleProductPage = ({ params }: { params: { id: string } }) => {
         </div>
         <div className="rounded-2xl bg-white p-4 shadow-sm sm:p-6 lg:p-8">
           <div className="flex flex-col gap-12">
-            <div className="flex flex-col items-start gap-4 lg:flex-row lg:gap-8">
+            <div className="flex flex-col items-start gap-4 lg:gap-8 xl:flex-row">
               <ProductCarousel
                 images={[...product.photos.map((photo) => photo.link)]}
               />
 
-              <div className="flex-1">
+              <div className="w-full overflow-hidden">
                 <h1 className="mb-6 text-2xl font-bold">{product.title}</h1>
                 <div className="mb-6 rounded-xl bg-gray-50 p-4 sm:mb-8 sm:p-6">
                   <div className="space-y-3">

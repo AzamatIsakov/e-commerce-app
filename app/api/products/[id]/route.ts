@@ -1,5 +1,5 @@
 import { ProductDTO } from '@/services/Products.dto'
-import { getDataFromJSON } from '@/utilities/file'
+import { fetchProduct } from '@/utilities/file'
 import { NextRequest, NextResponse } from 'next/server'
 
 export const GET = async (
@@ -14,9 +14,7 @@ export const GET = async (
       { status: 400 }
     )
 
-  const products: ProductDTO = getDataFromJSON(
-    'data/electronics/phones/smartphones/1/products.json'
-  )
+  const products: ProductDTO = await fetchProduct()
 
   const product = products.items.find((item) => Number(item.id) === id)
 

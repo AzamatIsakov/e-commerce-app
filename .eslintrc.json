@@ -23,7 +23,7 @@
     ],
     "arrow-body-style": ["error", "as-needed"],
     "func-style": ["error", "declaration", { "allowArrowFunctions": true }],
-    "quotes": ["error", "single"],
+    "quotes": ["error", "single", { "avoidEscape": true }],
     "semi": ["error", "never"],
     "curly": ["error", "multi"]
   }

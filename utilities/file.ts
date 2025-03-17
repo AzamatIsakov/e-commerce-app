@@ -22,8 +22,6 @@ export const fetchProduct = async () => {
     const text = await res.text() // Читаем как текст, чтобы обработать пустой ответ
     const data = text ? JSON.parse(text) : null
 
-    console.log(data)
-
     if (!data || !data.items)
       throw new Error("Invalid JSON structure or missing 'items'")
 

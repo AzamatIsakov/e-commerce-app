@@ -11,6 +11,7 @@ import {
   CarouselPrevious
 } from '@/components/ui/carousel'
 import { useRef } from 'react'
+import Image from 'next/image'
 
 export const ProductCarouselModal = ({
   open,
@@ -49,11 +50,16 @@ export const ProductCarouselModal = ({
         >
           <CarouselContent className="ml-0 h-full">
             {images.map((image, index) => (
-              <CarouselItem className="h-full p-0 md:h-screen" key={index}>
-                <img
+              <CarouselItem
+                className="relative h-full p-0 md:h-screen"
+                key={index}
+              >
+                <Image
+                  fill
                   src={image}
                   className="h-full w-full object-cover"
                   alt={`Product view ${index + 1}`}
+                  unoptimized
                 />
               </CarouselItem>
             ))}

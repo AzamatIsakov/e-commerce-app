@@ -9,6 +9,7 @@ import {
 import { useRef, useState } from 'react'
 import { ProductCarouselProps } from './index.interface'
 import { ProductCarouselModal } from './components'
+import Image from 'next/image'
 
 export const ProductCarousel = ({ images }: ProductCarouselProps) => {
   const mainCarouselApi = useRef<CarouselApi | null>(null)
@@ -69,10 +70,12 @@ export const ProductCarousel = ({ images }: ProductCarouselProps) => {
             {images.map((image, index) => (
               <CarouselItem onClick={openModal} key={index}>
                 <div className="group relative aspect-[3/4] overflow-hidden hover:cursor-pointer">
-                  <img
+                  <Image
+                    fill
                     src={image}
                     alt={`Product view ${index + 1}`}
                     className="h-full w-full object-cover transition-all duration-300 group-hover:scale-105"
+                    unoptimized
                   />
                 </div>
               </CarouselItem>
@@ -106,13 +109,15 @@ export const ProductCarousel = ({ images }: ProductCarouselProps) => {
             {images.map((image, index) => (
               <CarouselItem key={index} className="basis-1/4 pl-2">
                 <div
-                  className={`aspect-[3/4] cursor-pointer overflow-hidden rounded-lg border-2 transition-colors hover:border-red-400 ${selected === index ? 'border-red-400' : 'border-transparent'}`}
+                  className={`relative aspect-[3/4] cursor-pointer overflow-hidden rounded-lg border-2 transition-colors hover:border-red-400 ${selected === index ? 'border-red-400' : 'border-transparent'}`}
                   onClick={() => itemClickHandler(index)}
                 >
-                  <img
+                  <Image
+                    fill
                     src={image}
                     alt={`Thumbnail ${index + 1}`}
                     className="h-full w-full object-cover"
+                    unoptimized
                   />
                 </div>
               </CarouselItem>

@@ -45,11 +45,22 @@ const SingleProductPage = ({ params }: { params: { id: string } }) => {
   }
 
   useEffect(() => {
-    fetch(`/api/products/${id}`)
-      .then((res) => res.json())
-      .then((data) => {
-        setProduct(data.data)
-      })
+    const fetchProduct = async () => {
+      try {
+        const res = await fetch(`/api/products/${id}`)
+        if (!res.ok) throw new Error(`HTTP error! Status: ${res.status}`)
+
+        const text = await res.text() // Читаем как текст
+        const data = text ? JSON.parse(text) : null // Проверяем, не пустой ли ответ
+
+        if (data && data.data) setProduct(data.data)
+        else throw new Error('Invalid JSON structure')
+      } catch (error) {
+        console.error('Fetch error:', error)
+      }
+    }
+
+    if (id) fetchProduct()
   }, [id])
 
   if (!product) return null

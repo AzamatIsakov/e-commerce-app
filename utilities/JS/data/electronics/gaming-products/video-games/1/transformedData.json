@@ -16,11 +16,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -59,11 +55,7 @@
         }
       ],
       "discount": -49,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -110,11 +102,7 @@
         }
       ],
       "discount": -52,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -137,11 +125,7 @@
         }
       ],
       "discount": -5,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -164,11 +148,7 @@
         }
       ],
       "discount": -42,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -191,11 +171,7 @@
         }
       ],
       "discount": -28,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -218,11 +194,7 @@
         }
       ],
       "discount": -18,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -245,11 +217,7 @@
         }
       ],
       "discount": -10,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -272,11 +240,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -299,11 +263,7 @@
         }
       ],
       "discount": -3,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -338,11 +298,7 @@
         }
       ],
       "discount": -32,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -369,11 +325,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -396,11 +348,7 @@
         }
       ],
       "discount": -24,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -443,11 +391,7 @@
         }
       ],
       "discount": -22,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -470,11 +414,7 @@
         }
       ],
       "discount": -20,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -497,11 +437,7 @@
         }
       ],
       "discount": -20,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -524,11 +460,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -551,11 +483,7 @@
         }
       ],
       "discount": -25,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -602,11 +530,7 @@
         }
       ],
       "discount": -48,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -629,11 +553,7 @@
         }
       ],
       "discount": -17,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -668,11 +588,7 @@
         }
       ],
       "discount": -61,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -711,11 +627,7 @@
         }
       ],
       "discount": -53,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -738,11 +650,7 @@
         }
       ],
       "discount": -20,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -765,11 +673,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -792,11 +696,7 @@
         }
       ],
       "discount": -11,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -819,11 +719,7 @@
         }
       ],
       "discount": -54,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -846,11 +742,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -873,11 +765,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -900,11 +788,7 @@
         }
       ],
       "discount": -25,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -943,11 +827,7 @@
         }
       ],
       "discount": -38,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -994,11 +874,7 @@
         }
       ],
       "discount": -20,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1021,11 +897,7 @@
         }
       ],
       "discount": -20,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1048,11 +920,7 @@
         }
       ],
       "discount": -10,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1087,11 +955,7 @@
         }
       ],
       "discount": -50,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1114,11 +978,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1161,11 +1021,7 @@
         }
       ],
       "discount": -29,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1200,11 +1056,7 @@
         }
       ],
       "discount": -60,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1227,11 +1079,7 @@
         }
       ],
       "discount": -11,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1254,11 +1102,7 @@
         }
       ],
       "discount": -22,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1281,11 +1125,7 @@
         }
       ],
       "discount": -10,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1308,11 +1148,7 @@
         }
       ],
       "discount": -32,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1335,11 +1171,7 @@
         }
       ],
       "discount": -22,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1378,11 +1210,7 @@
         }
       ],
       "discount": -32,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1405,11 +1233,7 @@
         }
       ],
       "discount": -10,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1432,11 +1256,7 @@
         }
       ],
       "discount": null,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1467,11 +1287,7 @@
         }
       ],
       "discount": -54,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1494,11 +1310,7 @@
         }
       ],
       "discount": -10,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,
@@ -1521,11 +1333,7 @@
         }
       ],
       "discount": -31,
-      "categories": [
-        "electronics",
-        "gaming-products",
-        "video-games"
-      ],
+      "categories": ["electronics", "gaming-products", "video-games"],
       "description": "",
       "tags": [],
       "stock": 0,

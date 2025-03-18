@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-// tranform('gaming-monitors/1')
-// tranform('gaming-laptops/2')
-// tranform('gaming-laptops/3')
-// tranform('gaming-laptops/4')
-// tranform('gaming-laptops/5')
+tranform('gaming-mousepads/1')
+tranform('gaming-mousepads/2')
+tranform('gaming-mousepads/3')
+tranform('gaming-mousepads/4')
+tranform('gaming-mousepads/5')
 
 //!| electronics
 //*| phones

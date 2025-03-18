@@ -265,7 +265,7 @@ const addCategories = (filePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'gaming-products'
-const categoryLevel_3 = 'gaming-monitors'
+const categoryLevel_3 = 'video-games'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
@@ -364,53 +364,53 @@ const generatePath = (page, fileName) => {
 
 // !================================================================================
 
-// const fileToRead = 'dataWithFeatures.json'
-// const fileToWrite = 'data.json'
+const fileToRead = 'data.json' // 'dataWithFeatures.json'
+const fileToWrite = 'data.json'
 
-// await updateJSONWithVariations(
-//   generatePath(1, fileToRead),
-//   generatePath(1, fileToWrite)
-// )
+await updateJSONWithVariations(
+  generatePath(1, fileToRead),
+  generatePath(1, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   generatePath(2, fileToRead),
-//   generatePath(2, fileToWrite)
-// )
+await updateJSONWithVariations(
+  generatePath(2, fileToRead),
+  generatePath(2, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   generatePath(3, fileToRead),
-//   generatePath(3, fileToWrite)
-// )
+await updateJSONWithVariations(
+  generatePath(3, fileToRead),
+  generatePath(3, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   generatePath(4, fileToRead),
-//   generatePath(4, fileToWrite)
-// )
+await updateJSONWithVariations(
+  generatePath(4, fileToRead),
+  generatePath(4, fileToWrite)
+)
 
-// console.log()
-// console.log('Пауза <||>')
-// await delay(10000)
-// console.log()
+console.log()
+console.log('Пауза <||>')
+await delay(10000)
+console.log()
 
-// await updateJSONWithVariations(
-//   generatePath(5, fileToRead),
-//   generatePath(5, fileToWrite)
-// )
+await updateJSONWithVariations(
+  generatePath(5, fileToRead),
+  generatePath(5, fileToWrite)
+)
 
 // !================================================================================
 

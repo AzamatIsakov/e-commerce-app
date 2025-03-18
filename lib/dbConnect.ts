@@ -2,8 +2,6 @@ import mongoose from 'mongoose'
 
 const MONGO_URI = process.env.MONGO_DB_URI
 
-console.log(MONGO_URI)
-
 if (!MONGO_URI) throw new Error('Пожалуйста, добавьте MONGO_URI в .env файл')
 
 // Глобальная переменная для кэширования соединения

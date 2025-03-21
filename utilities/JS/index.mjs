@@ -6,7 +6,7 @@ import {
 } from './utilities.mjs'
 
 const tranform = (page) => {
-  const categoryLevel_2 = 'gaming-products'
+  const categoryLevel_2 = 'tv-video'
 
   const data = getDataFromJSON(
     `./data/electronics/${categoryLevel_2}/${page}/default.json`
@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-tranform('gaming-mousepads/1')
-tranform('gaming-mousepads/2')
-tranform('gaming-mousepads/3')
-tranform('gaming-mousepads/4')
-tranform('gaming-mousepads/5')
+tranform('televisions/1')
+tranform('televisions/2')
+tranform('televisions/3')
+tranform('televisions/4')
+tranform('televisions/5')
 
 //!| electronics
 //*| phones

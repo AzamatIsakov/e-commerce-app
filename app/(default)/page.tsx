@@ -1,6 +1,6 @@
 import { CategoriesGrid } from '@/components/shared/CategoriesGrid'
 import { ProductCardSkeleton } from '@/components/shared/Skeleton'
-import { ProductCategoriesSkeleton } from '@/components/shared/Skeleton/ProductCategoriesSkeleton'
+import { CategoriesSkeleton } from '@/components/shared/Skeleton/CategoriesSkeleton'
 import { Products } from '@/shared'
 import { Suspense } from 'react'
 import { signIn } from '@/auth'
@@ -20,7 +20,7 @@ const Home = async () => {
         <Button type="submit">Signin with Google</Button>
       </form>
       <h2 className="title my-8">Популярные категории</h2>
-      <Suspense fallback={<ProductCategoriesSkeleton />}>
+      <Suspense fallback={<CategoriesSkeleton />}>
         <CategoriesGrid />
       </Suspense>
       <div className="my-10">

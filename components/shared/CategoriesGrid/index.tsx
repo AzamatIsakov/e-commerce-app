@@ -1,30 +1,26 @@
 'use client'
 
-import { categories } from '@/data/categories'
+import { categories } from '@/data/main/categories'
 import { CategoryCard } from './components'
-import { useQuery } from '@tanstack/react-query'
-import { ProductCategoriesSkeleton } from '../Skeleton/ProductCategoriesSkeleton'
-import { getAllProducts } from '@/services/Products.service'
+import { Button } from '@/components/ui/button'
+import { ArrowUp } from 'lucide-react'
 
-export const CategoriesGrid = () => {
-  const { isLoading } = useQuery({
-    queryKey: ['categories'],
-    queryFn: getAllProducts
-  })
-
-  if (isLoading) return <ProductCategoriesSkeleton />
-
-  return (
-    <div className="grid grid-cols-2 gap-6 md:grid-cols-4">
-      {categories.map(({ icon, title, imagePath, link }) => (
-        <CategoryCard
-          key={title}
-          icon={icon}
-          title={title}
-          imagePath={imagePath}
-          link={link}
-        />
-      ))}
-    </div>
-  )
-}
+export const CategoriesGrid = () => (
+  <div className="grid grid-cols-2 gap-6 md:grid-cols-4">
+    {categories.map(({ icon, title, imagePath, link }) => (
+      <CategoryCard
+        key={title}
+        icon={icon}
+        title={title}
+        imagePath={imagePath}
+        link={link}
+      />
+    ))}
+    <Button
+      className="fixed bottom-8 right-8 h-fit cursor-pointer rounded-full bg-red-500 p-4 text-xl text-white shadow-lg transition-colors duration-200 hover:bg-red-600"
+      onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+    >
+      <ArrowUp className="!size-4 md:!size-5" />
+    </Button>
+  </div>
+)

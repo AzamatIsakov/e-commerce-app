@@ -24,6 +24,10 @@ export const CategoryCard = ({
       className="group relative inset-0 h-[100px] cursor-pointer overflow-hidden md:h-[200px]"
     >
       <Image
+        placeholder="blur"
+        blurDataURL="/placeholder-image.webp"
+        loading="lazy"
+        unoptimized
         src={imagePath}
         fill
         alt={title}

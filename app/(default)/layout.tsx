@@ -1,5 +1,6 @@
 import { Header } from '@/components/shared'
 import React from 'react'
+import { MobileNavbar } from '.'
 
 const MainPageLayout = ({
   children
@@ -9,6 +10,7 @@ const MainPageLayout = ({
   <>
     <Header />
     {children}
+    <MobileNavbar />
   </>
 )
 

@@ -13,17 +13,20 @@ export const links = [
   {
     icon: <Grid2X2 size={iconsSize} />,
     title: 'Категории',
-    path: '/categories'
+    path: '/categories',
+    protected: false
   },
   {
     icon: <Heart size={iconsSize} />,
     title: 'Избранное',
-    path: '/favorite'
+    path: '/favorite',
+    protected: true
   },
   {
     icon: <ShoppingCart size={iconsSize} />,
     title: 'Корзина',
-    path: '/cart'
+    path: '/cart',
+    protected: true
   },
   {
     icon: <UserRound size={iconsSize} />,
@@ -36,21 +39,25 @@ export const mobileNavbarLinks = [
   {
     icon: <House />,
     title: 'Главная',
-    path: '/'
+    path: '/',
+    protected: false
   },
   {
     icon: <Grid2X2 />,
     title: 'Категории',
-    path: '/categories'
+    path: '/categories',
+    protected: false
   },
   {
     icon: <Heart />,
     title: 'Избранное',
-    path: '/favorite'
+    path: '/favorite',
+    protected: true
   },
   {
     icon: <User />,
     title: 'Профиль',
-    path: '/cart'
+    path: '/profile',
+    protected: true
   }
 ]

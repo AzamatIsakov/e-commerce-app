@@ -31,7 +31,8 @@ export const links = [
   {
     icon: <UserRound size={iconsSize} />,
     title: 'Профиль',
-    path: '/profile'
+    path: '/profile',
+    protected: true
   }
 ]
 

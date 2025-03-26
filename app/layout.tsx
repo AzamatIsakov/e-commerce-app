@@ -3,6 +3,7 @@ import localFont from 'next/font/local'
 import './globals.css'
 import { ReactQueryProvider } from '@/components/shared'
 import { SessionProvider } from 'next-auth/react'
+import { LoginModal } from '@/components/shared/Layout/LoginModal'
 // import queryClient from '@/config/queryClient'
 
 const geistSans = localFont({
@@ -33,6 +34,7 @@ const RootLayout = ({
           className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         >
           {children}
+          <LoginModal />
         </body>
       </html>
     </ReactQueryProvider>

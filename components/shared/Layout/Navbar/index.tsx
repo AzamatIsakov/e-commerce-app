@@ -1,11 +1,23 @@
 'use client'
 
-import { links } from '@/data/navbar'
+import { useSession } from 'next-auth/react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
+import { links } from '@/data/navbar'
+import { useLoginStore } from '@/stores/useLoginStore'
+
 export const Navbar = () => {
   const currentPath = usePathname()
+  const session = useSession()
+  const { setOpen } = useLoginStore()
+
+  const onItemClickHandler = (e: React.MouseEvent, isProtected: boolean) => {
+    if (isProtected && session.status !== 'authenticated') {
+      e.preventDefault()
+      setOpen(true)
+    }
+  }
 
   return (
     <nav className="hidden items-center text-sm font-semibold lg:flex lg:gap-4 xl:gap-6">
@@ -13,6 +25,7 @@ export const Navbar = () => {
         currentPath !== link.path ? (
           <Link
             draggable="false"
+            onClick={(e) => onItemClickHandler(e, link.protected)}
             href={link.path}
             key={link.title}
             className="flex items-center gap-2 rounded-md px-2.5 py-1.5 transition-all duration-300 hover:bg-gray-100 focus-visible:outline-[#E53935] active:bg-gray-200"

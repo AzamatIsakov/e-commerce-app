@@ -1,27 +1,27 @@
 'use client'
 
-import { Search, ShoppingCart, UserRound } from 'lucide-react'
+import { Search, ShoppingCart } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
+
+import { useSession } from 'next-auth/react'
+
+import { useLoginStore } from '@/stores/useLoginStore'
 
 import { Input } from '@/components/ui/input'
 import { Navbar } from '../Navbar'
 import { Button } from '@/components/ui/button'
-import { Dialog, DialogContent } from '@/components/ui/dialog'
 import { Badge } from '@/components/ui/badge'
-
-import { useSession } from 'next-auth/react'
-import { useState } from 'react'
 
 export const Header = () => {
   const { data: session } = useSession()
 
   const isAuthorized = session?.user
 
-  const [openAuthorizeModal, setOpenAuthorizeModal] = useState(false)
+  const { setOpen } = useLoginStore()
 
   const cartClickHandler = () => {
-    if (!isAuthorized) return setOpenAuthorizeModal(true)
+    if (!isAuthorized) return setOpen(true)
   }
 
   return (
@@ -71,36 +71,6 @@ export const Header = () => {
                 </Badge>
               )}
             </Button>
-            <Dialog
-              open={openAuthorizeModal}
-              onOpenChange={setOpenAuthorizeModal}
-            >
-              <DialogContent>
-                <div className="p-6 text-center">
-                  <div className="mx-auto mb-4 w-fit rounded-full bg-gray-400 p-2">
-                    <UserRound className="text-white" />
-                  </div>
-                  <h3 className="mb-2 text-lg font-semibold">
-                    Требуется авторизация
-                  </h3>
-                  <p className="mb-4 text-gray-600">
-                    Войдите или зарегистрируйтесь, чтобы получить доступ к
-                    корзине
-                  </p>
-                  <div className="mx-auto flex max-w-80 flex-col gap-2">
-                    <Button
-                      variant="outline"
-                      className="!rounded-button transition-all duration-300"
-                    >
-                      Войти
-                    </Button>
-                    <Button className="!rounded-button bg-red transition-all duration-300 hover:bg-red-600 active:bg-red-500">
-                      Зарегистрироваться
-                    </Button>
-                  </div>
-                </div>
-              </DialogContent>
-            </Dialog>
           </div>
         </div>
       </div>

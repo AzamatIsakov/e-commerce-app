@@ -18,6 +18,9 @@ const config: Config = {
           xl: '1440px'
         }
       },
+      screens: {
+        '2xl': '1440px'
+      },
       colors: {
         red: {
           DEFAULT: '#E53935',

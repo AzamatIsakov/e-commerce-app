@@ -1,14 +1,8 @@
 'use client'
 
-// const RegisterPage = () => {
-//   return <div>RegisterPage</div>
-// }
-
-// export default RegisterPage
-
 import Link from 'next/link'
 import Image from 'next/image'
-import { signIn } from 'next-auth/react'
+import { signIn, useSession } from 'next-auth/react'
 
 import { useState } from 'react'
 
@@ -20,8 +14,15 @@ import { Alert } from '@/components/ui/alert'
 import { Progress } from '@/components/ui/progress'
 
 import { Eye, EyeOff, Lock, Mail, User } from 'lucide-react'
+import { EMAIL_REGEX } from '@/constants/validations'
+import { useRouter, useSearchParams } from 'next/navigation'
 
-const App: React.FC = () => {
+const RegisterPage: React.FC = () => {
+  const session = useSession()
+  const router = useRouter()
+
+  if (session.status === 'authenticated') router.push('/')
+
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [confirmPassword, setConfirmPassword] = useState('')
@@ -30,6 +31,9 @@ const App: React.FC = () => {
   const [showConfirmPassword, setShowConfirmPassword] = useState(false)
   const [error, setError] = useState('')
   const [passwordStrength, setPasswordStrength] = useState(0)
+
+  const urlParams = useSearchParams()
+  const callbackUrl = urlParams.get('callbackUrl') ?? '/'
 
   const calculatePasswordStrength = (pwd: string) => {
     let strength = 0
@@ -45,7 +49,7 @@ const App: React.FC = () => {
       setError('Пожалуйста, заполните все поля')
       return
     }
-    if (!email.includes('@')) {
+    if (!EMAIL_REGEX.test(email)) {
       setError('Неверный формат email')
       return
     }
@@ -183,10 +187,7 @@ const App: React.FC = () => {
             </div>
           </div>
 
-          <Button
-            onClick={handleRegister}
-            className="!rounded-button w-full bg-red text-white hover:bg-red-500 active:bg-red-600"
-          >
+          <Button onClick={handleRegister} className="!rounded-button w-full">
             Зарегистрироваться
           </Button>
 
@@ -203,7 +204,7 @@ const App: React.FC = () => {
             <Button
               variant="outline"
               className="!rounded-button w-full bg-blue-50 hover:bg-blue-100 active:bg-blue-200"
-              onClick={() => signIn('google')}
+              onClick={() => signIn('google', { redirectTo: callbackUrl })}
             >
               <div className="relative size-4">
                 <Image
@@ -219,7 +220,7 @@ const App: React.FC = () => {
             <Button
               variant="outline"
               className="!rounded-button w-full bg-red-50 hover:bg-red-100 active:bg-red-200"
-              onClick={() => signIn('yandex')}
+              onClick={() => signIn('yandex', { redirectTo: callbackUrl })}
             >
               <div className="relative size-4">
                 <Image
@@ -236,10 +237,11 @@ const App: React.FC = () => {
         </form>
       </Card>
 
-      <div className="mt-6 text-center">
+      <div className="mt-5 text-center">
         <span className="text-gray-600">Уже есть аккаунт? </span>
         <Link href="/auth/login">
           <Button
+            tabIndex={-1}
             variant="link"
             className="p-0 font-semibold text-red-active hover:text-[#cc0000]"
           >
@@ -251,4 +253,4 @@ const App: React.FC = () => {
   )
 }
 
-export default App
+export default RegisterPage

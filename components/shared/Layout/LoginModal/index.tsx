@@ -6,12 +6,15 @@ import { useLoginStore } from '@/stores/useLoginStore'
 
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent } from '@/components/ui/dialog'
-import { useRouter } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 
 export const LoginModal = () => {
   const { open, setOpen } = useLoginStore()
 
   const router = useRouter()
+  const pathname = usePathname()
+
+  console.log(pathname)
 
   const goToLink = (path: string) => {
     router.push(path)
@@ -31,14 +34,14 @@ export const LoginModal = () => {
           </p>
           <div className="mx-auto flex max-w-80 flex-col gap-2">
             <Button
-              onClick={() => goToLink('/auth/login')}
+              onClick={() => goToLink(`/auth/login?callbackUrl=${pathname}`)}
               variant="outline"
               className="!rounded-button transition-all duration-300"
             >
               Войти
             </Button>
             <Button
-              onClick={() => goToLink('/auth/register')}
+              onClick={() => goToLink(`/auth/register?callbackUrl=${pathname}`)}
               className="!rounded-button bg-red transition-all duration-300 hover:bg-red-600 active:bg-red-500"
             >
               Зарегистрироваться

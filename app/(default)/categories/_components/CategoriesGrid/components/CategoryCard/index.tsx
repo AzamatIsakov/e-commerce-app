@@ -56,7 +56,7 @@ export const CategoryCard = ({
             ))}
           </div>
           <Button
-            className="!rounded-button mt-4 w-full bg-red text-white hover:bg-red-500 active:bg-red-600"
+            className="!rounded-button mt-4 w-full"
             onClick={handleShowAll}
           >
             Показать все

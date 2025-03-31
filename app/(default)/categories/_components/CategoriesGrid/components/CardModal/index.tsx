@@ -83,7 +83,7 @@ export const CardModal = ({
             </div>
             <div className="flex items-center space-x-4">
               <Button
-                className="!rounded-button bg-red text-white hover:bg-red-500 active:bg-red-600"
+                className="!rounded-button"
                 onClick={() => goToSingleCategory(path)}
               >
                 Все товары

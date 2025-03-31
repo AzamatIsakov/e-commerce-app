@@ -167,7 +167,7 @@ export const ProductCard = ({
       </CardContent>
       <CardFooter className="mt-2 p-0">
         <Button
-          className="rounded-button h-8 w-full transform bg-red text-xs font-medium transition-all duration-300 hover:bg-red-500 active:bg-red-600 md:h-10 md:text-sm"
+          className="rounded-button h-8 w-full transform text-xs font-medium md:h-10 md:text-sm"
           onClick={(e) => {
             e.stopPropagation()
             handleAddToCart(id)

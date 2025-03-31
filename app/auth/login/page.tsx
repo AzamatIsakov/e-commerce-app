@@ -2,7 +2,7 @@
 
 import Image from 'next/image'
 import Link from 'next/link'
-import { signIn } from 'next-auth/react'
+import { signIn, useSession } from 'next-auth/react'
 import { useState } from 'react'
 
 import { Alert } from '@/components/ui/alert'
@@ -13,12 +13,21 @@ import { Label } from '@/components/ui/label'
 import { EMAIL_REGEX } from '@/constants/validations'
 
 import { Eye, EyeOff, Lock, Mail } from 'lucide-react'
+import { useSearchParams, useRouter } from 'next/navigation'
 
 const LoginPage = () => {
+  const session = useSession()
+  const router = useRouter()
+
+  if (session.status === 'authenticated') router.push('/')
+
   const [showPassword, setShowPassword] = useState(false)
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
+
+  const urlParams = useSearchParams()
+  const callbackUrl = urlParams.get('callbackUrl') ?? '/'
 
   const handleLogin = () => {
     if (!email || !password) {
@@ -105,10 +114,7 @@ const LoginPage = () => {
               </button>
             </div>
           </div>
-          <Button
-            onClick={handleLogin}
-            className="!rounded-button w-full bg-red text-white hover:bg-red-500 active:bg-red-600"
-          >
+          <Button onClick={handleLogin} className="!rounded-button w-full">
             Войти
           </Button>
           <div className="relative my-6">
@@ -119,11 +125,12 @@ const LoginPage = () => {
               <span className="bg-white px-2 text-gray-500">или</span>
             </div>
           </div>
+
           <div className="space-y-3">
             <Button
               variant="outline"
               className="!rounded-button w-full bg-blue-50 hover:bg-blue-100 active:bg-blue-200"
-              onClick={() => signIn('google')}
+              onClick={() => signIn('google', { redirectTo: callbackUrl })}
             >
               <div className="relative size-4">
                 <Image
@@ -139,7 +146,7 @@ const LoginPage = () => {
             <Button
               variant="outline"
               className="!rounded-button w-full bg-red-50 hover:bg-red-100 active:bg-red-200"
-              onClick={() => signIn('yandex')}
+              onClick={() => signIn('yandex', { redirectTo: callbackUrl })}
             >
               <div className="relative size-4">
                 <Image

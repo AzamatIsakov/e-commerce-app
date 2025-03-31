@@ -1,10 +1,10 @@
 'use client'
 
-import { Search, ShoppingCart } from 'lucide-react'
 import Image from 'next/image'
 import Link from 'next/link'
-
 import { useSession } from 'next-auth/react'
+
+import { LogIn, Search, ShoppingCart, UserPlus } from 'lucide-react'
 
 import { useLoginStore } from '@/stores/useLoginStore'
 
@@ -12,9 +12,11 @@ import { Input } from '@/components/ui/input'
 import { Navbar } from '../Navbar'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
+import { useRouter } from 'next/navigation'
 
 export const Header = () => {
   const { data: session } = useSession()
+  const router = useRouter()
 
   const isAuthorized = session?.user
 
@@ -24,11 +26,15 @@ export const Header = () => {
     if (!isAuthorized) return setOpen(true)
   }
 
+  const goToLink = (path: string) => {
+    router.push(path)
+  }
+
   return (
     <header className="sticky left-0 right-0 top-0 z-50 bg-white shadow-sm">
       <div className="container">
         <div className="flex justify-between py-3 md:py-4">
-          <div className="flex items-center gap-8">
+          <div className="flex items-center gap-6 md:gap-2 xl:gap-8">
             <h1 className="hidden text-2xl font-bold text-[#E53935]">
               Unicora
             </h1>
@@ -46,7 +52,7 @@ export const Header = () => {
               <Input
                 type="text"
                 placeholder="Поиск товаров..."
-                className="peer cursor-pointer border-none bg-gray-100 py-2 pl-10 pr-4 outline-none transition-all duration-300 focus-within:cursor-text focus:ring-2 focus:ring-red-600 focus-visible:ring-[#E53935] active:ring-red-600 lg:w-64 xl:w-[400px]"
+                className="peer cursor-pointer border-none bg-gray-100 py-2 pl-10 pr-4 outline-none transition-all duration-300 focus-within:cursor-text focus:ring-2 focus:ring-red-600 focus-visible:ring-[#E53935] active:ring-red-600 lg:w-64 xl:w-80"
               />
               <Search
                 size={16}
@@ -54,7 +60,31 @@ export const Header = () => {
               />
             </div>
           </div>
-          <Navbar />
+
+          <div className="flex gap-3">
+            <Navbar />
+
+            {!session && (
+              <div className="hidden items-center gap-2 lg:flex">
+                <Button
+                  onClick={() => goToLink('/auth/login')}
+                  variant="outline"
+                  className="!rounded-button whitespace-nowrap"
+                >
+                  <LogIn />
+                  Войти
+                </Button>
+                <Button
+                  onClick={() => goToLink('/auth/register')}
+                  className="!rounded-button primary-button whitespace-nowrap"
+                >
+                  <UserPlus />
+                  Зарегистрироваться
+                </Button>
+              </div>
+            )}
+          </div>
+
           <div className="lg:hidden">
             <Button variant="ghost" className="!rounded-button h-10 w-10 p-0">
               <Search className="!size-[18px]" />

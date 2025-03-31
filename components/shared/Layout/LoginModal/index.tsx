@@ -6,9 +6,17 @@ import { useLoginStore } from '@/stores/useLoginStore'
 
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogContent } from '@/components/ui/dialog'
+import { useRouter } from 'next/navigation'
 
 export const LoginModal = () => {
   const { open, setOpen } = useLoginStore()
+
+  const router = useRouter()
+
+  const goToLink = (path: string) => {
+    router.push(path)
+    setOpen(false)
+  }
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
@@ -23,12 +31,16 @@ export const LoginModal = () => {
           </p>
           <div className="mx-auto flex max-w-80 flex-col gap-2">
             <Button
+              onClick={() => goToLink('/auth/login')}
               variant="outline"
               className="!rounded-button transition-all duration-300"
             >
               Войти
             </Button>
-            <Button className="!rounded-button bg-red transition-all duration-300 hover:bg-red-600 active:bg-red-500">
+            <Button
+              onClick={() => goToLink('/auth/register')}
+              className="!rounded-button bg-red transition-all duration-300 hover:bg-red-600 active:bg-red-500"
+            >
               Зарегистрироваться
             </Button>
           </div>

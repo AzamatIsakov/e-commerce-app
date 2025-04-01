@@ -2,7 +2,6 @@
 
 import Image from 'next/image'
 import Link from 'next/link'
-import { useSession } from 'next-auth/react'
 
 import { LogIn, Search, ShoppingCart, UserPlus } from 'lucide-react'
 
@@ -13,12 +12,10 @@ import { Navbar } from '../Navbar'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
 import { useRouter } from 'next/navigation'
+import { HeaderProps } from './index.interface'
 
-export const Header = () => {
-  const { data: session } = useSession()
+export const Header = ({ isAuthorized }: HeaderProps) => {
   const router = useRouter()
-
-  const isAuthorized = session?.user
 
   const { setOpen } = useLoginStore()
 
@@ -64,7 +61,7 @@ export const Header = () => {
           <div className="flex gap-3">
             <Navbar />
 
-            {!session && (
+            {!isAuthorized && (
               <div className="hidden items-center gap-2 lg:flex">
                 <Button
                   onClick={() => goToLink('/auth/login')}

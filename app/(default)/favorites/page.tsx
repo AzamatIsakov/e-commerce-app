@@ -3,7 +3,7 @@ import { redirect } from 'next/navigation'
 
 const FavoritePage = async () => {
   const session = await auth()
-  if (!session) redirect('/auth/login?callbackUrl=/favorite')
+  if (!session) redirect('/auth/login?callbackUrl=/favorites')
 
   return <div>FavoritePage</div>
 }

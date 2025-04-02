@@ -31,14 +31,24 @@ import {
 } from '@/components/ui/dialog'
 import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
+import {
+  Heart,
+  LogOut,
+  Mail,
+  MapPin,
+  PackageOpen,
+  Phone,
+  ShoppingCart,
+  SquarePen
+} from 'lucide-react'
+import Link from 'next/link'
 const App: React.FC = () => {
-  // const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [isLoginModalOpen, setIsLoginModalOpen] = useState(false)
   const [isRegisterModalOpen, setIsRegisterModalOpen] = useState(false)
   return (
     <div className="min-h-screen bg-gray-50 text-gray-900">
       {/* Основной контент */}
-      <main className="mx-auto max-w-7xl px-4 pb-16 pt-24 sm:px-6 lg:px-8">
+      <main className="container max-w-7xl pb-16 pt-24">
         <div className="grid grid-cols-1 gap-8 lg:grid-cols-12">
           {/* Левая колонка с информацией о профиле */}
           <div className="lg:col-span-3">
@@ -52,14 +62,14 @@ const App: React.FC = () => {
                     />
                     <AvatarFallback>АИ</AvatarFallback>
                   </Avatar>
-                  <button className="!rounded-button absolute bottom-0 right-0 flex h-8 w-8 cursor-pointer items-center justify-center whitespace-nowrap rounded-full bg-[#e53935] text-white shadow-md transition-colors duration-200 hover:bg-[#ef4444] active:bg-[#dc2626]">
+                  {/* <button className="!rounded-button absolute bottom-0 right-0 flex h-8 w-8 cursor-pointer items-center justify-center whitespace-nowrap rounded-full bg-[#e53935] text-white shadow-md transition-colors duration-200 hover:bg-[#ef4444] active:bg-[#dc2626]">
                     <i className="fas fa-camera"></i>
-                  </button>
+                  </button> */}
                 </div>
                 <h2 className="text-xl font-bold">Анна Иванова</h2>
                 <p className="mb-4 text-gray-500">Постоянный клиент</p>
                 <Button className="!rounded-button w-full whitespace-nowrap bg-[#e53935] transition-colors duration-200 hover:bg-[#ef4444] active:bg-[#dc2626]">
-                  <i className="fas fa-edit mr-2"></i> Редактировать профиль
+                  <SquarePen /> Редактировать профиль
                 </Button>
               </div>
               <div className="mt-8">
@@ -68,15 +78,15 @@ const App: React.FC = () => {
                 </h3>
                 <div className="space-y-3">
                   <div className="flex items-center">
-                    <i className="fas fa-envelope w-6 text-gray-400"></i>
-                    <span className="ml-2">anna.ivanova@mail.ru</span>
+                    <Mail className="size-5 shrink-0 text-gray-400" />
+                    <span className="ml-2 truncate">anna.ivanova@mail.ru</span>
                   </div>
                   <div className="flex items-center">
-                    <i className="fas fa-phone w-6 text-gray-400"></i>
+                    <Phone className="size-5 shrink-0 text-gray-400" />
                     <span className="ml-2">+7 (912) 345-67-89</span>
                   </div>
                   <div className="flex items-center">
-                    <i className="fas fa-map-marker-alt w-6 text-gray-400"></i>
+                    <MapPin className="size-5 shrink-0 text-gray-400" />
                     <span className="ml-2">г. Москва</span>
                   </div>
                 </div>
@@ -99,7 +109,8 @@ const App: React.FC = () => {
                   variant="outline"
                   className="!rounded-button w-full whitespace-nowrap border-[#e53935] text-[#e53935] transition-colors duration-200 hover:bg-[#ef4444] hover:text-white active:bg-[#dc2626]"
                 >
-                  <i className="fas fa-sign-out-alt mr-2"></i> Выйти
+                  <LogOut />
+                  Выйти
                 </Button>
               </div>
             </Card>
@@ -113,7 +124,7 @@ const App: React.FC = () => {
                   <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
                     <Card className="flex flex-col items-center p-6 text-center transition-shadow duration-200 hover:shadow-lg">
                       <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-[#e53935] text-white">
-                        <i className="fas fa-box-open text-2xl"></i>
+                        <PackageOpen className="size-7" />
                       </div>
                       <h3 className="mb-2 text-lg font-semibold">Мои заказы</h3>
                       <p className="mb-4 text-sm text-gray-500">
@@ -123,10 +134,10 @@ const App: React.FC = () => {
                         Просмотреть
                       </Button>
                     </Card>
-                    <a href="/favorites" className="block">
+                    <Link href="/favorites" className="block">
                       <Card className="flex h-full flex-col items-center p-6 text-center transition-shadow duration-200 hover:shadow-lg">
                         <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-[#e53935] text-white">
-                          <i className="fas fa-heart text-2xl"></i>
+                          <Heart fill="#ffffff" className="size-7" />
                         </div>
                         <h3 className="mb-2 text-lg font-semibold">
                           Избранное
@@ -138,11 +149,11 @@ const App: React.FC = () => {
                           Перейти
                         </Button>
                       </Card>
-                    </a>
+                    </Link>
                     <a href="/cart" className="block">
                       <Card className="flex h-full flex-col items-center p-6 text-center transition-shadow duration-200 hover:shadow-lg">
                         <div className="mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-[#e53935] text-white">
-                          <i className="fas fa-shopping-cart text-2xl"></i>
+                          <ShoppingCart fill="#ffffff" className="size-7" />
                         </div>
                         <h3 className="mb-2 text-lg font-semibold">Корзина</h3>
                         <p className="mb-4 text-sm text-gray-500">

@@ -21,7 +21,7 @@ export const getLinks = (isAuthorized: boolean) => {
       {
         icon: <Heart size={iconsSize} />,
         title: 'Избранное',
-        path: '/favorite',
+        path: '/favorites',
         protected: true
       },
       {
@@ -70,7 +70,7 @@ export const mobileNavbarLinks = [
   {
     icon: <Heart />,
     title: 'Избранное',
-    path: '/favorite',
+    path: '/favorites',
     protected: true
   },
   {

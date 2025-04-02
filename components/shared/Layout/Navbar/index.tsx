@@ -1,29 +1,25 @@
 'use client'
 
-import { useSession } from 'next-auth/react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 
 import { getLinks } from '@/data/navbar'
 import { useLoginStore } from '@/stores/useLoginStore'
 import { useMemo } from 'react'
+import { NavbarProps } from './index.interface'
 
-export const Navbar = () => {
+export const Navbar = ({ isAuthorized }: NavbarProps) => {
   const currentPath = usePathname()
-  const session = useSession()
   const { setOpen } = useLoginStore()
 
   const onItemClickHandler = (e: React.MouseEvent, isProtected: boolean) => {
-    if (isProtected && session.status !== 'authenticated') {
+    if (isProtected && !isAuthorized) {
       e.preventDefault()
       setOpen(true)
     }
   }
 
-  const links = useMemo(
-    () => getLinks(session.status === 'authenticated'),
-    [session.status]
-  )
+  const links = useMemo(() => getLinks(isAuthorized), [isAuthorized])
 
   return (
     <nav className="hidden items-center text-sm font-semibold lg:flex lg:gap-2 xl:gap-3">

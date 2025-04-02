@@ -1,3 +1,6 @@
 export { Header } from './Header'
 export { Navbar } from './Navbar'
+export { GoTopButton } from './GoTopButton'
+export { LoginModal } from './LoginModal'
+export { MobileNavbar } from './MobileNavbar'
 export { ReactQueryProvider } from './ReactQueryProvider'

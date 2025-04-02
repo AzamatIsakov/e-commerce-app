@@ -5,7 +5,7 @@ import { UserRound } from 'lucide-react'
 import { useLoginStore } from '@/stores/useLoginStore'
 
 import { Button } from '@/components/ui/button'
-import { Dialog, DialogContent } from '@/components/ui/dialog'
+import { Dialog, DialogContent, DialogTitle } from '@/components/ui/dialog'
 import { usePathname, useRouter } from 'next/navigation'
 
 export const LoginModal = () => {
@@ -13,8 +13,6 @@ export const LoginModal = () => {
 
   const router = useRouter()
   const pathname = usePathname()
-
-  console.log(pathname)
 
   const goToLink = (path: string) => {
     router.push(path)
@@ -28,7 +26,9 @@ export const LoginModal = () => {
           <div className="mx-auto mb-4 w-fit rounded-full bg-gray-400 p-2">
             <UserRound className="text-white" />
           </div>
-          <h3 className="mb-2 text-lg font-semibold">Требуется авторизация</h3>
+          <DialogTitle className="mb-2 text-lg font-semibold">
+            Требуется авторизация
+          </DialogTitle>
           <p className="mb-4 text-gray-600">
             Войдите или зарегистрируйтесь, чтобы получить доступ к корзине
           </p>

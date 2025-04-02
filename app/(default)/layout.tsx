@@ -1,7 +1,8 @@
 import { Header } from '@/components/shared'
 import React from 'react'
-import { MobileNavbar } from '.'
+
 import { auth } from '@/auth'
+import { MobileNavbar } from '@/components/shared/Layout'
 
 const MainPageLayout = async ({
   children

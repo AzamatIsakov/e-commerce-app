@@ -59,7 +59,7 @@ export const Header = ({ isAuthorized }: HeaderProps) => {
           </div>
 
           <div className="flex gap-3">
-            <Navbar />
+            <Navbar isAuthorized={isAuthorized} />
 
             {!isAuthorized && (
               <div className="hidden items-center gap-2 lg:flex">

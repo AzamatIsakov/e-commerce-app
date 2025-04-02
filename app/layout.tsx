@@ -3,7 +3,7 @@ import localFont from 'next/font/local'
 import './globals.css'
 import { ReactQueryProvider } from '@/components/shared'
 import { SessionProvider } from 'next-auth/react'
-import { LoginModal } from '@/components/shared/Layout/LoginModal'
+import { LoginModal } from '@/components/shared/Layout'
 // import queryClient from '@/config/queryClient'
 
 const geistSans = localFont({

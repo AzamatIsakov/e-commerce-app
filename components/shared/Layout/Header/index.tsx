@@ -11,16 +11,18 @@ import { Input } from '@/components/ui/input'
 import { Navbar } from '../Navbar'
 import { Button } from '@/components/ui/button'
 import { Badge } from '@/components/ui/badge'
-import { useRouter } from 'next/navigation'
+import { usePathname, useRouter } from 'next/navigation'
 import { HeaderProps } from './index.interface'
 
 export const Header = ({ isAuthorized }: HeaderProps) => {
   const router = useRouter()
+  const pathname = usePathname()
 
   const { setOpen } = useLoginStore()
 
   const cartClickHandler = () => {
     if (!isAuthorized) return setOpen(true)
+    router.push('/cart')
   }
 
   const goToLink = (path: string) => {
@@ -64,7 +66,9 @@ export const Header = ({ isAuthorized }: HeaderProps) => {
             {!isAuthorized && (
               <div className="hidden items-center gap-2 lg:flex">
                 <Button
-                  onClick={() => goToLink('/auth/login')}
+                  onClick={() =>
+                    goToLink(`/auth/login?callbackUrl=${pathname}`)
+                  }
                   variant="outline"
                   className="!rounded-button whitespace-nowrap"
                 >
@@ -72,7 +76,9 @@ export const Header = ({ isAuthorized }: HeaderProps) => {
                   Войти
                 </Button>
                 <Button
-                  onClick={() => goToLink('/auth/register')}
+                  onClick={() =>
+                    goToLink(`/auth/register?callbackUrl=${pathname}`)
+                  }
                   className="!rounded-button primary-button whitespace-nowrap"
                 >
                   <UserPlus />

@@ -38,7 +38,11 @@ export const transformToMyProductData = (product) => {
     product?.catalogCard?.discountInfo?.text.replace('%', '')
   )
 
-  newProduct.categories = ['electronics', 'tv-video', 'televisions']
+  newProduct.categories = [
+    'electronics',
+    'tv-video',
+    'projectors-and-accessories'
+  ]
 
   newProduct.description = ''
   newProduct.tags = []

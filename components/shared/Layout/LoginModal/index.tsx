@@ -21,7 +21,7 @@ export const LoginModal = () => {
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
-      <DialogContent>
+      <DialogContent className="max-w-xs rounded-lg p-3 sm:max-w-lg sm:p-5 md:p-6">
         <div className="p-6 text-center">
           <div className="mx-auto mb-4 w-fit rounded-full bg-gray-400 p-2">
             <UserRound className="text-white" />

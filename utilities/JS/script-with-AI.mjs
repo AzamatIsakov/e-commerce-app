@@ -265,7 +265,7 @@ const addCategories = (filePath) => {
 // !================================================================================
 const categoryLevel_1 = 'electronics'
 const categoryLevel_2 = 'tv-video'
-const categoryLevel_3 = 'projectors-and-accessories' // 'tv-accessories'
+const categoryLevel_3 = 'tv-accessories' // 'projectors-and-accessories'
 
 const generatePath = (page, fileName) => {
   return `./data/${categoryLevel_1}/${categoryLevel_2}/${categoryLevel_3}/${page}/${fileName}`
@@ -414,7 +414,7 @@ const generatePath = (page, fileName) => {
 
 // !================================================================================
 
-const fileToRead = 'data.json'
+const fileToRead = 'products.json' // 'data.json'
 const fileToWrite = 'products.json'
 
 await updateJSONWithTags(

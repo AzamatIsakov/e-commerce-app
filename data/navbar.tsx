@@ -1,6 +1,6 @@
 import {
-  Grid2X2,
   Heart,
+  Grid2X2,
   House,
   ShoppingCart,
   User,

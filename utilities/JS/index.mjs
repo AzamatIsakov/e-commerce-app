@@ -6,17 +6,17 @@ import {
 } from './utilities.mjs'
 
 const tranform = (page) => {
-  const categoryLevel_2 = 'tv-video'
+  const categoryLevel_2 = 'large-appliances'
 
   const data = getDataFromJSON(
-    `./data/electronics/${categoryLevel_2}/${page}/default.json`
+    `./data/home-appliances/${categoryLevel_2}/${page}/default.json`
   )
   const items = getItems(data)
 
   const newData = items.map(transformToMyProductData)
 
   createJSONFile(
-    `./data/electronics/${categoryLevel_2}/${page}/transformedData.json`,
+    `./data/home-appliances/${categoryLevel_2}/${page}/transformedData.json`,
     {
       items: newData
     }
@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-tranform('projectors-and-accessories/1')
-tranform('projectors-and-accessories/2')
-tranform('projectors-and-accessories/3')
-tranform('projectors-and-accessories/4')
-tranform('projectors-and-accessories/5')
+tranform('fridges-and-freezers/1')
+tranform('fridges-and-freezers/2')
+tranform('fridges-and-freezers/3')
+tranform('fridges-and-freezers/4')
+tranform('fridges-and-freezers/5')
 
 //!| electronics
 //*| phones

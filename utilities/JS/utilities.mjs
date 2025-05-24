@@ -39,9 +39,9 @@ export const transformToMyProductData = (product) => {
   )
 
   newProduct.categories = [
-    'electronics',
-    'tv-video',
-    'projectors-and-accessories'
+    'home-appliances',
+    'large-appliances',
+    'water-coolers-and-accessories'
   ]
 
   newProduct.description = ''

@@ -26,8 +26,8 @@ export const CategoryCard = ({
 
   return (
     <Fragment>
-      <Card className="group cursor-default transition-shadow duration-300 hover:shadow-lg">
-        <div className="relative h-48 overflow-hidden rounded-t-lg">
+      <Card className="group flex cursor-default flex-col transition-shadow duration-300 hover:shadow-lg">
+        <div className="relative h-48 shrink-0 overflow-hidden rounded-t-lg">
           <Image
             src={image}
             alt={name}
@@ -39,11 +39,11 @@ export const CategoryCard = ({
             loading="lazy"
           />
         </div>
-        <div className="p-4">
+        <div className="flex h-full flex-col p-4">
           <div className="mb-2 flex items-center justify-between">
             <h3 className="text-xl font-semibold text-gray-800">{name}</h3>
           </div>
-          <div className="space-y-2">
+          <div className="mb-4 space-y-2">
             {subCategories.slice(0, 4).map((sub, index) => (
               <Link
                 href={`/categories/${sub.path}`}
@@ -56,7 +56,7 @@ export const CategoryCard = ({
             ))}
           </div>
           <Button
-            className="!rounded-button mt-4 w-full"
+            className="!rounded-button mt-auto w-full"
             onClick={handleShowAll}
           >
             Показать все

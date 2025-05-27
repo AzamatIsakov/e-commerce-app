@@ -3,7 +3,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { LogIn, Search, ShoppingCart, UserPlus } from 'lucide-react'
+import { LogIn, Mailbox, Search, ShoppingCart, UserPlus } from 'lucide-react'
 
 import { useLoginStore } from '@/stores/useLoginStore'
 
@@ -89,6 +89,13 @@ export const Header = ({ isAuthorized }: HeaderProps) => {
           </div>
 
           <div className="lg:hidden">
+            <Button
+              onClick={() => goToLink('/db-test')}
+              variant="ghost"
+              className="!rounded-button h-10 w-10 p-0"
+            >
+              <Mailbox />
+            </Button>
             <Button variant="ghost" className="!rounded-button h-10 w-10 p-0">
               <Search className="!size-[18px]" />
             </Button>

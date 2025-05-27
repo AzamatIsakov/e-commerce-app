@@ -4,7 +4,8 @@ import {
   House,
   ShoppingCart,
   User,
-  UserRound
+  UserRound,
+  Mailbox
 } from 'lucide-react'
 
 const iconsSize = 16
@@ -39,6 +40,12 @@ export const getLinks = (isAuthorized: boolean) => {
     ]
 
   return [
+    {
+      icon: <Mailbox size={iconsSize} />,
+      title: 'Посты',
+      path: '/db-test',
+      protected: false
+    },
     {
       icon: <Grid2X2 size={iconsSize} />,
       title: 'Категории',

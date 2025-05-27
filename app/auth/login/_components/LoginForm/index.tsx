@@ -21,7 +21,7 @@ export const LoginForm = () => {
   const urlParams = useSearchParams()
   const callbackUrl = urlParams.get('callbackUrl') ?? '/'
 
-  const handleLogin = () => {
+  const handleLogin = async () => {
     if (!email || !password) {
       setError('Пожалуйста, заполните все поля')
       return
@@ -31,6 +31,16 @@ export const LoginForm = () => {
       return
     }
     setError('')
+
+    try {
+      const resposne = await fetch('/api/posts', {
+        method: 'POST',
+        body: JSON.stringify({ title: email, content: password })
+      })
+
+      const data = await resposne.json()
+      console.log(data)
+    } catch {}
     // Handle login logic here
   }
 

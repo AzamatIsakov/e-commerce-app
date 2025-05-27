@@ -41,7 +41,7 @@ export const transformToMyProductData = (product) => {
   newProduct.categories = [
     'home-appliances',
     'large-appliances',
-    'water-coolers-and-accessories'
+    'kitchen-stoves'
   ]
 
   newProduct.description = ''

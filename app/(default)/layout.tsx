@@ -14,11 +14,11 @@ const MainPageLayout = async ({
   const authenticated = !!session
 
   return (
-    <>
+    <div className="mb-24 lg:mb-0">
       <Header isAuthorized={authenticated} />
       {children}
       <MobileNavbar />
-    </>
+    </div>
   )
 }
 

@@ -28,11 +28,11 @@ const tranform = (page) => {
 
 // laptops-tablets-ereaders/laptops
 
-tranform('fridges-and-freezers/1')
-tranform('fridges-and-freezers/2')
-tranform('fridges-and-freezers/3')
-tranform('fridges-and-freezers/4')
-tranform('fridges-and-freezers/5')
+tranform('kitchen-stoves/1')
+// tranform('fridges-and-freezers/2')
+// tranform('fridges-and-freezers/3')
+// tranform('fridges-and-freezers/4')
+// tranform('fridges-and-freezers/5')
 
 //!| electronics
 //*| phones

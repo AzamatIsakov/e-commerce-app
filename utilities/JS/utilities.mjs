@@ -41,7 +41,7 @@ export const transformToMyProductData = (product) => {
   newProduct.categories = [
     'home-appliances',
     'large-appliances',
-    'kitchen-stoves'
+    'washing-machines'
   ]
 
   newProduct.description = ''

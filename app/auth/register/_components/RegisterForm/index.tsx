@@ -1,5 +1,13 @@
 'use client'
 
+import { useSearchParams } from 'next/navigation'
+import Image from 'next/image'
+import { signIn } from 'next-auth/react'
+
+import React, { useState } from 'react'
+
+import { Eye, EyeOff, Lock, Mail, User } from 'lucide-react'
+
 import { Alert } from '@/components/ui/alert'
 import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
@@ -7,10 +15,6 @@ import { Input } from '@/components/ui/input'
 import { Label } from '@/components/ui/label'
 import { Progress } from '@/components/ui/progress'
 import { EMAIL_REGEX } from '@/constants/validations'
-import { Eye, EyeOff, Lock, Mail, User } from 'lucide-react'
-import { signIn } from 'next-auth/react'
-import Image from 'next/image'
-import React, { useState } from 'react'
 
 export const RegisterForm = () => {
   const [email, setEmail] = useState('')

@@ -10,7 +10,6 @@ import { EMAIL_REGEX } from '@/constants/validations'
 import { Eye, EyeOff, Lock, Mail, User } from 'lucide-react'
 import { signIn } from 'next-auth/react'
 import Image from 'next/image'
-import { useSearchParams } from 'next/navigation'
 import React, { useState } from 'react'
 
 export const RegisterForm = () => {
@@ -35,7 +34,7 @@ export const RegisterForm = () => {
     setPasswordStrength(strength)
   }
 
-  const handleRegister = () => {
+  const handleRegister = async () => {
     if (!email || !password || !confirmPassword || !username) {
       setError('Пожалуйста, заполните все поля')
       return
@@ -53,6 +52,27 @@ export const RegisterForm = () => {
       return
     }
     setError('')
+
+    try {
+      const response = await fetch('/api/auth/register', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: username, email, password })
+      })
+
+      const data = await response.json()
+
+      if (!response.ok) setError(data.error)
+      else
+        await signIn('credentials', {
+          email,
+          password,
+          redirect: true,
+          callbackUrl: '/'
+        })
+    } catch (error) {
+      console.log(error)
+    }
   }
 
   const iconClickHanlder: React.MouseEventHandler<SVGSVGElement> = (e) => {

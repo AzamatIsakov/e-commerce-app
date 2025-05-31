@@ -33,14 +33,15 @@ export const LoginForm = () => {
     setError('')
 
     try {
-      const resposne = await fetch('/api/posts', {
-        method: 'POST',
-        body: JSON.stringify({ title: email, content: password })
+      await signIn('credentials', {
+        redirect: true,
+        redirectTo: '/',
+        email,
+        password
       })
-
-      const data = await resposne.json()
-      console.log(data)
-    } catch {}
+    } catch {
+      setError('Неверные учетные данные')
+    }
     // Handle login logic here
   }
 

@@ -7,10 +7,10 @@ import Credentials from 'next-auth/providers/credentials'
 
 import type { Provider } from 'next-auth/providers'
 
-import bcrypt from 'bcryptjs'
+// import bcrypt from 'bcryptjs'
 
-import dbConnect from './lib/dbConnect'
-import { User } from './models/User'
+// import dbConnect from './lib/dbConnect'
+// import { User } from './models/User'
 
 const providers: Provider[] = [
   Credentials({
@@ -21,30 +21,31 @@ const providers: Provider[] = [
         return null
       }
 
-      await dbConnect()
+      // await dbConnect()
 
-      const user = await User.findOne({ email: credentials.email })
+      // const user = await User.findOne({ email: credentials.email })
 
-      if (!user || user.provider !== 'credentials' || !user.passwordHash) {
-        console.error('User not found or missing passwordHash')
-        return null
-      }
+      // if (!user || user.provider !== 'credentials' || !user.passwordHash) {
+      //   console.error('User not found or missing passwordHash')
+      //   return null
+      // }
 
-      const isPasswordCorrect = await bcrypt.compare(
-        credentials.password as string,
-        user.passwordHash
-      )
+      // const isPasswordCorrect = await bcrypt.compare(
+      //   credentials.password as string,
+      //   user.passwordHash
+      // )
 
-      if (!isPasswordCorrect) {
-        console.error('Wrong password')
-        return null
-      }
+      // if (!isPasswordCorrect) {
+      //   console.error('Wrong password')
+      //   return null
+      // }
 
       return {
-        id: user._id.toString(),
-        email: user.email,
-        role: user.role,
-        avatar: user.avatar
+        email: 'abc@gmail.com'
+        // id: user._id.toString(),
+        // email: user.email,
+        // role: user.role,
+        // avatar: user.avatar
       }
     }
   }),

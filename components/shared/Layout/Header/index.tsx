@@ -3,7 +3,13 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { LogIn, Mailbox, Search, ShoppingCart, UserPlus } from 'lucide-react'
+import {
+  LogIn,
+  Mailbox,
+  Search,
+  ShoppingCart
+  // UserPlus
+} from 'lucide-react'
 
 import { useLoginStore } from '@/stores/useLoginStore'
 
@@ -75,7 +81,7 @@ export const Header = ({ isAuthorized }: HeaderProps) => {
                   <LogIn />
                   Войти
                 </Button>
-                <Button
+                {/* <Button
                   onClick={() =>
                     goToLink(`/auth/register?callbackUrl=${pathname}`)
                   }
@@ -83,7 +89,7 @@ export const Header = ({ isAuthorized }: HeaderProps) => {
                 >
                   <UserPlus />
                   Зарегистрироваться
-                </Button>
+                </Button> */}
               </div>
             )}
           </div>

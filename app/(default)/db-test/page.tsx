@@ -8,32 +8,32 @@ import {
   CardHeader,
   CardTitle
 } from '@/components/ui/card'
-import { Input } from '@/components/ui/input'
-import { Label } from '@/components/ui/label'
+// import { Input } from '@/components/ui/input'
+// import { Label } from '@/components/ui/label'
 import { Trash } from 'lucide-react'
 import { useEffect, useState } from 'react'
 
 const DBTest = () => {
-  const [title, setTitle] = useState('')
-  const [content, setContent] = useState('')
+  // const [title, setTitle] = useState('')
+  // const [content, setContent] = useState('')
   const [posts, setPosts] = useState([])
 
-  const createPost = async () => {
-    try {
-      const response = await fetch('/api/posts', {
-        method: 'POST',
-        body: JSON.stringify({ title, content })
-      })
+  // const createPost = async () => {
+  //   try {
+  //     const response = await fetch('/api/posts', {
+  //       method: 'POST',
+  //       body: JSON.stringify({ title, content })
+  //     })
 
-      const data = await response.json()
+  //     const data = await response.json()
 
-      console.log(data)
+  //     console.log(data)
 
-      setTitle('')
-      setContent('')
-      await getPosts()
-    } catch {}
-  }
+  //     setTitle('')
+  //     setContent('')
+  //     await getPosts()
+  //   } catch {}
+  // }
 
   const getPosts = async () => {
     try {
@@ -65,7 +65,7 @@ const DBTest = () => {
     <div>
       <div className="container">
         <div className="my-5 flex grid-cols-3 flex-col gap-5 md:grid">
-          <Card className="h-fit">
+          {/* <Card className="h-fit">
             <CardHeader>
               <CardTitle>Создать пост</CardTitle>
             </CardHeader>
@@ -90,15 +90,15 @@ const DBTest = () => {
                 Создать
               </Button>
             </CardContent>
-          </Card>
+          </Card> */}
 
-          <Card className="col-span-2">
+          <Card className="col-span-3 min-h-80">
             {!posts.length && (
               <div className="flex h-full w-full flex-col items-center justify-center">
-                <h2 className="text-4xl font-medium">Постов нет</h2>
-                <Button variant="link" onClick={getPosts}>
+                <h2 className="text-4xl font-medium">Постов уже не будет :(</h2>
+                {/* <Button variant="link" onClick={getPosts}>
                   Обновить
-                </Button>
+                </Button> */}
               </div>
             )}
 

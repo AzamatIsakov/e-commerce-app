@@ -40,12 +40,12 @@ export const LoginModal = () => {
             >
               Войти
             </Button>
-            <Button
+            {/* <Button
               onClick={() => goToLink(`/auth/register?callbackUrl=${pathname}`)}
               className="!rounded-button bg-red transition-all duration-300 hover:bg-red-600 active:bg-red-500"
             >
               Зарегистрироваться
-            </Button>
+            </Button> */}
           </div>
         </div>
       </DialogContent>

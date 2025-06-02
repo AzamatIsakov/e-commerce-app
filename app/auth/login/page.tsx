@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import Link from 'next/link'
 
-import { Button } from '@/components/ui/button'
+// import { Button } from '@/components/ui/button'
 
 import { LoginForm } from './_components/LoginForm'
 import { auth } from '@/auth'
@@ -26,7 +26,7 @@ const LoginPage = async () => {
 
       <LoginForm />
 
-      <div className="mt-5 text-center">
+      {/* <div className="mt-5 text-center">
         <span className="text-gray-600">Нет аккаунта? </span>
         <Link href="/auth/register">
           <Button
@@ -36,7 +36,7 @@ const LoginPage = async () => {
             Зарегистрироваться
           </Button>
         </Link>
-      </div>
+      </div> */}
     </div>
   )
 }

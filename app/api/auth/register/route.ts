@@ -23,7 +23,12 @@
 
 //     const passwordHash = await bcrypt.hash(password, 10)
 
-//     await User.create({ name, email, passwordHash, provider: 'credentials' })
+//     await User.create({
+//       name,
+//       email,
+//       password: passwordHash,
+//       provider: 'credentials'
+//     })
 
 //     return NextResponse.json({ success: true }, { status: 201 })
 //   } catch (err) {

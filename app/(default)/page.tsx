@@ -1,11 +1,14 @@
 import { CategoriesGrid } from '@/components/shared/CategoriesGrid'
 import { ProductCardSkeleton } from '@/components/shared/Skeleton'
 import { CategoriesSkeleton } from '@/components/shared/Skeleton/CategoriesSkeleton'
+import { getAllProducts } from '@/services/Products.service'
 import { Products } from '@/shared'
 import { Suspense } from 'react'
 
 const Home = async () => {
   console.log('Main page')
+
+  const data = await getAllProducts()
 
   return (
     <div className="container">
@@ -16,7 +19,7 @@ const Home = async () => {
       <div className="my-10">
         <h2 className="title mb-8 mt-16">Популярные товары</h2>
         <Suspense fallback={<ProductCardSkeleton />}>
-          <Products />
+          <Products products={data.products} />
         </Suspense>
       </div>
     </div>

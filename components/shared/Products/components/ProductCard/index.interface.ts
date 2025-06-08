@@ -15,4 +15,5 @@ export interface ProductCardProps {
   price: IPrice
   rating: number
   discountInfo: number | null
+  stock: number
 }

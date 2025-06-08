@@ -23,7 +23,8 @@ export const ProductCard = ({
   title,
   price,
   rating,
-  discountInfo
+  discountInfo,
+  stock
 }: ProductCardProps) => {
   const [activeIndex, setActiveIndex] = useState(0)
   const [isScreenLarge, setIsScreenLarge] = useState(false)
@@ -70,7 +71,7 @@ export const ProductCard = ({
   return (
     <Card
       onClick={() => handleProductClick(id)}
-      className="cursor-default select-none p-2 transition-all duration-300 hover:shadow-xl md:p-4"
+      className="cursor-default select-none p-2 transition-all duration-300 hover:shadow-xl md:p-2"
     >
       <CardHeader className="overflow-hidden rounded-md p-0">
         {isScreenLarge ? (
@@ -167,6 +168,7 @@ export const ProductCard = ({
       </CardContent>
       <CardFooter className="mt-2 p-0">
         <Button
+          disabled={!stock}
           className="rounded-button h-8 w-full transform text-xs font-medium md:h-10 md:text-sm"
           onClick={(e) => {
             e.stopPropagation()

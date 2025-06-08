@@ -1,6 +1,7 @@
+import { UserType } from '@/types/user'
 import { model, models, Schema } from 'mongoose'
 
-const userSchema = new Schema(
+const userSchema = new Schema<UserType>(
   {
     name: { type: String, required: true },
     email: { type: String, required: true, unique: true },
@@ -13,7 +14,8 @@ const userSchema = new Schema(
       required: true
     },
     favorites: [{ type: String }], // ID товаров
-    cart: [{ productId: String, quantity: Number }]
+    cart: [{ productId: String, quantity: Number }],
+    tags: [{ name: String, displayName: String }]
   },
   { timestamps: true }
 )

@@ -4,7 +4,7 @@ import { Skeleton } from '@/components/ui/skeleton'
 export const ProductCardSkeleton = () => (
   <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:gap-5 lg:grid-cols-4 xl:grid-cols-5">
     {new Array(10).fill('').map((_, index) => (
-      <Card key={index} className="p-2 md:p-4">
+      <Card key={index} className="p-2 md:p-2">
         <CardHeader className="p-0">
           <Skeleton className="aspect-[3_/_4] w-full" />
         </CardHeader>

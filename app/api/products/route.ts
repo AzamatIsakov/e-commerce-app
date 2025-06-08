@@ -1,12 +1,40 @@
-import { ProductDTO } from '@/services/Products.dto'
-import { fetchProduct } from '@/utilities/file'
-import { NextResponse } from 'next/server'
+import dbConnect from '@/lib/dbConnect'
+import Product from '@/models/Product'
+import { NextRequest, NextResponse } from 'next/server'
 
-export async function GET() {
-  const products: ProductDTO = await fetchProduct()
+export async function GET(req: NextRequest) {
+  try {
+    await dbConnect()
 
-  if (!products || !products.items || products.items.length === 0)
-    return NextResponse.json({ error: 'Products not found' }, { status: 404 })
+    const { searchParams } = new URL(req.url)
 
-  return NextResponse.json({ items: products.items })
+    const category = searchParams.get('category')
+    const tags = searchParams.getAll('tag')
+    const minPrice = searchParams.get('minPrice')
+    const maxPrice = searchParams.get('maxPrice')
+    const limit = Number(searchParams.get('limit')) || 20
+
+    // Фильтр для match
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const match: any = {}
+
+    if (category) match.category = category
+    if (tags.length > 0) match.tags = { $in: tags }
+
+    if (minPrice || maxPrice) {
+      match.price = {}
+      if (minPrice) match.price.$gte = Number(minPrice)
+      if (maxPrice) match.price.$lte = Number(maxPrice)
+    }
+
+    const products = await Product.aggregate([
+      { $match: match },
+      { $sample: { size: limit } }
+    ])
+
+    return NextResponse.json({ products }, { status: 200 })
+  } catch (error) {
+    console.error('Ошибка при получении товаров:', error)
+    return NextResponse.json({ error: 'Ошибка сервера' }, { status: 500 })
+  }
 }

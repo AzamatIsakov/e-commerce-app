@@ -1,16 +1,3 @@
-import fs from 'fs'
-
-export const getDataFromJSON = (filePath: string) => {
-  try {
-    const data = fs.readFileSync(filePath, 'utf-8')
-    const jsonData = JSON.parse(data)
-
-    return jsonData
-  } catch (error) {
-    console.error('Error reading the JSON file:', error)
-  }
-}
-
 export const fetchProduct = async () => {
   try {
     const res = await fetch(

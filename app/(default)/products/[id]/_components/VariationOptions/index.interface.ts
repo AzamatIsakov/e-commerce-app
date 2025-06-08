@@ -1,6 +1,6 @@
-import { IVariation } from '@/services/Products.dto'
+import { Variation } from '@/types/product'
 
 export interface VariationOptionsProps {
   selected: number
-  variations: IVariation[]
+  variations: Variation[]
 }

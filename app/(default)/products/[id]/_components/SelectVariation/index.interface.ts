@@ -1,7 +1,7 @@
-import { IVariation } from '@/services/Products.dto'
+import { Variation } from '@/types/product'
 
 export interface SelectVariationsProps {
   onSelect: (index: number) => void
   selected: number
-  variations: IVariation[]
+  variations: Variation[]
 }

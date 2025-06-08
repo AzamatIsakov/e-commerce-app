@@ -1,6 +1,6 @@
-import { IFeature } from '@/services/Products.dto'
+import { Feature } from '@/types/product'
 
 export interface SpecificationsProps {
   descriptions: string
-  features: IFeature[]
+  features: Feature[]
 }

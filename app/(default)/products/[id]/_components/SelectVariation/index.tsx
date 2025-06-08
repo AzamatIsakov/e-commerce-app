@@ -14,7 +14,7 @@ export const SelectVariation = ({
   <Carousel opts={{ align: 'start' }}>
     <CarouselContent>
       {variations.map((variation, index) => (
-        <CarouselItem className="grow basis-auto" key={index}>
+        <CarouselItem className="basis-auto" key={index}>
           <button
             key={variation.id}
             onClick={() => onSelect(index)}

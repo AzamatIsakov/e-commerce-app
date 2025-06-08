@@ -1,18 +1,10 @@
-export interface IPrice {
-  min: number
-  max: number
-}
-
-export interface IImage {
-  id: string
-  link: string
-}
+import { Image, Price } from '@/types/product'
 
 export interface ProductCardProps {
   id: string | number
-  images: IImage[]
+  images: Image[]
   title: string
-  price: IPrice
+  price: Price
   rating: number
   discountInfo: number | null
   stock: number

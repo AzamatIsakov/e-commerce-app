@@ -12,7 +12,7 @@ export const Products = (props?: ProductsProps) => {
     queryFn: getAllProducts,
     initialData: props,
     refetchOnWindowFocus: false,
-    staleTime: 1000 * 60 * 5, // 5 минут: данные считаются "свежими"
+    staleTime: 1000 * 60 * 10, // 10 минут: данные считаются "свежими"
     gcTime: 1000 * 60 * 30 // 30 минут: хранятся в памяти даже после unmount
   })
 
@@ -26,7 +26,7 @@ export const Products = (props?: ProductsProps) => {
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:gap-5 lg:grid-cols-4 xl:grid-cols-5">
         {data.products?.map((product, index) => (
           <ProductCard
-            id={product.id}
+            id={product._id.toString()}
             rating={product.rating}
             key={index}
             images={product.photos}

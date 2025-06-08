@@ -1,33 +1,8 @@
-import mongoose, { Schema, Document, Model } from 'mongoose'
-
-interface Photo {
-  id: string
-  link: string
-}
-
-interface Tag {
-  name: string
-  displayName: string
-}
-
-interface Feature {
-  name: string
-  value: string
-}
-
-interface Option {
-  name: string
-  value: string
-}
-
-interface Variation {
-  id: string
-  price: number
-  stock: number
-  options: Option[]
-}
+import { Feature, Option, Photo, Tag, Variation } from '@/types/product'
+import mongoose, { Schema, Document, Model, ObjectId } from 'mongoose'
 
 export interface Product extends Document {
+  _id: ObjectId
   id: string
   title: string
   price: {

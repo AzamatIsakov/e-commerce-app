@@ -1,14 +1,14 @@
-export const dynamic = 'force-dynamic'
-
 import dbConnect from '@/lib/dbConnect'
 import Product from '@/models/Product'
 import { NextRequest, NextResponse } from 'next/server'
 
 export async function GET(req: NextRequest) {
   try {
+    const request = req.clone()
+
     await dbConnect()
 
-    const { searchParams } = new URL(req.url)
+    const { searchParams } = new URL(request.url)
 
     const category = searchParams.get('category')
     const tags = searchParams.getAll('tag')

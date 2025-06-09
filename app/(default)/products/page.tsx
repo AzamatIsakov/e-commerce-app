@@ -9,6 +9,10 @@ import {
   getAllProducts,
   getRecommendedProducts
 } from '@/services/Products.service'
+import { UserTag, UserType } from '@/types/user'
+import dbConnect from '@/lib/dbConnect'
+import { User } from '@/models/User'
+import { cookies } from 'next/headers'
 
 const ProductsPage = async () => {
   console.log('Products Page')
@@ -17,9 +21,22 @@ const ProductsPage = async () => {
 
   const data = await getAllProducts({ limit: 30 })
 
-  const recomended = await (session?.user && session.user.tags?.length
-    ? getRecommendedProducts(20)
-    : getAllProducts({ limit: 15 }))
+  const cookieHeader = cookies().toString()
+
+  let userTags: UserTag[] = []
+
+  if (session?.user?.id) {
+    await dbConnect()
+    const fullUser = await User.findById(session.user.id)
+      .select('tags')
+      .lean<UserType>()
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    userTags = fullUser?.tags || []
+  }
+
+  const recommended = userTags.length
+    ? await getRecommendedProducts(40, cookieHeader)
+    : await getAllProducts()
 
   return (
     <div className="container">
@@ -31,7 +48,7 @@ const ProductsPage = async () => {
           Рекомендованные товары
         </h2>
         <Suspense fallback={<ProductCardSkeleton />}>
-          <Products products={recomended.products} />
+          <Products products={recommended.products} />
         </Suspense>
       </div>
       <div className="my-10">

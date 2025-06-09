@@ -10,8 +10,9 @@ import {
 } from '@/services/Products.service'
 import { Products } from '@/shared'
 import { UserTag, UserType } from '@/types/user'
-import { Flame } from 'lucide-react'
+import { ChevronRight, Flame } from 'lucide-react'
 import { cookies } from 'next/headers'
+import Link from 'next/link'
 import { Suspense } from 'react'
 
 const Home = async () => {
@@ -40,7 +41,15 @@ const Home = async () => {
 
   return (
     <div className="container">
-      <h2 className="title my-8">Популярные категории</h2>
+      <h2 className="title my-8 flex w-full flex-col items-center justify-between gap-2 md:flex-row">
+        <span>Популярные категории</span>
+        <Link
+          className="text-base font-normal transition-all hover:text-red"
+          href="/products"
+        >
+          Посмотреть больше <ChevronRight className="inline-block size-5" />
+        </Link>
+      </h2>
       <Suspense fallback={<CategoriesSkeleton />}>
         <CategoriesGrid />
       </Suspense>
@@ -51,11 +60,19 @@ const Home = async () => {
         </Suspense>
       </div>
       <div className="my-10">
-        <h2 className="title mb-8 mt-16">
-          <span className="mr-2 inline-block rounded-lg bg-gray-300 p-2 align-middle">
-            <Flame fill="#f97316" />
+        <h2 className="title mb-8 mt-16 flex w-full flex-col items-center justify-between gap-2 md:flex-row">
+          <span>
+            <span className="mr-2 inline-block rounded-lg bg-gray-300 p-2 align-middle">
+              <Flame fill="#f97316" />
+            </span>
+            <span>Рекомендованные вам товары</span>
           </span>
-          Рекомендованные вам товары
+          <Link
+            className="text-base font-normal transition-all hover:text-red"
+            href="/products"
+          >
+            Посмотреть больше <ChevronRight className="inline-block size-5" />
+          </Link>
         </h2>
         <Suspense fallback={<ProductCardSkeleton />}>
           <Products products={recommended.products} />

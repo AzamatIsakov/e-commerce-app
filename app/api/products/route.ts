@@ -14,13 +14,16 @@ export async function GET(req: NextRequest) {
     const tags = searchParams.getAll('tag')
     const minPrice = searchParams.get('minPrice')
     const maxPrice = searchParams.get('maxPrice')
+    const rating = searchParams.get('rating')
     const limit = Number(searchParams.get('limit')) || 20
 
     // Фильтр для match
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const match: any = {}
 
-    if (category) match.category = category
+    if (rating) match.rating = Number(rating)
+
+    if (category) match.categories = { $in: [category] }
     if (tags.length > 0) match.tags = { $in: tags }
 
     if (minPrice || maxPrice) {

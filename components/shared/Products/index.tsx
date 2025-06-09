@@ -23,7 +23,7 @@ export const Products = (props?: ProductsProps) => (
 
   // if (isSuccess)
   <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:gap-5 lg:grid-cols-4 xl:grid-cols-5">
-    {props?.products.map((product, index) => (
+    {props?.products?.map((product, index) => (
       <ProductCard
         id={product._id.toString()}
         rating={product.rating}

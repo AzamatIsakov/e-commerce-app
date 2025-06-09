@@ -13,9 +13,13 @@ import {
   VariationOptions
 } from './_components'
 import { Product } from '@/models/Product'
+import { updateUserTags } from '@/services/User.service'
+import { useSession } from 'next-auth/react'
 
 const SingleProductPage = ({ params }: { params: { id: string } }) => {
   const id = params.id
+
+  const session = useSession()
 
   const [product, setProduct] = useState<Product | null>(null)
 
@@ -48,6 +52,17 @@ const SingleProductPage = ({ params }: { params: { id: string } }) => {
 
     if (id) fetchProduct()
   }, [id])
+
+  useEffect(() => {
+    if (product && product?.tags?.length > 0 && session.data?.user)
+      updateUserTags(
+        product.tags.map((tag) => ({
+          name: tag.name,
+          displayName: tag.displayName,
+          category: product.categories[2]
+        }))
+      )
+  }, [product, session.data?.user])
 
   if (!product) return null
 

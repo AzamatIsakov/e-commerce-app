@@ -1,4 +1,3 @@
-// auth.ts
 import NextAuth from 'next-auth'
 import { authConfig } from './auth.config'
 
@@ -21,7 +20,7 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
         await User.create({
           email: user.email,
           name: user.name,
-          image: user.image,
+          avatar: user.image,
           provider: account?.provider
         })
 
@@ -42,10 +41,10 @@ export const { handlers, signIn, signOut, auth } = NextAuth({
             email: dbUser.email,
             avatar: dbUser.avatar,
             role: dbUser.role,
-            provider: dbUser.provider,
-            favorites: dbUser.favorites,
-            cart: dbUser.cart,
-            tags: dbUser.tags
+            provider: dbUser.provider
+            // favorites: dbUser.favorites,
+            // cart: dbUser.cart
+            // tags: dbUser.tags
           }
       }
 

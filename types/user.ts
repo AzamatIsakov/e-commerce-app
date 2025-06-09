@@ -3,9 +3,10 @@ export interface CartType {
   quantity: number
 }
 
-export interface TagType {
+export interface UserTag {
   name: string
   displayName: string
+  category: string
 }
 
 export interface UserType {
@@ -17,5 +18,5 @@ export interface UserType {
   provider: 'credentials' | 'google' | 'yandex'
   favorites: string[]
   cart: CartType[]
-  tags: TagType[]
+  tags: UserTag[]
 }

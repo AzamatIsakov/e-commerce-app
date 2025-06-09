@@ -26,7 +26,7 @@ const ProfilePage: React.FC = async () => {
             <UserInfo
               fullName={user?.name ?? ''}
               email={user?.email ?? ''}
-              avatar={user?.image ?? ''}
+              avatar={user?.avatar ?? ''}
             />
           </div>
           {/* Правая колонка с основным контентом */}

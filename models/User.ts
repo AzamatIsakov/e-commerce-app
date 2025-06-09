@@ -15,7 +15,7 @@ const userSchema = new Schema<UserType>(
     },
     favorites: [{ type: String }], // ID товаров
     cart: [{ productId: String, quantity: Number }],
-    tags: [{ name: String, displayName: String }]
+    tags: [{ name: String, displayName: String, category: String }]
   },
   { timestamps: true }
 )

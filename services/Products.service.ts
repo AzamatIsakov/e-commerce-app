@@ -9,7 +9,7 @@ export const getAllProducts = async (
     const query = new URLSearchParams()
 
     if (params.category) query.append('category', params.category)
-    if (params.tags) params.tags.forEach((tag) => query.append('tag', tag))
+    if (params.tags) params.tags.forEach((tag) => query.append('tag', tag.name))
     if (params.minPrice !== undefined)
       query.append('minPrice', String(params.minPrice))
     if (params.maxPrice !== undefined)
@@ -38,7 +38,8 @@ export const getAllProducts = async (
 //! ==================================================
 
 export const getRecommendedProducts = async (
-  limit: number
+  limit: number,
+  cookieHeader?: string
 ): Promise<ProductDTO> => {
   try {
     const baseUrl = process.env.NEXT_PUBLIC_BASE_URL
@@ -46,7 +47,9 @@ export const getRecommendedProducts = async (
     const response = await fetch(
       `${baseUrl}/api/products/recommended?limit=${limit}`,
       {
-        next: { revalidate: 1000 * 60 * 5 } // кэш 5 минут
+        next: { revalidate: 1000 * 60 * 5 }, // кэш 5 минут
+        headers: cookieHeader ? { cookie: cookieHeader } : {},
+        cache: 'no-store'
       }
     )
 

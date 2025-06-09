@@ -1,12 +1,14 @@
 import { auth } from '@/auth'
 import dbConnect from '@/lib/dbConnect'
 import Product from '@/models/Product'
-import { Tag } from '@/types/product'
+import { User } from '@/models/User'
+import { UserType } from '@/types/user'
+import { getUniqueValues } from '@/utilities'
 import { NextRequest, NextResponse } from 'next/server'
 
 declare module 'next-auth' {
   interface User {
-    tags?: Tag[]
+    avatar: string
   }
 }
 
@@ -24,7 +26,13 @@ export const GET = async (req: NextRequest) => {
     const { searchParams } = new URL(request.url)
     const limit = Number(searchParams.get('limit')) || 20
 
-    const userTags = session.user.tags as { name: string }[]
+    const fullUser = await User.findById(session.user.id)
+      .select('tags')
+      .lean<UserType>()
+
+    const userTags = fullUser?.tags || []
+
+    // const userTags = session.user.tags as string[]
 
     // if (!userTags || userTags.length === 0) {
     //   const fallbackProducts = await Product.aggregate([
@@ -33,10 +41,15 @@ export const GET = async (req: NextRequest) => {
     //   return NextResponse.json({ products: fallbackProducts }, { status: 200 })
     // }
 
-    const tagNames = userTags.map((tag) => tag.name)
+    const tags = userTags.map((userTag) => userTag.name)
+    const categories = getUniqueValues(
+      userTags.map((userTag) => userTag.category)
+    )
 
     const matchedProducts = await Product.aggregate([
-      { $match: { tags: { $in: tagNames } } },
+      {
+        $match: { 'tags.name': { $in: tags }, categories: { $in: categories } }
+      },
       { $sample: { size: limit } }
     ])
 

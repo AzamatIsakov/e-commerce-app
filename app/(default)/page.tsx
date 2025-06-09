@@ -2,12 +2,16 @@ import { auth } from '@/auth'
 import { CategoriesGrid } from '@/components/shared/CategoriesGrid'
 import { ProductCardSkeleton } from '@/components/shared/Skeleton'
 import { CategoriesSkeleton } from '@/components/shared/Skeleton/CategoriesSkeleton'
+import dbConnect from '@/lib/dbConnect'
+import { User } from '@/models/User'
 import {
   getAllProducts,
   getRecommendedProducts
 } from '@/services/Products.service'
 import { Products } from '@/shared'
+import { UserTag, UserType } from '@/types/user'
 import { Flame } from 'lucide-react'
+import { cookies } from 'next/headers'
 import { Suspense } from 'react'
 
 const Home = async () => {
@@ -17,9 +21,22 @@ const Home = async () => {
 
   const data = await getAllProducts({ rating: 5 })
 
-  const recomended = await (session?.user && session.user.tags?.length
-    ? getRecommendedProducts(20)
-    : getAllProducts())
+  const cookieHeader = cookies().toString()
+
+  let userTags: UserTag[] = []
+
+  if (session?.user?.id) {
+    await dbConnect()
+    const fullUser = await User.findById(session.user.id)
+      .select('tags')
+      .lean<UserType>()
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
+    userTags = fullUser?.tags || []
+  }
+
+  const recommended = userTags.length
+    ? await getRecommendedProducts(20, cookieHeader)
+    : await getAllProducts()
 
   return (
     <div className="container">
@@ -41,7 +58,7 @@ const Home = async () => {
           Рекомендованные вам товары
         </h2>
         <Suspense fallback={<ProductCardSkeleton />}>
-          <Products products={recomended.products} />
+          <Products products={recommended.products} />
         </Suspense>
       </div>
     </div>

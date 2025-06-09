@@ -2,7 +2,7 @@ import dbConnect from '@/lib/dbConnect'
 import Product from '@/models/Product'
 import { NextRequest, NextResponse } from 'next/server'
 
-export async function GET(req: NextRequest) {
+export const GET = async (req: NextRequest) => {
   try {
     const request = req.clone()
 

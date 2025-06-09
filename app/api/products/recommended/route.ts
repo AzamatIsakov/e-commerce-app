@@ -4,7 +4,6 @@ import Product from '@/models/Product'
 import { Tag } from '@/types/product'
 import { NextRequest, NextResponse } from 'next/server'
 
-// Extend the User type to include 'tags'
 declare module 'next-auth' {
   interface User {
     tags?: Tag[]
